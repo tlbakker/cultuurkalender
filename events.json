@@ -1,18 +1,5 @@
 [
  {
-  "title": "Zeeuws Museum: DARN too",
-  "start": "2026-02-14",
-  "end": "2027-09-26",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Middelburg",
-  "venue": "Zeeuws Museum",
-  "url": "https://www.zeeuwsmuseum.nl/nl/tentoonstellingen/darn-too",
-  "description": "Modetentoonstelling in het Zeeuws Museum.",
-  "confidence": "confirmed"
- },
- {
   "title": "Rijksmuseum: WORN – gekoesterde kleding",
   "start": "2026-03-27",
   "end": "2027-03-21",
@@ -39,58 +26,6 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Kunstmuseum Den Haag: Base Line",
-  "start": "2026-04-25",
-  "end": "2027-02-14",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Den Haag",
-  "venue": "Kunstmuseum Den Haag",
-  "url": "https://www.kunstmuseum.nl/nl/tentoonstellingen",
-  "description": "Tijdelijke tentoonstelling in het Kunstmuseum Den Haag.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Stedelijk Museum: Kho Liang Ie – Mid-Century Modernist",
-  "start": "2026-05-14",
-  "end": "2026-10-18",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Stedelijk Museum",
-  "url": "https://stedelijk.nl/en/exhibitions/kho-liang-ie-2",
-  "description": "Overzicht van het werk van interieurarchitect en ontwerper Kho Liang Ie.",
-  "confidence": "confirmed"
- },
- {
-  "title": "H'ART Museum: Het Land van Hagelslag. Samen bouwen aan een nieuwe wereld",
-  "start": "2026-05-22",
-  "end": "2026-11-08",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "H'ART Museum",
-  "url": "https://www.hartmuseum.nl/en/exhibitions/",
-  "description": "Tentoonstelling over Nederlands-Amerikaanse banden waarin bezoekers samen bouwen aan een nieuwe wereld.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Fries Museum: Robert Zandvliet: Aan de oevers van de tijd",
-  "start": "2026-05-23",
-  "end": "2027-03-21",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Leeuwarden",
-  "venue": "Fries Museum",
-  "url": "https://www.friesmuseum.nl/te-zien-en-te-doen/tentoonstellingen/robert-zandvliet",
-  "description": "Retrospectief van dertig jaar werk van Robert Zandvliet.",
-  "confidence": "confirmed"
- },
- {
   "title": "Kröller-Müller Museum: Gilbert & George. Drifters",
   "start": "2026-05-30",
   "end": "2027-01-17",
@@ -102,58 +37,6 @@
   "url": "https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/gilbert-and-george-drifters",
   "description": "Tentoonstelling van het Britse kunstenaarsduo Gilbert & George.",
   "confidence": "confirmed"
- },
- {
-  "title": "Escher in het Paleis: Escher & Islamic Art: 20 Perspectives",
-  "start": "2026-06-10",
-  "end": "2026-11-01",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Den Haag",
-  "venue": "Escher in het Paleis",
-  "url": "https://www.escherinhetpaleis.nl/tentoonstellingen/",
-  "description": "Escher in dialoog met islamitische kunst en geometrische patronen.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Huis Marseille: Martine Gutierrez – Wunderkind",
-  "start": "2026-06-27",
-  "end": "2026-10-18",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Huis Marseille",
-  "url": "https://www.huismarseille.nl/tentoonstellingen/",
-  "description": "Fotografische zelfportretten en enscenering van kunstenaar Martine Gutierrez.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Singer Laren: Carlijn Kingma. De machinerie van de volkshuisvesting",
-  "start": "2026-06-30",
-  "end": "2027-01-04",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Laren",
-  "venue": "Singer Laren",
-  "url": "https://www.museum.nl/nl/singer-laren/tentoonstelling/carlijn-kingma-de-machinerie-van-de-volkshuisvesting",
-  "description": "Kingma's gedetailleerde tekening van de woningmarkt voor het eerst in een museum.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Nxt Museum: Tales of Two – YONK",
-  "start": "2026-07-03",
-  "end": "2027-06-30",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Nxt Museum",
-  "url": "https://nxtmuseum.com/",
-  "description": "Immersieve digitale kunsttentoonstelling van het collectief YONK (einddatum geschat).",
-  "confidence": "estimated"
  },
  {
   "title": "Kunstmuseum Den Haag: Reflections on Fashion",
@@ -179,58 +62,6 @@
   "venue": "De Nieuwe Kerk",
   "url": "https://www.nieuwekerk.nl/tentoonstellingen/",
   "description": "Tentoonstelling over de queer geschiedenis en cultuur van Amsterdam.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Portugese Synagoge: Snogeiros – Mensen van de Snoge",
-  "start": "2026-07-10",
-  "end": "2026-11-08",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Portugese Synagoge (Joods Cultureel Kwartier)",
-  "url": "https://jck.nl/agenda/snogeiros-mensen-van-de-snoge",
-  "description": "Fotoportretten van Marte Visser van de Portugees-Israëlitische gemeenschap rond de Snoge.",
-  "confidence": "estimated"
- },
- {
-  "title": "Centraal Museum: Godenschemering – Frans Franciscus",
-  "start": "2026-07-11",
-  "end": "2026-11-22",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Utrecht",
-  "venue": "Centraal Museum",
-  "url": "https://www.centraalmuseum.nl/programma",
-  "description": "Tentoonstelling van schilder Frans Franciscus.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Amsterdam Museum: Samangat! Molukkers in Amsterdam",
-  "start": "2026-07-30",
-  "end": "2026-10-21",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Amsterdam Museum (Kop van Java)",
-  "url": "https://www.amsterdammuseum.nl/tentoonstellingen",
-  "description": "Tentoonstelling over de geschiedenis en verhalen van Molukse Amsterdammers.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Fries Museum: Redbad: de legendarische koning",
-  "start": "2026-09-05",
-  "end": "2027-02-07",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Leeuwarden",
-  "venue": "Fries Museum",
-  "url": "https://www.friesmuseum.nl/te-zien-en-te-doen/tentoonstellingen/redbad",
-  "description": "Tentoonstelling over de legendarische Friese koning Redbad.",
   "confidence": "confirmed"
  },
  {
@@ -273,19 +104,6 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Foam: Hailun Ma – Hometown",
-  "start": "2026-09-18",
-  "end": "2027-01-20",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Foam",
-  "url": "https://www.foam.org/press/hailun-ma-hometown",
-  "description": "Eerste museale solotentoonstelling buiten China van Hailun Ma, met kleurrijke foto's van het dagelijks leven in Xinjiang.",
-  "confidence": "confirmed"
- },
- {
   "title": "Foam: Nadav Kander – The Edge of Things",
   "start": "2026-09-18",
   "end": "2027-01-31",
@@ -312,19 +130,6 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Groninger Museum: Playing House. Een kunstbiënnale met kinderen en jongeren",
-  "start": "2026-09-19",
-  "end": "2027-01-10",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Groningen",
-  "venue": "Groninger Museum",
-  "url": "https://www.groningermuseum.nl/nl-NL/playing-house",
-  "description": "Kunstbiënnale gemaakt met kinderen en jongeren.",
-  "confidence": "confirmed"
- },
- {
   "title": "Groninger Museum: The Architect & the Housewife",
   "start": "2026-09-19",
   "end": "2027-05-09",
@@ -335,32 +140,6 @@
   "venue": "Groninger Museum",
   "url": "https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife",
   "description": "Internationale groepstentoonstelling over huishoudelijk werk, zorg en kunstenaarschap.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Kunstmuseum Den Haag: Tentoon Gesteld",
-  "start": "2026-09-19",
-  "end": "2027-05-23",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Den Haag",
-  "venue": "Kunstmuseum Den Haag",
-  "url": "https://www.kunstmuseum.nl/nl/tentoonstellingen",
-  "description": "Tentoonstelling in het kader van 160 jaar collectie van het Kunstmuseum.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Rembrandthuis: Experimenteerdrift",
-  "start": "2026-09-19",
-  "end": "2027-01-03",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Museum Het Rembrandthuis",
-  "url": "https://www.rembrandthuis.nl/nl/over-ons/pers/programma",
-  "description": "Ruim 80 werken op papier van Rembrandt tot Glenn Brown over vrij experimenteren met technieken en materialen.",
   "confidence": "confirmed"
  },
  {
@@ -377,29 +156,16 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Joods Museum: Abracadabra",
-  "start": "2026-09-25",
-  "end": "2027-03-29",
+  "title": "Out of the stillness – NDT 1",
+  "start": "2026-09-24",
+  "end": "2026-12-19",
   "genres": [
-   "expositie"
+   "dans"
   ],
-  "city": "Amsterdam",
-  "venue": "Joods Museum",
-  "url": "https://jck.nl/agenda/abracadabra",
-  "description": "Familietentoonstelling over de geschiedenis van goochelen en de rol van Joodse illusionisten zoals Houdini.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Kunsthal Rotterdam: A Chair and You",
-  "start": "2026-09-25",
-  "end": "2027-01-31",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Rotterdam",
-  "venue": "Kunsthal Rotterdam",
-  "url": "https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/",
-  "description": "Designtentoonstelling rond de stoel.",
+  "city": "Den Haag",
+  "venue": "Amare + tournee (o.a. Stadsschouwburg Amsterdam, Rotterdam)",
+  "url": "https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/",
+  "description": "NDT 1 met wereldpremière Tunnel Vision van Hofesh Shechter en The missing door van Gabriela Carrizo.",
   "confidence": "confirmed"
  },
  {
@@ -413,19 +179,6 @@
   "venue": "Kröller-Müller Museum",
   "url": "https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bart-van-der-leck-charley-toorop",
   "description": "Dubbelpresentatie van Bart van der Leck en Charley Toorop.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Museum De Lakenhal: Tuin der lusten – De zeventiende eeuw in bloei",
-  "start": "2026-09-26",
-  "end": "2027-03-29",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Leiden",
-  "venue": "Museum De Lakenhal",
-  "url": "https://www.lakenhal.nl/nl/verhaal/tuin-der-lusten",
-  "description": "Tentoonstelling over tuinen en bloemen in de zeventiende eeuw.",
   "confidence": "confirmed"
  },
  {
@@ -455,19 +208,6 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Teylers Museum: Zeker weten? Hoe wetenschap werkt",
-  "start": "2026-10-02",
-  "end": "2027-08-29",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Haarlem",
-  "venue": "Teylers Museum",
-  "url": "https://teylersmuseum.nl/nl/zien-en-doen/zeker-weten",
-  "description": "Interactieve tentoonstelling over de basisprincipes van wetenschappelijk onderzoek.",
-  "confidence": "confirmed"
- },
- {
   "title": "H'ART Museum: Chez Matisse – meesterwerken uit het Centre Pompidou",
   "start": "2026-10-03",
   "end": "2027-02-14",
@@ -481,16 +221,29 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Kunsthal Rotterdam: Plastic Sea, Perfect Storm",
-  "start": "2026-10-03",
-  "end": "2027-03-07",
+  "title": "Cabaret – DeLaMar",
+  "start": "2026-10-07",
+  "end": "2027-01-03",
   "genres": [
-   "expositie"
+   "theater"
   ],
-  "city": "Rotterdam",
-  "venue": "Kunsthal Rotterdam",
-  "url": "https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/",
-  "description": "Tentoonstelling over plastic en de zee.",
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater",
+  "url": "https://delamar.nl/voorstellingen/cabaret/",
+  "description": "Musical Cabaret met Chantal Janzen als Sally Bowles en Milan Sekeris als Emcee; première 17 oktober 2026.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "The Drama – Theater Oostpool",
+  "start": "2026-10-07",
+  "end": "2026-12-12",
+  "genres": [
+   "theater"
+  ],
+  "city": "Arnhem",
+  "venue": "Oostpool (Arnhem) + tournee, o.a. Frascati Amsterdam 22-24 okt",
+  "url": "https://www.oostpool.nl/voorstellingen/the-drama/",
+  "description": "Tragikomedie van Florian Myjer en Marieke de Zwaan over de Nederlandse klassenmaatschappij.",
   "confidence": "confirmed"
  },
  {
@@ -534,19 +287,6 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Rijksmuseum: Document Nederland – Nieuwe Energie",
-  "start": "2026-10-09",
-  "end": "2027-01-17",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Rijksmuseum",
-  "url": "https://www.rijksmuseum.nl/en/press/press-releases/programme/story/programme-2026",
-  "description": "Fotografieopdracht Document Nederland, door Kadir van Lohuizen, over de energietransitie in Nederland.",
-  "confidence": "confirmed"
- },
- {
   "title": "Rijksmuseum: Willem de Kooning at Work",
   "start": "2026-10-09",
   "end": "2027-01-17",
@@ -557,32 +297,6 @@
   "venue": "Rijksmuseum",
   "url": "https://www.rijksmuseum.nl/en/press/press-releases/programme/story/programme-2026",
   "description": "Grote overzichtstentoonstelling van de tekeningen van Willem de Kooning, aangevuld met schilderijen en sculpturen.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Scheepvaartmuseum: Atlantisch Venster IV – Sedrig Verwoert, Strange Fruit 2.0",
-  "start": "2026-10-09",
-  "end": "2027-04-04",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Het Scheepvaartmuseum",
-  "url": "https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/sedrig-verwoert",
-  "description": "Presentatie van choreograaf Sedrig Verwoert over dans in de diaspora, met de dansfilm Strange Fruit 2.0.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Centraal Museum: Graffiti",
-  "start": "2026-10-10",
-  "end": "2027-03-29",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Utrecht",
-  "venue": "Centraal Museum",
-  "url": "https://www.centraalmuseum.nl/tentoonstellingen/graffiti",
-  "description": "Ruim 120 werken van zo'n zeventig kunstenaars over de wisselwerking tussen graffiti en hedendaagse kunst.",
   "confidence": "confirmed"
  },
  {
@@ -600,32 +314,6 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Museum Arnhem: De wereld uitvergroot",
-  "start": "2026-10-10",
-  "end": "2027-04-11",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Arnhem",
-  "venue": "Museum Arnhem",
-  "url": "https://www.museum.nl/nl/museum-arnhem/tentoonstelling/de-wereld-uitvergroot",
-  "description": "Grote installaties en topstukken uit de collectie rond gedeelde menselijkheid.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Scheepvaartmuseum: Stephan Vanfleteren – Transcripts of a Sea",
-  "start": "2026-10-10",
-  "end": "2027-04-04",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Het Scheepvaartmuseum",
-  "url": "https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/stephan-vanfleteren",
-  "description": "Fototentoonstelling van Stephan Vanfleteren over de zee langs de kust van Noord-Frankrijk tot Zuid-Nederland.",
-  "confidence": "confirmed"
- },
- {
   "title": "Stedelijk Museum: Adam Pendleton – Some Wild Kind of Language",
   "start": "2026-10-10",
   "end": "2027-01-17",
@@ -639,11 +327,24 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Voor haar, de Frans Halsema musical – DeLaMar",
+  "start": "2026-10-10",
+  "end": "2027-03-14",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater, Mary Dresselhuys zaal",
+  "url": "https://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/",
+  "description": "Nieuwe musical over het leven en de liedjes van Frans Halsema; première 11 oktober 2026.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Het Zwanenmeer – Het Nationale Ballet",
   "start": "2026-10-15",
   "end": "2026-11-08",
   "genres": [
-   "theater"
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Nationale Opera & Ballet",
@@ -665,16 +366,16 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Amsterdam Museum: Plantage aan de gracht – verhalen van mens en macht",
+  "title": "Cats – Koninklijk Theater Carré",
   "start": "2026-10-16",
-  "end": "2027-04-04",
+  "end": "2026-10-25",
   "genres": [
-   "expositie"
+   "theater"
   ],
   "city": "Amsterdam",
-  "venue": "Huis Willet-Holthuysen (Amsterdam Museum)",
-  "url": "https://www.amsterdammuseum.nl/tentoonstellingen",
-  "description": "Tentoonstelling in Huis Willet-Holthuysen over de banden tussen grachtenpanden en de koloniale plantage-economie.",
+  "venue": "Koninklijk Theater Carré (daarna tournee t/m juni 2027)",
+  "url": "https://www.iamsterdam.com/uit/agenda/voorstellingen/theater-en-podiumkunsten/cats-2026",
+  "description": "Nieuwe Nederlandse productie van Lloyd Webbers Cats, in samenwerking met het Rijksmuseum; première 19 oktober, daarna tournee langs 18 steden.",
   "confidence": "confirmed"
  },
  {
@@ -717,16 +418,43 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Van Abbemuseum: Museum als Zonnewijzer",
+  "title": "Meeuw – Het Nationale Theater",
   "start": "2026-10-17",
-  "end": "2027-02-21",
+  "end": "2026-12-29",
   "genres": [
-   "expositie"
+   "theater"
   ],
-  "city": "Eindhoven",
-  "venue": "Van Abbemuseum",
-  "url": "https://vanabbemuseum.nl/nl/zien-en-doen/tentoonstellingen/museum-als-zonnewijzer",
-  "description": "Kunst, design, archeologie en spel rond de zonnewijzer in de Oudbouw.",
+  "city": "Den Haag",
+  "venue": "Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee",
+  "url": "https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-seizoen-20262027",
+  "description": "Nina Spijkers regisseert Tsjechovs De Meeuw; première 17 oktober in Den Haag, daarna tournee.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Ramblin' Roots 2026",
+  "start": "2026-10-17",
+  "end": "2026-10-17",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Utrecht",
+  "venue": "TivoliVredenburg",
+  "url": "https://www.festivalinfo.nl/festival/35620/Ramblin-Roots/2026/",
+  "description": "Elfde editie van het indoorfestival voor americana, soul, blues, country en roots-rock in alle zalen van TivoliVredenburg.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "De Kopenhagen Trilogie – ITA",
+  "start": "2026-10-18",
+  "end": "2026-12-21",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Stadsschouwburg Amsterdam (ITA), Grote Zaal",
+  "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+  "description": "Eline Arbo bewerkt Tove Ditlevsens Kopenhagen-trilogie; première 20 oktober 2026.",
   "confidence": "confirmed"
  },
  {
@@ -744,42 +472,56 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Foam: Myriam Boulos – A Collective Diary: Sexual Fantasies",
+  "title": "Blast a universe – NDT 2",
+  "start": "2026-10-22",
+  "end": "2026-12-19",
+  "genres": [
+   "dans"
+  ],
+  "city": "Den Haag",
+  "venue": "Amare (première) + tournee",
+  "url": "https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/",
+  "description": "NDT 2 met een wereldpremière van Noé Soulier plus werk van Jiří Kylián en Marco Goecke; première 22 oktober in Amare.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Left of the Dial 2026 – De Doelen e.a.",
+  "start": "2026-10-22",
+  "end": "2026-10-24",
+  "genres": [
+   "pop",
+   "festival"
+  ],
+  "city": "Rotterdam",
+  "venue": "De Doelen en ruim 25 andere locaties",
+  "url": "https://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f",
+  "description": "Showcasefestival voor alternatieve muziek, verspreid over Rotterdamse podia waaronder De Doelen.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Minimal Series 2026-27 – Muziekgebouw aan 't IJ",
+  "start": "2026-10-22",
+  "end": "2027-05-27",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Muziekgebouw aan 't IJ",
+  "url": "https://bachtrack.com/feature-minimalism-radicals-rhythms-dissent-muziekgebouw-october-2026",
+  "description": "Seizoensreeks rond minimal music met o.a. Hoketus 50, Glass 90 (27 jan), Reichs Drumming (11 mrt), een verjaardagsconcert voor Reich, Glass en Adams (4 apr) en Andriessens De Staat (27 mei).",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Romeo en Julia – Theater Oostpool",
   "start": "2026-10-23",
-  "end": "2027-01-20",
+  "end": "2026-12-23",
   "genres": [
-   "expositie"
+   "theater"
   ],
-  "city": "Amsterdam",
-  "venue": "Foam",
-  "url": "https://www.foam.org/events/myriam-boulos",
-  "description": "Eerste museale solo van de Libanese fotograaf Myriam Boulos, winnaar van de Foam Paul Huf Award, over verlangen en macht.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Huis Marseille: Adolphe de Meyer – De essentie van een Venetiaanse droom",
-  "start": "2026-10-24",
-  "end": "2027-02-07",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Huis Marseille",
-  "url": "https://www.huismarseille.nl/tentoonstellingen/",
-  "description": "Tentoonstelling van picturalistisch fotograaf Adolphe de Meyer.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Huis Marseille: Andrzej Steinbach – Hier / Maya Inès Touam – Belongings",
-  "start": "2026-10-24",
-  "end": "2027-02-07",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Huis Marseille",
-  "url": "https://www.huismarseille.nl/tentoonstellingen/",
-  "description": "Twee parallelle fotopresentaties van Andrzej Steinbach en Maya Inès Touam.",
+  "city": "Arnhem",
+  "venue": "Oostpool (Arnhem) + tournee, o.a. HNT Koninklijke Schouwburg Den Haag",
+  "url": "https://www.oostpool.nl/voorstellingen/romeo-en-julia/",
+  "description": "Char Li Chung regisseert Romeo en Julia als liefde als daad van verzet; première 30 oktober.",
   "confidence": "confirmed"
  },
  {
@@ -793,6 +535,19 @@
   "venue": "Kunsthal Rotterdam",
   "url": "https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/",
   "description": "Overzicht van het kleurrijke pointillistische werk van Paul Signac.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Beethoven! – Beethovenjaar in Het Concertgebouw",
+  "start": "2026-10-25",
+  "end": "2027-05-21",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://www.concertgebouw.nl/beethoven",
+  "description": "Seizoensbreed thema rond de 200ste sterfdag van Beethoven, met sonatecycli van Ronald Brautigam, Igor Levit, de Negende door Iván Fischer en 'The Story: Beethoven & Napoleon'.",
   "confidence": "confirmed"
  },
  {
@@ -866,6 +621,20 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Wildlife Film Festival Rotterdam 2026",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "genres": [
+   "festival",
+   "film"
+  ],
+  "city": "Rotterdam",
+  "venue": "Cinerama en LantarenVenster",
+  "url": "https://rotterdamstyle.com/events-calendar/wildlife-film-festival-rotterdam-wffr-location-dates",
+  "description": "Internationaal festival voor natuur- en wildlifefilms met premieres, industry days en de Flamingo Awards.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Le Guess Who? 2026",
   "start": "2026-11-05",
   "end": "2026-11-08",
@@ -877,6 +646,19 @@
   "venue": "TivoliVredenburg e.a.",
   "url": "https://www.festivalinfo.nl/festival/35545/Le-Guess-Who-/2026/",
   "description": "Gecureerd avontuurlijk muziekfestival verspreid over Utrechtse podia (uitverkocht).",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "De uren – ITA",
+  "start": "2026-11-06",
+  "end": "2026-11-22",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Stadsschouwburg Amsterdam (ITA), Rabozaal",
+  "url": "https://ita.nl/nl/voorstellingen/de-uren",
+  "description": "Eline Arbo's toneelbewerking van Michael Cunninghams roman The Hours.",
   "confidence": "confirmed"
  },
  {
@@ -921,19 +703,6 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Bonnefanten: Cooking from the Fridge",
-  "start": "2026-11-11",
-  "end": "2027-09-12",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Maastricht",
-  "venue": "Bonnefanten",
-  "url": "https://www.bonnefanten.nl/en/exhibitions/cooking-from-the-fridge",
-  "description": "270 werken uit de collecties van Het Domein, SCHUNCK en Bonnefanten, gekozen door 27 gastcuratoren.",
-  "confidence": "estimated"
- },
- {
   "title": "IDFA 2026",
   "start": "2026-11-12",
   "end": "2026-11-22",
@@ -945,19 +714,6 @@
   "venue": "Diverse locaties",
   "url": "https://festival.idfa.nl/en/idfa-2026-2/",
   "description": "Het grootste documentairefilmfestival ter wereld.",
-  "confidence": "confirmed"
- },
- {
-  "title": "Rembrandthuis: Rembrandt Open Studio",
-  "start": "2026-11-13",
-  "end": "2027-01-10",
-  "genres": [
-   "expositie"
-  ],
-  "city": "Amsterdam",
-  "venue": "Museum Het Rembrandthuis",
-  "url": "https://www.rembrandthuis.nl/nl/over-ons/pers/programma",
-  "description": "Presentatie waarin het atelier van Rembrandt als open werkplaats centraal staat.",
   "confidence": "confirmed"
  },
  {
@@ -988,6 +744,21 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Amare 5 jaar – jubileumweekend met Residentie Orkest",
+  "start": "2026-11-20",
+  "end": "2026-11-22",
+  "genres": [
+   "dans",
+   "festival",
+   "klassiek"
+  ],
+  "city": "Den Haag",
+  "venue": "Amare",
+  "url": "https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-jubileumweekend-bekend",
+  "description": "Jubileumweekend van Amare, geopend door het Residentie Orkest en Nederlands Dans Theater met wereldpremières in 'Celebrating 5 years Amare'.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "November Music 2026",
   "start": "2026-11-20",
   "end": "2026-11-29",
@@ -999,6 +770,33 @@
   "venue": "Verkadefabriek e.a.",
   "url": "https://www.novembermusic.net",
   "description": "Tiendaags festival voor nieuwe muziek in Den Bosch.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Super-Sonic Jazz Festival 2026",
+  "start": "2026-11-20",
+  "end": "2026-11-22",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Amsterdam",
+  "venue": "Paradiso",
+  "url": "https://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2026/",
+  "description": "Tiende editie van het driedaagse festival voor nieuwe jazz en aanverwante muziek in Paradiso.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Mefisto – Het Nationale Theater",
+  "start": "2026-11-21",
+  "end": "2027-01-08",
+  "genres": [
+   "theater"
+  ],
+  "city": "Den Haag",
+  "venue": "Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee",
+  "url": "https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-seizoen-20262027",
+  "description": "Belle van Heerikhuizen regisseert Mefisto; première 21 november in Den Haag, daarna tournee.",
   "confidence": "confirmed"
  },
  {
@@ -1016,16 +814,30 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Museum De Lakenhal: Marjolein van Haasteren – Tussen zoet en zout",
+  "title": "Charles Burnett-programma Eye 2026",
   "start": "2026-11-26",
-  "end": "2027-02-28",
+  "end": "2026-12-16",
   "genres": [
-   "expositie"
+   "film"
   ],
-  "city": "Leiden",
-  "venue": "Museum De Lakenhal",
-  "url": "https://www.lakenhal.nl/nl/verhaal/marjolein-van-haasteren-tussen-zoet-en-zout",
-  "description": "Presentatie van kunstenaar Marjolein van Haasteren.",
+  "city": "Amsterdam",
+  "venue": "Eye Filmmuseum",
+  "url": "https://assets.eyefilm.nl/downloads/blocks/PBR2026-Jaarpersbericht-2026-NL.pdf",
+  "description": "Filmprogramma rond de Amerikaanse regisseur Charles Burnett met de heruitbreng van Killer of Sheep en diverse restauraties.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Popronde Eindfeest 2026",
+  "start": "2026-11-28",
+  "end": "2026-11-28",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Amsterdam",
+  "venue": "Melkweg",
+  "url": "https://www.festivalinfo.nl/festival/36244/Popronde-Eindfeest/2026/",
+  "description": "Afsluitend feest van de reizende Popronde met een reeks opkomende Nederlandse acts in de Melkweg.",
   "confidence": "confirmed"
  },
  {
@@ -1056,11 +868,37 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Wuthering Heights – ITA",
+  "start": "2026-12-03",
+  "end": "2027-03-07",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Stadsschouwburg Amsterdam (ITA), Grote Zaal (daarna tournee)",
+  "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+  "description": "Nieuwe ITA-productie van Kjersti Horn naar Emily Brontë; première 6 december 2026.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Claudia de Breij – Oudejaarsconference 2026 – Carré",
+  "start": "2026-12-05",
+  "end": "2026-12-31",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Koninklijk Theater Carré",
+  "url": "https://www.cabaretinfo.nl/news/58477/Oudejaarsconference-dit-jaar-voor-de-vierde-keer-verzorgd-door-Claudia-de-Breij/",
+  "description": "Claudia de Breij verzorgt voor de vierde keer de oudejaarsconference, live op NPO 1 op 31 december.",
+  "confidence": "estimated"
+ },
+ {
   "title": "Cinderella – Het Nationale Ballet",
   "start": "2026-12-09",
   "end": "2027-01-02",
   "genres": [
-   "theater"
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Nationale Opera & Ballet",
@@ -1069,16 +907,43 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Rijksmuseum van Oudheden: Echo's van oud Egypte",
-  "start": "2026-12-11",
-  "end": "2027-06-27",
+  "title": "Next to Normal – DeLaMar",
+  "start": "2026-12-09",
+  "end": "2026-12-13",
   "genres": [
-   "expositie"
+   "theater"
   ],
-  "city": "Leiden",
-  "venue": "Rijksmuseum van Oudheden",
-  "url": "https://www.rmo.nl/tentoonstellingen/",
-  "description": "Tentoonstelling over de doorwerking van het oude Egypte.",
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater, Mary Dresselhuys zaal",
+  "url": "https://delamar.nl/voorstellingen/next-to-normal/",
+  "description": "Pulitzerprijs-winnende musical Next to Normal speelt een korte reeks in DeLaMar.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "40e Wereldkerstcircus – Koninklijk Theater Carré",
+  "start": "2026-12-16",
+  "end": "2027-01-03",
+  "genres": [
+   "theater",
+   "festival"
+  ],
+  "city": "Amsterdam",
+  "venue": "Koninklijk Theater Carré",
+  "url": "https://www.dagjeweg.nl/activiteit/37893384/40e-Wereldkerstcircus",
+  "description": "Jubileumeditie van het traditionele Wereldkerstcircus met internationale circusacts.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Feestconcert Nederlands Philharmonisch Orkest",
+  "start": "2026-12-19",
+  "end": "2026-12-21",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_compleet_spreads_2.pdf",
+  "description": "Het jaarlijkse Feestconcert van het Nederlands Philharmonisch Orkest op 19 en 21 december met een verrassingsprogramma.",
   "confidence": "confirmed"
  },
  {
@@ -1092,6 +957,73 @@
   "venue": "Concertgebouw",
   "url": "https://www.concertgebouworkest.nl/nl/agenda/",
   "description": "Traditionele Kerstmatinee met Klaus Mäkelä en Sol Gabetta (Tsjaikovski's Rococo-variaties), live op radio en tv.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Dolf Jansen – Schaamteloos (Oudejaarsconference 2026) – De Kleine Komedie",
+  "start": "2026-12-26",
+  "end": "2026-12-30",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "De Kleine Komedie",
+  "url": "https://dolfjansen.com/schaamteloos/",
+  "description": "Dolf Jansens jaarlijkse oudejaarsvoorstelling speelt eind december in De Kleine Komedie.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Voorheen Nacht van het Absurdisme 2026",
+  "start": "2026-12-30",
+  "end": "2026-12-30",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Amsterdam",
+  "venue": "Paradiso",
+  "url": "https://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absurdisme/2026/",
+  "description": "Opvolger van de Nacht van het Absurdisme met ruim dertig voorstellingen, muziek, literatuur en performance in alle zalen van Paradiso.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Vrouwejaars – De Kleine Komedie",
+  "start": "2026-12-31",
+  "end": "2026-12-31",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "De Kleine Komedie",
+  "url": "https://www.cabaretinfo.nl/cabaret/voorstelling/469262/Vrouwejaars/De-Kleine-Komedie/",
+  "description": "Feministisch alternatief voor de oudejaarsconference met o.a. Katinka Polderman en Kiki Schippers.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "PAN 2027 – Calefax",
+  "start": "2027-01-09",
+  "end": "2027-01-09",
+  "genres": [
+   "klassiek",
+   "festival"
+  ],
+  "city": "Amsterdam",
+  "venue": "Muziekgebouw aan 't IJ",
+  "url": "https://calefax.nl/en/agenda/",
+  "description": "De 21ste editie van 'het kortste festival van Nederland' van rietkwintet Calefax.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Micha Wertheim – voor iedereen – De Kleine Komedie",
+  "start": "2027-01-12",
+  "end": "2027-01-16",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "De Kleine Komedie",
+  "url": "https://www.theater.nl/amsterdam/de-kleine-komedie-amsterdam?date=1",
+  "description": "Micha Wertheim speelt vijf avonden achter elkaar in De Kleine Komedie.",
   "confidence": "confirmed"
  },
  {
@@ -1109,6 +1041,20 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Paradiso Korendagen 2027",
+  "start": "2027-01-16",
+  "end": "2027-01-17",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Amsterdam",
+  "venue": "Paradiso",
+  "url": "https://www.paradiso.nl/programma/paradiso-korendagen-2027---zaterdag/2807453",
+  "description": "Tweedaags korenfestival waarop zo'n 140 amateurkoren van pop en jazz tot renaissance en rock optreden in Paradiso.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Salome (reprise) – De Nationale Opera",
   "start": "2027-01-18",
   "end": "2027-02-06",
@@ -1119,6 +1065,19 @@
   "venue": "Nationale Opera & Ballet",
   "url": "https://www.operaballet.nl/en/program/season-26-27/opera",
   "description": "Herneming van Strauss' Salome op het hoofdtoneel.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Vlieg Met Me Mee – DeLaMar",
+  "start": "2027-01-20",
+  "end": "2027-02-07",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater",
+  "url": "https://delamar.nl/voorstellingen/vlieg-met-me-mee/",
+  "description": "Musical Vlieg Met Me Mee (première 6 dec 2026 in Rotterdam) speelt drie weken in DeLaMar.",
   "confidence": "confirmed"
  },
  {
@@ -1135,16 +1094,29 @@
   "confidence": "confirmed"
  },
  {
-  "title": "Kröller-Müller Museum: Birds of a Feather",
+  "title": "Switch '27 – NDT 1 & NDT 2",
   "start": "2027-01-23",
-  "end": "2027-09-05",
+  "end": "2027-01-23",
   "genres": [
-   "expositie"
+   "dans"
   ],
-  "city": "Otterlo",
-  "venue": "Kröller-Müller Museum",
-  "url": "https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/birds-of-a-feather",
-  "description": "Nieuwe tentoonstelling in 2027.",
+  "city": "Den Haag",
+  "venue": "Amare",
+  "url": "https://www.ndt.nl/nl/bezoek/26-27/switch27/",
+  "description": "Eenmalige avond waarin dansers van NDT 1 en NDT 2 eigen choreografieën tonen.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Millennial II: BROWSER HISTORY X – Theater Oostpool",
+  "start": "2027-01-27",
+  "end": "2027-04-03",
+  "genres": [
+   "theater"
+  ],
+  "city": "Arnhem",
+  "venue": "Oostpool (Arnhem) + tournee",
+  "url": "https://www.oostpool.nl/voorstellingen/browser-history-x/",
+  "description": "Duistere komedie van Hulst & Tarenskeen over schaamte, verlangen en het recht op een verborgen kant.",
   "confidence": "confirmed"
  },
  {
@@ -1175,6 +1147,48 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Nacht van de Viool 2027",
+  "start": "2027-01-29",
+  "end": "2027-01-29",
+  "genres": [
+   "klassiek",
+   "festival"
+  ],
+  "city": "Utrecht",
+  "venue": "TivoliVredenburg",
+  "url": "https://www.festivalinfo.nl/festival/36499/Nacht-van-de-Viool/2027/",
+  "description": "Avondfestival rond de viool in jazz, pop, folk, gypsy en elektronica, afgesloten met een grote mash-up onder leiding van Tim Kliphuis.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "D.U.R.F. 2027",
+  "start": "2027-01-30",
+  "end": "2027-01-30",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Utrecht",
+  "venue": "TivoliVredenburg",
+  "url": "https://www.tivolivredenburg.nl/agenda/22065781/d-u-r-f-30-01-2027",
+  "description": "Dutch Urban Rap Festival in de Ronda met onder meer CHO en Kleine John & Chavanté.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "MidWinter Prog Festival 2027",
+  "start": "2027-01-30",
+  "end": "2027-01-30",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Utrecht",
+  "venue": "TivoliVredenburg",
+  "url": "https://www.tivolivredenburg.nl/agenda/24238612/midwinter-prog-festival-30-01-2027",
+  "description": "Vierde editie van het winterfestival voor progressieve rock in de Grote Zaal, met Haken als headliner.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Orfeo ed Euridice – De Nationale Opera",
   "start": "2027-02-03",
   "end": "2027-02-23",
@@ -1185,6 +1199,32 @@
   "venue": "Nationale Opera & Ballet",
   "url": "https://www.operaballet.nl/en/program/season-26-27/opera",
   "description": "Glucks Orfeo ed Euridice in regie van Ted Huffman.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Der Ring ohne Worte – Nederlands Philharmonisch Orkest & Lorenzo Viotti",
+  "start": "2027-02-04",
+  "end": "2027-02-07",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Utrecht / Amsterdam",
+  "venue": "TivoliVredenburg en Het Concertgebouw",
+  "url": "https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_compleet_spreads_2.pdf",
+  "description": "Viotti dirigeert Wagners orkestrale Ring-samenvatting in TivoliVredenburg (4 feb) en Het Concertgebouw (5 en 7 feb).",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "GONE – NDT 1",
+  "start": "2027-02-11",
+  "end": "2027-03-19",
+  "genres": [
+   "dans"
+  ],
+  "city": "Den Haag",
+  "venue": "Amare (première) + tournee",
+  "url": "https://www.ndt.nl/nl/bezoek/26-27/gone/",
+  "description": "Avondvullende nieuwe creatie van Marcos Morau voor NDT 1; première 11 februari 2027 in Amare.",
   "confidence": "confirmed"
  },
  {
@@ -1218,12 +1258,38 @@
   "start": "2027-02-13",
   "end": "2027-03-02",
   "genres": [
-   "theater"
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Nationale Opera & Ballet",
   "url": "https://www.operaballet.nl/en/program/season-26-27/ballet",
   "description": "Nieuwe avondvullende balletproductie van Jessica Wright en Morgann Runacre-Temple.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Titanique – DeLaMar",
+  "start": "2027-02-24",
+  "end": "2027-03-14",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater, Wim Sonneveld zaal",
+  "url": "https://delamar.nl/voorstellingen/titanique/",
+  "description": "De parodiemusical Titanique met de hits van Céline Dion strijkt neer in DeLaMar.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Richard – ITA",
+  "start": "2027-02-25",
+  "end": "2027-03-13",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Stadsschouwburg Amsterdam (ITA), Rabozaal",
+  "url": "https://ita.nl/nl/voorstellingen/richard",
+  "description": "Alize Zandwijk regisseert een nieuwe bewerking van Shakespeares Richard III; première 28 februari 2027.",
   "confidence": "confirmed"
  },
  {
@@ -1240,6 +1306,33 @@
   "confidence": "confirmed"
  },
  {
+  "title": "New Tide Festival – Amare",
+  "start": "2027-03-05",
+  "end": "2027-03-06",
+  "genres": [
+   "pop",
+   "festival"
+  ],
+  "city": "Den Haag",
+  "venue": "Amare",
+  "url": "https://070online.nl/2026/10/14/amare-van-punkoperette-tot-jazz/",
+  "description": "Tweedaags festival voor vooruitstrevende jazz en nieuwe klanken in Amare.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Belcea Quartet: alle strijkkwartetten van Beethoven",
+  "start": "2027-03-06",
+  "end": "2027-03-13",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw, Kleine Zaal",
+  "url": "https://www.concertgebouw.nl/beethoven",
+  "description": "Het Belcea Quartet speelt in zes concerten (6, 7, 9, 10, 12 en 13 maart) de complete Beethoven-strijkkwartetten inclusief de Grosse Fuge.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Stedelijk Museum: Luc Tuymans – Silent Music",
   "start": "2027-03-06",
   "end": "2027-07-11",
@@ -1250,6 +1343,19 @@
   "venue": "Stedelijk Museum",
   "url": "https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music",
   "description": "Tentoonstelling van de Belgische schilder Luc Tuymans.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Matthäus-Passion in Het Concertgebouw (Leusink en Koopman)",
+  "start": "2027-03-07",
+  "end": "2027-03-27",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://www.music-opera.com/nl/concertgebouw-pays-bas-amsterdam/matth-us-passion-bwv-244-bach-2487957.html",
+  "description": "Passiereeks in de Grote Zaal met The Bach Choir & Orchestra of the Netherlands o.l.v. Pieter Jan Leusink (7, 18, 26, 27 maart) en Ton Koopman met het Amsterdam Baroque Orchestra & Choir (24 maart).",
   "confidence": "confirmed"
  },
  {
@@ -1280,6 +1386,20 @@
   "confidence": "estimated"
  },
  {
+  "title": "Kaboom Animation Festival 2027",
+  "start": "2027-03-12",
+  "end": "2027-03-21",
+  "genres": [
+   "festival",
+   "film"
+  ],
+  "city": "Utrecht en Amsterdam",
+  "venue": "Diverse locaties (o.a. Slachtstraat Filmtheater, Eye, Melkweg)",
+  "url": "https://www.zippyframes.com/festivals/next-festivals/kaboom-animation-festival",
+  "description": "Internationaal animatiefilmfestival met korte en lange animatiefilms, verdeeld over Utrecht en Amsterdam.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "H'ART Museum: Feminine Power (met British Museum)",
   "start": "2027-03-13",
   "end": "2027-08-29",
@@ -1291,6 +1411,19 @@
   "url": "https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART_Museum_2024__2028_bekend_def.pdf",
   "description": "Tentoonstelling met het British Museum over vrouwelijke kracht in religie: godinnen, heksen, heiligen en geesten.",
   "confidence": "estimated"
+ },
+ {
+  "title": "Matthäus-Passion Nederlandse Bachvereniging – tournee",
+  "start": "2027-03-13",
+  "end": "2027-03-23",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam e.a.",
+  "venue": "Muziekgebouw aan 't IJ, SPOT Groningen, De Doelen, TivoliVredenburg, Tilburg, Aardenburg, Muziekgebouw Eindhoven",
+  "url": "https://www.bachvereniging.nl/nl/matthaus-passion-2027",
+  "description": "Voorafgaand aan Naarden toert de Nederlandse Bachvereniging met de Matthäus-Passion langs onder meer Amsterdam (13 maart), Rotterdam, Utrecht en Eindhoven.",
+  "confidence": "confirmed"
  },
  {
   "title": "Opera Forward Festival 2027",
@@ -1334,6 +1467,47 @@
   "confidence": "confirmed"
  },
  {
+  "title": "The Nether – Theater Oostpool",
+  "start": "2027-03-13",
+  "end": "2027-05-14",
+  "genres": [
+   "theater"
+  ],
+  "city": "Arnhem",
+  "venue": "Oostpool (Arnhem) + tournee",
+  "url": "https://www.oostpool.nl/voorstellingen/the-nether/",
+  "description": "Daria Bukvić regisseert de thriller The Nether van Jennifer Haley over een virtuele wereld.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Transition Festival 2027",
+  "start": "2027-03-13",
+  "end": "2027-03-13",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Utrecht",
+  "venue": "TivoliVredenburg",
+  "url": "https://www.tivolivredenburg.nl/agenda/72591723/transition-festival-2027-13-03-2027",
+  "description": "Tiende editie van het festival voor hedendaagse jazz, georganiseerd met North Sea Jazz, verspreid over TivoliVredenburg.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Utrecht Blues Festival 2027",
+  "start": "2027-03-14",
+  "end": "2027-03-14",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Utrecht",
+  "venue": "TivoliVredenburg",
+  "url": "https://www.tivolivredenburg.nl/agenda/16670607/utrecht-blues-festival-2027-14-03-2027",
+  "description": "Vijfde editie van het kleinschalige festival met grotestadsblues, soul en rock-'n-roll in de Grote Zaal.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Roze Filmdagen 2027",
   "start": "2027-03-17",
   "end": "2027-03-28",
@@ -1346,6 +1520,32 @@
   "url": "https://www.iamsterdam.com/uit/agenda/festivals/events/roze-filmdagen",
   "description": "Dertigste editie van het LHBTIQ+-filmfestival van Amsterdam; data onder voorbehoud.",
   "confidence": "estimated"
+ },
+ {
+  "title": "A poem for the world – NDT 2",
+  "start": "2027-03-18",
+  "end": "2027-06-04",
+  "genres": [
+   "dans"
+  ],
+  "city": "Den Haag",
+  "venue": "Amare (première) + tournee",
+  "url": "https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/",
+  "description": "NDT 2 met een wereldpremière van Johan Inger en werk van Crystal Pite en Edward Clug; première 18 maart 2027.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Prophet Song – ITA",
+  "start": "2027-03-18",
+  "end": "2027-04-04",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Stadsschouwburg Amsterdam (ITA), Grote Zaal",
+  "url": "https://ita.nl/nl/voorstellingen/prophet-song",
+  "description": "Mina Salehpour regisseert de eerste toneelbewerking van Paul Lynch' Booker-winnende roman.",
+  "confidence": "confirmed"
  },
  {
   "title": "Unseen 2027",
@@ -1416,19 +1616,73 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Protestfest 2027",
+  "start": "2027-03-20",
+  "end": "2027-03-20",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Amsterdam",
+  "venue": "Paradiso",
+  "url": "https://www.festivalinfo.nl/festival/36502/Protestfest/2027/",
+  "description": "Vijfde editie van Sophie Straats maatschappelijk geengageerde festival met muziek en sprekers in alle zalen van Paradiso, opbrengst naar een goed doel.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Richard III – Het Nationale Theater",
+  "start": "2027-03-20",
+  "end": "2027-06-06",
+  "genres": [
+   "theater"
+  ],
+  "city": "Den Haag",
+  "venue": "Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee",
+  "url": "https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-seizoen-20262027",
+  "description": "Noël Fischer regisseert Shakespeares Richard III; première 20 maart 2027 in Den Haag, daarna tournee.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Matthäus-Passion Nederlandse Bachvereniging in Naarden",
+  "start": "2027-03-21",
+  "end": "2027-03-27",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Naarden",
+  "venue": "Grote Kerk Naarden",
+  "url": "https://www.bachvereniging.nl/nl/matthaus-passion-2027",
+  "description": "De traditionele Naardense Matthäus-Passion van de Nederlandse Bachvereniging onder Lars Ulrik Mortensen, met vijf uitvoeringen in de Grote Kerk (21, 24, 25, 26 en 27 maart).",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Cinedans FEST 2027",
   "start": "2027-03-24",
   "end": "2027-03-28",
   "genres": [
    "festival",
    "film",
-   "theater"
+   "theater",
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Eye Filmmuseum",
   "url": "https://www.festivalfinder.eu/festivals/cinedans-fest-2026",
   "description": "Festival voor dansfilm en screendance; datum geschat naar het patroon van eind maart (2026: 25-29 maart).",
   "confidence": "estimated"
+ },
+ {
+  "title": "The Bodyguard – DeLaMar",
+  "start": "2027-03-24",
+  "end": "2027-08-22",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater, Wim Sonneveld zaal",
+  "url": "https://delamar.nl/voorstellingen/the-bodyguard/",
+  "description": "Nieuwe Nederlandse productie van musical The Bodyguard; première 29 maart 2027, zomerreeks 11-22 augustus.",
+  "confidence": "confirmed"
  },
  {
   "title": "Paaspop 2027",
@@ -1445,11 +1699,24 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Seizoenspresentatie Het Concertgebouw 2027-2028",
+  "start": "2027-03-26",
+  "end": "2027-03-26",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://www.concertgebouw.nl/en/press",
+  "description": "Het Concertgebouw maakt het nieuwe seizoen bekend (vorig jaar op 27 maart), waarna de serieverkoop start.",
+  "confidence": "estimated"
+ },
+ {
   "title": "Metamorphosis – Het Nationale Ballet",
   "start": "2027-03-27",
   "end": "2027-04-04",
   "genres": [
-   "theater"
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Nationale Opera & Ballet",
@@ -1468,6 +1735,19 @@
   "venue": "Stedelijk Museum",
   "url": "https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/",
   "description": "Solotentoonstelling van de Ghanese kunstenaar Ibrahim Mahama, bekend van zijn grootschalige installaties met jutezakken.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Big Pharma – Het Nationale Theater",
+  "start": "2027-04-03",
+  "end": "2027-06-03",
+  "genres": [
+   "theater"
+  ],
+  "city": "Den Haag",
+  "venue": "Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee",
+  "url": "https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-seizoen-20262027",
+  "description": "Nieuwe voorstelling van Eric de Vroedt over de farmaceutische industrie; première 3 april 2027.",
   "confidence": "confirmed"
  },
  {
@@ -1499,6 +1779,47 @@
   "confidence": "estimated"
  },
  {
+  "title": "De Architect – ITA",
+  "start": "2027-04-08",
+  "end": "2027-04-25",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Stadsschouwburg Amsterdam (ITA), Rabozaal",
+  "url": "https://ita.nl/nl/voorstellingen/de-architect",
+  "description": "Rebecca Frecknall maakt een hedendaagse versie van Ibsens Bouwmeester Solness.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Amsterdam Spanish Film Festival 2027",
+  "start": "2027-04-09",
+  "end": "2027-04-18",
+  "genres": [
+   "festival",
+   "film"
+  ],
+  "city": "Amsterdam",
+  "venue": "Eye Filmmuseum en diverse bioscopen",
+  "url": "https://amsterdamspanishfilmfestival.com/",
+  "description": "Festival met nieuwe Spaanstalige films uit Spanje en Latijns-Amerika in Amsterdamse bioscopen.",
+  "confidence": "estimated"
+ },
+ {
+  "title": "High Tea Indoor Festeaval 2027",
+  "start": "2027-04-10",
+  "end": "2027-04-10",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Amsterdam",
+  "venue": "Melkweg",
+  "url": "https://www.melkweg.nl/nl/agenda/high-tea-indoor-festeaval-2027-10-04-2027/",
+  "description": "Derde editie van het drum-and-bass-indoorfestival van High Tea, verspreid over zeven zalen van de Melkweg.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Impressions de Pelléas – DNO / Reisopera",
   "start": "2027-04-10",
   "end": "2027-05-01",
@@ -1509,6 +1830,19 @@
   "venue": "Studio Boekman & tournee",
   "url": "https://www.operaballet.nl/en/program/season-26-27/opera",
   "description": "Kameropera-versie van Debussy's Pelléas et Mélisande, in Amsterdam en op tournee met de Nederlandse Reisopera.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Janine's Beethoven: alle vioolsonates met Denis Kozhukhin",
+  "start": "2027-04-10",
+  "end": "2027-04-13",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://www.concertgebouw.nl/beethoven",
+  "description": "Janine Jansen en Denis Kozhukhin spelen in drie concerten (10, 12 en 13 april) alle tien vioolsonates van Beethoven.",
   "confidence": "confirmed"
  },
  {
@@ -1551,6 +1885,20 @@
   "confidence": "estimated"
  },
  {
+  "title": "Sencity Festival 2027",
+  "start": "2027-04-24",
+  "end": "2027-04-24",
+  "genres": [
+   "festival",
+   "pop"
+  ],
+  "city": "Utrecht",
+  "venue": "TivoliVredenburg",
+  "url": "https://www.tivolivredenburg.nl/agenda/91042061/sencity-festival-2027-10-04-2027",
+  "description": "Multizintuiglijk muziekfestival voor doven, slechthorenden en horenden in de Pandora, verplaatst van 10 naar 24 april.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Koningsdag 2027",
   "start": "2027-04-27",
   "end": "2027-04-27",
@@ -1579,6 +1927,19 @@
   "confidence": "confirmed"
  },
  {
+  "title": "101 Dalmatiërs, de Musical – DeLaMar",
+  "start": "2027-05-06",
+  "end": "2027-05-17",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater",
+  "url": "https://delamar.nl/voorstellingen/101-dalmatiers-de-musical/",
+  "description": "Familiemusical 101 Dalmatiërs (première 1 nov 2026 in Rotterdam) speelt in DeLaMar.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "Norma – De Nationale Opera",
   "start": "2027-05-12",
   "end": "2027-06-06",
@@ -1592,17 +1953,72 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Everywhere is here – NDT 1",
+  "start": "2027-05-13",
+  "end": "2027-06-05",
+  "genres": [
+   "dans"
+  ],
+  "city": "Den Haag",
+  "venue": "Amare (première) + tournee",
+  "url": "https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/",
+  "description": "NDT 1 met een wereldpremière van Marco Goecke en Ties Unseen van Christos Papadopoulos; première 13 mei 2027.",
+  "confidence": "confirmed"
+ },
+ {
   "title": "SPRING Performing Arts Festival 2027",
   "start": "2027-05-13",
   "end": "2027-05-22",
   "genres": [
    "festival",
-   "theater"
+   "theater",
+   "dans"
   ],
   "city": "Utrecht",
   "venue": "Diverse locaties",
   "url": "https://springutrecht.nl/en/press-release-spring-performing-arts-festival-2026-international-theatre-and-dance-performances-in-utrecht/",
   "description": "Internationaal festival voor hedendaags theater en dans in Utrecht.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Prima Facie – ITA",
+  "start": "2027-05-20",
+  "end": "2027-05-30",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Stadsschouwburg Amsterdam (ITA), Rabozaal",
+  "url": "https://ita.nl/nl/voorstellingen/prima-facie",
+  "description": "Reprise van Eline Arbo's succesvolle monoloog Prima Facie van Suzie Miller.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "O. Festival (voorheen Operadagen Rotterdam) 2027",
+  "start": "2027-05-21",
+  "end": "2027-05-30",
+  "genres": [
+   "opera",
+   "festival"
+  ],
+  "city": "Rotterdam",
+  "venue": "Diverse locaties",
+  "url": "https://rotterdamstyle.com/events/o-festival-rotterdam-dates-event-info-line-up",
+  "description": "Tiendaags festival voor opera, muziek en theater in Rotterdam, jaarlijks eind mei (2026: 22-31 mei).",
+  "confidence": "estimated"
+ },
+ {
+  "title": "Oranjewoud Festival 2027",
+  "start": "2027-05-27",
+  "end": "2027-05-30",
+  "genres": [
+   "klassiek",
+   "festival"
+  ],
+  "city": "Oranjewoud (Heerenveen)",
+  "venue": "Landgoederen Oranjewoud",
+  "url": "https://www.oranjewoudfestival.nl/en/",
+  "description": "Vierdaags klassiek muziekfestival op de Friese landgoederen van Oranjewoud.",
   "confidence": "confirmed"
  },
  {
@@ -1613,12 +2029,27 @@
    "festival",
    "theater",
    "opera",
-   "klassiek"
+   "klassiek",
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Diverse locaties",
   "url": "https://www.hollandfestival.nl",
   "description": "Jubileumeditie van het Holland Festival met muziektheater, opera en podiumkunsten; associate artist Ho Tzu Nyen.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Leiden Shorts 2027",
+  "start": "2027-06-03",
+  "end": "2027-06-08",
+  "genres": [
+   "festival",
+   "film"
+  ],
+  "city": "Leiden",
+  "venue": "Kijkhuis",
+  "url": "https://filmfreeway.com/festivals/22584",
+  "description": "Negentiende editie van het internationale kortefilmfestival van Leiden.",
   "confidence": "confirmed"
  },
  {
@@ -1648,6 +2079,20 @@
   "url": "https://www.operaballet.nl/en/program/season-26-27/opera",
   "description": "Nieuwe productie van Berlioz' La damnation de Faust met het Concertgebouworkest o.l.v. Stéphane Denève, seizoensafsluiter van DNO.",
   "confidence": "confirmed"
+ },
+ {
+  "title": "Rotterdam Arab Film Festival 2027",
+  "start": "2027-06-09",
+  "end": "2027-06-13",
+  "genres": [
+   "festival",
+   "film"
+  ],
+  "city": "Rotterdam",
+  "venue": "LantarenVenster",
+  "url": "https://www.lantarenvenster.nl/programma/rotterdam-arab-film-festival-2026/",
+  "description": "Jaarlijks festival met films uit de Arabische wereld en de diaspora, met competitie en randprogramma.",
+  "confidence": "estimated"
  },
  {
   "title": "Best Kept Secret 2027",
@@ -1682,7 +2127,7 @@
   "start": "2027-06-12",
   "end": "2027-06-23",
   "genres": [
-   "theater"
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Nationale Opera & Ballet",
@@ -1705,11 +2150,24 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Hadestown – Koninklijk Theater Carré",
+  "start": "2027-06-25",
+  "end": "2027-08-29",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "Koninklijk Theater Carré",
+  "url": "https://www.musicaljournaal.nl/hadestown-in-2027-terug-in-carre/",
+  "description": "De Tony-winnende musical Hadestown keert de hele zomer van 2027 terug in Carré.",
+  "confidence": "estimated"
+ },
+ {
   "title": "Gala Het Nationale Ballet 2027",
   "start": "2027-06-26",
   "end": "2027-06-26",
   "genres": [
-   "theater"
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "Nationale Opera & Ballet",
@@ -1732,12 +2190,27 @@
   "confidence": "estimated"
  },
  {
+  "title": "VriendenLoterij ZomerConcerten 2027",
+  "start": "2027-06-28",
+  "end": "2027-08-31",
+  "genres": [
+   "klassiek",
+   "festival"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://www.concertgebouw.nl/en/summerconcerts",
+  "description": "De zomerserie (voorheen Robeco SummerNights) met zo'n 80-90 betaalbare concerten in juli en augustus; programma en kaartverkoop vanaf begin maart 2027.",
+  "confidence": "estimated"
+ },
+ {
   "title": "Julidans 2027",
   "start": "2027-07-01",
   "end": "2027-07-13",
   "genres": [
    "festival",
-   "theater"
+   "theater",
+   "dans"
   ],
   "city": "Amsterdam",
   "venue": "ITA, Frascati e.a.",
@@ -1772,6 +2245,19 @@
   "url": "https://www.technoairlines.com/festival/down-the-rabbit-hole-beuningen-netherlands-2027",
   "description": "Driedaags campingfestival met pop, rock en hiphop; data gemeld maar niet officieel bevestigd.",
   "confidence": "estimated"
+ },
+ {
+  "title": "International Conducting Competition Rotterdam 2027 – live selectierondes",
+  "start": "2027-07-02",
+  "end": "2027-07-04",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Rotterdam",
+  "venue": "Rotterdam (met Sinfonia Rotterdam)",
+  "url": "https://theviolinchannel.com/applications-open-to-international-conducting-competition-rotterdam-2027/",
+  "description": "24 jonge dirigenten strijden in de live voorrondes van het internationale dirigentenconcours; de finales volgen in 2028.",
+  "confidence": "confirmed"
  },
  {
   "title": "Over het IJ Festival 2027",
@@ -1813,6 +2299,19 @@
   "venue": "Landgoed Groeneveld",
   "url": "https://www.wonderfeel.nl",
   "description": "Klassiek openluchtfestival met zeven podia op Landgoed Groeneveld.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Dolly Dots de Musical – DeLaMar",
+  "start": "2027-07-14",
+  "end": "2027-07-25",
+  "genres": [
+   "theater"
+  ],
+  "city": "Amsterdam",
+  "venue": "DeLaMar Theater, Wim Sonneveld zaal",
+  "url": "https://delamar.nl/voorstellingen/dolly-dots-de-musical/",
+  "description": "Musical over de Dolly Dots speelt een zomerreeks in DeLaMar.",
   "confidence": "confirmed"
  },
  {
@@ -2027,6 +2526,20 @@
   "confidence": "estimated"
  },
  {
+  "title": "Concertgebouw OPEN 2027",
+  "start": "2027-09-04",
+  "end": "2027-09-04",
+  "genres": [
+   "klassiek",
+   "festival"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://www.concertgebouw.nl/en/press",
+  "description": "Gratis open dag met tientallen miniconcerten in alle zalen als aftrap van het nieuwe concertseizoen.",
+  "confidence": "estimated"
+ },
+ {
   "title": "Seizoensopening De Nationale Opera 2027-2028",
   "start": "2027-09-04",
   "end": "2027-09-04",
@@ -2037,6 +2550,19 @@
   "venue": "Nationale Opera & Ballet",
   "url": "https://www.operaballet.nl",
   "description": "Eerste voorstelling van het nieuwe operaseizoen 2027-2028 (nog niet aangekondigd).",
+  "confidence": "estimated"
+ },
+ {
+  "title": "Seizoensopening Het Concertgebouw 2027-2028",
+  "start": "2027-09-06",
+  "end": "2027-09-06",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw",
+  "url": "https://www.concertgebouw.nl/en/press",
+  "description": "Openingsconcert van het nieuwe Concertgebouwseizoen, traditioneel in de eerste septemberweek met een internationaal gastorkest.",
   "confidence": "estimated"
  },
  {
@@ -2067,6 +2593,19 @@
   "confidence": "estimated"
  },
  {
+  "title": "Seizoensopening Rotterdams Philharmonisch Orkest 2027-2028",
+  "start": "2027-09-10",
+  "end": "2027-09-10",
+  "genres": [
+   "klassiek"
+  ],
+  "city": "Rotterdam",
+  "venue": "De Doelen",
+  "url": "https://www.rotterdamsphilharmonisch.nl/en/agenda",
+  "description": "Het Rotterdams Philharmonisch opent traditioneel medio september zijn nieuwe seizoen in de Grote Zaal van De Doelen.",
+  "confidence": "estimated"
+ },
+ {
   "title": "Mauritshuis: Samuel van Hoogstraten",
   "start": "2027-09-16",
   "end": "2028-01-09",
@@ -2078,6 +2617,34 @@
   "url": "https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen",
   "description": "Overzicht rond de perspectiefkunst van Samuel van Hoogstraten, 400 jaar na zijn geboorte.",
   "confidence": "confirmed"
+ },
+ {
+  "title": "Musica Sacra Maastricht 2027",
+  "start": "2027-09-17",
+  "end": "2027-09-19",
+  "genres": [
+   "klassiek",
+   "festival"
+  ],
+  "city": "Maastricht",
+  "venue": "Theater aan het Vrijthof en kerken",
+  "url": "https://www.theateraanhetvrijthof.nl/en/our-house/musica-sacra-maastricht",
+  "description": "Festival voor sacrale en geestelijke muziek, traditioneel in het derde weekend van september.",
+  "confidence": "estimated"
+ },
+ {
+  "title": "Camera Japan Rotterdam 2027",
+  "start": "2027-09-22",
+  "end": "2027-09-26",
+  "genres": [
+   "festival",
+   "film"
+  ],
+  "city": "Rotterdam",
+  "venue": "LantarenVenster",
+  "url": "https://www.lantarenvenster.nl/?p=178537",
+  "description": "Festival voor Japanse film en cultuur met nieuwe films, anime en randprogramma.",
+  "confidence": "estimated"
  },
  {
   "title": "Nederlands Film Festival 2027",
@@ -2104,6 +2671,20 @@
   "venue": "H'ART Museum",
   "url": "https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART_Museum_2024__2028_bekend_def.pdf",
   "description": "Tentoonstelling over het surrealisme met werk van onder meer De Chirico, Dalí, Ernst, Magritte en Toyen uit het Centre Pompidou.",
+  "confidence": "estimated"
+ },
+ {
+  "title": "Camera Japan Amsterdam 2027",
+  "start": "2027-09-30",
+  "end": "2027-10-03",
+  "genres": [
+   "festival",
+   "film"
+  ],
+  "city": "Amsterdam",
+  "venue": "LAB111",
+  "url": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/camera-japan-festival",
+  "description": "Amsterdamse editie van het festival voor Japanse film en cultuur in LAB111.",
   "confidence": "estimated"
  },
  {

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0295e0a78f4ad179-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:▶ Start: Waiting for the Barbarians – Nederlandse Reisopera
@@ -23,7 +23,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:0295e0a78f4ad179-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:■ Laatste dag: Waiting for the Barbarians – Nederlandse Reisop
@@ -38,7 +38,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:62b8baeee5ebaa53@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261021
 SUMMARY:Cherry Town (Sjostakovitsj) – De Nationale Opera
@@ -52,7 +52,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:cfa530c5b22a0c37-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:▶ Start: Hans en Grietje op de vlucht! – Opera2Day
@@ -66,7 +66,7 @@ URL:https://www.opera2day.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:cfa530c5b22a0c37-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:■ Laatste dag: Hans en Grietje op de vlucht! – Opera2Day
@@ -80,7 +80,7 @@ URL:https://www.opera2day.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:26a9cdcce105df33@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261127
 SUMMARY:Johannes-Passion – Sasha Waltz / García-Alarcón
@@ -95,7 +95,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:1d46f997e6eedf01-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:▶ Start: Uprising – community-opera
@@ -109,7 +109,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:1d46f997e6eedf01-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:■ Laatste dag: Uprising – community-opera
@@ -123,7 +123,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:e5bef1850fde917b@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261205
 SUMMARY:Concertgebouworkest: Der Silbersee & Vuurvogel (Iván Fischer)
@@ -137,7 +137,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:b4c0ac0354c624ae-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:▶ Start: Der fliegende Holländer – De Nationale Opera
@@ -152,7 +152,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:b4c0ac0354c624ae-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:■ Laatste dag: Der fliegende Holländer – De Nationale Opera
@@ -167,7 +167,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:3c8d6880dbb80c82@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270207
 SUMMARY:Salome (reprise) – De Nationale Opera
@@ -181,7 +181,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:a28816e815f0604d-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:▶ Start: Assepoester – Nederlandse Reisopera
@@ -194,7 +194,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:a28816e815f0604d-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:■ Laatste dag: Assepoester – Nederlandse Reisopera
@@ -207,7 +207,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:10d35c473bb1e4aa@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270224
 SUMMARY:Orfeo ed Euridice – De Nationale Opera
@@ -221,7 +221,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:3ea6e39ede7baa36@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270329
 SUMMARY:Opera Forward Festival 2027
@@ -236,7 +236,7 @@ URL:https://www.operaballet.nl/en/opera/dutch-national-opera/off
 END:VEVENT
 BEGIN:VEVENT
 UID:5150ce0413e4ef47@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270329
 SUMMARY:Red Fox (Du Yun / Barrie Kosky) – wereldpremière
@@ -250,7 +250,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1db4d50e030c45-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:▶ Start: Impressions de Pelléas – DNO / Reisopera
@@ -264,7 +264,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1db4d50e030c45-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:■ Laatste dag: Impressions de Pelléas – DNO / Reisopera
@@ -278,7 +278,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:10082ca09050c50d@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270503
 SUMMARY:Iolanta – De Nationale Opera
@@ -292,7 +292,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:8916c1b18534dd8c-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:▶ Start: Norma – De Nationale Opera
@@ -306,7 +306,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:8916c1b18534dd8c-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:■ Laatste dag: Norma – De Nationale Opera
@@ -319,8 +319,25 @@ TRANSP:TRANSPARENT
 URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
+UID:f325d866f90c31f9@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270531
+SUMMARY:O. Festival (voorheen Operadagen Rotterdam) 2027 (datum o.v.)
+DESCRIPTION:Tiendaags festival voor opera\, muziek en theater in Rotterdam
+ \, jaarlijks eind mei (2026: 22-31 mei).\nLet op: datum is een inschatting
+  op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 21 mei 202
+ 7 t/m 30 mei 2027.\nhttps://rotterdamstyle.com/events/o-festival-rotterdam
+ -dates-event-info-line-up
+LOCATION:Diverse locaties\, Rotterdam
+CATEGORIES:Opera,Festivals
+TRANSP:TRANSPARENT
+URL:https://rotterdamstyle.com/events/o-festival-rotterdam-dates-event-inf
+ o-line-up
+END:VEVENT
+BEGIN:VEVENT
 UID:091fc8b0c5bff276-start@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
 SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
@@ -328,13 +345,13 @@ DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
  era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
   t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
 LOCATION:Diverse locaties\, Amsterdam
-CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
 TRANSP:TRANSPARENT
 URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:091fc8b0c5bff276-eind@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
@@ -342,13 +359,13 @@ DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
  era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
   t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
 LOCATION:Diverse locaties\, Amsterdam
-CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
 TRANSP:TRANSPARENT
 URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:37a5520d32c791bd@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270628
 SUMMARY:La damnation de Faust – De Nationale Opera & Concertgebouworkest
@@ -363,7 +380,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:45f39ada012daec8@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:Seizoensopening De Nationale Opera 2027-2028 (datum o.v.)

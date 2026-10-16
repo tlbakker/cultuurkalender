@@ -8,8 +8,22 @@ X-WR-TIMEZONE:Europe/Amsterdam
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:210b47e38312ff06@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Ramblin' Roots 2026
+DESCRIPTION:Elfde editie van het indoorfestival voor americana\, soul\, bl
+ ues\, country en roots-rock in alle zalen van TivoliVredenburg.\nhttps://w
+ ww.festivalinfo.nl/festival/35620/Ramblin-Roots/2026/
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/35620/Ramblin-Roots/2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:94b6d569e3d1f41e@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261026
 SUMMARY:Amsterdam Dance Event 2026
@@ -24,8 +38,22 @@ URL:https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750
  267/
 END:VEVENT
 BEGIN:VEVENT
+UID:2709f51345e82875@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+SUMMARY:Left of the Dial 2026 – De Doelen e.a.
+DESCRIPTION:Showcasefestival voor alternatieve muziek\, verspreid over Rot
+ terdamse podia waaronder De Doelen.\nLooptijd: 22 okt 2026 t/m 24 okt 2026
+ .\nhttps://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
+LOCATION:De Doelen en ruim 25 andere locaties\, Rotterdam
+CATEGORIES:Popmuziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
+END:VEVENT
+BEGIN:VEVENT
 UID:7cbdf67ed020bdd7@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
 SUMMARY:London Calling 2026
@@ -39,7 +67,7 @@ URL:https://www.paradiso.nl/en/program/london-calling/2851999
 END:VEVENT
 BEGIN:VEVENT
 UID:16702e84896bff76@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 SUMMARY:Le Guess Who? 2026
@@ -52,8 +80,53 @@ TRANSP:TRANSPARENT
 URL:https://www.festivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:1323882eabbe5280@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Super-Sonic Jazz Festival 2026
+DESCRIPTION:Tiende editie van het driedaagse festival voor nieuwe jazz en 
+ aanverwante muziek in Paradiso.\nLooptijd: 20 nov 2026 t/m 22 nov 2026.\nh
+ ttps://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2026/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2
+ 026/
+END:VEVENT
+BEGIN:VEVENT
+UID:469bba1fd114d145@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Popronde Eindfeest 2026
+DESCRIPTION:Afsluitend feest van de reizende Popronde met een reeks opkome
+ nde Nederlandse acts in de Melkweg.\nhttps://www.festivalinfo.nl/festival/
+ 36244/Popronde-Eindfeest/2026/
+LOCATION:Melkweg\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36244/Popronde-Eindfeest/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d34f36e2d94d8df@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Voorheen Nacht van het Absurdisme 2026
+DESCRIPTION:Opvolger van de Nacht van het Absurdisme met ruim dertig voors
+ tellingen\, muziek\, literatuur en performance in alle zalen van Paradiso.
+ \nhttps://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absurd
+ isme/2026/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absu
+ rdisme/2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:26e1520c21ea3708@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270117
 SUMMARY:Eurosonic Noorderslag 2027
@@ -68,8 +141,112 @@ URL:https://www.festivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-
  Noorderslag-bekend-gemaakt/
 END:VEVENT
 BEGIN:VEVENT
+UID:594e3ef3682ebdfb@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+SUMMARY:Paradiso Korendagen 2027
+DESCRIPTION:Tweedaags korenfestival waarop zo'n 140 amateurkoren van pop e
+ n jazz tot renaissance en rock optreden in Paradiso.\nLooptijd: 16 jan 202
+ 7 t/m 17 jan 2027.\nhttps://www.paradiso.nl/programma/paradiso-korendagen-
+ 2027---zaterdag/2807453
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/programma/paradiso-korendagen-2027---zaterdag/
+ 2807453
+END:VEVENT
+BEGIN:VEVENT
+UID:d99d86c9dbdf44b5@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:D.U.R.F. 2027
+DESCRIPTION:Dutch Urban Rap Festival in de Ronda met onder meer CHO en Kle
+ ine John & Chavanté.\nhttps://www.tivolivredenburg.nl/agenda/22065781/d-u
+ -r-f-30-01-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/22065781/d-u-r-f-30-01-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:5b50fdbd2f2ddb9f@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:MidWinter Prog Festival 2027
+DESCRIPTION:Vierde editie van het winterfestival voor progressieve rock in
+  de Grote Zaal\, met Haken als headliner.\nhttps://www.tivolivredenburg.nl
+ /agenda/24238612/midwinter-prog-festival-30-01-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/24238612/midwinter-prog-festiva
+ l-30-01-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:710a58d821706472@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+SUMMARY:New Tide Festival – Amare
+DESCRIPTION:Tweedaags festival voor vooruitstrevende jazz en nieuwe klanke
+ n in Amare.\nLooptijd: 5 mrt 2027 t/m 6 mrt 2027.\nhttps://070online.nl/20
+ 26/10/14/amare-van-punkoperette-tot-jazz/
+LOCATION:Amare\, Den Haag
+CATEGORIES:Popmuziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://070online.nl/2026/10/14/amare-van-punkoperette-tot-jazz/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6b303c92ecc43c@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Transition Festival 2027
+DESCRIPTION:Tiende editie van het festival voor hedendaagse jazz\, georgan
+ iseerd met North Sea Jazz\, verspreid over TivoliVredenburg.\nhttps://www.
+ tivolivredenburg.nl/agenda/72591723/transition-festival-2027-13-03-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/72591723/transition-festival-20
+ 27-13-03-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:6d00093a7f89be9a@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Utrecht Blues Festival 2027
+DESCRIPTION:Vijfde editie van het kleinschalige festival met grotestadsblu
+ es\, soul en rock-'n-roll in de Grote Zaal.\nhttps://www.tivolivredenburg.
+ nl/agenda/16670607/utrecht-blues-festival-2027-14-03-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/16670607/utrecht-blues-festival
+ -2027-14-03-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cffc0ab0e5255fe6@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Protestfest 2027
+DESCRIPTION:Vijfde editie van Sophie Straats maatschappelijk geengageerde 
+ festival met muziek en sprekers in alle zalen van Paradiso\, opbrengst naa
+ r een goed doel.\nhttps://www.festivalinfo.nl/festival/36502/Protestfest/2
+ 027/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36502/Protestfest/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:89bee694ce31dddb@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270329
 SUMMARY:Paaspop 2027
@@ -82,8 +259,38 @@ TRANSP:TRANSPARENT
 URL:https://www.festivalinfo.nl/festival/36262/Paaspop-Schijndel/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:64bccfdb69c78756@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:High Tea Indoor Festeaval 2027
+DESCRIPTION:Derde editie van het drum-and-bass-indoorfestival van High Tea
+ \, verspreid over zeven zalen van de Melkweg.\nhttps://www.melkweg.nl/nl/a
+ genda/high-tea-indoor-festeaval-2027-10-04-2027/
+LOCATION:Melkweg\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.melkweg.nl/nl/agenda/high-tea-indoor-festeaval-2027-10-04-
+ 2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:fed4710657faeeb2@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Sencity Festival 2027
+DESCRIPTION:Multizintuiglijk muziekfestival voor doven\, slechthorenden en
+  horenden in de Pandora\, verplaatst van 10 naar 24 april.\nhttps://www.ti
+ volivredenburg.nl/agenda/91042061/sencity-festival-2027-10-04-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/91042061/sencity-festival-2027-
+ 10-04-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:2628c006af950f16@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:Koningsdag 2027
@@ -96,7 +303,7 @@ URL:https://www.iamsterdam.com
 END:VEVENT
 BEGIN:VEVENT
 UID:80ed83bc36b1454d@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:Bevrijdingsfestivals 2027
@@ -109,7 +316,7 @@ URL:https://www.4en5mei.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:aca34a731e75a5e3@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270607
 SUMMARY:Amsterdam Open Air 2027 (datum o.v.)
@@ -126,7 +333,7 @@ URL:https://www.iamexpat.nl/lifestyle/expat-events-festivals/amsterdam-ope
 END:VEVENT
 BEGIN:VEVENT
 UID:c327fe838e8688ea@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270614
 SUMMARY:Best Kept Secret 2027 (datum o.v.)
@@ -142,7 +349,7 @@ URL:https://saily.com/nl/blog/beste-festivals-nederland/
 END:VEVENT
 BEGIN:VEVENT
 UID:53720bdd1a32540b@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Pinkpop 2027
@@ -156,7 +363,7 @@ URL:https://www.festivalinfo.nl/festival/37229/Pinkpop/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:f133e688cf3e7f3a@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:Amsterdam Roots Festival 2027 (datum o.v.)
@@ -172,7 +379,7 @@ URL:https://www.festivalinfo.nl/festival/36269/Amsterdam-Roots-Festival/20
 END:VEVENT
 BEGIN:VEVENT
 UID:10c100acf53dd509@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 SUMMARY:Keti Koti Festival 2027
@@ -187,7 +394,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/keti-koti-festi
 END:VEVENT
 BEGIN:VEVENT
 UID:898ee4adcc2c2cd2@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:Down the Rabbit Hole 2027 (datum o.v.)
@@ -204,7 +411,7 @@ URL:https://www.technoairlines.com/festival/down-the-rabbit-hole-beuningen
 END:VEVENT
 BEGIN:VEVENT
 UID:7fd3f51b32c77af9@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270712
 SUMMARY:North Sea Jazz Festival 2027 (datum o.v.)
@@ -220,7 +427,7 @@ URL:https://www.carnifest.com/north-sea-jazz-festival-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:b98651c704fe30f7@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270725
 SUMMARY:Rotterdam Unlimited 2027 (datum o.v.)
@@ -237,7 +444,7 @@ URL:https://rotterdamstyle.com/events/rotterdam-unlimited-summer-carnival-
 END:VEVENT
 BEGIN:VEVENT
 UID:b963027dcce3485b@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270809
 SUMMARY:Pride Amsterdam 2027 (datum o.v.)
@@ -254,7 +461,7 @@ URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/pride
 END:VEVENT
 BEGIN:VEVENT
 UID:b1b49339b6846e89@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270802
 SUMMARY:Dekmantel Festival 2027 (datum o.v.)
@@ -271,7 +478,7 @@ URL:https://www.technoairlines.com/festival/dekmantel-festival-amsterdam-n
 END:VEVENT
 BEGIN:VEVENT
 UID:95f347b4bd756fb6@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270823
 SUMMARY:Lowlands 2027
@@ -286,7 +493,7 @@ URL:https://www.festivalinfo.nl/news/59232/Organisatie-onthult-datums-voor
 END:VEVENT
 BEGIN:VEVENT
 UID:f3ec0e13f75b1df2@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270830
 SUMMARY:De Opening 2027 (opvolger Uitmarkt) (datum o.v.)
@@ -297,14 +504,14 @@ DESCRIPTION:Landelijke opening van het culturele seizoen die de Amsterdams
  valinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-Opening-met-wisselend
  e-gaststad/
 LOCATION:Nog niet bekend
-CATEGORIES:Festivals,Theater & dans,Klassieke muziek,Popmuziek
+CATEGORIES:Festivals,Theater & musical,Klassieke muziek,Popmuziek
 TRANSP:TRANSPARENT
 URL:https://www.festivalinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-
  Opening-met-wisselende-gaststad/
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e403a44e4e4922@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270906
 SUMMARY:Into the Great Wide Open 2027 (datum o.v.)
@@ -319,7 +526,7 @@ URL:https://intothegreatwideopen.nl/en/praktisch
 END:VEVENT
 BEGIN:VEVENT
 UID:e25b17f38f9be6e0@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271025
 SUMMARY:Amsterdam Dance Event 2027 (datum o.v.)
@@ -334,7 +541,7 @@ URL:https://www.amsterdam-dance-event.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:5f716d63b61bd912@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271031
 SUMMARY:London Calling 2027 (datum o.v.)

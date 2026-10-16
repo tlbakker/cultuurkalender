@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:cf53a683335ff922@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261019
 SUMMARY:Leiden International Film Festival 2026
@@ -23,7 +23,7 @@ URL:https://www.liff.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:3bdf498c0fd293a3@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261026
 SUMMARY:Cinekid Festival 2026
@@ -39,7 +39,7 @@ URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
 END:VEVENT
 BEGIN:VEVENT
 UID:844e028ba02cbdf0@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261102
 SUMMARY:Tapis Rouge Frans Filmfestival 2026
@@ -55,7 +55,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
 END:VEVENT
 BEGIN:VEVENT
 UID:eed13468a8b874b5@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261109
 SUMMARY:Imagine Film Festival 2026
@@ -68,8 +68,24 @@ TRANSP:TRANSPARENT
 URL:https://www.imaginefilmfestival.nl/en/category/articles/
 END:VEVENT
 BEGIN:VEVENT
+UID:af357a15e1b75ac9@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+SUMMARY:Wildlife Film Festival Rotterdam 2026
+DESCRIPTION:Internationaal festival voor natuur- en wildlifefilms met prem
+ ieres\, industry days en de Flamingo Awards.\nLooptijd: 2 nov 2026 t/m 8 n
+ ov 2026.\nhttps://rotterdamstyle.com/events-calendar/wildlife-film-festiva
+ l-rotterdam-wffr-location-dates
+LOCATION:Cinerama en LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://rotterdamstyle.com/events-calendar/wildlife-film-festival-rott
+ erdam-wffr-location-dates
+END:VEVENT
+BEGIN:VEVENT
 UID:0c582be104e3736a@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261123
 SUMMARY:IDFA 2026
@@ -81,8 +97,24 @@ TRANSP:TRANSPARENT
 URL:https://festival.idfa.nl/en/idfa-2026-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:122a76a2bde73bef@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261217
+SUMMARY:Charles Burnett-programma Eye 2026
+DESCRIPTION:Filmprogramma rond de Amerikaanse regisseur Charles Burnett me
+ t de heruitbreng van Killer of Sheep en diverse restauraties.\nLooptijd: 2
+ 6 nov 2026 t/m 16 dec 2026.\nhttps://assets.eyefilm.nl/downloads/blocks/PB
+ R2026-Jaarpersbericht-2026-NL.pdf
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Film
+TRANSP:TRANSPARENT
+URL:https://assets.eyefilm.nl/downloads/blocks/PBR2026-Jaarpersbericht-202
+ 6-NL.pdf
+END:VEVENT
+BEGIN:VEVENT
 UID:bfc29bf0992f96c7@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270208
 SUMMARY:IFFR 2027
@@ -97,8 +129,25 @@ URL:https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Condition
  s-submissions-IFFR-2027.pdf
 END:VEVENT
 BEGIN:VEVENT
+UID:fcae22dd84cce3e4@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270322
+SUMMARY:Kaboom Animation Festival 2027
+DESCRIPTION:Internationaal animatiefilmfestival met korte en lange animati
+ efilms\, verdeeld over Utrecht en Amsterdam.\nLooptijd: 12 mrt 2027 t/m 21
+  mrt 2027.\nhttps://www.zippyframes.com/festivals/next-festivals/kaboom-an
+ imation-festival
+LOCATION:Diverse locaties (o.a. Slachtstraat Filmtheater\, Eye\, Melkweg)\
+ , Utrecht en Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.zippyframes.com/festivals/next-festivals/kaboom-animation-
+ festival
+END:VEVENT
+BEGIN:VEVENT
 UID:9ba6c455caf192db@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270329
 SUMMARY:Roze Filmdagen 2027 (datum o.v.)
@@ -113,7 +162,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/roze-filmdagen
 END:VEVENT
 BEGIN:VEVENT
 UID:e15e5d4b0c19fdd0@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270328
 SUMMARY:Movies that Matter Festival 2027
@@ -128,7 +177,7 @@ URL:https://moviesthatmatter.nl/en/agenda/movies-that-matter-festival-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:3eb3a1defdb40ddf@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270329
 SUMMARY:Cinedans FEST 2027 (datum o.v.)
@@ -138,13 +187,13 @@ DESCRIPTION:Festival voor dansfilm en screendance\; datum geschat naar het
   2027 t/m 28 mrt 2027.\nhttps://www.festivalfinder.eu/festivals/cinedans-f
  est-2026
 LOCATION:Eye Filmmuseum\, Amsterdam
-CATEGORIES:Festivals,Film,Theater & dans
+CATEGORIES:Festivals,Film,Theater & musical,Dans
 TRANSP:TRANSPARENT
 URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:6edc221aa9c1f010@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270412
 SUMMARY:Go Short 2027 (datum o.v.)
@@ -161,7 +210,7 @@ URL:https://www.goshort.nl/en/news-overview/the-go-short-2026-program-is-l
 END:VEVENT
 BEGIN:VEVENT
 UID:b630fac43515ad07@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270412
 SUMMARY:CinemAsia Film Festival 2027 (datum o.v.)
@@ -176,8 +225,54 @@ TRANSP:TRANSPARENT
 URL:https://www.eyefilm.nl/en/programme/cinemasia-2026/1594110
 END:VEVENT
 BEGIN:VEVENT
+UID:95468e50c5c74572@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270419
+SUMMARY:Amsterdam Spanish Film Festival 2027 (datum o.v.)
+DESCRIPTION:Festival met nieuwe Spaanstalige films uit Spanje en Latijns-A
+ merika in Amsterdamse bioscopen.\nLet op: datum is een inschatting op basi
+ s van eerdere edities en nog niet bevestigd.\nLooptijd: 9 apr 2027 t/m 18 
+ apr 2027.\nhttps://amsterdamspanishfilmfestival.com/
+LOCATION:Eye Filmmuseum en diverse bioscopen\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://amsterdamspanishfilmfestival.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed1ccaddf4215cd2@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270609
+SUMMARY:Leiden Shorts 2027
+DESCRIPTION:Negentiende editie van het internationale kortefilmfestival va
+ n Leiden.\nLooptijd: 3 jun 2027 t/m 8 jun 2027.\nhttps://filmfreeway.com/f
+ estivals/22584
+LOCATION:Kijkhuis\, Leiden
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://filmfreeway.com/festivals/22584
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0bd31586292219@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+SUMMARY:Rotterdam Arab Film Festival 2027 (datum o.v.)
+DESCRIPTION:Jaarlijks festival met films uit de Arabische wereld en de dia
+ spora\, met competitie en randprogramma.\nLet op: datum is een inschatting
+  op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 9 jun 2027
+  t/m 13 jun 2027.\nhttps://www.lantarenvenster.nl/programma/rotterdam-arab
+ -film-festival-2026/
+LOCATION:LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.lantarenvenster.nl/programma/rotterdam-arab-film-festival-
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:5c11d028dcb64236@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270920
 SUMMARY:Film by the Sea 2027 (datum o.v.)
@@ -191,8 +286,23 @@ TRANSP:TRANSPARENT
 URL:https://domburg.com/en/event/102/film-by-the-sea.html
 END:VEVENT
 BEGIN:VEVENT
+UID:7b29c4f06fd52e68@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270927
+SUMMARY:Camera Japan Rotterdam 2027 (datum o.v.)
+DESCRIPTION:Festival voor Japanse film en cultuur met nieuwe films\, anime
+  en randprogramma.\nLet op: datum is een inschatting op basis van eerdere 
+ edities en nog niet bevestigd.\nLooptijd: 22 sep 2027 t/m 26 sep 2027.\nht
+ tps://www.lantarenvenster.nl/?p=178537
+LOCATION:LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.lantarenvenster.nl/?p=178537
+END:VEVENT
+BEGIN:VEVENT
 UID:7b65754572e62879@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20271002
 SUMMARY:Nederlands Film Festival 2027 (datum o.v.)
@@ -207,8 +317,25 @@ TRANSP:TRANSPARENT
 URL:https://en.wikipedia.org/wiki/Netherlands_Film_Festival
 END:VEVENT
 BEGIN:VEVENT
+UID:3d27091700b27c10@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271004
+SUMMARY:Camera Japan Amsterdam 2027 (datum o.v.)
+DESCRIPTION:Amsterdamse editie van het festival voor Japanse film en cultu
+ ur in LAB111.\nLet op: datum is een inschatting op basis van eerdere editi
+ es en nog niet bevestigd.\nLooptijd: 30 sep 2027 t/m 3 okt 2027.\nhttps://
+ www.iamsterdam.com/en/whats-on/calendar/festivals/events/camera-japan-fest
+ ival
+LOCATION:LAB111\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/camer
+ a-japan-festival
+END:VEVENT
+BEGIN:VEVENT
 UID:a9292d9c2f52e518@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271018
 SUMMARY:Leiden International Film Festival 2027 (datum o.v.)
@@ -223,7 +350,7 @@ URL:https://www.liff.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:17ea6323a5cac905@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271025
 SUMMARY:Cinekid Festival 2027 (datum o.v.)
@@ -239,7 +366,7 @@ URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
 END:VEVENT
 BEGIN:VEVENT
 UID:850dbfb08bdb330b@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271101
 SUMMARY:Tapis Rouge Frans Filmfestival 2027 (datum o.v.)
@@ -256,7 +383,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
 END:VEVENT
 BEGIN:VEVENT
 UID:58caad50778e7beb@cultuurkalender
-DTSTAMP:20261016T083255Z
+DTSTAMP:20261016T090509Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271108
 SUMMARY:Imagine Film Festival 2027 (datum o.v.)

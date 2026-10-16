@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Dans
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f680b3175392f8ef-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:▶ Start: Out of the stillness – NDT 1
+DESCRIPTION:NDT 1 met wereldpremière Tunnel Vision van Hofesh Shechter en
+  The missing door van Gabriela Carrizo.\nLooptijd: 24 sep 2026 t/m 19 dec 
+ 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+LOCATION:Amare + tournee (o.a. Stadsschouwburg Amsterdam\, Rotterdam)\, De
+ n Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+END:VEVENT
+BEGIN:VEVENT
+UID:f680b3175392f8ef-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:■ Laatste dag: Out of the stillness – NDT 1
+DESCRIPTION:NDT 1 met wereldpremière Tunnel Vision van Hofesh Shechter en
+  The missing door van Gabriela Carrizo.\nLooptijd: 24 sep 2026 t/m 19 dec 
+ 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+LOCATION:Amare + tournee (o.a. Stadsschouwburg Amsterdam\, Rotterdam)\, De
+ n Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+END:VEVENT
+BEGIN:VEVENT
+UID:472defd20b94fc26-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:▶ Start: Het Zwanenmeer – Het Nationale Ballet
+DESCRIPTION:Rudi van Dantzigs klassieke Zwanenmeer\; keert terug van 11 t/
+ m 24 april 2027.\nLooptijd: 15 okt 2026 t/m 8 nov 2026.\nhttps://www.opera
+ ballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:472defd20b94fc26-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:■ Laatste dag: Het Zwanenmeer – Het Nationale Ballet
+DESCRIPTION:Rudi van Dantzigs klassieke Zwanenmeer\; keert terug van 11 t/
+ m 24 april 2027.\nLooptijd: 15 okt 2026 t/m 8 nov 2026.\nhttps://www.opera
+ ballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:5fad581168bf9e93-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:▶ Start: Blast a universe – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Noé Soulier plus werk van J
+ iří Kylián en Marco Goecke\; première 22 oktober in Amare.\nLooptijd: 
+ 22 okt 2026 t/m 19 dec 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/blast-a-u
+ niverse/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fad581168bf9e93-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:■ Laatste dag: Blast a universe – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Noé Soulier plus werk van J
+ iří Kylián en Marco Goecke\; première 22 oktober in Amare.\nLooptijd: 
+ 22 okt 2026 t/m 19 dec 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/blast-a-u
+ niverse/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
+END:VEVENT
+BEGIN:VEVENT
+UID:5446f52688fb93eb@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Amare 5 jaar – jubileumweekend met Residentie Orkest
+DESCRIPTION:Jubileumweekend van Amare\, geopend door het Residentie Orkest
+  en Nederlands Dans Theater met wereldpremières in 'Celebrating 5 years A
+ mare'.\nLooptijd: 20 nov 2026 t/m 22 nov 2026.\nhttps://denhaag.com/nl/nie
+ uws/amare-viert-5-jarig-jubileum-programma-jubileumweekend-bekend
+LOCATION:Amare\, Den Haag
+CATEGORIES:Dans,Festivals,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-j
+ ubileumweekend-bekend
+END:VEVENT
+BEGIN:VEVENT
+UID:c23f835c836f5c2b-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:▶ Start: Cinderella – Het Nationale Ballet
+DESCRIPTION:Kerstreprise van Christopher Wheeldons Cinderella.\nLooptijd: 
+ 9 dec 2026 t/m 2 jan 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:c23f835c836f5c2b-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:■ Laatste dag: Cinderella – Het Nationale Ballet
+DESCRIPTION:Kerstreprise van Christopher Wheeldons Cinderella.\nLooptijd: 
+ 9 dec 2026 t/m 2 jan 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:62a2009d45cbc6af@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Switch '27 – NDT 1 & NDT 2
+DESCRIPTION:Eenmalige avond waarin dansers van NDT 1 en NDT 2 eigen choreo
+ grafieën tonen.\nhttps://www.ndt.nl/nl/bezoek/26-27/switch27/
+LOCATION:Amare\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/switch27/
+END:VEVENT
+BEGIN:VEVENT
+UID:823f6f3234ef176f-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:▶ Start: GONE – NDT 1
+DESCRIPTION:Avondvullende nieuwe creatie van Marcos Morau voor NDT 1\; pre
+ mière 11 februari 2027 in Amare.\nLooptijd: 11 feb 2027 t/m 19 mrt 2027.\
+ nhttps://www.ndt.nl/nl/bezoek/26-27/gone/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
+END:VEVENT
+BEGIN:VEVENT
+UID:823f6f3234ef176f-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:■ Laatste dag: GONE – NDT 1
+DESCRIPTION:Avondvullende nieuwe creatie van Marcos Morau voor NDT 1\; pre
+ mière 11 februari 2027 in Amare.\nLooptijd: 11 feb 2027 t/m 19 mrt 2027.\
+ nhttps://www.ndt.nl/nl/bezoek/26-27/gone/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
+END:VEVENT
+BEGIN:VEVENT
+UID:b18410146335fea9@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270303
+SUMMARY:Prey – Het Nationale Ballet (nieuwe productie)
+DESCRIPTION:Nieuwe avondvullende balletproductie van Jessica Wright en Mor
+ gann Runacre-Temple.\nLooptijd: 13 feb 2027 t/m 2 mrt 2027.\nhttps://www.o
+ peraballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:b695beadc5883aa7-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:▶ Start: A poem for the world – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Johan Inger en werk van Crys
+ tal Pite en Edward Clug\; première 18 maart 2027.\nLooptijd: 18 mrt 2027 
+ t/m 4 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:b695beadc5883aa7-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:■ Laatste dag: A poem for the world – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Johan Inger en werk van Crys
+ tal Pite en Edward Clug\; première 18 maart 2027.\nLooptijd: 18 mrt 2027 
+ t/m 4 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb3a1defdb40ddf@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270329
+SUMMARY:Cinedans FEST 2027 (datum o.v.)
+DESCRIPTION:Festival voor dansfilm en screendance\; datum geschat naar het
+  patroon van eind maart (2026: 25-29 maart).\nLet op: datum is een inschat
+ ting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 24 mrt
+  2027 t/m 28 mrt 2027.\nhttps://www.festivalfinder.eu/festivals/cinedans-f
+ est-2026
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Festivals,Film,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9628aa68f468e0@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270405
+SUMMARY:Metamorphosis – Het Nationale Ballet
+DESCRIPTION:David Dawsons Metamorphosis op het hoofdtoneel.\nLooptijd: 27 
+ mrt 2027 t/m 4 apr 2027.\nhttps://www.operaballet.nl/en/program/season-26-
+ 27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1649b3754b3a08-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:▶ Start: Everywhere is here – NDT 1
+DESCRIPTION:NDT 1 met een wereldpremière van Marco Goecke en Ties Unseen 
+ van Christos Papadopoulos\; première 13 mei 2027.\nLooptijd: 13 mei 2027 
+ t/m 5 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1649b3754b3a08-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:■ Laatste dag: Everywhere is here – NDT 1
+DESCRIPTION:NDT 1 met een wereldpremière van Marco Goecke en Ties Unseen 
+ van Christos Papadopoulos\; première 13 mei 2027.\nLooptijd: 13 mei 2027 
+ t/m 5 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2bb7ff9945cc79@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270523
+SUMMARY:SPRING Performing Arts Festival 2027
+DESCRIPTION:Internationaal festival voor hedendaags theater en dans in Utr
+ echt.\nLooptijd: 13 mei 2027 t/m 22 mei 2027.\nhttps://springutrecht.nl/en
+ /press-release-spring-performing-arts-festival-2026-international-theatre-
+ and-dance-performances-in-utrecht/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://springutrecht.nl/en/press-release-spring-performing-arts-festi
+ val-2026-international-theatre-and-dance-performances-in-utrecht/
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-start@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-eind@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:0368b7d827460202@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270624
+SUMMARY:PLAY – Alexander Ekman / Het Nationale Ballet
+DESCRIPTION:Alexander Ekmans uitbundige voorstelling PLAY keert terug.\nLo
+ optijd: 12 jun 2027 t/m 23 jun 2027.\nhttps://www.operaballet.nl/en/progra
+ m/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6552232b567f61@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Gala Het Nationale Ballet 2027
+DESCRIPTION:Jaarlijks balletgala als afsluiting van het seizoen.\nhttps://
+ www.operaballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:651c508263e5e568@cultuurkalender
+DTSTAMP:20261016T090509Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270714
+SUMMARY:Julidans 2027 (datum o.v.)
+DESCRIPTION:Internationaal festival voor hedendaagse dans\; data onder voo
+ rbehoud.\nLet op: datum is een inschatting op basis van eerdere edities en
+  nog niet bevestigd.\nLooptijd: 1 jul 2027 t/m 13 jul 2027.\nhttps://www.i
+ amsterdam.com/uit/agenda/festivals/events/julidans
+LOCATION:ITA\, Frascati e.a.\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/julidans
+END:VEVENT
+END:VCALENDAR
