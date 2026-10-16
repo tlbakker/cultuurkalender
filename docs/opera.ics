@@ -1,0 +1,378 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Opera
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:0295e0a78f4ad179-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:▶ Start: Waiting for the Barbarians – Nederlandse Reisopera
+DESCRIPTION:Philip Glass' opera naar Coetzee op tournee\, met slotvoorstel
+ lingen in Den Haag (20–31 okt).\nLooptijd: 26 sep 2026 t/m 31 okt 2026.\
+ nhttps://www.reisopera.nl
+LOCATION:Tournee (o.a. Enschede\, Utrecht\, Zwolle\, Den Haag)\, Den Haag
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.reisopera.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:0295e0a78f4ad179-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:■ Laatste dag: Waiting for the Barbarians – Nederlandse Reisop
+ era
+DESCRIPTION:Philip Glass' opera naar Coetzee op tournee\, met slotvoorstel
+ lingen in Den Haag (20–31 okt).\nLooptijd: 26 sep 2026 t/m 31 okt 2026.\
+ nhttps://www.reisopera.nl
+LOCATION:Tournee (o.a. Enschede\, Utrecht\, Zwolle\, Den Haag)\, Den Haag
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.reisopera.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:62b8baeee5ebaa53@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261021
+SUMMARY:Cherry Town (Sjostakovitsj) – De Nationale Opera
+DESCRIPTION:Jakop Ahlbom regisseert Sjostakovitsj' operette Tsjerjomoesjki
+  als beeldend muziektheater.\nLooptijd: 8 okt 2026 t/m 20 okt 2026.\nhttps
+ ://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:cfa530c5b22a0c37-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:▶ Start: Hans en Grietje op de vlucht! – Opera2Day
+DESCRIPTION:Opera2Day en Opera Rebels Collective brengen een nieuwe Hans e
+ n Grietje op landelijke tournee.\nLooptijd: 16 okt 2026 t/m 7 feb 2027.\nh
+ ttps://www.opera2day.nl
+LOCATION:Landelijke tournee\, diverse steden
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.opera2day.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:cfa530c5b22a0c37-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:■ Laatste dag: Hans en Grietje op de vlucht! – Opera2Day
+DESCRIPTION:Opera2Day en Opera Rebels Collective brengen een nieuwe Hans e
+ n Grietje op landelijke tournee.\nLooptijd: 16 okt 2026 t/m 7 feb 2027.\nh
+ ttps://www.opera2day.nl
+LOCATION:Landelijke tournee\, diverse steden
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.opera2day.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:26a9cdcce105df33@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261127
+SUMMARY:Johannes-Passion – Sasha Waltz / García-Alarcón
+DESCRIPTION:Geënsceneerde Johannes-Passion van Bach door choreograaf Sash
+ a Waltz met Leonardo García-Alarcón en de Nederlandse Bachvereniging.\nL
+ ooptijd: 10 nov 2026 t/m 26 nov 2026.\nhttps://www.operaballet.nl/en/progr
+ am/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:1d46f997e6eedf01-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:▶ Start: Uprising – community-opera
+DESCRIPTION:Community-opera met lokale koren\, in november op het hoofdton
+ eel en in mei opnieuw (16 en 23 mei).\nLooptijd: 13 nov 2026 t/m 23 mei 20
+ 27.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet (en tournee)\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:1d46f997e6eedf01-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:■ Laatste dag: Uprising – community-opera
+DESCRIPTION:Community-opera met lokale koren\, in november op het hoofdton
+ eel en in mei opnieuw (16 en 23 mei).\nLooptijd: 13 nov 2026 t/m 23 mei 20
+ 27.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet (en tournee)\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bef1850fde917b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:Concertgebouworkest: Der Silbersee & Vuurvogel (Iván Fischer)
+DESCRIPTION:Iván Fischer combineert Stravinsky's Vuurvogel met Weills ope
+ ra Der Silbersee.\nLooptijd: 2 dec 2026 t/m 4 dec 2026.\nhttps://www.conce
+ rtgebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek,Opera
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c0ac0354c624ae-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:▶ Start: Der fliegende Holländer – De Nationale Opera
+DESCRIPTION:Wagners Der fliegende Holländer in regie van Lotte de Beer\, 
+ gedirigeerd door Susanna Mälkki met het Nederlands Philharmonisch Orkest.
+ \nLooptijd: 3 dec 2026 t/m 27 dec 2026.\nhttps://www.operaballet.nl/en/pro
+ gram/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c0ac0354c624ae-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:■ Laatste dag: Der fliegende Holländer – De Nationale Opera
+DESCRIPTION:Wagners Der fliegende Holländer in regie van Lotte de Beer\, 
+ gedirigeerd door Susanna Mälkki met het Nederlands Philharmonisch Orkest.
+ \nLooptijd: 3 dec 2026 t/m 27 dec 2026.\nhttps://www.operaballet.nl/en/pro
+ gram/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8d6880dbb80c82@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270207
+SUMMARY:Salome (reprise) – De Nationale Opera
+DESCRIPTION:Herneming van Strauss' Salome op het hoofdtoneel.\nLooptijd: 1
+ 8 jan 2027 t/m 6 feb 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:a28816e815f0604d-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:▶ Start: Assepoester – Nederlandse Reisopera
+DESCRIPTION:Reisopera-productie van Assepoester op tournee door Nederland.
+ \nLooptijd: 23 jan 2027 t/m 20 feb 2027.\nhttps://www.reisopera.nl
+LOCATION:Tournee (première Enschede)\, Enschede
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.reisopera.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:a28816e815f0604d-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:■ Laatste dag: Assepoester – Nederlandse Reisopera
+DESCRIPTION:Reisopera-productie van Assepoester op tournee door Nederland.
+ \nLooptijd: 23 jan 2027 t/m 20 feb 2027.\nhttps://www.reisopera.nl
+LOCATION:Tournee (première Enschede)\, Enschede
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.reisopera.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:10d35c473bb1e4aa@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270224
+SUMMARY:Orfeo ed Euridice – De Nationale Opera
+DESCRIPTION:Glucks Orfeo ed Euridice in regie van Ted Huffman.\nLooptijd: 
+ 3 feb 2027 t/m 23 feb 2027.\nhttps://www.operaballet.nl/en/program/season-
+ 26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea6e39ede7baa36@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270329
+SUMMARY:Opera Forward Festival 2027
+DESCRIPTION:Festival voor nieuwe opera met o.a. de wereldpremière van Du 
+ Yuns Red Fox (regie Barrie Kosky)\, Hedda Gabler van Vasco Mendonça en Th
+ e Monster Trilogy.\nLooptijd: 13 mrt 2027 t/m 28 mrt 2027.\nhttps://www.op
+ eraballet.nl/en/opera/dutch-national-opera/off
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/opera/dutch-national-opera/off
+END:VEVENT
+BEGIN:VEVENT
+UID:5150ce0413e4ef47@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270329
+SUMMARY:Red Fox (Du Yun / Barrie Kosky) – wereldpremière
+DESCRIPTION:Nieuwe opera van Du Yun in regie van Barrie Kosky\, gemaakt vo
+ or het Opera Forward Festival.\nLooptijd: 13 mrt 2027 t/m 28 mrt 2027.\nht
+ tps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1db4d50e030c45-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:▶ Start: Impressions de Pelléas – DNO / Reisopera
+DESCRIPTION:Kameropera-versie van Debussy's Pelléas et Mélisande\, in Am
+ sterdam en op tournee met de Nederlandse Reisopera.\nLooptijd: 10 apr 2027
+  t/m 1 mei 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Studio Boekman & tournee\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1db4d50e030c45-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:■ Laatste dag: Impressions de Pelléas – DNO / Reisopera
+DESCRIPTION:Kameropera-versie van Debussy's Pelléas et Mélisande\, in Am
+ sterdam en op tournee met de Nederlandse Reisopera.\nLooptijd: 10 apr 2027
+  t/m 1 mei 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Studio Boekman & tournee\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:10082ca09050c50d@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270503
+SUMMARY:Iolanta – De Nationale Opera
+DESCRIPTION:Tsjaikovski's Iolanta in regie van Evgeny Titov met het Rotter
+ dams Philharmonisch Orkest o.l.v. Kwamé Ryan.\nLooptijd: 16 apr 2027 t/m 
+ 2 mei 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:8916c1b18534dd8c-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:▶ Start: Norma – De Nationale Opera
+DESCRIPTION:Bellini's Norma in regie van Jetske Mijnssen\, gedirigeerd doo
+ r Enrique Mazzola met het Nederlands Kamerorkest.\nLooptijd: 12 mei 2027 t
+ /m 6 jun 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:8916c1b18534dd8c-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:■ Laatste dag: Norma – De Nationale Opera
+DESCRIPTION:Bellini's Norma in regie van Jetske Mijnssen\, gedirigeerd doo
+ r Enrique Mazzola met het Nederlands Kamerorkest.\nLooptijd: 12 mei 2027 t
+ /m 6 jun 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:37a5520d32c791bd@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270628
+SUMMARY:La damnation de Faust – De Nationale Opera & Concertgebouworkest
+DESCRIPTION:Nieuwe productie van Berlioz' La damnation de Faust met het Co
+ ncertgebouworkest o.l.v. Stéphane Denève\, seizoensafsluiter van DNO.\nL
+ ooptijd: 9 jun 2027 t/m 27 jun 2027.\nhttps://www.operaballet.nl/en/progra
+ m/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:45f39ada012daec8@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Seizoensopening De Nationale Opera 2027-2028 (datum o.v.)
+DESCRIPTION:Eerste voorstelling van het nieuwe operaseizoen 2027-2028 (nog
+  niet aangekondigd).\nLet op: datum is een inschatting op basis van eerder
+ e edities en nog niet bevestigd.\nhttps://www.operaballet.nl
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl
+END:VEVENT
+END:VCALENDAR

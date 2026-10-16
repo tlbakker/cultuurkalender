@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Popmuziek
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:94b6d569e3d1f41e@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261026
+SUMMARY:Amsterdam Dance Event 2026
+DESCRIPTION:De 30e jubileumeditie van 's werelds grootste clubfestival en 
+ conferentie voor elektronische muziek.\nLooptijd: 21 okt 2026 t/m 25 okt 2
+ 026.\nhttps://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/27
+ 50267/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750
+ 267/
+END:VEVENT
+BEGIN:VEVENT
+UID:7cbdf67ed020bdd7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:London Calling 2026
+DESCRIPTION:Tweedaags indiefestival met nieuwe Britse en internationale gi
+ taarbands in Paradiso.\nLooptijd: 30 okt 2026 t/m 31 okt 2026.\nhttps://ww
+ w.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+BEGIN:VEVENT
+UID:16702e84896bff76@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:Le Guess Who? 2026
+DESCRIPTION:Gecureerd avontuurlijk muziekfestival verspreid over Utrechtse
+  podia (uitverkocht).\nLooptijd: 5 nov 2026 t/m 8 nov 2026.\nhttps://www.f
+ estivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
+LOCATION:TivoliVredenburg e.a.\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:26e1520c21ea3708@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270117
+SUMMARY:Eurosonic Noorderslag 2027
+DESCRIPTION:Showcasefestival en conferentie voor nieuwe Europese en Nederl
+ andse popmuziek.\nLooptijd: 13 jan 2027 t/m 16 jan 2027.\nhttps://www.fest
+ ivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-Noorderslag-bekend-g
+ emaakt/
+LOCATION:Diverse podia\, Groningen
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-
+ Noorderslag-bekend-gemaakt/
+END:VEVENT
+BEGIN:VEVENT
+UID:89bee694ce31dddb@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270329
+SUMMARY:Paaspop 2027
+DESCRIPTION:Vijftigste editie van het paasfestival in Schijndel.\nLooptijd
+ : 26 mrt 2027 t/m 28 mrt 2027.\nhttps://www.festivalinfo.nl/festival/36262
+ /Paaspop-Schijndel/2027/
+LOCATION:Festivalterrein Paaspop\, Schijndel
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36262/Paaspop-Schijndel/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2628c006af950f16@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Koningsdag 2027
+DESCRIPTION:Nationale feestdag met vrijmarkten\, feesten en concerten door
+  de hele stad.\nhttps://www.iamsterdam.com
+LOCATION:Hele stad\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed83bc36b1454d@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Bevrijdingsfestivals 2027
+DESCRIPTION:Gratis Bevrijdingsfestivals met muziek in alle provincies op B
+ evrijdingsdag\; programma volgt.\nhttps://www.4en5mei.nl
+LOCATION:Diverse steden (o.a. Haarlem\, Utrecht\, Den Haag\, Amsterdam)
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.4en5mei.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:aca34a731e75a5e3@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Amsterdam Open Air 2027 (datum o.v.)
+DESCRIPTION:Tweedaags dancefestival in het Gaasperpark\; datum geschat naa
+ r het gebruikelijke patroon van begin juni.\nLet op: datum is een inschatt
+ ing op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 5 jun 2
+ 027 t/m 6 jun 2027.\nhttps://www.iamexpat.nl/lifestyle/expat-events-festiv
+ als/amsterdam-open-air
+LOCATION:Gaasperpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamexpat.nl/lifestyle/expat-events-festivals/amsterdam-ope
+ n-air
+END:VEVENT
+BEGIN:VEVENT
+UID:c327fe838e8688ea@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270614
+SUMMARY:Best Kept Secret 2027 (datum o.v.)
+DESCRIPTION:Driedaags alternatief popfestival aan het meer van Beekse Berg
+ en\; data gemeld maar niet officieel bevestigd.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 11 
+ jun 2027 t/m 13 jun 2027.\nhttps://saily.com/nl/blog/beste-festivals-neder
+ land/
+LOCATION:Beekse Bergen\, Hilvarenbeek
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://saily.com/nl/blog/beste-festivals-nederland/
+END:VEVENT
+BEGIN:VEVENT
+UID:53720bdd1a32540b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:Pinkpop 2027
+DESCRIPTION:Het oudste jaarlijkse popfestival ter wereld in Landgraaf.\nLo
+ optijd: 18 jun 2027 t/m 20 jun 2027.\nhttps://www.festivalinfo.nl/festival
+ /37229/Pinkpop/2027/
+LOCATION:Megaland\, Landgraaf
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/37229/Pinkpop/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:f133e688cf3e7f3a@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Amsterdam Roots Festival 2027 (datum o.v.)
+DESCRIPTION:Gratis wereldmuziekfestival in het Oosterpark\; datum geschat 
+ naar het patroon van eind juni.\nLet op: datum is een inschatting op basis
+  van eerdere edities en nog niet bevestigd.\nhttps://www.festivalinfo.nl/f
+ estival/36269/Amsterdam-Roots-Festival/2026/
+LOCATION:Oosterpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36269/Amsterdam-Roots-Festival/20
+ 26/
+END:VEVENT
+BEGIN:VEVENT
+UID:10c100acf53dd509@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Keti Koti Festival 2027
+DESCRIPTION:Gratis festival op Museumplein ter herdenking en viering van d
+ e afschaffing van de slavernij.\nhttps://www.iamsterdam.com/uit/agenda/fes
+ tivals/events/keti-koti-festival
+LOCATION:Museumplein\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/keti-koti-festi
+ val
+END:VEVENT
+BEGIN:VEVENT
+UID:898ee4adcc2c2cd2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:Down the Rabbit Hole 2027 (datum o.v.)
+DESCRIPTION:Driedaags campingfestival met pop\, rock en hiphop\; data geme
+ ld maar niet officieel bevestigd.\nLet op: datum is een inschatting op bas
+ is van eerdere edities en nog niet bevestigd.\nLooptijd: 2 jul 2027 t/m 4 
+ jul 2027.\nhttps://www.technoairlines.com/festival/down-the-rabbit-hole-be
+ uningen-netherlands-2027
+LOCATION:De Groene Heuvels\, Beuningen
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.technoairlines.com/festival/down-the-rabbit-hole-beuningen
+ -netherlands-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd3f51b32c77af9@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:North Sea Jazz Festival 2027 (datum o.v.)
+DESCRIPTION:Driedaags jazz-\, soul- en funkfestival in Ahoy\; data op basi
+ s van het vaste patroon (tweede weekend juli)\, niet officieel bevestigd.\
+ nLet op: datum is een inschatting op basis van eerdere edities en nog niet
+  bevestigd.\nLooptijd: 9 jul 2027 t/m 11 jul 2027.\nhttps://www.carnifest.
+ com/north-sea-jazz-festival-2027/
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.carnifest.com/north-sea-jazz-festival-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:b98651c704fe30f7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270725
+SUMMARY:Rotterdam Unlimited 2027 (datum o.v.)
+DESCRIPTION:Stadsfestival met het Zomercarnaval als hoogtepunt\; datum ges
+ chat (2026: carnaval 24-25 juli).\nLet op: datum is een inschatting op bas
+ is van eerdere edities en nog niet bevestigd.\nLooptijd: 20 jul 2027 t/m 2
+ 4 jul 2027.\nhttps://rotterdamstyle.com/events/rotterdam-unlimited-summer-
+ carnival-location-date-lineup
+LOCATION:Centrum\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://rotterdamstyle.com/events/rotterdam-unlimited-summer-carnival-
+ location-date-lineup
+END:VEVENT
+BEGIN:VEVENT
+UID:b963027dcce3485b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270809
+SUMMARY:Pride Amsterdam 2027 (datum o.v.)
+DESCRIPTION:Pride-festival met Pride March (24 juli) en Canal Parade (7 au
+ gustus)\; periode geschat\, data onder voorbehoud.\nLet op: datum is een i
+ nschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 
+ 24 jul 2027 t/m 8 aug 2027.\nhttps://www.iamsterdam.com/en/whats-on/calend
+ ar/festivals/events/pride-march-2027
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/pride
+ -march-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b49339b6846e89@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270802
+SUMMARY:Dekmantel Festival 2027 (datum o.v.)
+DESCRIPTION:Elektronisch muziekfestival in het Amsterdamse Bos\; datum ges
+ chat naar het patroon eind juli/begin augustus.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 28 
+ jul 2027 t/m 1 aug 2027.\nhttps://www.technoairlines.com/festival/dekmante
+ l-festival-amsterdam-netherlands-2026
+LOCATION:Amsterdamse Bos\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.technoairlines.com/festival/dekmantel-festival-amsterdam-n
+ etherlands-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:95f347b4bd756fb6@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+SUMMARY:Lowlands 2027
+DESCRIPTION:Groot meerdaags muziek- en cultuurfestival in Biddinghuizen.\n
+ Looptijd: 20 aug 2027 t/m 22 aug 2027.\nhttps://www.festivalinfo.nl/news/5
+ 9232/Organisatie-onthult-datums-voor-Lowlands-2027-na-succesvolle-editie/
+LOCATION:Evenemententerrein Walibi\, Biddinghuizen
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/59232/Organisatie-onthult-datums-voor
+ -Lowlands-2027-na-succesvolle-editie/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ec0e13f75b1df2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:De Opening 2027 (opvolger Uitmarkt) (datum o.v.)
+DESCRIPTION:Landelijke opening van het culturele seizoen die de Amsterdams
+ e Uitmarkt verving\, elk jaar in een andere gaststad\; datum en stad gesch
+ at.\nLet op: datum is een inschatting op basis van eerdere edities en nog 
+ niet bevestigd.\nLooptijd: 27 aug 2027 t/m 29 aug 2027.\nhttps://www.festi
+ valinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-Opening-met-wisselend
+ e-gaststad/
+LOCATION:Nog niet bekend
+CATEGORIES:Festivals,Theater & dans,Klassieke muziek,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-
+ Opening-met-wisselende-gaststad/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e403a44e4e4922@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270906
+SUMMARY:Into the Great Wide Open 2027 (datum o.v.)
+DESCRIPTION:Kleinschalig muziek- en kunstfestival op Vlieland\; datum gesc
+ hat naar het patroon van begin september.\nLet op: datum is een inschattin
+ g op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 2 sep 202
+ 7 t/m 5 sep 2027.\nhttps://intothegreatwideopen.nl/en/praktisch
+LOCATION:Diverse locaties\, Vlieland
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://intothegreatwideopen.nl/en/praktisch
+END:VEVENT
+BEGIN:VEVENT
+UID:e25b17f38f9be6e0@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271025
+SUMMARY:Amsterdam Dance Event 2027 (datum o.v.)
+DESCRIPTION:Clubfestival en conferentie voor elektronische muziek\; datum 
+ geschat naar het patroon van de derde week van oktober.\nLet op: datum is 
+ een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoopt
+ ijd: 20 okt 2027 t/m 24 okt 2027.\nhttps://www.amsterdam-dance-event.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:5f716d63b61bd912@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271031
+SUMMARY:London Calling 2027 (datum o.v.)
+DESCRIPTION:Indiefestival in Paradiso\; datum geschat naar het patroon van
+  eind oktober.\nLet op: datum is een inschatting op basis van eerdere edit
+ ies en nog niet bevestigd.\nLooptijd: 29 okt 2027 t/m 30 okt 2027.\nhttps:
+ //www.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+END:VCALENDAR

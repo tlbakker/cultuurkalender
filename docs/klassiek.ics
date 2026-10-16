@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Klassieke muziek
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:37945f1f8baf5c55@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261108
+SUMMARY:Cello Biënnale Amsterdam 2026
+DESCRIPTION:Elfde editie van 's werelds grootste cellofestival.\nLooptijd:
+  29 okt 2026 t/m 7 nov 2026.\nhttps://www.bimhuis.nl/en/cello-biennale-ams
+ terdam-2026/
+LOCATION:Muziekgebouw aan 't IJ & Bimhuis\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.bimhuis.nl/en/cello-biennale-amsterdam-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:26a9cdcce105df33@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261127
+SUMMARY:Johannes-Passion – Sasha Waltz / García-Alarcón
+DESCRIPTION:Geënsceneerde Johannes-Passion van Bach door choreograaf Sash
+ a Waltz met Leonardo García-Alarcón en de Nederlandse Bachvereniging.\nL
+ ooptijd: 10 nov 2026 t/m 26 nov 2026.\nhttps://www.operaballet.nl/en/progr
+ am/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:c64157915fa6ae3e@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261130
+SUMMARY:November Music 2026
+DESCRIPTION:Tiendaags festival voor nieuwe muziek in Den Bosch.\nLooptijd:
+  20 nov 2026 t/m 29 nov 2026.\nhttps://www.novembermusic.net
+LOCATION:Verkadefabriek e.a.\, 's-Hertogenbosch
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.novembermusic.net
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bef1850fde917b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:Concertgebouworkest: Der Silbersee & Vuurvogel (Iván Fischer)
+DESCRIPTION:Iván Fischer combineert Stravinsky's Vuurvogel met Weills ope
+ ra Der Silbersee.\nLooptijd: 2 dec 2026 t/m 4 dec 2026.\nhttps://www.conce
+ rtgebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek,Opera
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f6f5346d17f5c8a@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Kerstmatinee Concertgebouworkest
+DESCRIPTION:Traditionele Kerstmatinee met Klaus Mäkelä en Sol Gabetta (T
+ sjaikovski's Rococo-variaties)\, live op radio en tv.\nhttps://www.concert
+ gebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc129cbf10c6c26@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Concertgebouworkest Annual Gala
+DESCRIPTION:Jaarlijks galaconcert met Klaus Mäkelä.\nhttps://www.concert
+ gebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:acccbdaf3113518b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270315
+SUMMARY:Beethovens Missa solemnis – Mäkelä
+DESCRIPTION:Klaus Mäkelä dirigeert Beethovens Missa solemnis met het Gro
+ ot Omroepkoor.\nLooptijd: 10 mrt 2027 t/m 14 mrt 2027.\nhttps://www.concer
+ tgebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b82fca57a30320e@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Matthäus-Passion Concertgebouworkest
+DESCRIPTION:Bachs Matthäus-Passion o.l.v. Leonardo García-Alarcón.\nLoo
+ ptijd: 19 mrt 2027 t/m 21 mrt 2027.\nhttps://www.concertgebouworkest.nl/nl
+ /agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea76287d0c0c5e61@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Stravinsky's Sacre in de Gashouder
+DESCRIPTION:Concertgebouworkest speelt Le Sacre du printemps in de Gashoud
+ er met Gemma New en Abel Selaocoe.\nhttps://www.concertgebouworkest.nl/nl/
+ agenda/
+LOCATION:Gashouder (Westergas)\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:37a5520d32c791bd@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270628
+SUMMARY:La damnation de Faust – De Nationale Opera & Concertgebouworkest
+DESCRIPTION:Nieuwe productie van Berlioz' La damnation de Faust met het Co
+ ncertgebouworkest o.l.v. Stéphane Denève\, seizoensafsluiter van DNO.\nL
+ ooptijd: 9 jun 2027 t/m 27 jun 2027.\nhttps://www.operaballet.nl/en/progra
+ m/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:612afd25db8d4ca6@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:Wonderfeel 2027
+DESCRIPTION:Klassiek openluchtfestival met zeven podia op Landgoed Groenev
+ eld.\nLooptijd: 9 jul 2027 t/m 11 jul 2027.\nhttps://www.wonderfeel.nl
+LOCATION:Landgoed Groeneveld\, Baarn
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.wonderfeel.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:b5522be3e9f4ddc7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270802
+SUMMARY:Delft Chamber Music Festival 2027 (datum o.v.)
+DESCRIPTION:Internationaal kamermuziekfestival in Delft eind juli.\nLet op
+ : datum is een inschatting op basis van eerdere edities en nog niet bevest
+ igd.\nLooptijd: 23 jul 2027 t/m 1 aug 2027.\nhttps://www.delft.com/en/uita
+ genda/uitagenda/4170890544/delft-chamber-music-festival
+LOCATION:Museum Prinsenhof e.a.\, Delft
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.delft.com/en/uitagenda/uitagenda/4170890544/delft-chamber-
+ music-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab1e425a8faba2a@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270823
+SUMMARY:Grachtenfestival 2027
+DESCRIPTION:Tiendaags klassiek muziekfestival op en aan de Amsterdamse gra
+ chten.\nLooptijd: 13 aug 2027 t/m 22 aug 2027.\nhttps://www.grachtenfestiv
+ al.nl
+LOCATION:Grachten en diverse locaties\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.grachtenfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:fa30020255f72025@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Prinsengrachtconcert 2027 (datum o.v.)
+DESCRIPTION:Gratis openluchtconcert op een ponton in de Prinsengracht\, ti
+ jdens het Grachtenfestival.\nLet op: datum is een inschatting op basis van
+  eerdere edities en nog niet bevestigd.\nhttps://en.wikipedia.org/wiki/Pri
+ nsengrachtconcert
+LOCATION:Prinsengracht (bij Hotel Pulitzer)\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/Prinsengrachtconcert
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ec0e13f75b1df2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:De Opening 2027 (opvolger Uitmarkt) (datum o.v.)
+DESCRIPTION:Landelijke opening van het culturele seizoen die de Amsterdams
+ e Uitmarkt verving\, elk jaar in een andere gaststad\; datum en stad gesch
+ at.\nLet op: datum is een inschatting op basis van eerdere edities en nog 
+ niet bevestigd.\nLooptijd: 27 aug 2027 t/m 29 aug 2027.\nhttps://www.festi
+ valinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-Opening-met-wisselend
+ e-gaststad/
+LOCATION:Nog niet bekend
+CATEGORIES:Festivals,Theater & dans,Klassieke muziek,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-
+ Opening-met-wisselende-gaststad/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5957adc1157c097@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270906
+SUMMARY:Festival Oude Muziek Utrecht 2027 – Humanisten
+DESCRIPTION:Festival Oude Muziek met als thema Humanisten\, van Erasmus to
+ t Rameau.\nLooptijd: 27 aug 2027 t/m 5 sep 2027.\nhttps://oudemuziek.nl/en
+ /festival/future/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://oudemuziek.nl/en/festival/future/
+END:VEVENT
+BEGIN:VEVENT
+UID:f769046c9e876e9b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Opening Night Concertgebouworkest 2027 (Oosterpark) (datum o.v.)
+DESCRIPTION:Gratis openluchtconcert als opening van het seizoen 2027-2028.
+ \nLet op: datum is een inschatting op basis van eerdere edities en nog nie
+ t bevestigd.\nhttps://www.concertgebouworkest.nl/nl/agenda/
+LOCATION:Oosterpark\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+END:VCALENDAR

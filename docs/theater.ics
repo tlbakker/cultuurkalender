@@ -1,0 +1,341 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Theater & dans
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:472defd20b94fc26-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:▶ Start: Het Zwanenmeer – Het Nationale Ballet
+DESCRIPTION:Rudi van Dantzigs klassieke Zwanenmeer\; keert terug van 11 t/
+ m 24 april 2027.\nLooptijd: 15 okt 2026 t/m 8 nov 2026.\nhttps://www.opera
+ ballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:472defd20b94fc26-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:■ Laatste dag: Het Zwanenmeer – Het Nationale Ballet
+DESCRIPTION:Rudi van Dantzigs klassieke Zwanenmeer\; keert terug van 11 t/
+ m 24 april 2027.\nLooptijd: 15 okt 2026 t/m 8 nov 2026.\nhttps://www.opera
+ ballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:c23f835c836f5c2b-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:▶ Start: Cinderella – Het Nationale Ballet
+DESCRIPTION:Kerstreprise van Christopher Wheeldons Cinderella.\nLooptijd: 
+ 9 dec 2026 t/m 2 jan 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:c23f835c836f5c2b-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:■ Laatste dag: Cinderella – Het Nationale Ballet
+DESCRIPTION:Kerstreprise van Christopher Wheeldons Cinderella.\nLooptijd: 
+ 9 dec 2026 t/m 2 jan 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:b18410146335fea9@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270303
+SUMMARY:Prey – Het Nationale Ballet (nieuwe productie)
+DESCRIPTION:Nieuwe avondvullende balletproductie van Jessica Wright en Mor
+ gann Runacre-Temple.\nLooptijd: 13 feb 2027 t/m 2 mrt 2027.\nhttps://www.o
+ peraballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:2738d3c2b92d0652@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270321
+SUMMARY:Cement 2027 (datum o.v.)
+DESCRIPTION:Festival voor nieuw theater en dans van jonge makers\; datum g
+ eschat op basis van het gebruikelijke maartpatroon.\nLet op: datum is een 
+ inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd:
+  11 mrt 2027 t/m 20 mrt 2027.\nhttps://www.iamexpat.nl/lifestyle/events-fe
+ stivals-netherlands/festival-cement
+LOCATION:Verkadefabriek e.a.\, 's-Hertogenbosch
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamexpat.nl/lifestyle/events-festivals-netherlands/festiva
+ l-cement
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb3a1defdb40ddf@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270329
+SUMMARY:Cinedans FEST 2027 (datum o.v.)
+DESCRIPTION:Festival voor dansfilm en screendance\; datum geschat naar het
+  patroon van eind maart (2026: 25-29 maart).\nLet op: datum is een inschat
+ ting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 24 mrt
+  2027 t/m 28 mrt 2027.\nhttps://www.festivalfinder.eu/festivals/cinedans-f
+ est-2026
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Festivals,Film,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9628aa68f468e0@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270405
+SUMMARY:Metamorphosis – Het Nationale Ballet
+DESCRIPTION:David Dawsons Metamorphosis op het hoofdtoneel.\nLooptijd: 27 
+ mrt 2027 t/m 4 apr 2027.\nhttps://www.operaballet.nl/en/program/season-26-
+ 27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2bb7ff9945cc79@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270523
+SUMMARY:SPRING Performing Arts Festival 2027
+DESCRIPTION:Internationaal festival voor hedendaags theater en dans in Utr
+ echt.\nLooptijd: 13 mei 2027 t/m 22 mei 2027.\nhttps://springutrecht.nl/en
+ /press-release-spring-performing-arts-festival-2026-international-theatre-
+ and-dance-performances-in-utrecht/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://springutrecht.nl/en/press-release-spring-performing-arts-festi
+ val-2026-international-theatre-and-dance-performances-in-utrecht/
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:a02cb1877755097e@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270621
+SUMMARY:Oerol 2027
+DESCRIPTION:Locatietheaterfestival op en met het landschap van Terschellin
+ g.\nLooptijd: 11 jun 2027 t/m 20 jun 2027.\nhttps://oerol.nl/en/faq/
+LOCATION:Heel het eiland\, Terschelling
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://oerol.nl/en/faq/
+END:VEVENT
+BEGIN:VEVENT
+UID:0368b7d827460202@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270624
+SUMMARY:PLAY – Alexander Ekman / Het Nationale Ballet
+DESCRIPTION:Alexander Ekmans uitbundige voorstelling PLAY keert terug.\nLo
+ optijd: 12 jun 2027 t/m 23 jun 2027.\nhttps://www.operaballet.nl/en/progra
+ m/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6552232b567f61@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Gala Het Nationale Ballet 2027
+DESCRIPTION:Jaarlijks balletgala als afsluiting van het seizoen.\nhttps://
+ www.operaballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:651c508263e5e568@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270714
+SUMMARY:Julidans 2027 (datum o.v.)
+DESCRIPTION:Internationaal festival voor hedendaagse dans\; data onder voo
+ rbehoud.\nLet op: datum is een inschatting op basis van eerdere edities en
+  nog niet bevestigd.\nLooptijd: 1 jul 2027 t/m 13 jul 2027.\nhttps://www.i
+ amsterdam.com/uit/agenda/festivals/events/julidans
+LOCATION:ITA\, Frascati e.a.\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/julidans
+END:VEVENT
+BEGIN:VEVENT
+UID:30f9507959d83070@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270719
+SUMMARY:Over het IJ Festival 2027 (datum o.v.)
+DESCRIPTION:Zomerfestival voor locatietheater en jonge makers op de NDSM-w
+ erf\; datum geschat naar het julipatroon.\nLet op: datum is een inschattin
+ g op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 8 jul 202
+ 7 t/m 18 jul 2027.\nhttps://www.iamexpat.nl/lifestyle/events-festivals-net
+ herlands/over-het-ij-festival
+LOCATION:NDSM-werf\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamexpat.nl/lifestyle/events-festivals-netherlands/over-he
+ t-ij-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2f45bbc0815ebf26@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270809
+SUMMARY:De Parade 2027 (datum o.v.)
+DESCRIPTION:Reizend theaterfestival met voorstellingen in tenten\; data on
+ der voorbehoud.\nLet op: datum is een inschatting op basis van eerdere edi
+ ties en nog niet bevestigd.\nLooptijd: 23 jul 2027 t/m 8 aug 2027.\nhttps:
+ //www.iamsterdam.com/en/whats-on/calendar/festivals/events/theaterfestival
+ -de-parade
+LOCATION:Martin Luther Kingpark\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/theat
+ erfestival-de-parade
+END:VEVENT
+BEGIN:VEVENT
+UID:e27707f1e88fe02b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270816
+SUMMARY:Theaterfestival Boulevard 2027
+DESCRIPTION:Zomers theaterfestival in en rond de Bossche binnenstad.\nLoop
+ tijd: 5 aug 2027 t/m 15 aug 2027.\nhttps://www.festivalboulevard.nl/en/new
+ s/boulevard-returns-with-120-performances-at-twenty-different-locations
+LOCATION:Diverse locaties\, 's-Hertogenbosch
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.festivalboulevard.nl/en/news/boulevard-returns-with-120-pe
+ rformances-at-twenty-different-locations
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b88f327b8714e3@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270830
+SUMMARY:Noorderzon 2027 (datum o.v.)
+DESCRIPTION:Elfdaags festival voor podiumkunsten en muziek in het Noorderp
+ lantsoen\; datum geschat naar het augustuspatroon.\nLet op: datum is een i
+ nschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 
+ 19 aug 2027 t/m 29 aug 2027.\nhttps://en.wikipedia.org/wiki/Noorderzon
+LOCATION:Noorderplantsoen\, Groningen
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/Noorderzon
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ec0e13f75b1df2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:De Opening 2027 (opvolger Uitmarkt) (datum o.v.)
+DESCRIPTION:Landelijke opening van het culturele seizoen die de Amsterdams
+ e Uitmarkt verving\, elk jaar in een andere gaststad\; datum en stad gesch
+ at.\nLet op: datum is een inschatting op basis van eerdere edities en nog 
+ niet bevestigd.\nLooptijd: 27 aug 2027 t/m 29 aug 2027.\nhttps://www.festi
+ valinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-Opening-met-wisselend
+ e-gaststad/
+LOCATION:Nog niet bekend
+CATEGORIES:Festivals,Theater & dans,Klassieke muziek,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-
+ Opening-met-wisselende-gaststad/
+END:VEVENT
+BEGIN:VEVENT
+UID:537bb506715a2e8d@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Amsterdam Fringe Festival 2027 (datum o.v.)
+DESCRIPTION:Festival voor experimenteel en ongecensureerd theater op tient
+ allen locaties\; datum geschat (2026: 5-12 september).\nLet op: datum is e
+ en inschatting op basis van eerdere edities en nog niet bevestigd.\nLoopti
+ jd: 2 sep 2027 t/m 12 sep 2027.\nhttps://www.frascatitheater.nl/en/amsterd
+ am-fringe-festival-2026-zpd3
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.frascatitheater.nl/en/amsterdam-fringe-festival-2026-zpd3
+END:VEVENT
+BEGIN:VEVENT
+UID:8b10779a2f19c0f0@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Nederlands Theaterfestival 2027 (datum o.v.)
+DESCRIPTION:Elf dagen met de beste theatervoorstellingen van het afgelopen
+  seizoen\; datum geschat naar het septemberpatroon.\nLet op: datum is een 
+ inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd:
+  2 sep 2027 t/m 12 sep 2027.\nhttps://www.iamsterdam.com/en/whats-on/calen
+ dar/festivals/events/dutch-theatre-festival
+LOCATION:ITA en andere theaters\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/dutch
+ -theatre-festival
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cultuurkalender</title>
+<style>
+:root{--bg:#faf8f5;--fg:#1d1b19;--muted:#6b665f;--card:#fff;--line:#e6e1da;--acc:#9b2c2c}
+@media (prefers-color-scheme:dark){:root{--bg:#181715;--fg:#efebe6;--muted:#a59f97;--card:#22201d;--line:#37332e;--acc:#e07a6a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:24px 16px 64px}h1{margin:0 0 4px;font-size:28px}
+p.lead{color:var(--muted);margin:0 0 20px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 20px}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:6px 12px;border-radius:999px;cursor:pointer;font:inherit}
+.chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#fff}
+.sub{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:24px}
+.sub a{color:var(--acc)}.sub code{word-break:break-all;font-size:13px}
+.btn{display:inline-block;margin:8px 8px 0 0;padding:8px 14px;border-radius:8px;background:var(--acc);color:#fff!important;text-decoration:none}
+h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:28px 0 8px}
+.ev{display:grid;grid-template-columns:130px 1fr;gap:12px;padding:10px 0;border-top:1px solid var(--line)}
+.ev .d{color:var(--muted);font-size:14px}.ev a{color:var(--fg);font-weight:600;text-decoration:none}.ev a:hover{text-decoration:underline}
+.ev .m{color:var(--muted);font-size:14px}.est{font-size:12px;border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-left:6px;color:var(--muted)}
+@media (max-width:520px){.ev{grid-template-columns:1fr;gap:2px}}
+</style></head><body><main>
+<h1>Cultuurkalender</h1>
+<p class="lead">Grote culturele evenementen in en rond Amsterdam: festivals, premières, seizoensopeningen en exposities. Bijgewerkt: __UPDATED__.</p>
+<div class="chips" id="chips"></div>
+<div class="sub"><strong>Abonneren in Google Calendar</strong> op <span id="subname">alles</span>:<br>
+<a class="btn" id="gcal" target="_blank" rel="noopener">Toevoegen aan Google Calendar</a><a class="btn" id="webcal">Openen in agenda-app</a>
+<div style="margin-top:10px">Of kopieer deze link en kies in Google Calendar “Andere agenda's → Via URL”:<br><code id="url"></code></div></div>
+<div id="list"></div>
+</main><script>
+const G=__GENRES__, EV=__EVENTS__;
+const M="jan feb mrt apr mei jun jul aug sep okt nov dec".split(" ");
+const f=s=>{const d=new Date(s+"T12:00");return d.getDate()+" "+M[d.getMonth()]+" "+d.getFullYear()};
+let cur="alles";
+const base=location.href.replace(/[^/]*$/,"");
+function render(){
+  document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",c.dataset.g===cur));
+  const file=cur==="alles"?"cultuur.ics":cur+".ics", u=base+file;
+  document.getElementById("url").textContent=u;
+  document.getElementById("subname").textContent=cur==="alles"?"alles":G[cur];
+  document.getElementById("webcal").href=u.replace(/^https?:/,"webcal:");
+  document.getElementById("gcal").href="https://calendar.google.com/calendar/render?cid="+encodeURIComponent(u.replace(/^https?:/,"webcal:"));
+  const today=new Date().toISOString().slice(0,10);
+  const evs=EV.filter(e=>e.end>=today&&(cur==="alles"||e.genres.includes(cur)));
+  let h="",mon="";
+  for(const e of evs){const k=e.start<today?"Nu te zien":M[+e.start.slice(5,7)-1]+" "+e.start.slice(0,4);
+    if(k!==mon){h+=`<h2>${k}</h2>`;mon=k}
+    const d=e.start===e.end?f(e.start):f(e.start)+" –<br>"+f(e.end);
+    h+=`<div class="ev"><div class="d">${d}</div><div><a href="${e.url}" target="_blank" rel="noopener">${e.title}</a>${e.confidence==="estimated"?'<span class="est">datum o.v.</span>':""}<div class="m">${[e.venue,e.city].filter(Boolean).join(", ")} · ${e.genres.map(g=>G[g]).join(", ")}</div></div></div>`}
+  document.getElementById("list").innerHTML=h||"<p>Geen evenementen.</p>";
+}
+const chips=document.getElementById("chips");
+for(const [g,l] of [["alles","Alles"],...Object.entries(G)]){const b=document.createElement("button");b.className="chip";b.dataset.g=g;b.textContent=l;b.onclick=()=>{cur=g;render()};chips.appendChild(b)}
+render();
+</script></body></html>

@@ -1,0 +1,2227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Museumexposities
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:00f1078ac821c4ad-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:▶ Start: Zeeuws Museum: DARN too
+DESCRIPTION:Modetentoonstelling in het Zeeuws Museum.\nLooptijd: 14 feb 20
+ 26 t/m 26 sep 2027.\nhttps://www.zeeuwsmuseum.nl/nl/tentoonstellingen/darn
+ -too
+LOCATION:Zeeuws Museum\, Middelburg
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.zeeuwsmuseum.nl/nl/tentoonstellingen/darn-too
+END:VEVENT
+BEGIN:VEVENT
+UID:00f1078ac821c4ad-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:■ Laatste dag: Zeeuws Museum: DARN too
+DESCRIPTION:Modetentoonstelling in het Zeeuws Museum.\nLooptijd: 14 feb 20
+ 26 t/m 26 sep 2027.\nhttps://www.zeeuwsmuseum.nl/nl/tentoonstellingen/darn
+ -too
+LOCATION:Zeeuws Museum\, Middelburg
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.zeeuwsmuseum.nl/nl/tentoonstellingen/darn-too
+END:VEVENT
+BEGIN:VEVENT
+UID:12dc2e3c4cb7e75b-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:▶ Start: Rijksmuseum: WORN – gekoesterde kleding
+DESCRIPTION:Tentoonstelling van 24 kledingstukken en accessoires (1640-193
+ 0) die generaties lang zijn gedragen\, gerepareerd en vermaakt.\nLooptijd:
+  27 mrt 2026 t/m 21 mrt 2027.\nhttps://www.rijksmuseum.nl/en/press/press-r
+ eleases/rijksmuseum-presents-worn-treasured-clothing
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
+ s-worn-treasured-clothing
+END:VEVENT
+BEGIN:VEVENT
+UID:12dc2e3c4cb7e75b-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:■ Laatste dag: Rijksmuseum: WORN – gekoesterde kleding
+DESCRIPTION:Tentoonstelling van 24 kledingstukken en accessoires (1640-193
+ 0) die generaties lang zijn gedragen\, gerepareerd en vermaakt.\nLooptijd:
+  27 mrt 2026 t/m 21 mrt 2027.\nhttps://www.rijksmuseum.nl/en/press/press-r
+ eleases/rijksmuseum-presents-worn-treasured-clothing
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
+ s-worn-treasured-clothing
+END:VEVENT
+BEGIN:VEVENT
+UID:87245f18f37e7f5f-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2026
+DESCRIPTION:De winnende persfoto's van de World Press Photo-wedstrijd 2026
+ .\nLooptijd: 24 apr 2026 t/m 25 okt 2026.\nhttps://www.nieuwekerk.nl/tento
+ onstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:87245f18f37e7f5f-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2026
+DESCRIPTION:De winnende persfoto's van de World Press Photo-wedstrijd 2026
+ .\nLooptijd: 24 apr 2026 t/m 25 okt 2026.\nhttps://www.nieuwekerk.nl/tento
+ onstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:172ee1d13de2e379-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:▶ Start: Kunstmuseum Den Haag: Base Line
+DESCRIPTION:Tijdelijke tentoonstelling in het Kunstmuseum Den Haag.\nLoopt
+ ijd: 25 apr 2026 t/m 14 feb 2027.\nhttps://www.kunstmuseum.nl/nl/tentoonst
+ ellingen
+LOCATION:Kunstmuseum Den Haag\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:172ee1d13de2e379-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Base Line
+DESCRIPTION:Tijdelijke tentoonstelling in het Kunstmuseum Den Haag.\nLoopt
+ ijd: 25 apr 2026 t/m 14 feb 2027.\nhttps://www.kunstmuseum.nl/nl/tentoonst
+ ellingen
+LOCATION:Kunstmuseum Den Haag\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:4f435786fe421003-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:▶ Start: Stedelijk Museum: Kho Liang Ie – Mid-Century Modernis
+ t
+DESCRIPTION:Overzicht van het werk van interieurarchitect en ontwerper Kho
+  Liang Ie.\nLooptijd: 14 mei 2026 t/m 18 okt 2026.\nhttps://stedelijk.nl/e
+ n/exhibitions/kho-liang-ie-2
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://stedelijk.nl/en/exhibitions/kho-liang-ie-2
+END:VEVENT
+BEGIN:VEVENT
+UID:4f435786fe421003-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:■ Laatste dag: Stedelijk Museum: Kho Liang Ie – Mid-Century Mo
+ dernist
+DESCRIPTION:Overzicht van het werk van interieurarchitect en ontwerper Kho
+  Liang Ie.\nLooptijd: 14 mei 2026 t/m 18 okt 2026.\nhttps://stedelijk.nl/e
+ n/exhibitions/kho-liang-ie-2
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://stedelijk.nl/en/exhibitions/kho-liang-ie-2
+END:VEVENT
+BEGIN:VEVENT
+UID:1a4050522d60644a-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:▶ Start: H'ART Museum: Het Land van Hagelslag. Samen bouwen aan 
+ een nieuwe wereld
+DESCRIPTION:Tentoonstelling over Nederlands-Amerikaanse banden waarin bezo
+ ekers samen bouwen aan een nieuwe wereld.\nLooptijd: 22 mei 2026 t/m 8 nov
+  2026.\nhttps://www.hartmuseum.nl/en/exhibitions/
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hartmuseum.nl/en/exhibitions/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a4050522d60644a-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:■ Laatste dag: H'ART Museum: Het Land van Hagelslag. Samen bouwe
+ n aan een nieuwe wereld
+DESCRIPTION:Tentoonstelling over Nederlands-Amerikaanse banden waarin bezo
+ ekers samen bouwen aan een nieuwe wereld.\nLooptijd: 22 mei 2026 t/m 8 nov
+  2026.\nhttps://www.hartmuseum.nl/en/exhibitions/
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hartmuseum.nl/en/exhibitions/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f81bd68c7485acf-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:▶ Start: Fries Museum: Robert Zandvliet: Aan de oevers van de ti
+ jd
+DESCRIPTION:Retrospectief van dertig jaar werk van Robert Zandvliet.\nLoop
+ tijd: 23 mei 2026 t/m 21 mrt 2027.\nhttps://www.friesmuseum.nl/te-zien-en-
+ te-doen/tentoonstellingen/robert-zandvliet
+LOCATION:Fries Museum\, Leeuwarden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.friesmuseum.nl/te-zien-en-te-doen/tentoonstellingen/robert
+ -zandvliet
+END:VEVENT
+BEGIN:VEVENT
+UID:3f81bd68c7485acf-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:■ Laatste dag: Fries Museum: Robert Zandvliet: Aan de oevers van
+  de tijd
+DESCRIPTION:Retrospectief van dertig jaar werk van Robert Zandvliet.\nLoop
+ tijd: 23 mei 2026 t/m 21 mrt 2027.\nhttps://www.friesmuseum.nl/te-zien-en-
+ te-doen/tentoonstellingen/robert-zandvliet
+LOCATION:Fries Museum\, Leeuwarden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.friesmuseum.nl/te-zien-en-te-doen/tentoonstellingen/robert
+ -zandvliet
+END:VEVENT
+BEGIN:VEVENT
+UID:3329b41099e32729-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:▶ Start: Kröller-Müller Museum: Gilbert & George. Drifters
+DESCRIPTION:Tentoonstelling van het Britse kunstenaarsduo Gilbert & George
+ .\nLooptijd: 30 mei 2026 t/m 17 jan 2027.\nhttps://www.krollermuller.nl/nl
+ /nu-te-doen/tentoonstellingen/gilbert-and-george-drifters
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/gilbert-a
+ nd-george-drifters
+END:VEVENT
+BEGIN:VEVENT
+UID:3329b41099e32729-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Kröller-Müller Museum: Gilbert & George. Drifte
+ rs
+DESCRIPTION:Tentoonstelling van het Britse kunstenaarsduo Gilbert & George
+ .\nLooptijd: 30 mei 2026 t/m 17 jan 2027.\nhttps://www.krollermuller.nl/nl
+ /nu-te-doen/tentoonstellingen/gilbert-and-george-drifters
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/gilbert-a
+ nd-george-drifters
+END:VEVENT
+BEGIN:VEVENT
+UID:f623d15f5a521d5e-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:▶ Start: Escher in het Paleis: Escher & Islamic Art: 20 Perspect
+ ives
+DESCRIPTION:Escher in dialoog met islamitische kunst en geometrische patro
+ nen.\nLooptijd: 10 jun 2026 t/m 1 nov 2026.\nhttps://www.escherinhetpaleis
+ .nl/tentoonstellingen/
+LOCATION:Escher in het Paleis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.escherinhetpaleis.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:f623d15f5a521d5e-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:■ Laatste dag: Escher in het Paleis: Escher & Islamic Art: 20 Pe
+ rspectives
+DESCRIPTION:Escher in dialoog met islamitische kunst en geometrische patro
+ nen.\nLooptijd: 10 jun 2026 t/m 1 nov 2026.\nhttps://www.escherinhetpaleis
+ .nl/tentoonstellingen/
+LOCATION:Escher in het Paleis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.escherinhetpaleis.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:34fed26e35069c4b-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:▶ Start: Huis Marseille: Martine Gutierrez – Wunderkind
+DESCRIPTION:Fotografische zelfportretten en enscenering van kunstenaar Mar
+ tine Gutierrez.\nLooptijd: 27 jun 2026 t/m 18 okt 2026.\nhttps://www.huism
+ arseille.nl/tentoonstellingen/
+LOCATION:Huis Marseille\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.huismarseille.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:34fed26e35069c4b-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:■ Laatste dag: Huis Marseille: Martine Gutierrez – Wunderkind
+DESCRIPTION:Fotografische zelfportretten en enscenering van kunstenaar Mar
+ tine Gutierrez.\nLooptijd: 27 jun 2026 t/m 18 okt 2026.\nhttps://www.huism
+ arseille.nl/tentoonstellingen/
+LOCATION:Huis Marseille\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.huismarseille.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:79b4f133033ca52f-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:▶ Start: Singer Laren: Carlijn Kingma. De machinerie van de volk
+ shuisvesting
+DESCRIPTION:Kingma's gedetailleerde tekening van de woningmarkt voor het e
+ erst in een museum.\nLooptijd: 30 jun 2026 t/m 4 jan 2027.\nhttps://www.mu
+ seum.nl/nl/singer-laren/tentoonstelling/carlijn-kingma-de-machinerie-van-d
+ e-volkshuisvesting
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/carlijn-kingma-d
+ e-machinerie-van-de-volkshuisvesting
+END:VEVENT
+BEGIN:VEVENT
+UID:79b4f133033ca52f-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:■ Laatste dag: Singer Laren: Carlijn Kingma. De machinerie van d
+ e volkshuisvesting
+DESCRIPTION:Kingma's gedetailleerde tekening van de woningmarkt voor het e
+ erst in een museum.\nLooptijd: 30 jun 2026 t/m 4 jan 2027.\nhttps://www.mu
+ seum.nl/nl/singer-laren/tentoonstelling/carlijn-kingma-de-machinerie-van-d
+ e-volkshuisvesting
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/carlijn-kingma-d
+ e-machinerie-van-de-volkshuisvesting
+END:VEVENT
+BEGIN:VEVENT
+UID:b9fd26f3fae868b0-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:▶ Start: Nxt Museum: Tales of Two – YONK (datum o.v.)
+DESCRIPTION:Immersieve digitale kunsttentoonstelling van het collectief YO
+ NK (einddatum geschat).\nLet op: datum is een inschatting op basis van eer
+ dere edities en nog niet bevestigd.\nLooptijd: 3 jul 2026 t/m 30 jun 2027.
+ \nhttps://nxtmuseum.com/
+LOCATION:Nxt Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://nxtmuseum.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:b9fd26f3fae868b0-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:■ Laatste dag: Nxt Museum: Tales of Two – YONK (datum o.v.)
+DESCRIPTION:Immersieve digitale kunsttentoonstelling van het collectief YO
+ NK (einddatum geschat).\nLet op: datum is een inschatting op basis van eer
+ dere edities en nog niet bevestigd.\nLooptijd: 3 jul 2026 t/m 30 jun 2027.
+ \nhttps://nxtmuseum.com/
+LOCATION:Nxt Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://nxtmuseum.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:092e9e8de858a6cc-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:▶ Start: Kunstmuseum Den Haag: Reflections on Fashion
+DESCRIPTION:Grote modetentoonstelling in het Kunstmuseum.\nLooptijd: 4 jul
+  2026 t/m 3 jan 2027.\nhttps://www.kunstmuseum.nl/nl/tentoonstellingen
+LOCATION:Kunstmuseum Den Haag\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:092e9e8de858a6cc-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Reflections on Fashion
+DESCRIPTION:Grote modetentoonstelling in het Kunstmuseum.\nLooptijd: 4 jul
+  2026 t/m 3 jan 2027.\nhttps://www.kunstmuseum.nl/nl/tentoonstellingen
+LOCATION:Kunstmuseum Den Haag\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:816d83ff212afb48-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:▶ Start: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
+DESCRIPTION:Tentoonstelling over de queer geschiedenis en cultuur van Amst
+ erdam.\nLooptijd: 9 jul 2026 t/m 4 apr 2027.\nhttps://www.nieuwekerk.nl/te
+ ntoonstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:816d83ff212afb48-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:■ Laatste dag: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
+DESCRIPTION:Tentoonstelling over de queer geschiedenis en cultuur van Amst
+ erdam.\nLooptijd: 9 jul 2026 t/m 4 apr 2027.\nhttps://www.nieuwekerk.nl/te
+ ntoonstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:628f507066e771d5-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:▶ Start: Portugese Synagoge: Snogeiros – Mensen van de Snoge (
+ datum o.v.)
+DESCRIPTION:Fotoportretten van Marte Visser van de Portugees-Israëlitisch
+ e gemeenschap rond de Snoge.\nLet op: datum is een inschatting op basis va
+ n eerdere edities en nog niet bevestigd.\nLooptijd: 10 jul 2026 t/m 8 nov 
+ 2026.\nhttps://jck.nl/agenda/snogeiros-mensen-van-de-snoge
+LOCATION:Portugese Synagoge (Joods Cultureel Kwartier)\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://jck.nl/agenda/snogeiros-mensen-van-de-snoge
+END:VEVENT
+BEGIN:VEVENT
+UID:628f507066e771d5-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:■ Laatste dag: Portugese Synagoge: Snogeiros – Mensen van de S
+ noge (datum o.v.)
+DESCRIPTION:Fotoportretten van Marte Visser van de Portugees-Israëlitisch
+ e gemeenschap rond de Snoge.\nLet op: datum is een inschatting op basis va
+ n eerdere edities en nog niet bevestigd.\nLooptijd: 10 jul 2026 t/m 8 nov 
+ 2026.\nhttps://jck.nl/agenda/snogeiros-mensen-van-de-snoge
+LOCATION:Portugese Synagoge (Joods Cultureel Kwartier)\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://jck.nl/agenda/snogeiros-mensen-van-de-snoge
+END:VEVENT
+BEGIN:VEVENT
+UID:7073f99a7e6f976b-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:▶ Start: Centraal Museum: Godenschemering – Frans Franciscus
+DESCRIPTION:Tentoonstelling van schilder Frans Franciscus.\nLooptijd: 11 j
+ ul 2026 t/m 22 nov 2026.\nhttps://www.centraalmuseum.nl/programma
+LOCATION:Centraal Museum\, Utrecht
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.centraalmuseum.nl/programma
+END:VEVENT
+BEGIN:VEVENT
+UID:7073f99a7e6f976b-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:■ Laatste dag: Centraal Museum: Godenschemering – Frans Franci
+ scus
+DESCRIPTION:Tentoonstelling van schilder Frans Franciscus.\nLooptijd: 11 j
+ ul 2026 t/m 22 nov 2026.\nhttps://www.centraalmuseum.nl/programma
+LOCATION:Centraal Museum\, Utrecht
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.centraalmuseum.nl/programma
+END:VEVENT
+BEGIN:VEVENT
+UID:ec256e31b620d046-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:▶ Start: Amsterdam Museum: Samangat! Molukkers in Amsterdam
+DESCRIPTION:Tentoonstelling over de geschiedenis en verhalen van Molukse A
+ msterdammers.\nLooptijd: 30 jul 2026 t/m 21 okt 2026.\nhttps://www.amsterd
+ ammuseum.nl/tentoonstellingen
+LOCATION:Amsterdam Museum (Kop van Java)\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.amsterdammuseum.nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:ec256e31b620d046-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:■ Laatste dag: Amsterdam Museum: Samangat! Molukkers in Amsterda
+ m
+DESCRIPTION:Tentoonstelling over de geschiedenis en verhalen van Molukse A
+ msterdammers.\nLooptijd: 30 jul 2026 t/m 21 okt 2026.\nhttps://www.amsterd
+ ammuseum.nl/tentoonstellingen
+LOCATION:Amsterdam Museum (Kop van Java)\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.amsterdammuseum.nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:3de1fa5dc6b4d1b3-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:▶ Start: Fries Museum: Redbad: de legendarische koning
+DESCRIPTION:Tentoonstelling over de legendarische Friese koning Redbad.\nL
+ ooptijd: 5 sep 2026 t/m 7 feb 2027.\nhttps://www.friesmuseum.nl/te-zien-en
+ -te-doen/tentoonstellingen/redbad
+LOCATION:Fries Museum\, Leeuwarden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.friesmuseum.nl/te-zien-en-te-doen/tentoonstellingen/redbad
+END:VEVENT
+BEGIN:VEVENT
+UID:3de1fa5dc6b4d1b3-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:■ Laatste dag: Fries Museum: Redbad: de legendarische koning
+DESCRIPTION:Tentoonstelling over de legendarische Friese koning Redbad.\nL
+ ooptijd: 5 sep 2026 t/m 7 feb 2027.\nhttps://www.friesmuseum.nl/te-zien-en
+ -te-doen/tentoonstellingen/redbad
+LOCATION:Fries Museum\, Leeuwarden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.friesmuseum.nl/te-zien-en-te-doen/tentoonstellingen/redbad
+END:VEVENT
+BEGIN:VEVENT
+UID:c012b2759b05d043-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:▶ Start: Stedelijk Museum: Yayoi Kusama
+DESCRIPTION:Grote retrospectieve tentoonstelling van de Japanse kunstenaar
+  Yayoi Kusama.\nLooptijd: 11 sep 2026 t/m 17 jan 2027.\nhttps://stedelijk.
+ nl/en/exhibitions/yayoi-kusama-en
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
+END:VEVENT
+BEGIN:VEVENT
+UID:c012b2759b05d043-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Stedelijk Museum: Yayoi Kusama
+DESCRIPTION:Grote retrospectieve tentoonstelling van de Japanse kunstenaar
+  Yayoi Kusama.\nLooptijd: 11 sep 2026 t/m 17 jan 2027.\nhttps://stedelijk.
+ nl/en/exhibitions/yayoi-kusama-en
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec8b0e480d2a53a-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:▶ Start: Museum Voorlinden: Celebrating the Icons of Art
+DESCRIPTION:Feestelijke presentatie van iconische kunstwerken uit de colle
+ ctie.\nLooptijd: 12 sep 2026 t/m 28 feb 2027.\nhttps://www.voorlinden.nl/t
+ entoonstellingen/
+LOCATION:Museum Voorlinden\, Wassenaar
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.voorlinden.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec8b0e480d2a53a-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:■ Laatste dag: Museum Voorlinden: Celebrating the Icons of Art
+DESCRIPTION:Feestelijke presentatie van iconische kunstwerken uit de colle
+ ctie.\nLooptijd: 12 sep 2026 t/m 28 feb 2027.\nhttps://www.voorlinden.nl/t
+ entoonstellingen/
+LOCATION:Museum Voorlinden\, Wassenaar
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.voorlinden.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:afeaf81926c4268c-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:▶ Start: Kröller-Müller Museum: Van Gogh\, al onze schilderije
+ n
+DESCRIPTION:Alle Van Gogh-schilderijen uit de eigen collectie samen te zie
+ n.\nLooptijd: 15 sep 2026 t/m 3 jan 2027.\nhttps://www.krollermuller.nl/nl
+ /nu-te-doen/tentoonstellingen/van-gogh-al-onze-schilderijen
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/van-gogh-
+ al-onze-schilderijen
+END:VEVENT
+BEGIN:VEVENT
+UID:afeaf81926c4268c-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:■ Laatste dag: Kröller-Müller Museum: Van Gogh\, al onze schil
+ derijen
+DESCRIPTION:Alle Van Gogh-schilderijen uit de eigen collectie samen te zie
+ n.\nLooptijd: 15 sep 2026 t/m 3 jan 2027.\nhttps://www.krollermuller.nl/nl
+ /nu-te-doen/tentoonstellingen/van-gogh-al-onze-schilderijen
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/van-gogh-
+ al-onze-schilderijen
+END:VEVENT
+BEGIN:VEVENT
+UID:716cda3cb9e03e8e-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:▶ Start: Foam: Hailun Ma – Hometown
+DESCRIPTION:Eerste museale solotentoonstelling buiten China van Hailun Ma\
+ , met kleurrijke foto's van het dagelijks leven in Xinjiang.\nLooptijd: 18
+  sep 2026 t/m 20 jan 2027.\nhttps://www.foam.org/press/hailun-ma-hometown
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/press/hailun-ma-hometown
+END:VEVENT
+BEGIN:VEVENT
+UID:716cda3cb9e03e8e-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:■ Laatste dag: Foam: Hailun Ma – Hometown
+DESCRIPTION:Eerste museale solotentoonstelling buiten China van Hailun Ma\
+ , met kleurrijke foto's van het dagelijks leven in Xinjiang.\nLooptijd: 18
+  sep 2026 t/m 20 jan 2027.\nhttps://www.foam.org/press/hailun-ma-hometown
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/press/hailun-ma-hometown
+END:VEVENT
+BEGIN:VEVENT
+UID:cb150dbbccf23386-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:▶ Start: Foam: Nadav Kander – The Edge of Things
+DESCRIPTION:Overzichtstentoonstelling van de fotograaf Nadav Kander.\nLoop
+ tijd: 18 sep 2026 t/m 31 jan 2027.\nhttps://www.foam.org/press/nadav-kande
+ r-the-edge-of-things
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
+END:VEVENT
+BEGIN:VEVENT
+UID:cb150dbbccf23386-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:■ Laatste dag: Foam: Nadav Kander – The Edge of Things
+DESCRIPTION:Overzichtstentoonstelling van de fotograaf Nadav Kander.\nLoop
+ tijd: 18 sep 2026 t/m 31 jan 2027.\nhttps://www.foam.org/press/nadav-kande
+ r-the-edge-of-things
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
+END:VEVENT
+BEGIN:VEVENT
+UID:cf68ae053974c34c-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:▶ Start: Eye Filmmuseum: Ulrich Seidl – Über das Leben\, die 
+ Liebe und den Tod
+DESCRIPTION:Tentoonstelling over het werk van de Oostenrijkse filmmaker Ul
+ rich Seidl.\nLooptijd: 19 sep 2026 t/m 31 jan 2027.\nhttps://www.eyefilm.n
+ l/nl/tentoonstellingen
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.eyefilm.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:cf68ae053974c34c-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:■ Laatste dag: Eye Filmmuseum: Ulrich Seidl – Über das Leben\
+ , die Liebe und den Tod
+DESCRIPTION:Tentoonstelling over het werk van de Oostenrijkse filmmaker Ul
+ rich Seidl.\nLooptijd: 19 sep 2026 t/m 31 jan 2027.\nhttps://www.eyefilm.n
+ l/nl/tentoonstellingen
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.eyefilm.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:62a4294f452cffa8-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:▶ Start: Groninger Museum: Playing House. Een kunstbiënnale met
+  kinderen en jongeren
+DESCRIPTION:Kunstbiënnale gemaakt met kinderen en jongeren.\nLooptijd: 19
+  sep 2026 t/m 10 jan 2027.\nhttps://www.groningermuseum.nl/nl-NL/playing-h
+ ouse
+LOCATION:Groninger Museum\, Groningen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.groningermuseum.nl/nl-NL/playing-house
+END:VEVENT
+BEGIN:VEVENT
+UID:62a4294f452cffa8-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:■ Laatste dag: Groninger Museum: Playing House. Een kunstbiënna
+ le met kinderen en jongeren
+DESCRIPTION:Kunstbiënnale gemaakt met kinderen en jongeren.\nLooptijd: 19
+  sep 2026 t/m 10 jan 2027.\nhttps://www.groningermuseum.nl/nl-NL/playing-h
+ ouse
+LOCATION:Groninger Museum\, Groningen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.groningermuseum.nl/nl-NL/playing-house
+END:VEVENT
+BEGIN:VEVENT
+UID:beeadb5b6bef2d65-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:▶ Start: Groninger Museum: The Architect & the Housewife
+DESCRIPTION:Internationale groepstentoonstelling over huishoudelijk werk\,
+  zorg en kunstenaarschap.\nLooptijd: 19 sep 2026 t/m 9 mei 2027.\nhttps://
+ www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+LOCATION:Groninger Museum\, Groningen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+END:VEVENT
+BEGIN:VEVENT
+UID:beeadb5b6bef2d65-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:■ Laatste dag: Groninger Museum: The Architect & the Housewife
+DESCRIPTION:Internationale groepstentoonstelling over huishoudelijk werk\,
+  zorg en kunstenaarschap.\nLooptijd: 19 sep 2026 t/m 9 mei 2027.\nhttps://
+ www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+LOCATION:Groninger Museum\, Groningen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bf384b7b92e845-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:▶ Start: Kunstmuseum Den Haag: Tentoon Gesteld
+DESCRIPTION:Tentoonstelling in het kader van 160 jaar collectie van het Ku
+ nstmuseum.\nLooptijd: 19 sep 2026 t/m 23 mei 2027.\nhttps://www.kunstmuseu
+ m.nl/nl/tentoonstellingen
+LOCATION:Kunstmuseum Den Haag\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bf384b7b92e845-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Tentoon Gesteld
+DESCRIPTION:Tentoonstelling in het kader van 160 jaar collectie van het Ku
+ nstmuseum.\nLooptijd: 19 sep 2026 t/m 23 mei 2027.\nhttps://www.kunstmuseu
+ m.nl/nl/tentoonstellingen
+LOCATION:Kunstmuseum Den Haag\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:3a371e5cf03d13a9-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:▶ Start: Rembrandthuis: Experimenteerdrift
+DESCRIPTION:Ruim 80 werken op papier van Rembrandt tot Glenn Brown over vr
+ ij experimenteren met technieken en materialen.\nLooptijd: 19 sep 2026 t/m
+  3 jan 2027.\nhttps://www.rembrandthuis.nl/nl/over-ons/pers/programma
+LOCATION:Museum Het Rembrandthuis\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rembrandthuis.nl/nl/over-ons/pers/programma
+END:VEVENT
+BEGIN:VEVENT
+UID:3a371e5cf03d13a9-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:■ Laatste dag: Rembrandthuis: Experimenteerdrift
+DESCRIPTION:Ruim 80 werken op papier van Rembrandt tot Glenn Brown over vr
+ ij experimenteren met technieken en materialen.\nLooptijd: 19 sep 2026 t/m
+  3 jan 2027.\nhttps://www.rembrandthuis.nl/nl/over-ons/pers/programma
+LOCATION:Museum Het Rembrandthuis\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rembrandthuis.nl/nl/over-ons/pers/programma
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2436199d2e2386-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:▶ Start: Singer Laren: Herman Kruyder. Expressionist van de ziel
+DESCRIPTION:Eerste monografische tentoonstelling van Herman Kruyder in der
+ tig jaar.\nLooptijd: 23 sep 2026 t/m 14 feb 2027.\nhttps://www.museum.nl/n
+ l/singer-laren/tentoonstelling/herman-kruyder-expressionist-van-de-ziel
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
+ xpressionist-van-de-ziel
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2436199d2e2386-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:■ Laatste dag: Singer Laren: Herman Kruyder. Expressionist van d
+ e ziel
+DESCRIPTION:Eerste monografische tentoonstelling van Herman Kruyder in der
+ tig jaar.\nLooptijd: 23 sep 2026 t/m 14 feb 2027.\nhttps://www.museum.nl/n
+ l/singer-laren/tentoonstelling/herman-kruyder-expressionist-van-de-ziel
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
+ xpressionist-van-de-ziel
+END:VEVENT
+BEGIN:VEVENT
+UID:59b3c66167347421-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:▶ Start: Joods Museum: Abracadabra
+DESCRIPTION:Familietentoonstelling over de geschiedenis van goochelen en d
+ e rol van Joodse illusionisten zoals Houdini.\nLooptijd: 25 sep 2026 t/m 2
+ 9 mrt 2027.\nhttps://jck.nl/agenda/abracadabra
+LOCATION:Joods Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://jck.nl/agenda/abracadabra
+END:VEVENT
+BEGIN:VEVENT
+UID:59b3c66167347421-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:■ Laatste dag: Joods Museum: Abracadabra
+DESCRIPTION:Familietentoonstelling over de geschiedenis van goochelen en d
+ e rol van Joodse illusionisten zoals Houdini.\nLooptijd: 25 sep 2026 t/m 2
+ 9 mrt 2027.\nhttps://jck.nl/agenda/abracadabra
+LOCATION:Joods Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://jck.nl/agenda/abracadabra
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb8103098da634e-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:▶ Start: Kunsthal Rotterdam: A Chair and You
+DESCRIPTION:Designtentoonstelling rond de stoel.\nLooptijd: 25 sep 2026 t/
+ m 31 jan 2027.\nhttps://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellinge
+ n/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb8103098da634e-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:■ Laatste dag: Kunsthal Rotterdam: A Chair and You
+DESCRIPTION:Designtentoonstelling rond de stoel.\nLooptijd: 25 sep 2026 t/
+ m 31 jan 2027.\nhttps://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellinge
+ n/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ce05933d953d21a3-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:▶ Start: Kröller-Müller Museum: Bart van der Leck / Charley To
+ orop
+DESCRIPTION:Dubbelpresentatie van Bart van der Leck en Charley Toorop.\nLo
+ optijd: 26 sep 2026 t/m 1 sep 2027.\nhttps://www.krollermuller.nl/nl/nu-te
+ -doen/tentoonstellingen/bart-van-der-leck-charley-toorop
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bart-van-
+ der-leck-charley-toorop
+END:VEVENT
+BEGIN:VEVENT
+UID:ce05933d953d21a3-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:■ Laatste dag: Kröller-Müller Museum: Bart van der Leck / Char
+ ley Toorop
+DESCRIPTION:Dubbelpresentatie van Bart van der Leck en Charley Toorop.\nLo
+ optijd: 26 sep 2026 t/m 1 sep 2027.\nhttps://www.krollermuller.nl/nl/nu-te
+ -doen/tentoonstellingen/bart-van-der-leck-charley-toorop
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bart-van-
+ der-leck-charley-toorop
+END:VEVENT
+BEGIN:VEVENT
+UID:de0340dc257781b9-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:▶ Start: Museum De Lakenhal: Tuin der lusten – De zeventiende 
+ eeuw in bloei
+DESCRIPTION:Tentoonstelling over tuinen en bloemen in de zeventiende eeuw.
+ \nLooptijd: 26 sep 2026 t/m 29 mrt 2027.\nhttps://www.lakenhal.nl/nl/verha
+ al/tuin-der-lusten
+LOCATION:Museum De Lakenhal\, Leiden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.lakenhal.nl/nl/verhaal/tuin-der-lusten
+END:VEVENT
+BEGIN:VEVENT
+UID:de0340dc257781b9-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:■ Laatste dag: Museum De Lakenhal: Tuin der lusten – De zevent
+ iende eeuw in bloei
+DESCRIPTION:Tentoonstelling over tuinen en bloemen in de zeventiende eeuw.
+ \nLooptijd: 26 sep 2026 t/m 29 mrt 2027.\nhttps://www.lakenhal.nl/nl/verha
+ al/tuin-der-lusten
+LOCATION:Museum De Lakenhal\, Leiden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.lakenhal.nl/nl/verhaal/tuin-der-lusten
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5b9acb1ab0333a-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:▶ Start: Van Gogh Museum: Yoshitoshi. Meester van de maan
+DESCRIPTION:Presentatie van Tsukioka Yoshitoshi's Japanse prentenreeks 'Ho
+ nderd aanzichten van de maan'.\nLooptijd: 1 okt 2026 t/m 4 jan 2027.\nhttp
+ s://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yoshitoshi-
+ master-of-the-moon-on-display-at-the-van-gogh-museum
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
+ hitoshi-master-of-the-moon-on-display-at-the-van-gogh-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5b9acb1ab0333a-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:■ Laatste dag: Van Gogh Museum: Yoshitoshi. Meester van de maan
+DESCRIPTION:Presentatie van Tsukioka Yoshitoshi's Japanse prentenreeks 'Ho
+ nderd aanzichten van de maan'.\nLooptijd: 1 okt 2026 t/m 4 jan 2027.\nhttp
+ s://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yoshitoshi-
+ master-of-the-moon-on-display-at-the-van-gogh-museum
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
+ hitoshi-master-of-the-moon-on-display-at-the-van-gogh-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:9c07a99240f5d3b6-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:▶ Start: Teylers Museum: Zeker weten? Hoe wetenschap werkt
+DESCRIPTION:Interactieve tentoonstelling over de basisprincipes van wetens
+ chappelijk onderzoek.\nLooptijd: 2 okt 2026 t/m 29 aug 2027.\nhttps://teyl
+ ersmuseum.nl/nl/zien-en-doen/zeker-weten
+LOCATION:Teylers Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://teylersmuseum.nl/nl/zien-en-doen/zeker-weten
+END:VEVENT
+BEGIN:VEVENT
+UID:9c07a99240f5d3b6-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:■ Laatste dag: Teylers Museum: Zeker weten? Hoe wetenschap werkt
+DESCRIPTION:Interactieve tentoonstelling over de basisprincipes van wetens
+ chappelijk onderzoek.\nLooptijd: 2 okt 2026 t/m 29 aug 2027.\nhttps://teyl
+ ersmuseum.nl/nl/zien-en-doen/zeker-weten
+LOCATION:Teylers Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://teylersmuseum.nl/nl/zien-en-doen/zeker-weten
+END:VEVENT
+BEGIN:VEVENT
+UID:11bc14b206f91c1d-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:▶ Start: H'ART Museum: Chez Matisse – meesterwerken uit het Ce
+ ntre Pompidou
+DESCRIPTION:Tentoonstelling met meesterwerken van Henri Matisse uit de col
+ lectie van het Centre Pompidou.\nLooptijd: 3 okt 2026 t/m 14 feb 2027.\nht
+ tps://www.hartmuseum.nl/en/exhibitions/
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hartmuseum.nl/en/exhibitions/
+END:VEVENT
+BEGIN:VEVENT
+UID:11bc14b206f91c1d-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:■ Laatste dag: H'ART Museum: Chez Matisse – meesterwerken uit 
+ het Centre Pompidou
+DESCRIPTION:Tentoonstelling met meesterwerken van Henri Matisse uit de col
+ lectie van het Centre Pompidou.\nLooptijd: 3 okt 2026 t/m 14 feb 2027.\nht
+ tps://www.hartmuseum.nl/en/exhibitions/
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hartmuseum.nl/en/exhibitions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef01b6242d5e77f3-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:▶ Start: Kunsthal Rotterdam: Plastic Sea\, Perfect Storm
+DESCRIPTION:Tentoonstelling over plastic en de zee.\nLooptijd: 3 okt 2026 
+ t/m 7 mrt 2027.\nhttps://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstelling
+ en/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef01b6242d5e77f3-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Plastic Sea\, Perfect Storm
+DESCRIPTION:Tentoonstelling over plastic en de zee.\nLooptijd: 3 okt 2026 
+ t/m 7 mrt 2027.\nhttps://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstelling
+ en/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:26b9fd394bff1302-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Marisol
+DESCRIPTION:Eerste grote Europese overzichtstentoonstelling van popart-ico
+ on Marisol\, met ruim zeventig bruiklenen.\nLooptijd: 9 okt 2026 t/m 29 mr
+ t 2027.\nhttps://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beunin
+ gen/tentoonstelling/marisol
+LOCATION:Depot Boijmans Van Beuningen\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
+ entoonstelling/marisol
+END:VEVENT
+BEGIN:VEVENT
+UID:26b9fd394bff1302-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Marisol
+DESCRIPTION:Eerste grote Europese overzichtstentoonstelling van popart-ico
+ on Marisol\, met ruim zeventig bruiklenen.\nLooptijd: 9 okt 2026 t/m 29 mr
+ t 2027.\nhttps://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beunin
+ gen/tentoonstelling/marisol
+LOCATION:Depot Boijmans Van Beuningen\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
+ entoonstelling/marisol
+END:VEVENT
+BEGIN:VEVENT
+UID:29f640695f137c72-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:▶ Start: Rijksmuseum: Document Nederland – Nieuwe Energie
+DESCRIPTION:Fotografieopdracht Document Nederland\, door Kadir van Lohuize
+ n\, over de energietransitie in Nederland.\nLooptijd: 9 okt 2026 t/m 17 ja
+ n 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/programme/stor
+ y/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:29f640695f137c72-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Rijksmuseum: Document Nederland – Nieuwe Energi
+ e
+DESCRIPTION:Fotografieopdracht Document Nederland\, door Kadir van Lohuize
+ n\, over de energietransitie in Nederland.\nLooptijd: 9 okt 2026 t/m 17 ja
+ n 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/programme/stor
+ y/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb611a19d3e1804-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:▶ Start: Rijksmuseum: Willem de Kooning at Work
+DESCRIPTION:Grote overzichtstentoonstelling van de tekeningen van Willem d
+ e Kooning\, aangevuld met schilderijen en sculpturen.\nLooptijd: 9 okt 202
+ 6 t/m 17 jan 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb611a19d3e1804-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Rijksmuseum: Willem de Kooning at Work
+DESCRIPTION:Grote overzichtstentoonstelling van de tekeningen van Willem d
+ e Kooning\, aangevuld met schilderijen en sculpturen.\nLooptijd: 9 okt 202
+ 6 t/m 17 jan 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4e74d13dc65822-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:▶ Start: Scheepvaartmuseum: Atlantisch Venster IV – Sedrig Ver
+ woert\, Strange Fruit 2.0
+DESCRIPTION:Presentatie van choreograaf Sedrig Verwoert over dans in de di
+ aspora\, met de dansfilm Strange Fruit 2.0.\nLooptijd: 9 okt 2026 t/m 4 ap
+ r 2027.\nhttps://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/sedrig
+ -verwoert
+LOCATION:Het Scheepvaartmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/sedrig-verw
+ oert
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4e74d13dc65822-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:■ Laatste dag: Scheepvaartmuseum: Atlantisch Venster IV – Sedr
+ ig Verwoert\, Strange Fruit 2.0
+DESCRIPTION:Presentatie van choreograaf Sedrig Verwoert over dans in de di
+ aspora\, met de dansfilm Strange Fruit 2.0.\nLooptijd: 9 okt 2026 t/m 4 ap
+ r 2027.\nhttps://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/sedrig
+ -verwoert
+LOCATION:Het Scheepvaartmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/sedrig-verw
+ oert
+END:VEVENT
+BEGIN:VEVENT
+UID:ccddcd2a8dc6593d-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:▶ Start: Centraal Museum: Graffiti
+DESCRIPTION:Ruim 120 werken van zo'n zeventig kunstenaars over de wisselwe
+ rking tussen graffiti en hedendaagse kunst.\nLooptijd: 10 okt 2026 t/m 29 
+ mrt 2027.\nhttps://www.centraalmuseum.nl/tentoonstellingen/graffiti
+LOCATION:Centraal Museum\, Utrecht
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.centraalmuseum.nl/tentoonstellingen/graffiti
+END:VEVENT
+BEGIN:VEVENT
+UID:ccddcd2a8dc6593d-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:■ Laatste dag: Centraal Museum: Graffiti
+DESCRIPTION:Ruim 120 werken van zo'n zeventig kunstenaars over de wisselwe
+ rking tussen graffiti en hedendaagse kunst.\nLooptijd: 10 okt 2026 t/m 29 
+ mrt 2027.\nhttps://www.centraalmuseum.nl/tentoonstellingen/graffiti
+LOCATION:Centraal Museum\, Utrecht
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.centraalmuseum.nl/tentoonstellingen/graffiti
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a6be331c3516a6-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:▶ Start: Museum Arnhem: De wereld uitvergroot
+DESCRIPTION:Grote installaties en topstukken uit de collectie rond gedeeld
+ e menselijkheid.\nLooptijd: 10 okt 2026 t/m 11 apr 2027.\nhttps://www.muse
+ um.nl/nl/museum-arnhem/tentoonstelling/de-wereld-uitvergroot
+LOCATION:Museum Arnhem\, Arnhem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/museum-arnhem/tentoonstelling/de-wereld-uitve
+ rgroot
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a6be331c3516a6-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:■ Laatste dag: Museum Arnhem: De wereld uitvergroot
+DESCRIPTION:Grote installaties en topstukken uit de collectie rond gedeeld
+ e menselijkheid.\nLooptijd: 10 okt 2026 t/m 11 apr 2027.\nhttps://www.muse
+ um.nl/nl/museum-arnhem/tentoonstelling/de-wereld-uitvergroot
+LOCATION:Museum Arnhem\, Arnhem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/museum-arnhem/tentoonstelling/de-wereld-uitve
+ rgroot
+END:VEVENT
+BEGIN:VEVENT
+UID:3311d06cc47c5996-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:▶ Start: Scheepvaartmuseum: Stephan Vanfleteren – Transcripts 
+ of a Sea
+DESCRIPTION:Fototentoonstelling van Stephan Vanfleteren over de zee langs 
+ de kust van Noord-Frankrijk tot Zuid-Nederland.\nLooptijd: 10 okt 2026 t/m
+  4 apr 2027.\nhttps://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/s
+ tephan-vanfleteren
+LOCATION:Het Scheepvaartmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/stephan-van
+ fleteren
+END:VEVENT
+BEGIN:VEVENT
+UID:3311d06cc47c5996-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:■ Laatste dag: Scheepvaartmuseum: Stephan Vanfleteren – Transc
+ ripts of a Sea
+DESCRIPTION:Fototentoonstelling van Stephan Vanfleteren over de zee langs 
+ de kust van Noord-Frankrijk tot Zuid-Nederland.\nLooptijd: 10 okt 2026 t/m
+  4 apr 2027.\nhttps://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/s
+ tephan-vanfleteren
+LOCATION:Het Scheepvaartmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/stephan-van
+ fleteren
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b680dd1a58901d-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:▶ Start: Stedelijk Museum: Adam Pendleton – Some Wild Kind of 
+ Language
+DESCRIPTION:Grote solotentoonstelling van de Amerikaanse kunstenaar Adam P
+ endleton over taal\, abstractie en Black Dada.\nLooptijd: 10 okt 2026 t/m 
+ 17 jan 2027.\nhttps://www.wallpaper.com/art/exhibitions-shows/adam-pendlet
+ on-interview-stedelijk-museum-amsterdam
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
+ ew-stedelijk-museum-amsterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b680dd1a58901d-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Stedelijk Museum: Adam Pendleton – Some Wild Ki
+ nd of Language
+DESCRIPTION:Grote solotentoonstelling van de Amerikaanse kunstenaar Adam P
+ endleton over taal\, abstractie en Black Dada.\nLooptijd: 10 okt 2026 t/m 
+ 17 jan 2027.\nhttps://www.wallpaper.com/art/exhibitions-shows/adam-pendlet
+ on-interview-stedelijk-museum-amsterdam
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
+ ew-stedelijk-museum-amsterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:e4027eb7a722851a-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:▶ Start: Mauritshuis: Thyssen-Bornemisza ❤️ Mauritshuis – 
+ Meesterwerken uit Madrid
+DESCRIPTION:Vijfentwintig topstukken uit het Museo Thyssen-Bornemisza in M
+ adrid te gast in Den Haag.\nLooptijd: 15 okt 2026 t/m 17 jan 2027.\nhttps:
+ //www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornemisza
+LOCATION:Mauritshuis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornem
+ isza
+END:VEVENT
+BEGIN:VEVENT
+UID:e4027eb7a722851a-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Mauritshuis: Thyssen-Bornemisza ❤️ Mauritshui
+ s – Meesterwerken uit Madrid
+DESCRIPTION:Vijfentwintig topstukken uit het Museo Thyssen-Bornemisza in M
+ adrid te gast in Den Haag.\nLooptijd: 15 okt 2026 t/m 17 jan 2027.\nhttps:
+ //www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornemisza
+LOCATION:Mauritshuis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornem
+ isza
+END:VEVENT
+BEGIN:VEVENT
+UID:de6189c3ba669ad3-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:▶ Start: Amsterdam Museum: Plantage aan de gracht – verhalen v
+ an mens en macht
+DESCRIPTION:Tentoonstelling in Huis Willet-Holthuysen over de banden tusse
+ n grachtenpanden en de koloniale plantage-economie.\nLooptijd: 16 okt 2026
+  t/m 4 apr 2027.\nhttps://www.amsterdammuseum.nl/tentoonstellingen
+LOCATION:Huis Willet-Holthuysen (Amsterdam Museum)\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.amsterdammuseum.nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:de6189c3ba669ad3-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:■ Laatste dag: Amsterdam Museum: Plantage aan de gracht – verh
+ alen van mens en macht
+DESCRIPTION:Tentoonstelling in Huis Willet-Holthuysen over de banden tusse
+ n grachtenpanden en de koloniale plantage-economie.\nLooptijd: 16 okt 2026
+  t/m 4 apr 2027.\nhttps://www.amsterdammuseum.nl/tentoonstellingen
+LOCATION:Huis Willet-Holthuysen (Amsterdam Museum)\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.amsterdammuseum.nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:05bb86258ef23add-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:▶ Start: Van Gogh Museum: Whistler. Dandy en dwarsdenker
+DESCRIPTION:Grote tentoonstelling over James McNeill Whistler\, samen met 
+ De Mesdag Collectie en Tate Britain.\nLooptijd: 16 okt 2026 t/m 10 jan 202
+ 7.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:05bb86258ef23add-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:■ Laatste dag: Van Gogh Museum: Whistler. Dandy en dwarsdenker
+DESCRIPTION:Grote tentoonstelling over James McNeill Whistler\, samen met 
+ De Mesdag Collectie en Tate Britain.\nLooptijd: 16 okt 2026 t/m 10 jan 202
+ 7.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:72d9316627350b17-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:▶ Start: Drents Museum: Angkor: het mysterie van Cambodja
+DESCRIPTION:Voor het eerst in Europa: beelden en objecten uit Angkor\, de 
+ hoofdstad van het Khmerrijk.\nLooptijd: 17 okt 2026 t/m 9 mei 2027.\nhttps
+ ://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-cambodja
+LOCATION:Drents Museum\, Assen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
+ odja
+END:VEVENT
+BEGIN:VEVENT
+UID:72d9316627350b17-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:■ Laatste dag: Drents Museum: Angkor: het mysterie van Cambodja
+DESCRIPTION:Voor het eerst in Europa: beelden en objecten uit Angkor\, de 
+ hoofdstad van het Khmerrijk.\nLooptijd: 17 okt 2026 t/m 9 mei 2027.\nhttps
+ ://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-cambodja
+LOCATION:Drents Museum\, Assen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
+ odja
+END:VEVENT
+BEGIN:VEVENT
+UID:f43d8b0e64f1f5cc-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:▶ Start: Van Abbemuseum: Museum als Zonnewijzer
+DESCRIPTION:Kunst\, design\, archeologie en spel rond de zonnewijzer in de
+  Oudbouw.\nLooptijd: 17 okt 2026 t/m 21 feb 2027.\nhttps://vanabbemuseum.n
+ l/nl/zien-en-doen/tentoonstellingen/museum-als-zonnewijzer
+LOCATION:Van Abbemuseum\, Eindhoven
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://vanabbemuseum.nl/nl/zien-en-doen/tentoonstellingen/museum-als-
+ zonnewijzer
+END:VEVENT
+BEGIN:VEVENT
+UID:f43d8b0e64f1f5cc-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:■ Laatste dag: Van Abbemuseum: Museum als Zonnewijzer
+DESCRIPTION:Kunst\, design\, archeologie en spel rond de zonnewijzer in de
+  Oudbouw.\nLooptijd: 17 okt 2026 t/m 21 feb 2027.\nhttps://vanabbemuseum.n
+ l/nl/zien-en-doen/tentoonstellingen/museum-als-zonnewijzer
+LOCATION:Van Abbemuseum\, Eindhoven
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://vanabbemuseum.nl/nl/zien-en-doen/tentoonstellingen/museum-als-
+ zonnewijzer
+END:VEVENT
+BEGIN:VEVENT
+UID:24473fa4c16c2a22-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:▶ Start: Foam: Myriam Boulos – A Collective Diary: Sexual Fant
+ asies
+DESCRIPTION:Eerste museale solo van de Libanese fotograaf Myriam Boulos\, 
+ winnaar van de Foam Paul Huf Award\, over verlangen en macht.\nLooptijd: 2
+ 3 okt 2026 t/m 20 jan 2027.\nhttps://www.foam.org/events/myriam-boulos
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/events/myriam-boulos
+END:VEVENT
+BEGIN:VEVENT
+UID:24473fa4c16c2a22-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:■ Laatste dag: Foam: Myriam Boulos – A Collective Diary: Sexua
+ l Fantasies
+DESCRIPTION:Eerste museale solo van de Libanese fotograaf Myriam Boulos\, 
+ winnaar van de Foam Paul Huf Award\, over verlangen en macht.\nLooptijd: 2
+ 3 okt 2026 t/m 20 jan 2027.\nhttps://www.foam.org/events/myriam-boulos
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/events/myriam-boulos
+END:VEVENT
+BEGIN:VEVENT
+UID:4e4f11836a6dbf68-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:▶ Start: Huis Marseille: Adolphe de Meyer – De essentie van ee
+ n Venetiaanse droom
+DESCRIPTION:Tentoonstelling van picturalistisch fotograaf Adolphe de Meyer
+ .\nLooptijd: 24 okt 2026 t/m 7 feb 2027.\nhttps://www.huismarseille.nl/ten
+ toonstellingen/
+LOCATION:Huis Marseille\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.huismarseille.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:4e4f11836a6dbf68-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:■ Laatste dag: Huis Marseille: Adolphe de Meyer – De essentie 
+ van een Venetiaanse droom
+DESCRIPTION:Tentoonstelling van picturalistisch fotograaf Adolphe de Meyer
+ .\nLooptijd: 24 okt 2026 t/m 7 feb 2027.\nhttps://www.huismarseille.nl/ten
+ toonstellingen/
+LOCATION:Huis Marseille\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.huismarseille.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:3509b60b0ce1afe8-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:▶ Start: Huis Marseille: Andrzej Steinbach – Hier / Maya Inès
+  Touam – Belongings
+DESCRIPTION:Twee parallelle fotopresentaties van Andrzej Steinbach en Maya
+  Inès Touam.\nLooptijd: 24 okt 2026 t/m 7 feb 2027.\nhttps://www.huismars
+ eille.nl/tentoonstellingen/
+LOCATION:Huis Marseille\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.huismarseille.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:3509b60b0ce1afe8-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:■ Laatste dag: Huis Marseille: Andrzej Steinbach – Hier / Maya
+  Inès Touam – Belongings
+DESCRIPTION:Twee parallelle fotopresentaties van Andrzej Steinbach en Maya
+  Inès Touam.\nLooptijd: 24 okt 2026 t/m 7 feb 2027.\nhttps://www.huismars
+ eille.nl/tentoonstellingen/
+LOCATION:Huis Marseille\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.huismarseille.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:75d84604bd7e8c53-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:▶ Start: Kunsthal Rotterdam: Signac\, Symphony of Colours
+DESCRIPTION:Overzicht van het kleurrijke pointillistische werk van Paul Si
+ gnac.\nLooptijd: 24 okt 2026 t/m 28 feb 2027.\nhttps://www.kunsthal.nl/nl/
+ plan-je-bezoek/tentoonstellingen/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:75d84604bd7e8c53-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Signac\, Symphony of Colours
+DESCRIPTION:Overzicht van het kleurrijke pointillistische werk van Paul Si
+ gnac.\nLooptijd: 24 okt 2026 t/m 28 feb 2027.\nhttps://www.kunsthal.nl/nl/
+ plan-je-bezoek/tentoonstellingen/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:3647c548e7c8d839@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+SUMMARY:PAN Amsterdam 2026
+DESCRIPTION:Beurs voor kunst\, antiek en design in de RAI.\nLooptijd: 1 no
+ v 2026 t/m 8 nov 2026.\nhttps://www.pan.nl/media/panmedia/pressrelease/Sav
+ etheDatevoorPANAmsterdam2026_T639209082277382787.pdf
+LOCATION:RAI Amsterdam\, Hal 8\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.pan.nl/media/panmedia/pressrelease/SavetheDatevoorPANAmste
+ rdam2026_T639209082277382787.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:7a55488586257bec-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:▶ Start: Frans Hals Museum: Hals-Rembrandt
+DESCRIPTION:Portretten van Frans Hals en Rembrandt in paren naast elkaar\;
+  reserveren verplicht.\nLooptijd: 6 nov 2026 t/m 28 feb 2027.\nhttps://fra
+ nshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+END:VEVENT
+BEGIN:VEVENT
+UID:7a55488586257bec-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:■ Laatste dag: Frans Hals Museum: Hals-Rembrandt
+DESCRIPTION:Portretten van Frans Hals en Rembrandt in paren naast elkaar\;
+  reserveren verplicht.\nLooptijd: 6 nov 2026 t/m 28 feb 2027.\nhttps://fra
+ nshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf4b1144117d000@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Museumnacht Amsterdam (N8) 2026
+DESCRIPTION:Eén nacht lang zijn tientallen Amsterdamse musea open met spe
+ ciale programma's.\nhttps://museumnacht.amsterdam
+LOCATION:Diverse musea\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://museumnacht.amsterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:46ef9fd5c0bfd089-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:▶ Start: Bonnefanten: Cooking from the Fridge (datum o.v.)
+DESCRIPTION:270 werken uit de collecties van Het Domein\, SCHUNCK en Bonne
+ fanten\, gekozen door 27 gastcuratoren.\nLet op: datum is een inschatting 
+ op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 11 nov 2026
+  t/m 12 sep 2027.\nhttps://www.bonnefanten.nl/en/exhibitions/cooking-from-
+ the-fridge
+LOCATION:Bonnefanten\, Maastricht
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.bonnefanten.nl/en/exhibitions/cooking-from-the-fridge
+END:VEVENT
+BEGIN:VEVENT
+UID:46ef9fd5c0bfd089-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:■ Laatste dag: Bonnefanten: Cooking from the Fridge (datum o.v.)
+DESCRIPTION:270 werken uit de collecties van Het Domein\, SCHUNCK en Bonne
+ fanten\, gekozen door 27 gastcuratoren.\nLet op: datum is een inschatting 
+ op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 11 nov 2026
+  t/m 12 sep 2027.\nhttps://www.bonnefanten.nl/en/exhibitions/cooking-from-
+ the-fridge
+LOCATION:Bonnefanten\, Maastricht
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.bonnefanten.nl/en/exhibitions/cooking-from-the-fridge
+END:VEVENT
+BEGIN:VEVENT
+UID:fc2e2a147e60c5c5-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:▶ Start: Rembrandthuis: Rembrandt Open Studio
+DESCRIPTION:Presentatie waarin het atelier van Rembrandt als open werkplaa
+ ts centraal staat.\nLooptijd: 13 nov 2026 t/m 10 jan 2027.\nhttps://www.re
+ mbrandthuis.nl/nl/over-ons/pers/programma
+LOCATION:Museum Het Rembrandthuis\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rembrandthuis.nl/nl/over-ons/pers/programma
+END:VEVENT
+BEGIN:VEVENT
+UID:fc2e2a147e60c5c5-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:■ Laatste dag: Rembrandthuis: Rembrandt Open Studio
+DESCRIPTION:Presentatie waarin het atelier van Rembrandt als open werkplaa
+ ts centraal staat.\nLooptijd: 13 nov 2026 t/m 10 jan 2027.\nhttps://www.re
+ mbrandthuis.nl/nl/over-ons/pers/programma
+LOCATION:Museum Het Rembrandthuis\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rembrandthuis.nl/nl/over-ons/pers/programma
+END:VEVENT
+BEGIN:VEVENT
+UID:ede21e3df956d7f2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+SUMMARY:Amsterdam Art Week 2026
+DESCRIPTION:Week vol hedendaagse kunst met openingen en programma's in gal
+ eries en kunstinstellingen.\nLooptijd: 18 nov 2026 t/m 22 nov 2026.\nhttps
+ ://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-terug-naar
+ -november
+LOCATION:Diverse galeries en instellingen\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-t
+ erug-naar-november
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b463b09d29ef20-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:▶ Start: Amsterdam Light Festival 2026-2027
+DESCRIPTION:Vijftiende editie van het lichtkunstfestival langs de Amsterda
+ mse grachten.\nLooptijd: 26 nov 2026 t/m 17 jan 2027.\nhttps://blog.wego.c
+ om/amsterdam-light-festival/
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://blog.wego.com/amsterdam-light-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b463b09d29ef20-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Amsterdam Light Festival 2026-2027
+DESCRIPTION:Vijftiende editie van het lichtkunstfestival langs de Amsterda
+ mse grachten.\nLooptijd: 26 nov 2026 t/m 17 jan 2027.\nhttps://blog.wego.c
+ om/amsterdam-light-festival/
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://blog.wego.com/amsterdam-light-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:24f123120ef12cb2-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:▶ Start: Museum De Lakenhal: Marjolein van Haasteren – Tussen 
+ zoet en zout
+DESCRIPTION:Presentatie van kunstenaar Marjolein van Haasteren.\nLooptijd:
+  26 nov 2026 t/m 28 feb 2027.\nhttps://www.lakenhal.nl/nl/verhaal/marjolei
+ n-van-haasteren-tussen-zoet-en-zout
+LOCATION:Museum De Lakenhal\, Leiden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.lakenhal.nl/nl/verhaal/marjolein-van-haasteren-tussen-zoet
+ -en-zout
+END:VEVENT
+BEGIN:VEVENT
+UID:24f123120ef12cb2-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:■ Laatste dag: Museum De Lakenhal: Marjolein van Haasteren – T
+ ussen zoet en zout
+DESCRIPTION:Presentatie van kunstenaar Marjolein van Haasteren.\nLooptijd:
+  26 nov 2026 t/m 28 feb 2027.\nhttps://www.lakenhal.nl/nl/verhaal/marjolei
+ n-van-haasteren-tussen-zoet-en-zout
+LOCATION:Museum De Lakenhal\, Leiden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.lakenhal.nl/nl/verhaal/marjolein-van-haasteren-tussen-zoet
+ -en-zout
+END:VEVENT
+BEGIN:VEVENT
+UID:5838589dc272e02b-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:▶ Start: Rijksmuseum van Oudheden: Echo's van oud Egypte
+DESCRIPTION:Tentoonstelling over de doorwerking van het oude Egypte.\nLoop
+ tijd: 11 dec 2026 t/m 27 jun 2027.\nhttps://www.rmo.nl/tentoonstellingen/
+LOCATION:Rijksmuseum van Oudheden\, Leiden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rmo.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:5838589dc272e02b-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Rijksmuseum van Oudheden: Echo's van oud Egypte
+DESCRIPTION:Tentoonstelling over de doorwerking van het oude Egypte.\nLoop
+ tijd: 11 dec 2026 t/m 27 jun 2027.\nhttps://www.rmo.nl/tentoonstellingen/
+LOCATION:Rijksmuseum van Oudheden\, Leiden
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rmo.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:9057deb25fab6095-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:▶ Start: Kröller-Müller Museum: Birds of a Feather
+DESCRIPTION:Nieuwe tentoonstelling in 2027.\nLooptijd: 23 jan 2027 t/m 5 s
+ ep 2027.\nhttps://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bir
+ ds-of-a-feather
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/birds-of-
+ a-feather
+END:VEVENT
+BEGIN:VEVENT
+UID:9057deb25fab6095-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:■ Laatste dag: Kröller-Müller Museum: Birds of a Feather
+DESCRIPTION:Nieuwe tentoonstelling in 2027.\nLooptijd: 23 jan 2027 t/m 5 s
+ ep 2027.\nhttps://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bir
+ ds-of-a-feather
+LOCATION:Kröller-Müller Museum\, Otterlo
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/birds-of-
+ a-feather
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f3bdb8fbb2f316-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:▶ Start: Rijksmuseum: Drawing!
+DESCRIPTION:Grote tentoonstelling over de kunst van het tekenen\, in samen
+ werking met The Morgan Library & Museum in New York.\nLooptijd: 12 feb 202
+ 7 t/m 23 mei 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f3bdb8fbb2f316-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:■ Laatste dag: Rijksmuseum: Drawing!
+DESCRIPTION:Grote tentoonstelling over de kunst van het tekenen\, in samen
+ werking met The Morgan Library & Museum in New York.\nLooptijd: 12 feb 202
+ 7 t/m 23 mei 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:f90a1201f1ba69ee-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:▶ Start: Van Gogh Museum: Eva Gonzalès
+DESCRIPTION:Retrospectief van de impressionistische schilder Eva Gonzalès
+ \, in samenwerking met het Petit Palais in Parijs.\nLooptijd: 12 feb 2027 
+ t/m 20 jun 2027.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:f90a1201f1ba69ee-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:■ Laatste dag: Van Gogh Museum: Eva Gonzalès
+DESCRIPTION:Retrospectief van de impressionistische schilder Eva Gonzalès
+ \, in samenwerking met het Petit Palais in Parijs.\nLooptijd: 12 feb 2027 
+ t/m 20 jun 2027.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:f58b0a33f0023d67-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:▶ Start: Mauritshuis: De Stier
+DESCRIPTION:Tentoonstelling rond Paulus Potters beroemde schilderij De Sti
+ er.\nLooptijd: 4 mrt 2027 t/m 27 jun 2027.\nhttps://www.mauritshuis.nl/nu-
+ te-doen/tentoonstellingen
+LOCATION:Mauritshuis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:f58b0a33f0023d67-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Mauritshuis: De Stier
+DESCRIPTION:Tentoonstelling rond Paulus Potters beroemde schilderij De Sti
+ er.\nLooptijd: 4 mrt 2027 t/m 27 jun 2027.\nhttps://www.mauritshuis.nl/nu-
+ te-doen/tentoonstellingen
+LOCATION:Mauritshuis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf01be58a5110dd-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:▶ Start: Stedelijk Museum: Luc Tuymans – Silent Music
+DESCRIPTION:Tentoonstelling van de Belgische schilder Luc Tuymans.\nLoopti
+ jd: 6 mrt 2027 t/m 11 jul 2027.\nhttps://www.davidzwirner.com/news/2026/lu
+ c-tuymans-silent-music
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf01be58a5110dd-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:■ Laatste dag: Stedelijk Museum: Luc Tuymans – Silent Music
+DESCRIPTION:Tentoonstelling van de Belgische schilder Luc Tuymans.\nLoopti
+ jd: 6 mrt 2027 t/m 11 jul 2027.\nhttps://www.davidzwirner.com/news/2026/lu
+ c-tuymans-silent-music
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
+END:VEVENT
+BEGIN:VEVENT
+UID:df0a6dfc04eab759-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:▶ Start: H'ART Museum: Feminine Power (met British Museum) (datu
+ m o.v.)
+DESCRIPTION:Tentoonstelling met het British Museum over vrouwelijke kracht
+  in religie: godinnen\, heksen\, heiligen en geesten.\nLet op: datum is ee
+ n inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptij
+ d: 13 mrt 2027 t/m 29 aug 2027.\nhttps://www.hermitage.nl/documents/305/NL
+ _Persbericht___Programma_HART_Museum_2024__2028_bekend_def.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:df0a6dfc04eab759-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:■ Laatste dag: H'ART Museum: Feminine Power (met British Museum)
+  (datum o.v.)
+DESCRIPTION:Tentoonstelling met het British Museum over vrouwelijke kracht
+  in religie: godinnen\, heksen\, heiligen en geesten.\nLet op: datum is ee
+ n inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptij
+ d: 13 mrt 2027 t/m 29 aug 2027.\nhttps://www.hermitage.nl/documents/305/NL
+ _Persbericht___Programma_HART_Museum_2024__2028_bekend_def.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bb56cf6f7cdb04b7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270319
+SUMMARY:TEFAF Maastricht 2027
+DESCRIPTION:Toonaangevende kunst- en antiekbeurs van de wereld.\nLooptijd:
+  13 mrt 2027 t/m 18 mrt 2027.\nhttps://www.expolista.com/tradeshows/tefaf-
+ maastricht/2027
+LOCATION:MECC Maastricht\, Maastricht
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.expolista.com/tradeshows/tefaf-maastricht/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:e4dcd81b723c7627@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:Unseen 2027 (datum o.v.)
+DESCRIPTION:Fotografiebeurs Unseen\, sinds 2026 in maart naast Art Rotterd
+ am in Ahoy\; data nog niet officieel bevestigd.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 18 
+ mrt 2027 t/m 21 mrt 2027.\nhttps://www.cantonfair.net/updated-information/
+ unseen-amsterdam-2027-march-amsterdam-will-be-from-2027-03-18
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
+ arch-amsterdam-will-be-from-2027-03-18
+END:VEVENT
+BEGIN:VEVENT
+UID:98360cc12cabc9b9@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Art Rotterdam 2027 (datum o.v.)
+DESCRIPTION:Kunstbeurs voor hedendaagse kunst\; data uit een beurskalender
+ \, nog niet officieel bevestigd.\nLet op: datum is een inschatting op basi
+ s van eerdere edities en nog niet bevestigd.\nLooptijd: 19 mrt 2027 t/m 21
+  mrt 2027.\nhttps://www.cantonfair.net/updated-information/art-rotterdam-2
+ 027-march-rotterdam-is-scheduled-for
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.cantonfair.net/updated-information/art-rotterdam-2027-marc
+ h-rotterdam-is-scheduled-for
+END:VEVENT
+BEGIN:VEVENT
+UID:2676e1e071c2edbd-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:▶ Start: Museum Voorlinden: Olafur Eliasson
+DESCRIPTION:Grote solotentoonstelling van de Deens-IJslandse kunstenaar Ol
+ afur Eliasson.\nLooptijd: 20 mrt 2027 t/m 5 sep 2027.\nhttps://www.voorlin
+ den.nl/tentoonstellingen/
+LOCATION:Museum Voorlinden\, Wassenaar
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.voorlinden.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:2676e1e071c2edbd-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:■ Laatste dag: Museum Voorlinden: Olafur Eliasson
+DESCRIPTION:Grote solotentoonstelling van de Deens-IJslandse kunstenaar Ol
+ afur Eliasson.\nLooptijd: 20 mrt 2027 t/m 5 sep 2027.\nhttps://www.voorlin
+ den.nl/tentoonstellingen/
+LOCATION:Museum Voorlinden\, Wassenaar
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.voorlinden.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d77eef93a3f8982-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:▶ Start: Stedelijk Museum: Ibrahim Mahama – Zilijifa
+DESCRIPTION:Solotentoonstelling van de Ghanese kunstenaar Ibrahim Mahama\,
+  bekend van zijn grootschalige installaties met jutezakken.\nLooptijd: 27 
+ mrt 2027 t/m 1 aug 2027.\nhttps://artotel.com/en/newsfeed/amsterdam-2026-a
+ -curated-art-calendar/
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d77eef93a3f8982-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:■ Laatste dag: Stedelijk Museum: Ibrahim Mahama – Zilijifa
+DESCRIPTION:Solotentoonstelling van de Ghanese kunstenaar Ibrahim Mahama\,
+  bekend van zijn grootschalige installaties met jutezakken.\nLooptijd: 27 
+ mrt 2027 t/m 1 aug 2027.\nhttps://artotel.com/en/newsfeed/amsterdam-2026-a
+ -curated-art-calendar/
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:94c5dea9c5be1636-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2027 (datu
+ m o.v.)
+DESCRIPTION:Jaarlijkse tentoonstelling met de winnende persfoto's van Worl
+ d Press Photo (datum geschat op basis van eerdere jaren).\nLet op: datum i
+ s een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoo
+ ptijd: 23 apr 2027 t/m 24 okt 2027.\nhttps://www.nieuwekerk.nl/tentoonstel
+ lingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:94c5dea9c5be1636-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2027
+  (datum o.v.)
+DESCRIPTION:Jaarlijkse tentoonstelling met de winnende persfoto's van Worl
+ d Press Photo (datum geschat op basis van eerdere jaren).\nLet op: datum i
+ s een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoo
+ ptijd: 23 apr 2027 t/m 24 okt 2027.\nhttps://www.nieuwekerk.nl/tentoonstel
+ lingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:96d166c4b54dcc05-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:▶ Start: Mauritshuis: Samuel van Hoogstraten
+DESCRIPTION:Overzicht rond de perspectiefkunst van Samuel van Hoogstraten\
+ , 400 jaar na zijn geboorte.\nLooptijd: 16 sep 2027 t/m 9 jan 2028.\nhttps
+ ://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
+LOCATION:Mauritshuis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:96d166c4b54dcc05-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20280109
+DTEND;VALUE=DATE:20280110
+SUMMARY:■ Laatste dag: Mauritshuis: Samuel van Hoogstraten
+DESCRIPTION:Overzicht rond de perspectiefkunst van Samuel van Hoogstraten\
+ , 400 jaar na zijn geboorte.\nLooptijd: 16 sep 2027 t/m 9 jan 2028.\nhttps
+ ://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
+LOCATION:Mauritshuis\, Den Haag
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:060c55a6de4dffbf-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:▶ Start: H'ART Museum: Surrealisme (met Centre Pompidou) (datum 
+ o.v.)
+DESCRIPTION:Tentoonstelling over het surrealisme met werk van onder meer D
+ e Chirico\, Dalí\, Ernst\, Magritte en Toyen uit het Centre Pompidou.\nLe
+ t op: datum is een inschatting op basis van eerdere edities en nog niet be
+ vestigd.\nLooptijd: 25 sep 2027 t/m 27 feb 2028.\nhttps://www.hermitage.nl
+ /documents/305/NL_Persbericht___Programma_HART_Museum_2024__2028_bekend_de
+ f.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:060c55a6de4dffbf-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:■ Laatste dag: H'ART Museum: Surrealisme (met Centre Pompidou) (
+ datum o.v.)
+DESCRIPTION:Tentoonstelling over het surrealisme met werk van onder meer D
+ e Chirico\, Dalí\, Ernst\, Magritte en Toyen uit het Centre Pompidou.\nLe
+ t op: datum is een inschatting op basis van eerdere edities en nog niet be
+ vestigd.\nLooptijd: 25 sep 2027 t/m 27 feb 2028.\nhttps://www.hermitage.nl
+ /documents/305/NL_Persbericht___Programma_HART_Museum_2024__2028_bekend_de
+ f.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+END:VCALENDAR

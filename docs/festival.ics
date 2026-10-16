@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Festivals
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cf53a683335ff922@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261019
+SUMMARY:Leiden International Film Festival 2026
+DESCRIPTION:Elf dagen internationale films\, previews en premières in Lei
+ den (loopt nog tot 18 oktober).\nLooptijd: 8 okt 2026 t/m 18 okt 2026.\nht
+ tps://www.liff.nl/en/
+LOCATION:Diverse locaties\, Leiden
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.liff.nl/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:3bdf498c0fd293a3@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261026
+SUMMARY:Cinekid Festival 2026
+DESCRIPTION:Het grootste jeugdfilm- en mediafestival van Nederland viert z
+ ijn 40e editie in Amsterdam-Noord.\nLooptijd: 10 okt 2026 t/m 25 okt 2026.
+ \nhttps://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakantie
+ /
+LOCATION:Pathé Amsterdam Noord\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
+ ie/
+END:VEVENT
+BEGIN:VEVENT
+UID:94b6d569e3d1f41e@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261026
+SUMMARY:Amsterdam Dance Event 2026
+DESCRIPTION:De 30e jubileumeditie van 's werelds grootste clubfestival en 
+ conferentie voor elektronische muziek.\nLooptijd: 21 okt 2026 t/m 25 okt 2
+ 026.\nhttps://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/27
+ 50267/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750
+ 267/
+END:VEVENT
+BEGIN:VEVENT
+UID:844e028ba02cbdf0@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+SUMMARY:Tapis Rouge Frans Filmfestival 2026
+DESCRIPTION:Achtste editie van het Franse filmfestival met nieuwe Franse f
+ ilms\, voorpremières en gasten.\nLooptijd: 28 okt 2026 t/m 1 nov 2026.\nh
+ ttps://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-frans-fi
+ lmfestval-8e-editie-2026
+LOCATION:Het Ketelhuis\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
+ ns-filmfestval-8e-editie-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:37945f1f8baf5c55@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261108
+SUMMARY:Cello Biënnale Amsterdam 2026
+DESCRIPTION:Elfde editie van 's werelds grootste cellofestival.\nLooptijd:
+  29 okt 2026 t/m 7 nov 2026.\nhttps://www.bimhuis.nl/en/cello-biennale-ams
+ terdam-2026/
+LOCATION:Muziekgebouw aan 't IJ & Bimhuis\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.bimhuis.nl/en/cello-biennale-amsterdam-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:eed13468a8b874b5@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261109
+SUMMARY:Imagine Film Festival 2026
+DESCRIPTION:Fantastisch filmfestival met horror\, sciencefiction en fantas
+ y in Amsterdam.\nLooptijd: 29 okt 2026 t/m 8 nov 2026.\nhttps://www.imagin
+ efilmfestival.nl/en/category/articles/
+LOCATION:LAB111\, FilmHallen e.a.\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.imaginefilmfestival.nl/en/category/articles/
+END:VEVENT
+BEGIN:VEVENT
+UID:7cbdf67ed020bdd7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:London Calling 2026
+DESCRIPTION:Tweedaags indiefestival met nieuwe Britse en internationale gi
+ taarbands in Paradiso.\nLooptijd: 30 okt 2026 t/m 31 okt 2026.\nhttps://ww
+ w.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+BEGIN:VEVENT
+UID:3647c548e7c8d839@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+SUMMARY:PAN Amsterdam 2026
+DESCRIPTION:Beurs voor kunst\, antiek en design in de RAI.\nLooptijd: 1 no
+ v 2026 t/m 8 nov 2026.\nhttps://www.pan.nl/media/panmedia/pressrelease/Sav
+ etheDatevoorPANAmsterdam2026_T639209082277382787.pdf
+LOCATION:RAI Amsterdam\, Hal 8\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.pan.nl/media/panmedia/pressrelease/SavetheDatevoorPANAmste
+ rdam2026_T639209082277382787.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:16702e84896bff76@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:Le Guess Who? 2026
+DESCRIPTION:Gecureerd avontuurlijk muziekfestival verspreid over Utrechtse
+  podia (uitverkocht).\nLooptijd: 5 nov 2026 t/m 8 nov 2026.\nhttps://www.f
+ estivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
+LOCATION:TivoliVredenburg e.a.\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf4b1144117d000@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Museumnacht Amsterdam (N8) 2026
+DESCRIPTION:Eén nacht lang zijn tientallen Amsterdamse musea open met spe
+ ciale programma's.\nhttps://museumnacht.amsterdam
+LOCATION:Diverse musea\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://museumnacht.amsterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:0c582be104e3736a@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261123
+SUMMARY:IDFA 2026
+DESCRIPTION:Het grootste documentairefilmfestival ter wereld.\nLooptijd: 1
+ 2 nov 2026 t/m 22 nov 2026.\nhttps://festival.idfa.nl/en/idfa-2026-2/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://festival.idfa.nl/en/idfa-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ede21e3df956d7f2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+SUMMARY:Amsterdam Art Week 2026
+DESCRIPTION:Week vol hedendaagse kunst met openingen en programma's in gal
+ eries en kunstinstellingen.\nLooptijd: 18 nov 2026 t/m 22 nov 2026.\nhttps
+ ://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-terug-naar
+ -november
+LOCATION:Diverse galeries en instellingen\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-t
+ erug-naar-november
+END:VEVENT
+BEGIN:VEVENT
+UID:c64157915fa6ae3e@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261130
+SUMMARY:November Music 2026
+DESCRIPTION:Tiendaags festival voor nieuwe muziek in Den Bosch.\nLooptijd:
+  20 nov 2026 t/m 29 nov 2026.\nhttps://www.novembermusic.net
+LOCATION:Verkadefabriek e.a.\, 's-Hertogenbosch
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.novembermusic.net
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b463b09d29ef20-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:▶ Start: Amsterdam Light Festival 2026-2027
+DESCRIPTION:Vijftiende editie van het lichtkunstfestival langs de Amsterda
+ mse grachten.\nLooptijd: 26 nov 2026 t/m 17 jan 2027.\nhttps://blog.wego.c
+ om/amsterdam-light-festival/
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://blog.wego.com/amsterdam-light-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b463b09d29ef20-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Amsterdam Light Festival 2026-2027
+DESCRIPTION:Vijftiende editie van het lichtkunstfestival langs de Amsterda
+ mse grachten.\nLooptijd: 26 nov 2026 t/m 17 jan 2027.\nhttps://blog.wego.c
+ om/amsterdam-light-festival/
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://blog.wego.com/amsterdam-light-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:26e1520c21ea3708@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270117
+SUMMARY:Eurosonic Noorderslag 2027
+DESCRIPTION:Showcasefestival en conferentie voor nieuwe Europese en Nederl
+ andse popmuziek.\nLooptijd: 13 jan 2027 t/m 16 jan 2027.\nhttps://www.fest
+ ivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-Noorderslag-bekend-g
+ emaakt/
+LOCATION:Diverse podia\, Groningen
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-
+ Noorderslag-bekend-gemaakt/
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc29bf0992f96c7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270208
+SUMMARY:IFFR 2027
+DESCRIPTION:Internationaal Film Festival Rotterdam met avontuurlijke artho
+ use- en wereldcinema.\nLooptijd: 28 jan 2027 t/m 7 feb 2027.\nhttps://iffr
+ .com/en/wp-content/uploads/sites/2/2026/05/Terms-Conditions-submissions-IF
+ FR-2027.pdf
+LOCATION:Diverse locaties\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Condition
+ s-submissions-IFFR-2027.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:2738d3c2b92d0652@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270321
+SUMMARY:Cement 2027 (datum o.v.)
+DESCRIPTION:Festival voor nieuw theater en dans van jonge makers\; datum g
+ eschat op basis van het gebruikelijke maartpatroon.\nLet op: datum is een 
+ inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd:
+  11 mrt 2027 t/m 20 mrt 2027.\nhttps://www.iamexpat.nl/lifestyle/events-fe
+ stivals-netherlands/festival-cement
+LOCATION:Verkadefabriek e.a.\, 's-Hertogenbosch
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamexpat.nl/lifestyle/events-festivals-netherlands/festiva
+ l-cement
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea6e39ede7baa36@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270329
+SUMMARY:Opera Forward Festival 2027
+DESCRIPTION:Festival voor nieuwe opera met o.a. de wereldpremière van Du 
+ Yuns Red Fox (regie Barrie Kosky)\, Hedda Gabler van Vasco Mendonça en Th
+ e Monster Trilogy.\nLooptijd: 13 mrt 2027 t/m 28 mrt 2027.\nhttps://www.op
+ eraballet.nl/en/opera/dutch-national-opera/off
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/opera/dutch-national-opera/off
+END:VEVENT
+BEGIN:VEVENT
+UID:bb56cf6f7cdb04b7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270319
+SUMMARY:TEFAF Maastricht 2027
+DESCRIPTION:Toonaangevende kunst- en antiekbeurs van de wereld.\nLooptijd:
+  13 mrt 2027 t/m 18 mrt 2027.\nhttps://www.expolista.com/tradeshows/tefaf-
+ maastricht/2027
+LOCATION:MECC Maastricht\, Maastricht
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.expolista.com/tradeshows/tefaf-maastricht/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba6c455caf192db@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270329
+SUMMARY:Roze Filmdagen 2027 (datum o.v.)
+DESCRIPTION:Dertigste editie van het LHBTIQ+-filmfestival van Amsterdam\; 
+ data onder voorbehoud.\nLet op: datum is een inschatting op basis van eerd
+ ere edities en nog niet bevestigd.\nLooptijd: 17 mrt 2027 t/m 28 mrt 2027.
+ \nhttps://www.iamsterdam.com/uit/agenda/festivals/events/roze-filmdagen
+LOCATION:Het Ketelhuis / Westergas\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/roze-filmdagen
+END:VEVENT
+BEGIN:VEVENT
+UID:e4dcd81b723c7627@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:Unseen 2027 (datum o.v.)
+DESCRIPTION:Fotografiebeurs Unseen\, sinds 2026 in maart naast Art Rotterd
+ am in Ahoy\; data nog niet officieel bevestigd.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 18 
+ mrt 2027 t/m 21 mrt 2027.\nhttps://www.cantonfair.net/updated-information/
+ unseen-amsterdam-2027-march-amsterdam-will-be-from-2027-03-18
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
+ arch-amsterdam-will-be-from-2027-03-18
+END:VEVENT
+BEGIN:VEVENT
+UID:98360cc12cabc9b9@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Art Rotterdam 2027 (datum o.v.)
+DESCRIPTION:Kunstbeurs voor hedendaagse kunst\; data uit een beurskalender
+ \, nog niet officieel bevestigd.\nLet op: datum is een inschatting op basi
+ s van eerdere edities en nog niet bevestigd.\nLooptijd: 19 mrt 2027 t/m 21
+  mrt 2027.\nhttps://www.cantonfair.net/updated-information/art-rotterdam-2
+ 027-march-rotterdam-is-scheduled-for
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.cantonfair.net/updated-information/art-rotterdam-2027-marc
+ h-rotterdam-is-scheduled-for
+END:VEVENT
+BEGIN:VEVENT
+UID:e15e5d4b0c19fdd0@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270328
+SUMMARY:Movies that Matter Festival 2027
+DESCRIPTION:Filmfestival over mensenrechten met films en debatten.\nLoopti
+ jd: 19 mrt 2027 t/m 27 mrt 2027.\nhttps://moviesthatmatter.nl/en/agenda/mo
+ vies-that-matter-festival-2027/
+LOCATION:Diverse locaties\, Den Haag
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://moviesthatmatter.nl/en/agenda/movies-that-matter-festival-2027
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb3a1defdb40ddf@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270329
+SUMMARY:Cinedans FEST 2027 (datum o.v.)
+DESCRIPTION:Festival voor dansfilm en screendance\; datum geschat naar het
+  patroon van eind maart (2026: 25-29 maart).\nLet op: datum is een inschat
+ ting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 24 mrt
+  2027 t/m 28 mrt 2027.\nhttps://www.festivalfinder.eu/festivals/cinedans-f
+ est-2026
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Festivals,Film,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:89bee694ce31dddb@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270329
+SUMMARY:Paaspop 2027
+DESCRIPTION:Vijftigste editie van het paasfestival in Schijndel.\nLooptijd
+ : 26 mrt 2027 t/m 28 mrt 2027.\nhttps://www.festivalinfo.nl/festival/36262
+ /Paaspop-Schijndel/2027/
+LOCATION:Festivalterrein Paaspop\, Schijndel
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36262/Paaspop-Schijndel/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:6edc221aa9c1f010@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270412
+SUMMARY:Go Short 2027 (datum o.v.)
+DESCRIPTION:Internationaal kortefilmfestival\; datum geschat naar het gebr
+ uikelijke aprilpatroon (2026: 7-12 april).\nLet op: datum is een inschatti
+ ng op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 6 apr 20
+ 27 t/m 11 apr 2027.\nhttps://www.goshort.nl/en/news-overview/the-go-short-
+ 2026-program-is-live
+LOCATION:Diverse locaties\, Nijmegen
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.goshort.nl/en/news-overview/the-go-short-2026-program-is-l
+ ive
+END:VEVENT
+BEGIN:VEVENT
+UID:b630fac43515ad07@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270412
+SUMMARY:CinemAsia Film Festival 2027 (datum o.v.)
+DESCRIPTION:Festival voor Aziatische en Aziatisch-diasporische cinema\; da
+ tum geschat naar het patroon van begin april (2026: 8-12 april).\nLet op: 
+ datum is een inschatting op basis van eerdere edities en nog niet bevestig
+ d.\nLooptijd: 7 apr 2027 t/m 11 apr 2027.\nhttps://www.eyefilm.nl/en/progr
+ amme/cinemasia-2026/1594110
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.eyefilm.nl/en/programme/cinemasia-2026/1594110
+END:VEVENT
+BEGIN:VEVENT
+UID:2628c006af950f16@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Koningsdag 2027
+DESCRIPTION:Nationale feestdag met vrijmarkten\, feesten en concerten door
+  de hele stad.\nhttps://www.iamsterdam.com
+LOCATION:Hele stad\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed83bc36b1454d@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Bevrijdingsfestivals 2027
+DESCRIPTION:Gratis Bevrijdingsfestivals met muziek in alle provincies op B
+ evrijdingsdag\; programma volgt.\nhttps://www.4en5mei.nl
+LOCATION:Diverse steden (o.a. Haarlem\, Utrecht\, Den Haag\, Amsterdam)
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.4en5mei.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2bb7ff9945cc79@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270523
+SUMMARY:SPRING Performing Arts Festival 2027
+DESCRIPTION:Internationaal festival voor hedendaags theater en dans in Utr
+ echt.\nLooptijd: 13 mei 2027 t/m 22 mei 2027.\nhttps://springutrecht.nl/en
+ /press-release-spring-performing-arts-festival-2026-international-theatre-
+ and-dance-performances-in-utrecht/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://springutrecht.nl/en/press-release-spring-performing-arts-festi
+ val-2026-international-theatre-and-dance-performances-in-utrecht/
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-start@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-eind@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans,Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:aca34a731e75a5e3@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Amsterdam Open Air 2027 (datum o.v.)
+DESCRIPTION:Tweedaags dancefestival in het Gaasperpark\; datum geschat naa
+ r het gebruikelijke patroon van begin juni.\nLet op: datum is een inschatt
+ ing op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 5 jun 2
+ 027 t/m 6 jun 2027.\nhttps://www.iamexpat.nl/lifestyle/expat-events-festiv
+ als/amsterdam-open-air
+LOCATION:Gaasperpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamexpat.nl/lifestyle/expat-events-festivals/amsterdam-ope
+ n-air
+END:VEVENT
+BEGIN:VEVENT
+UID:c327fe838e8688ea@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270614
+SUMMARY:Best Kept Secret 2027 (datum o.v.)
+DESCRIPTION:Driedaags alternatief popfestival aan het meer van Beekse Berg
+ en\; data gemeld maar niet officieel bevestigd.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 11 
+ jun 2027 t/m 13 jun 2027.\nhttps://saily.com/nl/blog/beste-festivals-neder
+ land/
+LOCATION:Beekse Bergen\, Hilvarenbeek
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://saily.com/nl/blog/beste-festivals-nederland/
+END:VEVENT
+BEGIN:VEVENT
+UID:a02cb1877755097e@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270621
+SUMMARY:Oerol 2027
+DESCRIPTION:Locatietheaterfestival op en met het landschap van Terschellin
+ g.\nLooptijd: 11 jun 2027 t/m 20 jun 2027.\nhttps://oerol.nl/en/faq/
+LOCATION:Heel het eiland\, Terschelling
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://oerol.nl/en/faq/
+END:VEVENT
+BEGIN:VEVENT
+UID:53720bdd1a32540b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:Pinkpop 2027
+DESCRIPTION:Het oudste jaarlijkse popfestival ter wereld in Landgraaf.\nLo
+ optijd: 18 jun 2027 t/m 20 jun 2027.\nhttps://www.festivalinfo.nl/festival
+ /37229/Pinkpop/2027/
+LOCATION:Megaland\, Landgraaf
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/37229/Pinkpop/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:f133e688cf3e7f3a@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Amsterdam Roots Festival 2027 (datum o.v.)
+DESCRIPTION:Gratis wereldmuziekfestival in het Oosterpark\; datum geschat 
+ naar het patroon van eind juni.\nLet op: datum is een inschatting op basis
+  van eerdere edities en nog niet bevestigd.\nhttps://www.festivalinfo.nl/f
+ estival/36269/Amsterdam-Roots-Festival/2026/
+LOCATION:Oosterpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36269/Amsterdam-Roots-Festival/20
+ 26/
+END:VEVENT
+BEGIN:VEVENT
+UID:651c508263e5e568@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270714
+SUMMARY:Julidans 2027 (datum o.v.)
+DESCRIPTION:Internationaal festival voor hedendaagse dans\; data onder voo
+ rbehoud.\nLet op: datum is een inschatting op basis van eerdere edities en
+  nog niet bevestigd.\nLooptijd: 1 jul 2027 t/m 13 jul 2027.\nhttps://www.i
+ amsterdam.com/uit/agenda/festivals/events/julidans
+LOCATION:ITA\, Frascati e.a.\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/julidans
+END:VEVENT
+BEGIN:VEVENT
+UID:10c100acf53dd509@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Keti Koti Festival 2027
+DESCRIPTION:Gratis festival op Museumplein ter herdenking en viering van d
+ e afschaffing van de slavernij.\nhttps://www.iamsterdam.com/uit/agenda/fes
+ tivals/events/keti-koti-festival
+LOCATION:Museumplein\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/keti-koti-festi
+ val
+END:VEVENT
+BEGIN:VEVENT
+UID:898ee4adcc2c2cd2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:Down the Rabbit Hole 2027 (datum o.v.)
+DESCRIPTION:Driedaags campingfestival met pop\, rock en hiphop\; data geme
+ ld maar niet officieel bevestigd.\nLet op: datum is een inschatting op bas
+ is van eerdere edities en nog niet bevestigd.\nLooptijd: 2 jul 2027 t/m 4 
+ jul 2027.\nhttps://www.technoairlines.com/festival/down-the-rabbit-hole-be
+ uningen-netherlands-2027
+LOCATION:De Groene Heuvels\, Beuningen
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.technoairlines.com/festival/down-the-rabbit-hole-beuningen
+ -netherlands-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:30f9507959d83070@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270719
+SUMMARY:Over het IJ Festival 2027 (datum o.v.)
+DESCRIPTION:Zomerfestival voor locatietheater en jonge makers op de NDSM-w
+ erf\; datum geschat naar het julipatroon.\nLet op: datum is een inschattin
+ g op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 8 jul 202
+ 7 t/m 18 jul 2027.\nhttps://www.iamexpat.nl/lifestyle/events-festivals-net
+ herlands/over-het-ij-festival
+LOCATION:NDSM-werf\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamexpat.nl/lifestyle/events-festivals-netherlands/over-he
+ t-ij-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd3f51b32c77af9@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:North Sea Jazz Festival 2027 (datum o.v.)
+DESCRIPTION:Driedaags jazz-\, soul- en funkfestival in Ahoy\; data op basi
+ s van het vaste patroon (tweede weekend juli)\, niet officieel bevestigd.\
+ nLet op: datum is een inschatting op basis van eerdere edities en nog niet
+  bevestigd.\nLooptijd: 9 jul 2027 t/m 11 jul 2027.\nhttps://www.carnifest.
+ com/north-sea-jazz-festival-2027/
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.carnifest.com/north-sea-jazz-festival-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:612afd25db8d4ca6@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:Wonderfeel 2027
+DESCRIPTION:Klassiek openluchtfestival met zeven podia op Landgoed Groenev
+ eld.\nLooptijd: 9 jul 2027 t/m 11 jul 2027.\nhttps://www.wonderfeel.nl
+LOCATION:Landgoed Groeneveld\, Baarn
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.wonderfeel.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:b98651c704fe30f7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270725
+SUMMARY:Rotterdam Unlimited 2027 (datum o.v.)
+DESCRIPTION:Stadsfestival met het Zomercarnaval als hoogtepunt\; datum ges
+ chat (2026: carnaval 24-25 juli).\nLet op: datum is een inschatting op bas
+ is van eerdere edities en nog niet bevestigd.\nLooptijd: 20 jul 2027 t/m 2
+ 4 jul 2027.\nhttps://rotterdamstyle.com/events/rotterdam-unlimited-summer-
+ carnival-location-date-lineup
+LOCATION:Centrum\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://rotterdamstyle.com/events/rotterdam-unlimited-summer-carnival-
+ location-date-lineup
+END:VEVENT
+BEGIN:VEVENT
+UID:2f45bbc0815ebf26@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270809
+SUMMARY:De Parade 2027 (datum o.v.)
+DESCRIPTION:Reizend theaterfestival met voorstellingen in tenten\; data on
+ der voorbehoud.\nLet op: datum is een inschatting op basis van eerdere edi
+ ties en nog niet bevestigd.\nLooptijd: 23 jul 2027 t/m 8 aug 2027.\nhttps:
+ //www.iamsterdam.com/en/whats-on/calendar/festivals/events/theaterfestival
+ -de-parade
+LOCATION:Martin Luther Kingpark\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/theat
+ erfestival-de-parade
+END:VEVENT
+BEGIN:VEVENT
+UID:b5522be3e9f4ddc7@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270802
+SUMMARY:Delft Chamber Music Festival 2027 (datum o.v.)
+DESCRIPTION:Internationaal kamermuziekfestival in Delft eind juli.\nLet op
+ : datum is een inschatting op basis van eerdere edities en nog niet bevest
+ igd.\nLooptijd: 23 jul 2027 t/m 1 aug 2027.\nhttps://www.delft.com/en/uita
+ genda/uitagenda/4170890544/delft-chamber-music-festival
+LOCATION:Museum Prinsenhof e.a.\, Delft
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.delft.com/en/uitagenda/uitagenda/4170890544/delft-chamber-
+ music-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:b963027dcce3485b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270809
+SUMMARY:Pride Amsterdam 2027 (datum o.v.)
+DESCRIPTION:Pride-festival met Pride March (24 juli) en Canal Parade (7 au
+ gustus)\; periode geschat\, data onder voorbehoud.\nLet op: datum is een i
+ nschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 
+ 24 jul 2027 t/m 8 aug 2027.\nhttps://www.iamsterdam.com/en/whats-on/calend
+ ar/festivals/events/pride-march-2027
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/pride
+ -march-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b49339b6846e89@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270802
+SUMMARY:Dekmantel Festival 2027 (datum o.v.)
+DESCRIPTION:Elektronisch muziekfestival in het Amsterdamse Bos\; datum ges
+ chat naar het patroon eind juli/begin augustus.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 28 
+ jul 2027 t/m 1 aug 2027.\nhttps://www.technoairlines.com/festival/dekmante
+ l-festival-amsterdam-netherlands-2026
+LOCATION:Amsterdamse Bos\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.technoairlines.com/festival/dekmantel-festival-amsterdam-n
+ etherlands-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:e27707f1e88fe02b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270816
+SUMMARY:Theaterfestival Boulevard 2027
+DESCRIPTION:Zomers theaterfestival in en rond de Bossche binnenstad.\nLoop
+ tijd: 5 aug 2027 t/m 15 aug 2027.\nhttps://www.festivalboulevard.nl/en/new
+ s/boulevard-returns-with-120-performances-at-twenty-different-locations
+LOCATION:Diverse locaties\, 's-Hertogenbosch
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.festivalboulevard.nl/en/news/boulevard-returns-with-120-pe
+ rformances-at-twenty-different-locations
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab1e425a8faba2a@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270823
+SUMMARY:Grachtenfestival 2027
+DESCRIPTION:Tiendaags klassiek muziekfestival op en aan de Amsterdamse gra
+ chten.\nLooptijd: 13 aug 2027 t/m 22 aug 2027.\nhttps://www.grachtenfestiv
+ al.nl
+LOCATION:Grachten en diverse locaties\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.grachtenfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b88f327b8714e3@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270830
+SUMMARY:Noorderzon 2027 (datum o.v.)
+DESCRIPTION:Elfdaags festival voor podiumkunsten en muziek in het Noorderp
+ lantsoen\; datum geschat naar het augustuspatroon.\nLet op: datum is een i
+ nschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 
+ 19 aug 2027 t/m 29 aug 2027.\nhttps://en.wikipedia.org/wiki/Noorderzon
+LOCATION:Noorderplantsoen\, Groningen
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/Noorderzon
+END:VEVENT
+BEGIN:VEVENT
+UID:95f347b4bd756fb6@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+SUMMARY:Lowlands 2027
+DESCRIPTION:Groot meerdaags muziek- en cultuurfestival in Biddinghuizen.\n
+ Looptijd: 20 aug 2027 t/m 22 aug 2027.\nhttps://www.festivalinfo.nl/news/5
+ 9232/Organisatie-onthult-datums-voor-Lowlands-2027-na-succesvolle-editie/
+LOCATION:Evenemententerrein Walibi\, Biddinghuizen
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/59232/Organisatie-onthult-datums-voor
+ -Lowlands-2027-na-succesvolle-editie/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ec0e13f75b1df2@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:De Opening 2027 (opvolger Uitmarkt) (datum o.v.)
+DESCRIPTION:Landelijke opening van het culturele seizoen die de Amsterdams
+ e Uitmarkt verving\, elk jaar in een andere gaststad\; datum en stad gesch
+ at.\nLet op: datum is een inschatting op basis van eerdere edities en nog 
+ niet bevestigd.\nLooptijd: 27 aug 2027 t/m 29 aug 2027.\nhttps://www.festi
+ valinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-Opening-met-wisselend
+ e-gaststad/
+LOCATION:Nog niet bekend
+CATEGORIES:Festivals,Theater & dans,Klassieke muziek,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-
+ Opening-met-wisselende-gaststad/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5957adc1157c097@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270906
+SUMMARY:Festival Oude Muziek Utrecht 2027 – Humanisten
+DESCRIPTION:Festival Oude Muziek met als thema Humanisten\, van Erasmus to
+ t Rameau.\nLooptijd: 27 aug 2027 t/m 5 sep 2027.\nhttps://oudemuziek.nl/en
+ /festival/future/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://oudemuziek.nl/en/festival/future/
+END:VEVENT
+BEGIN:VEVENT
+UID:537bb506715a2e8d@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Amsterdam Fringe Festival 2027 (datum o.v.)
+DESCRIPTION:Festival voor experimenteel en ongecensureerd theater op tient
+ allen locaties\; datum geschat (2026: 5-12 september).\nLet op: datum is e
+ en inschatting op basis van eerdere edities en nog niet bevestigd.\nLoopti
+ jd: 2 sep 2027 t/m 12 sep 2027.\nhttps://www.frascatitheater.nl/en/amsterd
+ am-fringe-festival-2026-zpd3
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.frascatitheater.nl/en/amsterdam-fringe-festival-2026-zpd3
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e403a44e4e4922@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270906
+SUMMARY:Into the Great Wide Open 2027 (datum o.v.)
+DESCRIPTION:Kleinschalig muziek- en kunstfestival op Vlieland\; datum gesc
+ hat naar het patroon van begin september.\nLet op: datum is een inschattin
+ g op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 2 sep 202
+ 7 t/m 5 sep 2027.\nhttps://intothegreatwideopen.nl/en/praktisch
+LOCATION:Diverse locaties\, Vlieland
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://intothegreatwideopen.nl/en/praktisch
+END:VEVENT
+BEGIN:VEVENT
+UID:8b10779a2f19c0f0@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Nederlands Theaterfestival 2027 (datum o.v.)
+DESCRIPTION:Elf dagen met de beste theatervoorstellingen van het afgelopen
+  seizoen\; datum geschat naar het septemberpatroon.\nLet op: datum is een 
+ inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd:
+  2 sep 2027 t/m 12 sep 2027.\nhttps://www.iamsterdam.com/en/whats-on/calen
+ dar/festivals/events/dutch-theatre-festival
+LOCATION:ITA en andere theaters\, Amsterdam
+CATEGORIES:Festivals,Theater & dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/dutch
+ -theatre-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:5c11d028dcb64236@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270920
+SUMMARY:Film by the Sea 2027 (datum o.v.)
+DESCRIPTION:Filmfestival aan zee met een focus op literatuurverfilmingen\;
+  datum geschat (2026: 11-20 september).\nLet op: datum is een inschatting 
+ op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 10 sep 2027
+  t/m 19 sep 2027.\nhttps://domburg.com/en/event/102/film-by-the-sea.html
+LOCATION:Diverse locaties\, Vlissingen
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://domburg.com/en/event/102/film-by-the-sea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:7b65754572e62879@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20271002
+SUMMARY:Nederlands Film Festival 2027 (datum o.v.)
+DESCRIPTION:Het festival van de Nederlandse film met de uitreiking van de 
+ Gouden Kalveren\; datum geschat naar het patroon eind september.\nLet op: 
+ datum is een inschatting op basis van eerdere edities en nog niet bevestig
+ d.\nLooptijd: 24 sep 2027 t/m 1 okt 2027.\nhttps://en.wikipedia.org/wiki/N
+ etherlands_Film_Festival
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/Netherlands_Film_Festival
+END:VEVENT
+BEGIN:VEVENT
+UID:a9292d9c2f52e518@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271018
+SUMMARY:Leiden International Film Festival 2027 (datum o.v.)
+DESCRIPTION:Internationaal filmfestival in Leiden\; datum geschat naar het
+  oktoberpatroon.\nLet op: datum is een inschatting op basis van eerdere ed
+ ities en nog niet bevestigd.\nLooptijd: 7 okt 2027 t/m 17 okt 2027.\nhttps
+ ://www.liff.nl/en/
+LOCATION:Diverse locaties\, Leiden
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.liff.nl/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:17ea6323a5cac905@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271025
+SUMMARY:Cinekid Festival 2027 (datum o.v.)
+DESCRIPTION:Jeugdfilm- en mediafestival in de herfstvakantie\; datum gesch
+ at.\nLet op: datum is een inschatting op basis van eerdere edities en nog 
+ niet bevestigd.\nLooptijd: 9 okt 2027 t/m 24 okt 2027.\nhttps://www.kidspr
+ oof.nl/amsterdam/uitje/cinekid-festival-herfstvakantie/
+LOCATION:Pathé Amsterdam Noord\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
+ ie/
+END:VEVENT
+BEGIN:VEVENT
+UID:e25b17f38f9be6e0@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271025
+SUMMARY:Amsterdam Dance Event 2027 (datum o.v.)
+DESCRIPTION:Clubfestival en conferentie voor elektronische muziek\; datum 
+ geschat naar het patroon van de derde week van oktober.\nLet op: datum is 
+ een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoopt
+ ijd: 20 okt 2027 t/m 24 okt 2027.\nhttps://www.amsterdam-dance-event.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:850dbfb08bdb330b@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271101
+SUMMARY:Tapis Rouge Frans Filmfestival 2027 (datum o.v.)
+DESCRIPTION:Frans filmfestival\; datum geschat naar het patroon van eind o
+ ktober.\nLet op: datum is een inschatting op basis van eerdere edities en 
+ nog niet bevestigd.\nLooptijd: 27 okt 2027 t/m 31 okt 2027.\nhttps://www.i
+ amsterdam.com/uit/agenda/festivals/events/tapis-rouge-frans-filmfestval-8e
+ -editie-2026
+LOCATION:Het Ketelhuis\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
+ ns-filmfestval-8e-editie-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:58caad50778e7beb@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271108
+SUMMARY:Imagine Film Festival 2027 (datum o.v.)
+DESCRIPTION:Fantastisch filmfestival\; datum geschat naar het patroon eind
+  oktober/begin november.\nLet op: datum is een inschatting op basis van ee
+ rdere edities en nog niet bevestigd.\nLooptijd: 28 okt 2027 t/m 7 nov 2027
+ .\nhttps://www.imaginefilmfestival.nl/en/category/articles/
+LOCATION:LAB111 e.a.\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.imaginefilmfestival.nl/en/category/articles/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f716d63b61bd912@cultuurkalender
+DTSTAMP:20261016T083255Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271031
+SUMMARY:London Calling 2027 (datum o.v.)
+DESCRIPTION:Indiefestival in Paradiso\; datum geschat naar het patroon van
+  eind oktober.\nLet op: datum is een inschatting op basis van eerdere edit
+ ies en nog niet bevestigd.\nLooptijd: 29 okt 2027 t/m 30 okt 2027.\nhttps:
+ //www.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+END:VCALENDAR
