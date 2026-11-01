@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:f680b3175392f8ef-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:▶ Start: Out of the stillness – NDT 1
@@ -24,7 +24,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
 END:VEVENT
 BEGIN:VEVENT
 UID:f680b3175392f8ef-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:■ Laatste dag: Out of the stillness – NDT 1
@@ -39,7 +39,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
 END:VEVENT
 BEGIN:VEVENT
 UID:472defd20b94fc26-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:▶ Start: Het Zwanenmeer – Het Nationale Ballet
@@ -53,7 +53,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:472defd20b94fc26-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:■ Laatste dag: Het Zwanenmeer – Het Nationale Ballet
@@ -67,7 +67,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:5fad581168bf9e93-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:▶ Start: Blast a universe – NDT 2
@@ -82,7 +82,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
 END:VEVENT
 BEGIN:VEVENT
 UID:5fad581168bf9e93-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:■ Laatste dag: Blast a universe – NDT 2
@@ -97,7 +97,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
 END:VEVENT
 BEGIN:VEVENT
 UID:5446f52688fb93eb@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Amare 5 jaar – jubileumweekend met Residentie Orkest
@@ -113,7 +113,7 @@ URL:https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-j
 END:VEVENT
 BEGIN:VEVENT
 UID:c23f835c836f5c2b-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:▶ Start: Cinderella – Het Nationale Ballet
@@ -127,7 +127,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:c23f835c836f5c2b-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:■ Laatste dag: Cinderella – Het Nationale Ballet
@@ -141,7 +141,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:62a2009d45cbc6af@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Switch '27 – NDT 1 & NDT 2
@@ -153,8 +153,55 @@ TRANSP:TRANSPARENT
 URL:https://www.ndt.nl/nl/bezoek/26-27/switch27/
 END:VEVENT
 BEGIN:VEVENT
+UID:af8456f73c8f3986@cultuurkalender
+DTSTAMP:20261101T075826Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270130
+SUMMARY:Ihsane (Sidi Larbi Cherkaoui) – Holland Dance Festival in Amare
+DESCRIPTION:Holland Dance Festival presenteert Ihsane van Sidi Larbi Cherk
+ aoui met het Ballet du Grand Théâtre de Genève en Eastman in Amare.\nLo
+ optijd: 28 jan 2027 t/m 29 jan 2027.\nhttps://www.holland-dance.com/
+LOCATION:Amare\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.holland-dance.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:57a05e2eabbce28c-start@cultuurkalender
+DTSTAMP:20261101T075826Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:▶ Start: Ballet Vibes – Junior Company Het Nationale Ballet
+DESCRIPTION:Tourneeprogramma van de Junior Company met werk van Hans van M
+ anen\, Eric Gauthier en Kenneth MacMillan plus vier wereldpremières van j
+ onge choreografen.\nLooptijd: 6 feb 2027 t/m 7 mrt 2027.\nhttps://www.oper
+ aballet.nl/en/dutch-national-ballet/2026-2027/ballet-vibes
+LOCATION:Landelijke tournee
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/dutch-national-ballet/2026-2027/ballet-v
+ ibes
+END:VEVENT
+BEGIN:VEVENT
+UID:57a05e2eabbce28c-eind@cultuurkalender
+DTSTAMP:20261101T075826Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:■ Laatste dag: Ballet Vibes – Junior Company Het Nationale Bal
+ let
+DESCRIPTION:Tourneeprogramma van de Junior Company met werk van Hans van M
+ anen\, Eric Gauthier en Kenneth MacMillan plus vier wereldpremières van j
+ onge choreografen.\nLooptijd: 6 feb 2027 t/m 7 mrt 2027.\nhttps://www.oper
+ aballet.nl/en/dutch-national-ballet/2026-2027/ballet-vibes
+LOCATION:Landelijke tournee
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/dutch-national-ballet/2026-2027/ballet-v
+ ibes
+END:VEVENT
+BEGIN:VEVENT
 UID:823f6f3234ef176f-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:▶ Start: GONE – NDT 1
@@ -168,7 +215,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
 END:VEVENT
 BEGIN:VEVENT
 UID:823f6f3234ef176f-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:■ Laatste dag: GONE – NDT 1
@@ -182,7 +229,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
 END:VEVENT
 BEGIN:VEVENT
 UID:b18410146335fea9@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270303
 SUMMARY:Prey – Het Nationale Ballet (nieuwe productie)
@@ -196,7 +243,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:b695beadc5883aa7-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:▶ Start: A poem for the world – NDT 2
@@ -210,7 +257,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:b695beadc5883aa7-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:■ Laatste dag: A poem for the world – NDT 2
@@ -224,7 +271,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:3eb3a1defdb40ddf@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270329
 SUMMARY:Cinedans FEST 2027 (datum o.v.)
@@ -240,7 +287,7 @@ URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2f9628aa68f468e0@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270405
 SUMMARY:Metamorphosis – Het Nationale Ballet
@@ -254,7 +301,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:ca1649b3754b3a08-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:▶ Start: Everywhere is here – NDT 1
@@ -268,7 +315,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
 END:VEVENT
 BEGIN:VEVENT
 UID:ca1649b3754b3a08-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:■ Laatste dag: Everywhere is here – NDT 1
@@ -282,7 +329,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
 END:VEVENT
 BEGIN:VEVENT
 UID:2b2bb7ff9945cc79@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270523
 SUMMARY:SPRING Performing Arts Festival 2027
@@ -298,7 +345,7 @@ URL:https://springutrecht.nl/en/press-release-spring-performing-arts-festi
 END:VEVENT
 BEGIN:VEVENT
 UID:091fc8b0c5bff276-start@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
 SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
@@ -312,7 +359,7 @@ URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:091fc8b0c5bff276-eind@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
@@ -326,7 +373,7 @@ URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:0368b7d827460202@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270624
 SUMMARY:PLAY – Alexander Ekman / Het Nationale Ballet
@@ -340,7 +387,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:fa6552232b567f61@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 SUMMARY:Gala Het Nationale Ballet 2027
@@ -353,7 +400,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:651c508263e5e568@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270714
 SUMMARY:Julidans 2027 (datum o.v.)

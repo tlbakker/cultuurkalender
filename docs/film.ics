@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:cf53a683335ff922@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261019
 SUMMARY:Leiden International Film Festival 2026
@@ -23,7 +23,7 @@ URL:https://www.liff.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:3bdf498c0fd293a3@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261026
 SUMMARY:Cinekid Festival 2026
@@ -39,7 +39,7 @@ URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
 END:VEVENT
 BEGIN:VEVENT
 UID:844e028ba02cbdf0@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261102
 SUMMARY:Tapis Rouge Frans Filmfestival 2026
@@ -55,7 +55,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
 END:VEVENT
 BEGIN:VEVENT
 UID:eed13468a8b874b5@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261109
 SUMMARY:Imagine Film Festival 2026
@@ -69,7 +69,7 @@ URL:https://www.imaginefilmfestival.nl/en/category/articles/
 END:VEVENT
 BEGIN:VEVENT
 UID:af357a15e1b75ac9@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261109
 SUMMARY:Wildlife Film Festival Rotterdam 2026
@@ -85,7 +85,7 @@ URL:https://rotterdamstyle.com/events-calendar/wildlife-film-festival-rott
 END:VEVENT
 BEGIN:VEVENT
 UID:0c582be104e3736a@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261123
 SUMMARY:IDFA 2026
@@ -98,7 +98,7 @@ URL:https://festival.idfa.nl/en/idfa-2026-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:122a76a2bde73bef@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261217
 SUMMARY:Charles Burnett-programma Eye 2026
@@ -114,7 +114,7 @@ URL:https://assets.eyefilm.nl/downloads/blocks/PBR2026-Jaarpersbericht-202
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc29bf0992f96c7@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270208
 SUMMARY:IFFR 2027
@@ -129,8 +129,22 @@ URL:https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Condition
  s-submissions-IFFR-2027.pdf
 END:VEVENT
 BEGIN:VEVENT
+UID:9ba6c455caf192db@cultuurkalender
+DTSTAMP:20261101T075826Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270322
+SUMMARY:Roze Filmdagen 2027
+DESCRIPTION:Dertigste editie van het LHBTIQ+-filmfestival van Amsterdam\; 
+ data onder voorbehoud.\nLooptijd: 9 mrt 2027 t/m 21 mrt 2027.\nhttps://roz
+ efilmdagen.nl/en
+LOCATION:Het Ketelhuis / Westergas\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://rozefilmdagen.nl/en
+END:VEVENT
+BEGIN:VEVENT
 UID:fcae22dd84cce3e4@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270322
 SUMMARY:Kaboom Animation Festival 2027
@@ -146,23 +160,8 @@ URL:https://www.zippyframes.com/festivals/next-festivals/kaboom-animation-
  festival
 END:VEVENT
 BEGIN:VEVENT
-UID:9ba6c455caf192db@cultuurkalender
-DTSTAMP:20261016T090509Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270329
-SUMMARY:Roze Filmdagen 2027 (datum o.v.)
-DESCRIPTION:Dertigste editie van het LHBTIQ+-filmfestival van Amsterdam\; 
- data onder voorbehoud.\nLet op: datum is een inschatting op basis van eerd
- ere edities en nog niet bevestigd.\nLooptijd: 17 mrt 2027 t/m 28 mrt 2027.
- \nhttps://www.iamsterdam.com/uit/agenda/festivals/events/roze-filmdagen
-LOCATION:Het Ketelhuis / Westergas\, Amsterdam
-CATEGORIES:Festivals,Film
-TRANSP:TRANSPARENT
-URL:https://www.iamsterdam.com/uit/agenda/festivals/events/roze-filmdagen
-END:VEVENT
-BEGIN:VEVENT
 UID:e15e5d4b0c19fdd0@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270328
 SUMMARY:Movies that Matter Festival 2027
@@ -177,7 +176,7 @@ URL:https://moviesthatmatter.nl/en/agenda/movies-that-matter-festival-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:3eb3a1defdb40ddf@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270329
 SUMMARY:Cinedans FEST 2027 (datum o.v.)
@@ -193,24 +192,20 @@ URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:6edc221aa9c1f010@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270412
-SUMMARY:Go Short 2027 (datum o.v.)
-DESCRIPTION:Internationaal kortefilmfestival\; datum geschat naar het gebr
- uikelijke aprilpatroon (2026: 7-12 april).\nLet op: datum is een inschatti
- ng op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 6 apr 20
- 27 t/m 11 apr 2027.\nhttps://www.goshort.nl/en/news-overview/the-go-short-
- 2026-program-is-live
+SUMMARY:Go Short 2027
+DESCRIPTION:Internationaal kortefilmfestival.\nLooptijd: 6 apr 2027 t/m 11
+  apr 2027.\nhttps://www.goshort.nl/en/calendar-of-the-year
 LOCATION:Diverse locaties\, Nijmegen
 CATEGORIES:Festivals,Film
 TRANSP:TRANSPARENT
-URL:https://www.goshort.nl/en/news-overview/the-go-short-2026-program-is-l
- ive
+URL:https://www.goshort.nl/en/calendar-of-the-year
 END:VEVENT
 BEGIN:VEVENT
 UID:b630fac43515ad07@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270412
 SUMMARY:CinemAsia Film Festival 2027 (datum o.v.)
@@ -226,7 +221,7 @@ URL:https://www.eyefilm.nl/en/programme/cinemasia-2026/1594110
 END:VEVENT
 BEGIN:VEVENT
 UID:95468e50c5c74572@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270419
 SUMMARY:Amsterdam Spanish Film Festival 2027 (datum o.v.)
@@ -241,7 +236,7 @@ URL:https://amsterdamspanishfilmfestival.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:ed1ccaddf4215cd2@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270609
 SUMMARY:Leiden Shorts 2027
@@ -255,87 +250,76 @@ URL:https://filmfreeway.com/festivals/22584
 END:VEVENT
 BEGIN:VEVENT
 UID:9b0bd31586292219@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270614
-SUMMARY:Rotterdam Arab Film Festival 2027 (datum o.v.)
+SUMMARY:Rotterdam Arab Film Festival 2027
 DESCRIPTION:Jaarlijks festival met films uit de Arabische wereld en de dia
- spora\, met competitie en randprogramma.\nLet op: datum is een inschatting
-  op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 9 jun 2027
-  t/m 13 jun 2027.\nhttps://www.lantarenvenster.nl/programma/rotterdam-arab
- -film-festival-2026/
+ spora\, met competitie en randprogramma.\nLooptijd: 9 jun 2027 t/m 13 jun 
+ 2027.\nhttps://www.arabfilmfestival.nl/
 LOCATION:LantarenVenster\, Rotterdam
 CATEGORIES:Festivals,Film
 TRANSP:TRANSPARENT
-URL:https://www.lantarenvenster.nl/programma/rotterdam-arab-film-festival-
- 2026/
+URL:https://www.arabfilmfestival.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c11d028dcb64236@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270920
-SUMMARY:Film by the Sea 2027 (datum o.v.)
-DESCRIPTION:Filmfestival aan zee met een focus op literatuurverfilmingen\;
-  datum geschat (2026: 11-20 september).\nLet op: datum is een inschatting 
- op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 10 sep 2027
-  t/m 19 sep 2027.\nhttps://domburg.com/en/event/102/film-by-the-sea.html
+SUMMARY:Film by the Sea 2027
+DESCRIPTION:Filmfestival aan zee met een focus op literatuurverfilmingen.\
+ nLooptijd: 10 sep 2027 t/m 19 sep 2027.\nhttps://www.filmbythesea.nl/
 LOCATION:Diverse locaties\, Vlissingen
 CATEGORIES:Festivals,Film
 TRANSP:TRANSPARENT
-URL:https://domburg.com/en/event/102/film-by-the-sea.html
+URL:https://www.filmbythesea.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:7b29c4f06fd52e68@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270927
-SUMMARY:Camera Japan Rotterdam 2027 (datum o.v.)
+SUMMARY:Camera Japan Rotterdam 2027
 DESCRIPTION:Festival voor Japanse film en cultuur met nieuwe films\, anime
-  en randprogramma.\nLet op: datum is een inschatting op basis van eerdere 
- edities en nog niet bevestigd.\nLooptijd: 22 sep 2027 t/m 26 sep 2027.\nht
- tps://www.lantarenvenster.nl/?p=178537
+  en randprogramma.\nLooptijd: 22 sep 2027 t/m 26 sep 2027.\nhttps://camera
+ japan.nl/
 LOCATION:LantarenVenster\, Rotterdam
 CATEGORIES:Festivals,Film
 TRANSP:TRANSPARENT
-URL:https://www.lantarenvenster.nl/?p=178537
+URL:https://camerajapan.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:7b65754572e62879@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20271002
-SUMMARY:Nederlands Film Festival 2027 (datum o.v.)
+SUMMARY:Nederlands Film Festival 2027
 DESCRIPTION:Het festival van de Nederlandse film met de uitreiking van de 
- Gouden Kalveren\; datum geschat naar het patroon eind september.\nLet op: 
- datum is een inschatting op basis van eerdere edities en nog niet bevestig
- d.\nLooptijd: 24 sep 2027 t/m 1 okt 2027.\nhttps://en.wikipedia.org/wiki/N
- etherlands_Film_Festival
+ Gouden Kalveren.\nLooptijd: 24 sep 2027 t/m 1 okt 2027.\nhttps://www.filmf
+ estival.nl/
 LOCATION:Diverse locaties\, Utrecht
 CATEGORIES:Festivals,Film
 TRANSP:TRANSPARENT
-URL:https://en.wikipedia.org/wiki/Netherlands_Film_Festival
+URL:https://www.filmfestival.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d27091700b27c10@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271004
-SUMMARY:Camera Japan Amsterdam 2027 (datum o.v.)
+SUMMARY:Camera Japan Amsterdam 2027
 DESCRIPTION:Amsterdamse editie van het festival voor Japanse film en cultu
- ur in LAB111.\nLet op: datum is een inschatting op basis van eerdere editi
- es en nog niet bevestigd.\nLooptijd: 30 sep 2027 t/m 3 okt 2027.\nhttps://
- www.iamsterdam.com/en/whats-on/calendar/festivals/events/camera-japan-fest
- ival
+ ur in LAB111.\nLooptijd: 30 sep 2027 t/m 3 okt 2027.\nhttps://camerajapan.
+ nl/
 LOCATION:LAB111\, Amsterdam
 CATEGORIES:Festivals,Film
 TRANSP:TRANSPARENT
-URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/camer
- a-japan-festival
+URL:https://camerajapan.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9292d9c2f52e518@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271018
 SUMMARY:Leiden International Film Festival 2027 (datum o.v.)
@@ -350,7 +334,7 @@ URL:https://www.liff.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:17ea6323a5cac905@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271025
 SUMMARY:Cinekid Festival 2027 (datum o.v.)
@@ -366,7 +350,7 @@ URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
 END:VEVENT
 BEGIN:VEVENT
 UID:850dbfb08bdb330b@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271101
 SUMMARY:Tapis Rouge Frans Filmfestival 2027 (datum o.v.)
@@ -383,7 +367,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
 END:VEVENT
 BEGIN:VEVENT
 UID:58caad50778e7beb@cultuurkalender
-DTSTAMP:20261016T090509Z
+DTSTAMP:20261101T075826Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271108
 SUMMARY:Imagine Film Festival 2027 (datum o.v.)
@@ -395,5 +379,21 @@ LOCATION:LAB111 e.a.\, Amsterdam
 CATEGORIES:Festivals,Film
 TRANSP:TRANSPARENT
 URL:https://www.imaginefilmfestival.nl/en/category/articles/
+END:VEVENT
+BEGIN:VEVENT
+UID:2866c0c3f82a4388@cultuurkalender
+DTSTAMP:20261101T075826Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271122
+SUMMARY:IDFA 2027 (datum o.v.)
+DESCRIPTION:Het grootste documentairefestival ter wereld\, in Amsterdamse 
+ filmzalen en theaters\; data geschat naar patroon (donderdag t/m zondag ha
+ lf november).\nLet op: datum is een inschatting op basis van eerdere editi
+ es en nog niet bevestigd.\nLooptijd: 11 nov 2027 t/m 21 nov 2027.\nhttps:/
+ /festival.idfa.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://festival.idfa.nl
 END:VEVENT
 END:VCALENDAR
