@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Bouwt .ics-feeds (totaal + per genre) uit events.json."""
+"""Bouwt .ics-feeds (totaal, per genre, per stad en genre x stad) uit events.json."""
 import hashlib, json, sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -8,6 +8,20 @@ GENRES = {
     "klassiek": "Klassieke muziek", "pop": "Popmuziek", "theater": "Theater & musical", "dans": "Dans",
     "opera": "Opera", "expositie": "Museumexposities", "festival": "Festivals", "film": "Film", "pianisten": "Pianisten",
 }
+# Stadsfilter: stad -> plaatsnamen die eronder vallen (stad zelf + directe omgeving)
+STEDEN = {
+    "amsterdam": ("Amsterdam", ["Amsterdam", "Haarlem", "Laren", "Naarden", "Amstelveen", "Zaandam"]),
+    "rotterdam": ("Rotterdam", ["Rotterdam", "Schiedam"]),
+    "denhaag": ("Den Haag", ["Den Haag", "Wassenaar", "Delft", "Scheveningen"]),
+    "utrecht": ("Utrecht", ["Utrecht"]),
+    "assen": ("Assen", ["Assen"]),
+    "groningen": ("Groningen", ["Groningen"]),
+}
+
+def steden(e):
+    city = e.get("city", "")
+    return [k for k, (_, plaatsen) in STEDEN.items() if any(p in city for p in plaatsen)]
+
 LONG = 21  # langer dan dit: aparte start- en eindmarkering
 
 def esc(s):
@@ -78,6 +92,13 @@ def main(src, out):
         sub = [e for e in evs if g in e["genres"]]
         (out / f"{g}.ics").write_text(calendar(f"Cultuurkalender – {label}", sub, stamp), newline="")
         print(g, len(sub))
+    for k, (naam, _) in STEDEN.items():
+        inst = [e for e in evs if k in steden(e)]
+        (out / f"cultuur-{k}.ics").write_text(calendar(f"Cultuurkalender – {naam}", inst, stamp), newline="")
+        for g, label in GENRES.items():
+            sub = [e for e in inst if g in e["genres"]]
+            (out / f"{g}-{k}.ics").write_text(calendar(f"Cultuurkalender – {label} – {naam}", sub, stamp), newline="")
+        print(naam, len(inst))
     print("totaal", len(evs))
 
 
@@ -86,8 +107,11 @@ def write_index(src, out):
     evs = json.loads(Path(src).read_text())
     evs.sort(key=lambda e: (e["start"], e["title"]))
     safe = [{k: (html.escape(v) if isinstance(v, str) else v) for k, v in e.items()} for e in evs]
+    for e in safe:
+        e["steden"] = steden(e)
     t = (Path(__file__).parent / "index_template.html").read_text()
     t = t.replace("__GENRES__", json.dumps(GENRES, ensure_ascii=False)) \
+         .replace("__STEDEN__", json.dumps({k: v[0] for k, v in STEDEN.items()}, ensure_ascii=False)) \
          .replace("__EVENTS__", json.dumps(safe, ensure_ascii=False).replace("</", "<\\/")) \
          .replace("__UPDATED__", date.today().strftime("%d-%m-%Y"))
     (Path(out) / "index.html").write_text(t)

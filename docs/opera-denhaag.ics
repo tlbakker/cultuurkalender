@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Opera – Den Haag
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:0295e0a78f4ad179-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:▶ Start: Waiting for the Barbarians – Nederlandse Reisopera
+DESCRIPTION:Philip Glass' opera naar Coetzee op tournee\, met slotvoorstel
+ lingen in Den Haag (20–31 okt).\nLooptijd: 26 sep 2026 t/m 31 okt 2026.\
+ nhttps://www.reisopera.nl
+LOCATION:Tournee (o.a. Enschede\, Utrecht\, Zwolle\, Den Haag)\, Den Haag
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.reisopera.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:0295e0a78f4ad179-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:■ Laatste dag: Waiting for the Barbarians – Nederlandse Reisop
+ era
+DESCRIPTION:Philip Glass' opera naar Coetzee op tournee\, met slotvoorstel
+ lingen in Den Haag (20–31 okt).\nLooptijd: 26 sep 2026 t/m 31 okt 2026.\
+ nhttps://www.reisopera.nl
+LOCATION:Tournee (o.a. Enschede\, Utrecht\, Zwolle\, Den Haag)\, Den Haag
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.reisopera.nl
+END:VEVENT
+END:VCALENDAR

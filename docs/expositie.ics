@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:12dc2e3c4cb7e75b-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:▶ Start: Rijksmuseum: WORN – gekoesterde kleding
@@ -25,7 +25,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
 END:VEVENT
 BEGIN:VEVENT
 UID:12dc2e3c4cb7e75b-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:■ Laatste dag: Rijksmuseum: WORN – gekoesterde kleding
@@ -41,7 +41,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
 END:VEVENT
 BEGIN:VEVENT
 UID:87245f18f37e7f5f-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2026
@@ -55,7 +55,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:87245f18f37e7f5f-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2026
@@ -69,7 +69,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:3329b41099e32729-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:▶ Start: Kröller-Müller Museum: Gilbert & George. Drifters
@@ -84,7 +84,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/gilbert-a
 END:VEVENT
 BEGIN:VEVENT
 UID:3329b41099e32729-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Kröller-Müller Museum: Gilbert & George. Drifte
@@ -100,7 +100,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/gilbert-a
 END:VEVENT
 BEGIN:VEVENT
 UID:092e9e8de858a6cc-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:▶ Start: Kunstmuseum Den Haag: Reflections on Fashion
@@ -113,7 +113,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:092e9e8de858a6cc-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Reflections on Fashion
@@ -126,7 +126,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:816d83ff212afb48-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:▶ Start: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
@@ -140,7 +140,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:816d83ff212afb48-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:■ Laatste dag: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
@@ -154,7 +154,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:c012b2759b05d043-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:▶ Start: Stedelijk Museum: Yayoi Kusama
@@ -168,7 +168,7 @@ URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
 END:VEVENT
 BEGIN:VEVENT
 UID:c012b2759b05d043-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Stedelijk Museum: Yayoi Kusama
@@ -182,7 +182,7 @@ URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
 END:VEVENT
 BEGIN:VEVENT
 UID:8ec8b0e480d2a53a-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:▶ Start: Museum Voorlinden: Celebrating the Icons of Art
@@ -196,7 +196,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:8ec8b0e480d2a53a-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Museum Voorlinden: Celebrating the Icons of Art
@@ -210,7 +210,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:afeaf81926c4268c-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:▶ Start: Kröller-Müller Museum: Van Gogh\, al onze schilderije
@@ -226,7 +226,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/van-gogh-
 END:VEVENT
 BEGIN:VEVENT
 UID:afeaf81926c4268c-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:■ Laatste dag: Kröller-Müller Museum: Van Gogh\, al onze schil
@@ -242,7 +242,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/van-gogh-
 END:VEVENT
 BEGIN:VEVENT
 UID:cb150dbbccf23386-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:▶ Start: Foam: Nadav Kander – The Edge of Things
@@ -256,7 +256,7 @@ URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
 END:VEVENT
 BEGIN:VEVENT
 UID:cb150dbbccf23386-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:■ Laatste dag: Foam: Nadav Kander – The Edge of Things
@@ -270,7 +270,7 @@ URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
 END:VEVENT
 BEGIN:VEVENT
 UID:cf68ae053974c34c-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▶ Start: Eye Filmmuseum: Ulrich Seidl – Über das Leben\, die 
@@ -285,7 +285,7 @@ URL:https://www.eyefilm.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:cf68ae053974c34c-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:■ Laatste dag: Eye Filmmuseum: Ulrich Seidl – Über das Leben\
@@ -300,7 +300,7 @@ URL:https://www.eyefilm.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:beeadb5b6bef2d65-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▶ Start: Groninger Museum: The Architect & the Housewife
@@ -314,7 +314,7 @@ URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
 END:VEVENT
 BEGIN:VEVENT
 UID:beeadb5b6bef2d65-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:■ Laatste dag: Groninger Museum: The Architect & the Housewife
@@ -328,7 +328,7 @@ URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2436199d2e2386-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:▶ Start: Singer Laren: Herman Kruyder. Expressionist van de ziel
@@ -343,7 +343,7 @@ URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2436199d2e2386-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:■ Laatste dag: Singer Laren: Herman Kruyder. Expressionist van d
@@ -359,7 +359,7 @@ URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
 END:VEVENT
 BEGIN:VEVENT
 UID:ce05933d953d21a3-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:▶ Start: Kröller-Müller Museum: Bart van der Leck / Charley To
@@ -375,7 +375,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bart-van-
 END:VEVENT
 BEGIN:VEVENT
 UID:ce05933d953d21a3-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:■ Laatste dag: Kröller-Müller Museum: Bart van der Leck / Char
@@ -391,7 +391,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bart-van-
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5b9acb1ab0333a-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:▶ Start: Van Gogh Museum: Yoshitoshi. Meester van de maan
@@ -407,7 +407,7 @@ URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5b9acb1ab0333a-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:■ Laatste dag: Van Gogh Museum: Yoshitoshi. Meester van de maan
@@ -423,7 +423,7 @@ URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
 END:VEVENT
 BEGIN:VEVENT
 UID:11bc14b206f91c1d-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:▶ Start: H'ART Museum: Chez Matisse – meesterwerken uit het Ce
@@ -438,7 +438,7 @@ URL:https://www.hartmuseum.nl/en/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:11bc14b206f91c1d-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:■ Laatste dag: H'ART Museum: Chez Matisse – meesterwerken uit 
@@ -453,7 +453,7 @@ URL:https://www.hartmuseum.nl/en/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:26b9fd394bff1302-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Marisol
@@ -469,7 +469,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:26b9fd394bff1302-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Marisol
@@ -485,7 +485,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb611a19d3e1804-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:▶ Start: Rijksmuseum: Willem de Kooning at Work
@@ -501,7 +501,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb611a19d3e1804-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Rijksmuseum: Willem de Kooning at Work
@@ -517,7 +517,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b680dd1a58901d-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:▶ Start: Stedelijk Museum: Adam Pendleton – Some Wild Kind of 
@@ -534,7 +534,7 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b680dd1a58901d-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Stedelijk Museum: Adam Pendleton – Some Wild Ki
@@ -551,7 +551,7 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
 END:VEVENT
 BEGIN:VEVENT
 UID:e4027eb7a722851a-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:▶ Start: Mauritshuis: Thyssen-Bornemisza ❤️ Mauritshuis – 
@@ -567,7 +567,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornem
 END:VEVENT
 BEGIN:VEVENT
 UID:e4027eb7a722851a-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Mauritshuis: Thyssen-Bornemisza ❤️ Mauritshui
@@ -583,7 +583,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornem
 END:VEVENT
 BEGIN:VEVENT
 UID:05bb86258ef23add-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:▶ Start: Van Gogh Museum: Whistler. Dandy en dwarsdenker
@@ -597,7 +597,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:05bb86258ef23add-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:■ Laatste dag: Van Gogh Museum: Whistler. Dandy en dwarsdenker
@@ -611,7 +611,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:72d9316627350b17-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:▶ Start: Drents Museum: Angkor: het mysterie van Cambodja
@@ -626,7 +626,7 @@ URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
 END:VEVENT
 BEGIN:VEVENT
 UID:72d9316627350b17-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:■ Laatste dag: Drents Museum: Angkor: het mysterie van Cambodja
@@ -641,7 +641,7 @@ URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:▶ Start: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -655,7 +655,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -669,7 +669,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:3647c548e7c8d839@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
 SUMMARY:PAN Amsterdam 2026
@@ -684,7 +684,7 @@ URL:https://www.pan.nl/media/panmedia/pressrelease/SavetheDatevoorPANAmste
 END:VEVENT
 BEGIN:VEVENT
 UID:7a55488586257bec-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:▶ Start: Frans Hals Museum: Hals-Rembrandt
@@ -698,7 +698,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
 END:VEVENT
 BEGIN:VEVENT
 UID:7a55488586257bec-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Frans Hals Museum: Hals-Rembrandt
@@ -712,7 +712,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
 END:VEVENT
 BEGIN:VEVENT
 UID:7cf4b1144117d000@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Museumnacht Amsterdam (N8) 2026
@@ -725,7 +725,7 @@ URL:https://museumnacht.amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:ede21e3df956d7f2@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261123
 SUMMARY:Amsterdam Art Week 2026
@@ -741,7 +741,7 @@ URL:https://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-t
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b463b09d29ef20-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:▶ Start: Amsterdam Light Festival 2026-2027
@@ -755,7 +755,7 @@ URL:https://blog.wego.com/amsterdam-light-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b463b09d29ef20-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Amsterdam Light Festival 2026-2027
@@ -769,7 +769,7 @@ URL:https://blog.wego.com/amsterdam-light-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:02e12df30c6cb352-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:▶ Start: Kunstmuseum Den Haag: Future Fashion
@@ -784,7 +784,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/future-fashion
 END:VEVENT
 BEGIN:VEVENT
 UID:02e12df30c6cb352-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Future Fashion
@@ -799,7 +799,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/future-fashion
 END:VEVENT
 BEGIN:VEVENT
 UID:3880b2e1030af8c4-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:▶ Start: Foam: Yorgos Lanthimos – Photographs
@@ -813,7 +813,7 @@ URL:https://www.foam.org/nl/events/yorgos-lanthimos-photographs
 END:VEVENT
 BEGIN:VEVENT
 UID:3880b2e1030af8c4-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:■ Laatste dag: Foam: Yorgos Lanthimos – Photographs
@@ -827,7 +827,7 @@ URL:https://www.foam.org/nl/events/yorgos-lanthimos-photographs
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f3bdb8fbb2f316-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:▶ Start: Rijksmuseum: Drawing!
@@ -843,7 +843,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f3bdb8fbb2f316-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:■ Laatste dag: Rijksmuseum: Drawing!
@@ -859,7 +859,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:f90a1201f1ba69ee-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:▶ Start: Van Gogh Museum: Eva Gonzalès
@@ -873,7 +873,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:f90a1201f1ba69ee-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:■ Laatste dag: Van Gogh Museum: Eva Gonzalès
@@ -887,7 +887,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:915e103cea009dfe-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:▶ Start: Singer Laren: De Modernen. Van Matisse tot Bacon
@@ -903,7 +903,7 @@ URL:https://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bacon
 END:VEVENT
 BEGIN:VEVENT
 UID:915e103cea009dfe-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:■ Laatste dag: Singer Laren: De Modernen. Van Matisse tot Bacon
@@ -919,7 +919,7 @@ URL:https://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bacon
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:▶ Start: Kunsthal Rotterdam: Monira Al Qadiri
@@ -934,7 +934,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Monira Al Qadiri
@@ -949,7 +949,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:f58b0a33f0023d67-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:▶ Start: Mauritshuis: De Stier
@@ -963,7 +963,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:f58b0a33f0023d67-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:■ Laatste dag: Mauritshuis: De Stier
@@ -977,7 +977,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf01be58a5110dd-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:▶ Start: Stedelijk Museum: Luc Tuymans – Silent Music
@@ -991,7 +991,7 @@ URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf01be58a5110dd-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:■ Laatste dag: Stedelijk Museum: Luc Tuymans – Silent Music
@@ -1005,7 +1005,7 @@ URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
 END:VEVENT
 BEGIN:VEVENT
 UID:df0a6dfc04eab759-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:▶ Start: H'ART Museum: Feminine Power (met British Museum) (datu
@@ -1023,7 +1023,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:df0a6dfc04eab759-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:■ Laatste dag: H'ART Museum: Feminine Power (met British Museum)
@@ -1041,7 +1041,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:bb56cf6f7cdb04b7@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270319
 SUMMARY:TEFAF Maastricht 2027
@@ -1055,7 +1055,7 @@ URL:https://www.expolista.com/tradeshows/tefaf-maastricht/2027
 END:VEVENT
 BEGIN:VEVENT
 UID:e4dcd81b723c7627@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 SUMMARY:Unseen 2027 (datum o.v.)
@@ -1072,7 +1072,7 @@ URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
 END:VEVENT
 BEGIN:VEVENT
 UID:98360cc12cabc9b9@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 SUMMARY:Art Rotterdam 2027
@@ -1086,7 +1086,7 @@ URL:https://artrotterdam.com/en/practical-information
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:▶ Start: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -1100,7 +1100,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -1114,7 +1114,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:2676e1e071c2edbd-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:▶ Start: Museum Voorlinden: Olafur Eliasson
@@ -1128,7 +1128,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:2676e1e071c2edbd-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:■ Laatste dag: Museum Voorlinden: Olafur Eliasson
@@ -1142,7 +1142,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:eee0157f26d4c430-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:▶ Start: Frans Hals Museum: Oesters & citroenen
@@ -1157,7 +1157,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/oesters-en-citroenen
 END:VEVENT
 BEGIN:VEVENT
 UID:eee0157f26d4c430-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:■ Laatste dag: Frans Hals Museum: Oesters & citroenen
@@ -1172,7 +1172,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/oesters-en-citroenen
 END:VEVENT
 BEGIN:VEVENT
 UID:9d77eef93a3f8982-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:▶ Start: Stedelijk Museum: Ibrahim Mahama – Zilijifa
@@ -1187,7 +1187,7 @@ URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d77eef93a3f8982-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:■ Laatste dag: Stedelijk Museum: Ibrahim Mahama – Zilijifa
@@ -1202,7 +1202,7 @@ URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -1216,7 +1216,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -1230,7 +1230,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:94c5dea9c5be1636-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2027 (datu
@@ -1247,7 +1247,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:94c5dea9c5be1636-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20271024
 DTEND;VALUE=DATE:20271025
 SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2027
@@ -1264,7 +1264,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:6a6dd8a0a00f99cb-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:▶ Start: Stedelijk Museum: Becoming Marc Chagall
@@ -1279,7 +1279,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:6a6dd8a0a00f99cb-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:■ Laatste dag: Stedelijk Museum: Becoming Marc Chagall
@@ -1294,7 +1294,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:a2317dceacbd0ddb-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:▶ Start: Singer Laren: Jan Hendrik Weissenbruch – Hollands lic
@@ -1309,7 +1309,7 @@ URL:https://museumtijdschrift.nl/artspot/singer-laren-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:a2317dceacbd0ddb-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 SUMMARY:■ Laatste dag: Singer Laren: Jan Hendrik Weissenbruch – Hollan
@@ -1324,7 +1324,7 @@ URL:https://museumtijdschrift.nl/artspot/singer-laren-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:0424862fbf3b1b9e-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:▶ Start: Kunstmuseum Den Haag: Mondriaans laatste meesterwerken 
@@ -1341,7 +1341,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/mondriaans-laatste-mee
 END:VEVENT
 BEGIN:VEVENT
 UID:0424862fbf3b1b9e-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20280130
 DTEND;VALUE=DATE:20280131
 SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Mondriaans laatste meesterw
@@ -1358,7 +1358,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/mondriaans-laatste-mee
 END:VEVENT
 BEGIN:VEVENT
 UID:96d166c4b54dcc05-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:▶ Start: Mauritshuis: Samuel van Hoogstraten
@@ -1372,7 +1372,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:96d166c4b54dcc05-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20280109
 DTEND;VALUE=DATE:20280110
 SUMMARY:■ Laatste dag: Mauritshuis: Samuel van Hoogstraten
@@ -1386,7 +1386,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:af93c351bfd4689c-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:▶ Start: Stedelijk Museum: Cao Fei (datum o.v.)
@@ -1402,7 +1402,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:af93c351bfd4689c-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20280116
 DTEND;VALUE=DATE:20280117
 SUMMARY:■ Laatste dag: Stedelijk Museum: Cao Fei (datum o.v.)
@@ -1418,7 +1418,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:f9afc5378fc8f064-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
 SUMMARY:▶ Start: Frans Hals Museum: Een gevoel van ongeveer
@@ -1433,7 +1433,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/een-gevoel-van-ongeveer
 END:VEVENT
 BEGIN:VEVENT
 UID:f9afc5378fc8f064-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280207
 SUMMARY:■ Laatste dag: Frans Hals Museum: Een gevoel van ongeveer
@@ -1448,7 +1448,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/een-gevoel-van-ongeveer
 END:VEVENT
 BEGIN:VEVENT
 UID:060c55a6de4dffbf-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:▶ Start: H'ART Museum: Surrealisme (met Centre Pompidou) (datum 
@@ -1467,7 +1467,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:060c55a6de4dffbf-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280228
 SUMMARY:■ Laatste dag: H'ART Museum: Surrealisme (met Centre Pompidou) (
@@ -1486,7 +1486,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:▶ Start: Kunsthal Rotterdam: Luigi & Iango
@@ -1501,7 +1501,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280207
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Luigi & Iango
@@ -1516,7 +1516,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:e878a2d30518a4da@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20271106
 DTEND;VALUE=DATE:20271107
 SUMMARY:Museumnacht Amsterdam (N8) 2027 (datum o.v.)
@@ -1531,7 +1531,7 @@ URL:https://www.n8.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:b17e8075d92c5247@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271115
 SUMMARY:PAN Amsterdam 2027 (datum o.v.)
@@ -1546,7 +1546,7 @@ URL:https://www.pan.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:04e7a9e2de91f5e6@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271122
 SUMMARY:Amsterdam Art Week 2027 (datum o.v.)
@@ -1561,7 +1561,7 @@ URL:https://amsterdamart.com
 END:VEVENT
 BEGIN:VEVENT
 UID:05a3577dfdf904d4-start@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271126
 SUMMARY:▶ Start: Amsterdam Light Festival 2027-2028 (datum o.v.)
@@ -1576,7 +1576,7 @@ URL:https://amsterdamlightfestival.com
 END:VEVENT
 BEGIN:VEVENT
 UID:05a3577dfdf904d4-eind@cultuurkalender
-DTSTAMP:20261103T074913Z
+DTSTAMP:20261103T094530Z
 DTSTART;VALUE=DATE:20280116
 DTEND;VALUE=DATE:20280117
 SUMMARY:■ Laatste dag: Amsterdam Light Festival 2027-2028 (datum o.v.)

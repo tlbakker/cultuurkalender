@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Opera – Rotterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f325d866f90c31f9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270524
+SUMMARY:O. Festival (voorheen Operadagen Rotterdam) 2027
+DESCRIPTION:Tiendaags festival voor opera\, muziek en theater in Rotterdam
+ \, jaarlijks eind mei (2026: 22-31 mei).\nLooptijd: 14 mei 2027 t/m 23 mei
+  2027.\nhttps://o-festival.nl/
+LOCATION:Diverse locaties\, Rotterdam
+CATEGORIES:Opera,Festivals
+TRANSP:TRANSPARENT
+URL:https://o-festival.nl/
+END:VEVENT
+END:VCALENDAR

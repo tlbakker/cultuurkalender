@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Pianisten – Amsterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:404c881b6b0612fc@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Grigory Sokolov – recital (Pianistenserie)
+DESCRIPTION:Solorecital van Grigory Sokolov in de Pianistenserie van het C
+ oncertgebouw (20:15)\; programma wordt later bekendgemaakt.\nhttps://bacht
+ rack.com/22/291/view/439499
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://bachtrack.com/22/291/view/439499
+END:VEVENT
+BEGIN:VEVENT
+UID:5cdd431facfa5b88@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Yuja Wang – Brahms pianoconcerten 1 & 2 met Mahler Chamber Orche
+ stra
+DESCRIPTION:Yuja Wang speelt en leidt vanaf de vleugel beide pianoconcerte
+ n van Brahms met het Mahler Chamber Orchestra (20:15).\nhttps://www.concer
+ tgebouw.nl/en/concerts/39937297-yuja-wang-performs-brahms-piano-concertos-
+ nos.-1-and-2
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/concerts/39937297-yuja-wang-performs-b
+ rahms-piano-concertos-nos.-1-and-2
+END:VEVENT
+END:VCALENDAR

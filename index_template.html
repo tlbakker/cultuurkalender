@@ -10,6 +10,8 @@ p.lead{color:var(--muted);margin:0 0 20px}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 20px}
 .chip{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:6px 12px;border-radius:999px;cursor:pointer;font:inherit}
 .chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#fff}
+.stad{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:-8px 0 20px;color:var(--muted)}
+.stad select{max-width:100%;font:inherit;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
 .sub{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:24px}
 .sub a{color:var(--acc)}.sub code{word-break:break-all;font-size:13px}
 .btn{display:inline-block;margin:8px 8px 0 0;padding:8px 14px;border-radius:8px;background:var(--acc);color:#fff!important;text-decoration:none}
@@ -22,25 +24,27 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mute
 <h1>Cultuurkalender</h1>
 <p class="lead">Grote culturele evenementen in en rond Amsterdam: festivals, premières, seizoensopeningen en exposities. Bijgewerkt: __UPDATED__.</p>
 <div class="chips" id="chips"></div>
+<label class="stad">Stad: <select id="stad"><option value="">Alle plaatsen</option></select></label>
 <div class="sub"><strong>Abonneren in Google Calendar</strong> op <span id="subname">alles</span>:<br>
 <a class="btn" id="gcal" target="_blank" rel="noopener">Toevoegen aan Google Calendar</a><a class="btn" id="webcal">Openen in agenda-app</a>
 <div style="margin-top:10px">Of kopieer deze link en kies in Google Calendar “Andere agenda's → Via URL”:<br><code id="url"></code></div></div>
 <div id="list"></div>
 </main><script>
-const G=__GENRES__, EV=__EVENTS__;
+const G=__GENRES__, EV=__EVENTS__, ST=__STEDEN__;
+const EO={amsterdam:" e.o. (incl. Haarlem, Laren, Naarden)",denhaag:" e.o. (incl. Wassenaar, Delft)",rotterdam:" e.o."};
 const M="jan feb mrt apr mei jun jul aug sep okt nov dec".split(" ");
 const f=s=>{const d=new Date(s+"T12:00");return d.getDate()+" "+M[d.getMonth()]+" "+d.getFullYear()};
-let cur="alles";
+let cur="alles", stad="";
 const base=location.href.replace(/[^/]*$/,"");
 function render(){
   document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",c.dataset.g===cur));
-  const file=cur==="alles"?"cultuur.ics":cur+".ics", u=base+file;
+  const file=(cur==="alles"?"cultuur":cur)+(stad?"-"+stad:"")+".ics", u=base+file;
   document.getElementById("url").textContent=u;
-  document.getElementById("subname").textContent=cur==="alles"?"alles":G[cur];
+  document.getElementById("subname").textContent=(cur==="alles"?"alles":G[cur])+(stad?" in "+ST[stad]:"");
   document.getElementById("webcal").href=u.replace(/^https?:/,"webcal:");
   document.getElementById("gcal").href="https://calendar.google.com/calendar/render?cid="+encodeURIComponent(u.replace(/^https?:/,"webcal:"));
   const today=new Date().toISOString().slice(0,10);
-  const evs=EV.filter(e=>e.end>=today&&(cur==="alles"||e.genres.includes(cur)));
+  const evs=EV.filter(e=>e.end>=today&&(cur==="alles"||e.genres.includes(cur))&&(!stad||e.steden.includes(stad)));
   let h="",mon="";
   for(const e of evs){const k=e.start<today?"Nu te zien":M[+e.start.slice(5,7)-1]+" "+e.start.slice(0,4);
     if(k!==mon){h+=`<h2>${k}</h2>`;mon=k}
@@ -50,5 +54,8 @@ function render(){
 }
 const chips=document.getElementById("chips");
 for(const [g,l] of [["alles","Alles"],...Object.entries(G)]){const b=document.createElement("button");b.className="chip";b.dataset.g=g;b.textContent=l;b.onclick=()=>{cur=g;render()};chips.appendChild(b)}
+const sel=document.getElementById("stad");
+for(const [k,n] of Object.entries(ST)){const o=document.createElement("option");o.value=k;o.textContent=n+(EO[k]||"");sel.appendChild(o)}
+sel.onchange=()=>{stad=sel.value;render()};
 render();
 </script></body></html>

@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Festivals – Den Haag
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5446f52688fb93eb@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Amare 5 jaar – jubileumweekend met Residentie Orkest
+DESCRIPTION:Jubileumweekend van Amare\, geopend door het Residentie Orkest
+  en Nederlands Dans Theater met wereldpremières in 'Celebrating 5 years A
+ mare'.\nLooptijd: 20 nov 2026 t/m 22 nov 2026.\nhttps://denhaag.com/nl/nie
+ uws/amare-viert-5-jarig-jubileum-programma-jubileumweekend-bekend
+LOCATION:Amare\, Den Haag
+CATEGORIES:Dans,Festivals,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-j
+ ubileumweekend-bekend
+END:VEVENT
+BEGIN:VEVENT
+UID:710a58d821706472@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+SUMMARY:New Tide Festival – Amare
+DESCRIPTION:Tweedaags festival voor vooruitstrevende jazz en nieuwe klanke
+ n in Amare.\nLooptijd: 5 mrt 2027 t/m 6 mrt 2027.\nhttps://070online.nl/20
+ 26/10/14/amare-van-punkoperette-tot-jazz/
+LOCATION:Amare\, Den Haag
+CATEGORIES:Popmuziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://070online.nl/2026/10/14/amare-van-punkoperette-tot-jazz/
+END:VEVENT
+BEGIN:VEVENT
+UID:e15e5d4b0c19fdd0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270328
+SUMMARY:Movies that Matter Festival 2027
+DESCRIPTION:Filmfestival over mensenrechten met films en debatten.\nLoopti
+ jd: 19 mrt 2027 t/m 27 mrt 2027.\nhttps://moviesthatmatter.nl/en/agenda/mo
+ vies-that-matter-festival-2027/
+LOCATION:Diverse locaties\, Den Haag
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://moviesthatmatter.nl/en/agenda/movies-that-matter-festival-2027
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed83bc36b1454d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Bevrijdingsfestivals 2027
+DESCRIPTION:Gratis Bevrijdingsfestivals met muziek in alle provincies op B
+ evrijdingsdag\; programma volgt.\nhttps://www.4en5mei.nl
+LOCATION:Diverse steden (o.a. Haarlem\, Utrecht\, Den Haag\, Amsterdam)
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.4en5mei.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:b5522be3e9f4ddc7@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270913
+SUMMARY:Delft Chamber Music Festival 2027 (datum o.v.)
+DESCRIPTION:Internationaal kamermuziekfestival in Delft eind juli.\nLet op
+ : datum is een inschatting op basis van eerdere edities en nog niet bevest
+ igd.\nLooptijd: 8 sep 2027 t/m 12 sep 2027.\nhttps://www.delft.com/en/uita
+ genda/uitagenda/4170890544/delft-chamber-music-festival
+LOCATION:Museum Prinsenhof e.a.\, Delft
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.delft.com/en/uitagenda/uitagenda/4170890544/delft-chamber-
+ music-festival
+END:VEVENT
+END:VCALENDAR

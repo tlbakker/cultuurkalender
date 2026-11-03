@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Dans – Utrecht
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2b2bb7ff9945cc79@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270523
+SUMMARY:SPRING Performing Arts Festival 2027
+DESCRIPTION:Internationaal festival voor hedendaags theater en dans in Utr
+ echt.\nLooptijd: 13 mei 2027 t/m 22 mei 2027.\nhttps://springutrecht.nl/en
+ /press-release-spring-performing-arts-festival-2026-international-theatre-
+ and-dance-performances-in-utrecht/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://springutrecht.nl/en/press-release-spring-performing-arts-festi
+ val-2026-international-theatre-and-dance-performances-in-utrecht/
+END:VEVENT
+END:VCALENDAR

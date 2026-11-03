@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Dans – Den Haag
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f680b3175392f8ef-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:▶ Start: Out of the stillness – NDT 1
+DESCRIPTION:NDT 1 met wereldpremière Tunnel Vision van Hofesh Shechter en
+  The missing door van Gabriela Carrizo.\nLooptijd: 24 sep 2026 t/m 19 dec 
+ 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+LOCATION:Amare + tournee (o.a. Stadsschouwburg Amsterdam\, Rotterdam)\, De
+ n Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+END:VEVENT
+BEGIN:VEVENT
+UID:f680b3175392f8ef-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:■ Laatste dag: Out of the stillness – NDT 1
+DESCRIPTION:NDT 1 met wereldpremière Tunnel Vision van Hofesh Shechter en
+  The missing door van Gabriela Carrizo.\nLooptijd: 24 sep 2026 t/m 19 dec 
+ 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+LOCATION:Amare + tournee (o.a. Stadsschouwburg Amsterdam\, Rotterdam)\, De
+ n Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fad581168bf9e93-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:▶ Start: Blast a universe – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Noé Soulier plus werk van J
+ iří Kylián en Marco Goecke\; première 22 oktober in Amare.\nLooptijd: 
+ 22 okt 2026 t/m 19 dec 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/blast-a-u
+ niverse/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fad581168bf9e93-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:■ Laatste dag: Blast a universe – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Noé Soulier plus werk van J
+ iří Kylián en Marco Goecke\; première 22 oktober in Amare.\nLooptijd: 
+ 22 okt 2026 t/m 19 dec 2026.\nhttps://www.ndt.nl/nl/bezoek/26-27/blast-a-u
+ niverse/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
+END:VEVENT
+BEGIN:VEVENT
+UID:5446f52688fb93eb@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Amare 5 jaar – jubileumweekend met Residentie Orkest
+DESCRIPTION:Jubileumweekend van Amare\, geopend door het Residentie Orkest
+  en Nederlands Dans Theater met wereldpremières in 'Celebrating 5 years A
+ mare'.\nLooptijd: 20 nov 2026 t/m 22 nov 2026.\nhttps://denhaag.com/nl/nie
+ uws/amare-viert-5-jarig-jubileum-programma-jubileumweekend-bekend
+LOCATION:Amare\, Den Haag
+CATEGORIES:Dans,Festivals,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-j
+ ubileumweekend-bekend
+END:VEVENT
+BEGIN:VEVENT
+UID:62a2009d45cbc6af@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Switch '27 – NDT 1 & NDT 2
+DESCRIPTION:Eenmalige avond waarin dansers van NDT 1 en NDT 2 eigen choreo
+ grafieën tonen.\nhttps://www.ndt.nl/nl/bezoek/26-27/switch27/
+LOCATION:Amare\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/switch27/
+END:VEVENT
+BEGIN:VEVENT
+UID:af8456f73c8f3986@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270130
+SUMMARY:Ihsane (Sidi Larbi Cherkaoui) – Holland Dance Festival in Amare
+DESCRIPTION:Holland Dance Festival presenteert Ihsane van Sidi Larbi Cherk
+ aoui met het Ballet du Grand Théâtre de Genève en Eastman in Amare.\nLo
+ optijd: 28 jan 2027 t/m 29 jan 2027.\nhttps://www.holland-dance.com/
+LOCATION:Amare\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.holland-dance.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:823f6f3234ef176f-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:▶ Start: GONE – NDT 1
+DESCRIPTION:Avondvullende nieuwe creatie van Marcos Morau voor NDT 1\; pre
+ mière 11 februari 2027 in Amare.\nLooptijd: 11 feb 2027 t/m 19 mrt 2027.\
+ nhttps://www.ndt.nl/nl/bezoek/26-27/gone/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
+END:VEVENT
+BEGIN:VEVENT
+UID:823f6f3234ef176f-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:■ Laatste dag: GONE – NDT 1
+DESCRIPTION:Avondvullende nieuwe creatie van Marcos Morau voor NDT 1\; pre
+ mière 11 februari 2027 in Amare.\nLooptijd: 11 feb 2027 t/m 19 mrt 2027.\
+ nhttps://www.ndt.nl/nl/bezoek/26-27/gone/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
+END:VEVENT
+BEGIN:VEVENT
+UID:b695beadc5883aa7-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:▶ Start: A poem for the world – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Johan Inger en werk van Crys
+ tal Pite en Edward Clug\; première 18 maart 2027.\nLooptijd: 18 mrt 2027 
+ t/m 4 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:b695beadc5883aa7-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:■ Laatste dag: A poem for the world – NDT 2
+DESCRIPTION:NDT 2 met een wereldpremière van Johan Inger en werk van Crys
+ tal Pite en Edward Clug\; première 18 maart 2027.\nLooptijd: 18 mrt 2027 
+ t/m 4 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1649b3754b3a08-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:▶ Start: Everywhere is here – NDT 1
+DESCRIPTION:NDT 1 met een wereldpremière van Marco Goecke en Ties Unseen 
+ van Christos Papadopoulos\; première 13 mei 2027.\nLooptijd: 13 mei 2027 
+ t/m 5 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1649b3754b3a08-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:■ Laatste dag: Everywhere is here – NDT 1
+DESCRIPTION:NDT 1 met een wereldpremière van Marco Goecke en Ties Unseen 
+ van Christos Papadopoulos\; première 13 mei 2027.\nLooptijd: 13 mei 2027 
+ t/m 5 jun 2027.\nhttps://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+LOCATION:Amare (première) + tournee\, Den Haag
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
+END:VEVENT
+END:VCALENDAR

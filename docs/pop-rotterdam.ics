@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Popmuziek – Rotterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2709f51345e82875@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+SUMMARY:Left of the Dial 2026 – De Doelen e.a.
+DESCRIPTION:Showcasefestival voor alternatieve muziek\, verspreid over Rot
+ terdamse podia waaronder De Doelen.\nLooptijd: 22 okt 2026 t/m 24 okt 2026
+ .\nhttps://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
+LOCATION:De Doelen en ruim 25 andere locaties\, Rotterdam
+CATEGORIES:Popmuziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd3f51b32c77af9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:North Sea Jazz Festival 2027
+DESCRIPTION:Driedaags jazz-\, soul- en funkfestival in Ahoy\; data op basi
+ s van het vaste patroon (tweede weekend juli)\, niet officieel bevestigd.\
+ nLooptijd: 9 jul 2027 t/m 11 jul 2027.\nhttps://www.northseajazz.com/en/ti
+ ckets
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.northseajazz.com/en/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:b98651c704fe30f7@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270801
+SUMMARY:Rotterdam Unlimited 2027
+DESCRIPTION:Stadsfestival met het Zomercarnaval als hoogtepunt.\nLooptijd:
+  30 jul 2027 t/m 31 jul 2027.\nhttps://rotterdamunlimited.com/
+LOCATION:Centrum\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://rotterdamunlimited.com/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Utrecht
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:210b47e38312ff06@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Ramblin' Roots 2026
+DESCRIPTION:Elfde editie van het indoorfestival voor americana\, soul\, bl
+ ues\, country en roots-rock in alle zalen van TivoliVredenburg.\nhttps://w
+ ww.festivalinfo.nl/festival/35620/Ramblin-Roots/2026/
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/35620/Ramblin-Roots/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:16702e84896bff76@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:Le Guess Who? 2026
+DESCRIPTION:Gecureerd avontuurlijk muziekfestival verspreid over Utrechtse
+  podia (uitverkocht).\nLooptijd: 5 nov 2026 t/m 8 nov 2026.\nhttps://www.f
+ estivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
+LOCATION:TivoliVredenburg e.a.\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:88ff336ae46cdcef@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Nacht van de Viool 2027
+DESCRIPTION:Avondfestival rond de viool in jazz\, pop\, folk\, gypsy en el
+ ektronica\, afgesloten met een grote mash-up onder leiding van Tim Kliphui
+ s.\nhttps://www.festivalinfo.nl/festival/36499/Nacht-van-de-Viool/2027/
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36499/Nacht-van-de-Viool/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:d99d86c9dbdf44b5@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:D.U.R.F. 2027
+DESCRIPTION:Dutch Urban Rap Festival in de Ronda met onder meer CHO en Kle
+ ine John & Chavanté.\nhttps://www.tivolivredenburg.nl/agenda/22065781/d-u
+ -r-f-30-01-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/22065781/d-u-r-f-30-01-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:5b50fdbd2f2ddb9f@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:MidWinter Prog Festival 2027
+DESCRIPTION:Vierde editie van het winterfestival voor progressieve rock in
+  de Grote Zaal\, met Haken als headliner.\nhttps://www.tivolivredenburg.nl
+ /agenda/24238612/midwinter-prog-festival-30-01-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/24238612/midwinter-prog-festiva
+ l-30-01-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:d579e09b2364baa3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+SUMMARY:Der Ring ohne Worte – Nederlands Philharmonisch Orkest & Lorenzo
+  Viotti
+DESCRIPTION:Viotti dirigeert Wagners orkestrale Ring-samenvatting in Tivol
+ iVredenburg (4 feb) en Het Concertgebouw (5 en 7 feb).\nLooptijd: 4 feb 20
+ 27 t/m 7 feb 2027.\nhttps://cms.orkest.nl/media/documents/ONLINE_4920_NPO_
+ brochure_26-27_compleet_spreads_2.pdf
+LOCATION:TivoliVredenburg en Het Concertgebouw\, Utrecht / Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
+ ompleet_spreads_2.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:fcae22dd84cce3e4@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270322
+SUMMARY:Kaboom Animation Festival 2027
+DESCRIPTION:Internationaal animatiefilmfestival met korte en lange animati
+ efilms\, verdeeld over Utrecht en Amsterdam.\nLooptijd: 12 mrt 2027 t/m 21
+  mrt 2027.\nhttps://www.zippyframes.com/festivals/next-festivals/kaboom-an
+ imation-festival
+LOCATION:Diverse locaties (o.a. Slachtstraat Filmtheater\, Eye\, Melkweg)\
+ , Utrecht en Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.zippyframes.com/festivals/next-festivals/kaboom-animation-
+ festival
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6b303c92ecc43c@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Transition Festival 2027
+DESCRIPTION:Tiende editie van het festival voor hedendaagse jazz\, georgan
+ iseerd met North Sea Jazz\, verspreid over TivoliVredenburg.\nhttps://www.
+ tivolivredenburg.nl/agenda/72591723/transition-festival-2027-13-03-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/72591723/transition-festival-20
+ 27-13-03-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:6d00093a7f89be9a@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Utrecht Blues Festival 2027
+DESCRIPTION:Vijfde editie van het kleinschalige festival met grotestadsblu
+ es\, soul en rock-'n-roll in de Grote Zaal.\nhttps://www.tivolivredenburg.
+ nl/agenda/16670607/utrecht-blues-festival-2027-14-03-2027
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.tivolivredenburg.nl/agenda/16670607/utrecht-blues-festival
+ -2027-14-03-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fed4710657faeeb2@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Sencity Festival 2027 (datum o.v.)
+DESCRIPTION:Multizintuiglijk muziekfestival voor doven\, slechthorenden en
+  horenden in de Pandora\, verplaatst van 10 naar 24 april.\nLet op: datum 
+ is een inschatting op basis van eerdere edities en nog niet bevestigd.\nht
+ tps://www.festivalinfo.nl/festival/36448/Sencity-Festival/2027/
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36448/Sencity-Festival/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed83bc36b1454d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Bevrijdingsfestivals 2027
+DESCRIPTION:Gratis Bevrijdingsfestivals met muziek in alle provincies op B
+ evrijdingsdag\; programma volgt.\nhttps://www.4en5mei.nl
+LOCATION:Diverse steden (o.a. Haarlem\, Utrecht\, Den Haag\, Amsterdam)
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.4en5mei.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2bb7ff9945cc79@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270523
+SUMMARY:SPRING Performing Arts Festival 2027
+DESCRIPTION:Internationaal festival voor hedendaags theater en dans in Utr
+ echt.\nLooptijd: 13 mei 2027 t/m 22 mei 2027.\nhttps://springutrecht.nl/en
+ /press-release-spring-performing-arts-festival-2026-international-theatre-
+ and-dance-performances-in-utrecht/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://springutrecht.nl/en/press-release-spring-performing-arts-festi
+ val-2026-international-theatre-and-dance-performances-in-utrecht/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5957adc1157c097@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270906
+SUMMARY:Festival Oude Muziek Utrecht 2027 – Humanisten
+DESCRIPTION:Festival Oude Muziek met als thema Humanisten\, van Erasmus to
+ t Rameau.\nLooptijd: 27 aug 2027 t/m 5 sep 2027.\nhttps://oudemuziek.nl/en
+ /festival/future/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://oudemuziek.nl/en/festival/future/
+END:VEVENT
+BEGIN:VEVENT
+UID:7b65754572e62879@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20271002
+SUMMARY:Nederlands Film Festival 2027
+DESCRIPTION:Het festival van de Nederlandse film met de uitreiking van de 
+ Gouden Kalveren.\nLooptijd: 24 sep 2027 t/m 1 okt 2027.\nhttps://www.filmf
+ estival.nl/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.filmfestival.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:3b2010dc7a5aa225@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271115
+SUMMARY:Le Guess Who? 2027 (datum o.v.)
+DESCRIPTION:Avontuurlijk muziekfestival met gastcuratoren in TivoliVredenb
+ urg en tal van Utrechtse podia\; data geschat naar patroon.\nLet op: datum
+  is een inschatting op basis van eerdere edities en nog niet bevestigd.\nL
+ ooptijd: 11 nov 2027 t/m 14 nov 2027.\nhttps://leguesswho.com
+LOCATION:TivoliVredenburg e.a.\, Utrecht
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://leguesswho.com
+END:VEVENT
+END:VCALENDAR

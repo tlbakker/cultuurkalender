@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Festivals – Rotterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2709f51345e82875@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+SUMMARY:Left of the Dial 2026 – De Doelen e.a.
+DESCRIPTION:Showcasefestival voor alternatieve muziek\, verspreid over Rot
+ terdamse podia waaronder De Doelen.\nLooptijd: 22 okt 2026 t/m 24 okt 2026
+ .\nhttps://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
+LOCATION:De Doelen en ruim 25 andere locaties\, Rotterdam
+CATEGORIES:Popmuziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
+END:VEVENT
+BEGIN:VEVENT
+UID:af357a15e1b75ac9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+SUMMARY:Wildlife Film Festival Rotterdam 2026
+DESCRIPTION:Internationaal festival voor natuur- en wildlifefilms met prem
+ ieres\, industry days en de Flamingo Awards.\nLooptijd: 2 nov 2026 t/m 8 n
+ ov 2026.\nhttps://rotterdamstyle.com/events-calendar/wildlife-film-festiva
+ l-rotterdam-wffr-location-dates
+LOCATION:Cinerama en LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://rotterdamstyle.com/events-calendar/wildlife-film-festival-rott
+ erdam-wffr-location-dates
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc29bf0992f96c7@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270208
+SUMMARY:IFFR 2027
+DESCRIPTION:Internationaal Film Festival Rotterdam met avontuurlijke artho
+ use- en wereldcinema.\nLooptijd: 28 jan 2027 t/m 7 feb 2027.\nhttps://iffr
+ .com/en/wp-content/uploads/sites/2/2026/05/Terms-Conditions-submissions-IF
+ FR-2027.pdf
+LOCATION:Diverse locaties\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Condition
+ s-submissions-IFFR-2027.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:732b8e63eae8a04b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270308
+SUMMARY:VOICES Rotterdam – De Doelen
+DESCRIPTION:Eerste editie van het nieuwe stadsfestival van De Doelen rond 
+ de vraag 'wat verbindt ons?'\, met ruim 80 activiteiten en zo'n 400 arties
+ ten en sprekers over twee weekenden (26-28 feb en 5-7 mrt).\nLooptijd: 26 
+ feb 2027 t/m 7 mrt 2027.\nhttps://rotterdam.headliner.nl/item/het-nieuw-st
+ adsfestival-voices-rotterdam-laat-van-je-horen-dagblad010-6874
+LOCATION:De Doelen en zeven andere locaties in Rotterdam\, Rotterdam
+CATEGORIES:Festivals,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://rotterdam.headliner.nl/item/het-nieuw-stadsfestival-voices-rot
+ terdam-laat-van-je-horen-dagblad010-6874
+END:VEVENT
+BEGIN:VEVENT
+UID:e4dcd81b723c7627@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:Unseen 2027 (datum o.v.)
+DESCRIPTION:Fotografiebeurs Unseen\, sinds 2026 in maart naast Art Rotterd
+ am in Ahoy\; data nog niet officieel bevestigd.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 18 
+ mrt 2027 t/m 21 mrt 2027.\nhttps://www.cantonfair.net/updated-information/
+ unseen-amsterdam-2027-march-amsterdam-will-be-from-2027-03-18
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
+ arch-amsterdam-will-be-from-2027-03-18
+END:VEVENT
+BEGIN:VEVENT
+UID:98360cc12cabc9b9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Art Rotterdam 2027
+DESCRIPTION:Kunstbeurs voor hedendaagse kunst\; data uit een beurskalender
+ \, nog niet officieel bevestigd.\nLooptijd: 19 mrt 2027 t/m 21 mrt 2027.\n
+ https://artrotterdam.com/en/practical-information
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://artrotterdam.com/en/practical-information
+END:VEVENT
+BEGIN:VEVENT
+UID:f325d866f90c31f9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270524
+SUMMARY:O. Festival (voorheen Operadagen Rotterdam) 2027
+DESCRIPTION:Tiendaags festival voor opera\, muziek en theater in Rotterdam
+ \, jaarlijks eind mei (2026: 22-31 mei).\nLooptijd: 14 mei 2027 t/m 23 mei
+  2027.\nhttps://o-festival.nl/
+LOCATION:Diverse locaties\, Rotterdam
+CATEGORIES:Opera,Festivals
+TRANSP:TRANSPARENT
+URL:https://o-festival.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0bd31586292219@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+SUMMARY:Rotterdam Arab Film Festival 2027
+DESCRIPTION:Jaarlijks festival met films uit de Arabische wereld en de dia
+ spora\, met competitie en randprogramma.\nLooptijd: 9 jun 2027 t/m 13 jun 
+ 2027.\nhttps://www.arabfilmfestival.nl/
+LOCATION:LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.arabfilmfestival.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd3f51b32c77af9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:North Sea Jazz Festival 2027
+DESCRIPTION:Driedaags jazz-\, soul- en funkfestival in Ahoy\; data op basi
+ s van het vaste patroon (tweede weekend juli)\, niet officieel bevestigd.\
+ nLooptijd: 9 jul 2027 t/m 11 jul 2027.\nhttps://www.northseajazz.com/en/ti
+ ckets
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.northseajazz.com/en/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:b98651c704fe30f7@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270801
+SUMMARY:Rotterdam Unlimited 2027
+DESCRIPTION:Stadsfestival met het Zomercarnaval als hoogtepunt.\nLooptijd:
+  30 jul 2027 t/m 31 jul 2027.\nhttps://rotterdamunlimited.com/
+LOCATION:Centrum\, Rotterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://rotterdamunlimited.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:7b29c4f06fd52e68@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270927
+SUMMARY:Camera Japan Rotterdam 2027
+DESCRIPTION:Festival voor Japanse film en cultuur met nieuwe films\, anime
+  en randprogramma.\nLooptijd: 22 sep 2027 t/m 26 sep 2027.\nhttps://camera
+ japan.nl/
+LOCATION:LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://camerajapan.nl/
+END:VEVENT
+END:VCALENDAR

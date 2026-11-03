@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Assen
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:72d9316627350b17-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:▶ Start: Drents Museum: Angkor: het mysterie van Cambodja
+DESCRIPTION:Voor het eerst in Europa: beelden en objecten uit Angkor\, de 
+ hoofdstad van het Khmerrijk.\nLooptijd: 17 okt 2026 t/m 9 mei 2027.\nhttps
+ ://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-cambodja
+LOCATION:Drents Museum\, Assen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
+ odja
+END:VEVENT
+BEGIN:VEVENT
+UID:72d9316627350b17-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:■ Laatste dag: Drents Museum: Angkor: het mysterie van Cambodja
+DESCRIPTION:Voor het eerst in Europa: beelden en objecten uit Angkor\, de 
+ hoofdstad van het Khmerrijk.\nLooptijd: 17 okt 2026 t/m 9 mei 2027.\nhttps
+ ://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-cambodja
+LOCATION:Drents Museum\, Assen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
+ odja
+END:VEVENT
+END:VCALENDAR

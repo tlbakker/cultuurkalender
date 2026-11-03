@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Festivals – Groningen
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:26e1520c21ea3708@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270117
+SUMMARY:Eurosonic Noorderslag 2027
+DESCRIPTION:Showcasefestival en conferentie voor nieuwe Europese en Nederl
+ andse popmuziek.\nLooptijd: 13 jan 2027 t/m 16 jan 2027.\nhttps://www.fest
+ ivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-Noorderslag-bekend-g
+ emaakt/
+LOCATION:Diverse podia\, Groningen
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-
+ Noorderslag-bekend-gemaakt/
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b88f327b8714e3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270830
+SUMMARY:Noorderzon 2027
+DESCRIPTION:Elfdaags festival voor podiumkunsten en muziek in het Noorderp
+ lantsoen.\nLooptijd: 19 aug 2027 t/m 29 aug 2027.\nhttps://www.noorderzon.
+ nl/en/news/reimagined-noorderzon-2026-attracts-more-than-150000-visitors
+LOCATION:Noorderplantsoen\, Groningen
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.noorderzon.nl/en/news/reimagined-noorderzon-2026-attracts-
+ more-than-150000-visitors
+END:VEVENT
+END:VCALENDAR

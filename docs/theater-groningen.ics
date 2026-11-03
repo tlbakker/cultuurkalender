@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Theater & musical – Groningen
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d0b88f327b8714e3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270830
+SUMMARY:Noorderzon 2027
+DESCRIPTION:Elfdaags festival voor podiumkunsten en muziek in het Noorderp
+ lantsoen.\nLooptijd: 19 aug 2027 t/m 29 aug 2027.\nhttps://www.noorderzon.
+ nl/en/news/reimagined-noorderzon-2026-attracts-more-than-150000-visitors
+LOCATION:Noorderplantsoen\, Groningen
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.noorderzon.nl/en/news/reimagined-noorderzon-2026-attracts-
+ more-than-150000-visitors
+END:VEVENT
+END:VCALENDAR

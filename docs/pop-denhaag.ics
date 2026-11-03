@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Popmuziek – Den Haag
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:710a58d821706472@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+SUMMARY:New Tide Festival – Amare
+DESCRIPTION:Tweedaags festival voor vooruitstrevende jazz en nieuwe klanke
+ n in Amare.\nLooptijd: 5 mrt 2027 t/m 6 mrt 2027.\nhttps://070online.nl/20
+ 26/10/14/amare-van-punkoperette-tot-jazz/
+LOCATION:Amare\, Den Haag
+CATEGORIES:Popmuziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://070online.nl/2026/10/14/amare-van-punkoperette-tot-jazz/
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed83bc36b1454d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Bevrijdingsfestivals 2027
+DESCRIPTION:Gratis Bevrijdingsfestivals met muziek in alle provincies op B
+ evrijdingsdag\; programma volgt.\nhttps://www.4en5mei.nl
+LOCATION:Diverse steden (o.a. Haarlem\, Utrecht\, Den Haag\, Amsterdam)
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.4en5mei.nl
+END:VEVENT
+END:VCALENDAR

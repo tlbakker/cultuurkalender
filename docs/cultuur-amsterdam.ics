@@ -1,0 +1,2900 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Amsterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:12dc2e3c4cb7e75b-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:▶ Start: Rijksmuseum: WORN – gekoesterde kleding
+DESCRIPTION:Tentoonstelling van 24 kledingstukken en accessoires (1640-193
+ 0) die generaties lang zijn gedragen\, gerepareerd en vermaakt.\nLooptijd:
+  27 mrt 2026 t/m 21 mrt 2027.\nhttps://www.rijksmuseum.nl/en/press/press-r
+ eleases/rijksmuseum-presents-worn-treasured-clothing
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
+ s-worn-treasured-clothing
+END:VEVENT
+BEGIN:VEVENT
+UID:12dc2e3c4cb7e75b-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:■ Laatste dag: Rijksmuseum: WORN – gekoesterde kleding
+DESCRIPTION:Tentoonstelling van 24 kledingstukken en accessoires (1640-193
+ 0) die generaties lang zijn gedragen\, gerepareerd en vermaakt.\nLooptijd:
+  27 mrt 2026 t/m 21 mrt 2027.\nhttps://www.rijksmuseum.nl/en/press/press-r
+ eleases/rijksmuseum-presents-worn-treasured-clothing
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
+ s-worn-treasured-clothing
+END:VEVENT
+BEGIN:VEVENT
+UID:87245f18f37e7f5f-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2026
+DESCRIPTION:De winnende persfoto's van de World Press Photo-wedstrijd 2026
+ .\nLooptijd: 24 apr 2026 t/m 25 okt 2026.\nhttps://www.nieuwekerk.nl/tento
+ onstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:87245f18f37e7f5f-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2026
+DESCRIPTION:De winnende persfoto's van de World Press Photo-wedstrijd 2026
+ .\nLooptijd: 24 apr 2026 t/m 25 okt 2026.\nhttps://www.nieuwekerk.nl/tento
+ onstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:816d83ff212afb48-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:▶ Start: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
+DESCRIPTION:Tentoonstelling over de queer geschiedenis en cultuur van Amst
+ erdam.\nLooptijd: 9 jul 2026 t/m 4 apr 2027.\nhttps://www.nieuwekerk.nl/te
+ ntoonstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:816d83ff212afb48-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:■ Laatste dag: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
+DESCRIPTION:Tentoonstelling over de queer geschiedenis en cultuur van Amst
+ erdam.\nLooptijd: 9 jul 2026 t/m 4 apr 2027.\nhttps://www.nieuwekerk.nl/te
+ ntoonstellingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:c012b2759b05d043-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:▶ Start: Stedelijk Museum: Yayoi Kusama
+DESCRIPTION:Grote retrospectieve tentoonstelling van de Japanse kunstenaar
+  Yayoi Kusama.\nLooptijd: 11 sep 2026 t/m 17 jan 2027.\nhttps://stedelijk.
+ nl/en/exhibitions/yayoi-kusama-en
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
+END:VEVENT
+BEGIN:VEVENT
+UID:c012b2759b05d043-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Stedelijk Museum: Yayoi Kusama
+DESCRIPTION:Grote retrospectieve tentoonstelling van de Japanse kunstenaar
+  Yayoi Kusama.\nLooptijd: 11 sep 2026 t/m 17 jan 2027.\nhttps://stedelijk.
+ nl/en/exhibitions/yayoi-kusama-en
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
+END:VEVENT
+BEGIN:VEVENT
+UID:cb150dbbccf23386-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:▶ Start: Foam: Nadav Kander – The Edge of Things
+DESCRIPTION:Overzichtstentoonstelling van de fotograaf Nadav Kander.\nLoop
+ tijd: 18 sep 2026 t/m 31 jan 2027.\nhttps://www.foam.org/press/nadav-kande
+ r-the-edge-of-things
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
+END:VEVENT
+BEGIN:VEVENT
+UID:cb150dbbccf23386-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:■ Laatste dag: Foam: Nadav Kander – The Edge of Things
+DESCRIPTION:Overzichtstentoonstelling van de fotograaf Nadav Kander.\nLoop
+ tijd: 18 sep 2026 t/m 31 jan 2027.\nhttps://www.foam.org/press/nadav-kande
+ r-the-edge-of-things
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
+END:VEVENT
+BEGIN:VEVENT
+UID:cf68ae053974c34c-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:▶ Start: Eye Filmmuseum: Ulrich Seidl – Über das Leben\, die 
+ Liebe und den Tod
+DESCRIPTION:Tentoonstelling over het werk van de Oostenrijkse filmmaker Ul
+ rich Seidl.\nLooptijd: 19 sep 2026 t/m 31 jan 2027.\nhttps://www.eyefilm.n
+ l/nl/tentoonstellingen
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.eyefilm.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:cf68ae053974c34c-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:■ Laatste dag: Eye Filmmuseum: Ulrich Seidl – Über das Leben\
+ , die Liebe und den Tod
+DESCRIPTION:Tentoonstelling over het werk van de Oostenrijkse filmmaker Ul
+ rich Seidl.\nLooptijd: 19 sep 2026 t/m 31 jan 2027.\nhttps://www.eyefilm.n
+ l/nl/tentoonstellingen
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.eyefilm.nl/nl/tentoonstellingen
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2436199d2e2386-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:▶ Start: Singer Laren: Herman Kruyder. Expressionist van de ziel
+DESCRIPTION:Eerste monografische tentoonstelling van Herman Kruyder in der
+ tig jaar.\nLooptijd: 23 sep 2026 t/m 14 feb 2027.\nhttps://www.museum.nl/n
+ l/singer-laren/tentoonstelling/herman-kruyder-expressionist-van-de-ziel
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
+ xpressionist-van-de-ziel
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2436199d2e2386-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:■ Laatste dag: Singer Laren: Herman Kruyder. Expressionist van d
+ e ziel
+DESCRIPTION:Eerste monografische tentoonstelling van Herman Kruyder in der
+ tig jaar.\nLooptijd: 23 sep 2026 t/m 14 feb 2027.\nhttps://www.museum.nl/n
+ l/singer-laren/tentoonstelling/herman-kruyder-expressionist-van-de-ziel
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
+ xpressionist-van-de-ziel
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5b9acb1ab0333a-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:▶ Start: Van Gogh Museum: Yoshitoshi. Meester van de maan
+DESCRIPTION:Presentatie van Tsukioka Yoshitoshi's Japanse prentenreeks 'Ho
+ nderd aanzichten van de maan'.\nLooptijd: 1 okt 2026 t/m 4 jan 2027.\nhttp
+ s://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yoshitoshi-
+ master-of-the-moon-on-display-at-the-van-gogh-museum
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
+ hitoshi-master-of-the-moon-on-display-at-the-van-gogh-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5b9acb1ab0333a-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:■ Laatste dag: Van Gogh Museum: Yoshitoshi. Meester van de maan
+DESCRIPTION:Presentatie van Tsukioka Yoshitoshi's Japanse prentenreeks 'Ho
+ nderd aanzichten van de maan'.\nLooptijd: 1 okt 2026 t/m 4 jan 2027.\nhttp
+ s://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yoshitoshi-
+ master-of-the-moon-on-display-at-the-van-gogh-museum
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
+ hitoshi-master-of-the-moon-on-display-at-the-van-gogh-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:11bc14b206f91c1d-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:▶ Start: H'ART Museum: Chez Matisse – meesterwerken uit het Ce
+ ntre Pompidou
+DESCRIPTION:Tentoonstelling met meesterwerken van Henri Matisse uit de col
+ lectie van het Centre Pompidou.\nLooptijd: 3 okt 2026 t/m 14 feb 2027.\nht
+ tps://www.hartmuseum.nl/en/exhibitions/
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hartmuseum.nl/en/exhibitions/
+END:VEVENT
+BEGIN:VEVENT
+UID:11bc14b206f91c1d-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:■ Laatste dag: H'ART Museum: Chez Matisse – meesterwerken uit 
+ het Centre Pompidou
+DESCRIPTION:Tentoonstelling met meesterwerken van Henri Matisse uit de col
+ lectie van het Centre Pompidou.\nLooptijd: 3 okt 2026 t/m 14 feb 2027.\nht
+ tps://www.hartmuseum.nl/en/exhibitions/
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hartmuseum.nl/en/exhibitions/
+END:VEVENT
+BEGIN:VEVENT
+UID:97fa362def582f3c-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:▶ Start: Cabaret – DeLaMar
+DESCRIPTION:Musical Cabaret met Chantal Janzen als Sally Bowles en Milan S
+ ekeris als Emcee\; première 17 oktober 2026.\nLooptijd: 7 okt 2026 t/m 3 
+ jan 2027.\nhttps://delamar.nl/voorstellingen/cabaret/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/cabaret/
+END:VEVENT
+BEGIN:VEVENT
+UID:97fa362def582f3c-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:■ Laatste dag: Cabaret – DeLaMar
+DESCRIPTION:Musical Cabaret met Chantal Janzen als Sally Bowles en Milan S
+ ekeris als Emcee\; première 17 oktober 2026.\nLooptijd: 7 okt 2026 t/m 3 
+ jan 2027.\nhttps://delamar.nl/voorstellingen/cabaret/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/cabaret/
+END:VEVENT
+BEGIN:VEVENT
+UID:62b8baeee5ebaa53@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261021
+SUMMARY:Cherry Town (Sjostakovitsj) – De Nationale Opera
+DESCRIPTION:Jakop Ahlbom regisseert Sjostakovitsj' operette Tsjerjomoesjki
+  als beeldend muziektheater.\nLooptijd: 8 okt 2026 t/m 20 okt 2026.\nhttps
+ ://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb611a19d3e1804-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:▶ Start: Rijksmuseum: Willem de Kooning at Work
+DESCRIPTION:Grote overzichtstentoonstelling van de tekeningen van Willem d
+ e Kooning\, aangevuld met schilderijen en sculpturen.\nLooptijd: 9 okt 202
+ 6 t/m 17 jan 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb611a19d3e1804-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Rijksmuseum: Willem de Kooning at Work
+DESCRIPTION:Grote overzichtstentoonstelling van de tekeningen van Willem d
+ e Kooning\, aangevuld met schilderijen en sculpturen.\nLooptijd: 9 okt 202
+ 6 t/m 17 jan 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:3bdf498c0fd293a3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261026
+SUMMARY:Cinekid Festival 2026
+DESCRIPTION:Het grootste jeugdfilm- en mediafestival van Nederland viert z
+ ijn 40e editie in Amsterdam-Noord.\nLooptijd: 10 okt 2026 t/m 25 okt 2026.
+ \nhttps://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakantie
+ /
+LOCATION:Pathé Amsterdam Noord\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
+ ie/
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b680dd1a58901d-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:▶ Start: Stedelijk Museum: Adam Pendleton – Some Wild Kind of 
+ Language
+DESCRIPTION:Grote solotentoonstelling van de Amerikaanse kunstenaar Adam P
+ endleton over taal\, abstractie en Black Dada.\nLooptijd: 10 okt 2026 t/m 
+ 17 jan 2027.\nhttps://www.wallpaper.com/art/exhibitions-shows/adam-pendlet
+ on-interview-stedelijk-museum-amsterdam
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
+ ew-stedelijk-museum-amsterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b680dd1a58901d-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Stedelijk Museum: Adam Pendleton – Some Wild Ki
+ nd of Language
+DESCRIPTION:Grote solotentoonstelling van de Amerikaanse kunstenaar Adam P
+ endleton over taal\, abstractie en Black Dada.\nLooptijd: 10 okt 2026 t/m 
+ 17 jan 2027.\nhttps://www.wallpaper.com/art/exhibitions-shows/adam-pendlet
+ on-interview-stedelijk-museum-amsterdam
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
+ ew-stedelijk-museum-amsterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:33af7d6b97c42ebf-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:▶ Start: Voor haar\, de Frans Halsema musical – DeLaMar
+DESCRIPTION:Nieuwe musical over het leven en de liedjes van Frans Halsema\
+ ; première 11 oktober 2026.\nLooptijd: 10 okt 2026 t/m 14 mrt 2027.\nhttp
+ s://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+LOCATION:DeLaMar Theater\, Mary Dresselhuys zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:33af7d6b97c42ebf-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:■ Laatste dag: Voor haar\, de Frans Halsema musical – DeLaMar
+DESCRIPTION:Nieuwe musical over het leven en de liedjes van Frans Halsema\
+ ; première 11 oktober 2026.\nLooptijd: 10 okt 2026 t/m 14 mrt 2027.\nhttp
+ s://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+LOCATION:DeLaMar Theater\, Mary Dresselhuys zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:472defd20b94fc26-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:▶ Start: Het Zwanenmeer – Het Nationale Ballet
+DESCRIPTION:Rudi van Dantzigs klassieke Zwanenmeer\; keert terug van 11 t/
+ m 24 april 2027.\nLooptijd: 15 okt 2026 t/m 8 nov 2026.\nhttps://www.opera
+ ballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:472defd20b94fc26-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:■ Laatste dag: Het Zwanenmeer – Het Nationale Ballet
+DESCRIPTION:Rudi van Dantzigs klassieke Zwanenmeer\; keert terug van 11 t/
+ m 24 april 2027.\nLooptijd: 15 okt 2026 t/m 8 nov 2026.\nhttps://www.opera
+ ballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef257dd07d8a67c@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261026
+SUMMARY:Cats – Koninklijk Theater Carré
+DESCRIPTION:Nieuwe Nederlandse productie van Lloyd Webbers Cats\, in samen
+ werking met het Rijksmuseum\; première 19 oktober\, daarna tournee langs 
+ 18 steden.\nLooptijd: 16 okt 2026 t/m 25 okt 2026.\nhttps://www.iamsterdam
+ .com/uit/agenda/voorstellingen/theater-en-podiumkunsten/cats-2026
+LOCATION:Koninklijk Theater Carré (daarna tournee t/m juni 2027)\, Amster
+ dam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/voorstellingen/theater-en-podium
+ kunsten/cats-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:05bb86258ef23add-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:▶ Start: Van Gogh Museum: Whistler. Dandy en dwarsdenker
+DESCRIPTION:Grote tentoonstelling over James McNeill Whistler\, samen met 
+ De Mesdag Collectie en Tate Britain.\nLooptijd: 16 okt 2026 t/m 10 jan 202
+ 7.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:05bb86258ef23add-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:■ Laatste dag: Van Gogh Museum: Whistler. Dandy en dwarsdenker
+DESCRIPTION:Grote tentoonstelling over James McNeill Whistler\, samen met 
+ De Mesdag Collectie en Tate Britain.\nLooptijd: 16 okt 2026 t/m 10 jan 202
+ 7.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:8c71247d2003ecf7-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:▶ Start: De Kopenhagen Trilogie – ITA
+DESCRIPTION:Eline Arbo bewerkt Tove Ditlevsens Kopenhagen-trilogie\; premi
+ ère 20 oktober 2026.\nLooptijd: 18 okt 2026 t/m 21 dec 2026.\nhttps://ita
+ .nl/nl/voorstellingen/de-kopenhagen-trilogie
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie
+END:VEVENT
+BEGIN:VEVENT
+UID:8c71247d2003ecf7-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:■ Laatste dag: De Kopenhagen Trilogie – ITA
+DESCRIPTION:Eline Arbo bewerkt Tove Ditlevsens Kopenhagen-trilogie\; premi
+ ère 20 oktober 2026.\nLooptijd: 18 okt 2026 t/m 21 dec 2026.\nhttps://ita
+ .nl/nl/voorstellingen/de-kopenhagen-trilogie
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie
+END:VEVENT
+BEGIN:VEVENT
+UID:94b6d569e3d1f41e@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261026
+SUMMARY:Amsterdam Dance Event 2026
+DESCRIPTION:De 30e jubileumeditie van 's werelds grootste clubfestival en 
+ conferentie voor elektronische muziek.\nLooptijd: 21 okt 2026 t/m 25 okt 2
+ 026.\nhttps://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/27
+ 50267/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750
+ 267/
+END:VEVENT
+BEGIN:VEVENT
+UID:17920016c65b9ac3-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:▶ Start: Minimal Series 2026-27 – Muziekgebouw aan 't IJ
+DESCRIPTION:Seizoensreeks rond minimal music met o.a. Hoketus 50\, Glass 9
+ 0 (27 jan)\, Reichs Drumming (11 mrt)\, een verjaardagsconcert voor Reich\
+ , Glass en Adams (4 apr) en Andriessens De Staat (27 mei).\nLooptijd: 22 o
+ kt 2026 t/m 27 mei 2027.\nhttps://bachtrack.com/feature-minimalism-radical
+ s-rhythms-dissent-muziekgebouw-october-2026
+LOCATION:Muziekgebouw aan 't IJ\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://bachtrack.com/feature-minimalism-radicals-rhythms-dissent-muzi
+ ekgebouw-october-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:17920016c65b9ac3-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:■ Laatste dag: Minimal Series 2026-27 – Muziekgebouw aan 't IJ
+DESCRIPTION:Seizoensreeks rond minimal music met o.a. Hoketus 50\, Glass 9
+ 0 (27 jan)\, Reichs Drumming (11 mrt)\, een verjaardagsconcert voor Reich\
+ , Glass en Adams (4 apr) en Andriessens De Staat (27 mei).\nLooptijd: 22 o
+ kt 2026 t/m 27 mei 2027.\nhttps://bachtrack.com/feature-minimalism-radical
+ s-rhythms-dissent-muziekgebouw-october-2026
+LOCATION:Muziekgebouw aan 't IJ\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://bachtrack.com/feature-minimalism-radicals-rhythms-dissent-muzi
+ ekgebouw-october-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:50a5b57eeed4ec29-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:▶ Start: Beethoven! – Beethovenjaar in Het Concertgebouw
+DESCRIPTION:Seizoensbreed thema rond de 200ste sterfdag van Beethoven\, me
+ t sonatecycli van Ronald Brautigam\, Igor Levit\, de Negende door Iván Fi
+ scher en 'The Story: Beethoven & Napoleon'.\nLooptijd: 25 okt 2026 t/m 21 
+ mei 2027.\nhttps://www.concertgebouw.nl/beethoven
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/beethoven
+END:VEVENT
+BEGIN:VEVENT
+UID:50a5b57eeed4ec29-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:■ Laatste dag: Beethoven! – Beethovenjaar in Het Concertgebouw
+DESCRIPTION:Seizoensbreed thema rond de 200ste sterfdag van Beethoven\, me
+ t sonatecycli van Ronald Brautigam\, Igor Levit\, de Negende door Iván Fi
+ scher en 'The Story: Beethoven & Napoleon'.\nLooptijd: 25 okt 2026 t/m 21 
+ mei 2027.\nhttps://www.concertgebouw.nl/beethoven
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/beethoven
+END:VEVENT
+BEGIN:VEVENT
+UID:844e028ba02cbdf0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+SUMMARY:Tapis Rouge Frans Filmfestival 2026
+DESCRIPTION:Achtste editie van het Franse filmfestival met nieuwe Franse f
+ ilms\, voorpremières en gasten.\nLooptijd: 28 okt 2026 t/m 1 nov 2026.\nh
+ ttps://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-frans-fi
+ lmfestval-8e-editie-2026
+LOCATION:Het Ketelhuis\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
+ ns-filmfestval-8e-editie-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:37945f1f8baf5c55@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261108
+SUMMARY:Cello Biënnale Amsterdam 2026
+DESCRIPTION:Elfde editie van 's werelds grootste cellofestival.\nLooptijd:
+  29 okt 2026 t/m 7 nov 2026.\nhttps://www.bimhuis.nl/en/cello-biennale-ams
+ terdam-2026/
+LOCATION:Muziekgebouw aan 't IJ & Bimhuis\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.bimhuis.nl/en/cello-biennale-amsterdam-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:eed13468a8b874b5@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261109
+SUMMARY:Imagine Film Festival 2026
+DESCRIPTION:Fantastisch filmfestival met horror\, sciencefiction en fantas
+ y in Amsterdam.\nLooptijd: 29 okt 2026 t/m 8 nov 2026.\nhttps://www.imagin
+ efilmfestival.nl/en/category/articles/
+LOCATION:LAB111\, FilmHallen e.a.\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.imaginefilmfestival.nl/en/category/articles/
+END:VEVENT
+BEGIN:VEVENT
+UID:7cbdf67ed020bdd7@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:London Calling 2026
+DESCRIPTION:Tweedaags indiefestival met nieuwe Britse en internationale gi
+ taarbands in Paradiso.\nLooptijd: 30 okt 2026 t/m 31 okt 2026.\nhttps://ww
+ w.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+BEGIN:VEVENT
+UID:3647c548e7c8d839@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+SUMMARY:PAN Amsterdam 2026
+DESCRIPTION:Beurs voor kunst\, antiek en design in de RAI.\nLooptijd: 1 no
+ v 2026 t/m 8 nov 2026.\nhttps://www.pan.nl/media/panmedia/pressrelease/Sav
+ etheDatevoorPANAmsterdam2026_T639209082277382787.pdf
+LOCATION:RAI Amsterdam\, Hal 8\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.pan.nl/media/panmedia/pressrelease/SavetheDatevoorPANAmste
+ rdam2026_T639209082277382787.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:df51ed356dfc6656-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:▶ Start: John Coltrane 100 – Het Concertgebouw
+DESCRIPTION:Jazzreeks bij 100 jaar Coltrane met o.a. Branford Marsalis & D
+ ianne Reeves (4 nov)\, Ravi Coltrane (9 mrt) en Joshua Redman met het Jazz
+  Orchestra of the Concertgebouw (30 mrt).\nLooptijd: 4 nov 2026 t/m 30 mrt
+  2027.\nhttps://www.concertgebouw.nl/en/coltrane
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/coltrane
+END:VEVENT
+BEGIN:VEVENT
+UID:df51ed356dfc6656-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:■ Laatste dag: John Coltrane 100 – Het Concertgebouw
+DESCRIPTION:Jazzreeks bij 100 jaar Coltrane met o.a. Branford Marsalis & D
+ ianne Reeves (4 nov)\, Ravi Coltrane (9 mrt) en Joshua Redman met het Jazz
+  Orchestra of the Concertgebouw (30 mrt).\nLooptijd: 4 nov 2026 t/m 30 mrt
+  2027.\nhttps://www.concertgebouw.nl/en/coltrane
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/coltrane
+END:VEVENT
+BEGIN:VEVENT
+UID:c08e38abfcc37c1f@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261123
+SUMMARY:De uren – ITA
+DESCRIPTION:Eline Arbo's toneelbewerking van Michael Cunninghams roman The
+  Hours.\nLooptijd: 6 nov 2026 t/m 22 nov 2026.\nhttps://ita.nl/nl/voorstel
+ lingen/de-uren
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-uren
+END:VEVENT
+BEGIN:VEVENT
+UID:7a55488586257bec-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:▶ Start: Frans Hals Museum: Hals-Rembrandt
+DESCRIPTION:Portretten van Frans Hals en Rembrandt in paren naast elkaar\;
+  reserveren verplicht.\nLooptijd: 6 nov 2026 t/m 28 feb 2027.\nhttps://fra
+ nshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+END:VEVENT
+BEGIN:VEVENT
+UID:7a55488586257bec-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:■ Laatste dag: Frans Hals Museum: Hals-Rembrandt
+DESCRIPTION:Portretten van Frans Hals en Rembrandt in paren naast elkaar\;
+  reserveren verplicht.\nLooptijd: 6 nov 2026 t/m 28 feb 2027.\nhttps://fra
+ nshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf4b1144117d000@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Museumnacht Amsterdam (N8) 2026
+DESCRIPTION:Eén nacht lang zijn tientallen Amsterdamse musea open met spe
+ ciale programma's.\nhttps://museumnacht.amsterdam
+LOCATION:Diverse musea\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://museumnacht.amsterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:26a9cdcce105df33@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261127
+SUMMARY:Johannes-Passion – Sasha Waltz / García-Alarcón
+DESCRIPTION:Geënsceneerde Johannes-Passion van Bach door choreograaf Sash
+ a Waltz met Leonardo García-Alarcón en de Nederlandse Bachvereniging.\nL
+ ooptijd: 10 nov 2026 t/m 26 nov 2026.\nhttps://www.operaballet.nl/en/progr
+ am/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:0c582be104e3736a@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261123
+SUMMARY:IDFA 2026
+DESCRIPTION:Het grootste documentairefilmfestival ter wereld.\nLooptijd: 1
+ 2 nov 2026 t/m 22 nov 2026.\nhttps://festival.idfa.nl/en/idfa-2026-2/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://festival.idfa.nl/en/idfa-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:1d46f997e6eedf01-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:▶ Start: Uprising – community-opera
+DESCRIPTION:Community-opera met lokale koren\, in november op het hoofdton
+ eel en in mei opnieuw (16 en 23 mei).\nLooptijd: 13 nov 2026 t/m 23 mei 20
+ 27.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet (en tournee)\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:1d46f997e6eedf01-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:■ Laatste dag: Uprising – community-opera
+DESCRIPTION:Community-opera met lokale koren\, in november op het hoofdton
+ eel en in mei opnieuw (16 en 23 mei).\nLooptijd: 13 nov 2026 t/m 23 mei 20
+ 27.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet (en tournee)\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:cce3d129166121a4@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261205
+SUMMARY:The Incident – ITA
+DESCRIPTION:Nieuwe ITA-productie van June Yanez\, Leila Sahir en Zephyr Br
+ üggen.\nLooptijd: 16 nov 2026 t/m 4 dec 2026.\nhttps://ita.nl/en/ita-prod
+ uctions
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/en/ita-productions
+END:VEVENT
+BEGIN:VEVENT
+UID:ede21e3df956d7f2@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+SUMMARY:Amsterdam Art Week 2026
+DESCRIPTION:Week vol hedendaagse kunst met openingen en programma's in gal
+ eries en kunstinstellingen.\nLooptijd: 18 nov 2026 t/m 22 nov 2026.\nhttps
+ ://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-terug-naar
+ -november
+LOCATION:Diverse galeries en instellingen\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-t
+ erug-naar-november
+END:VEVENT
+BEGIN:VEVENT
+UID:1323882eabbe5280@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Super-Sonic Jazz Festival 2026
+DESCRIPTION:Tiende editie van het driedaagse festival voor nieuwe jazz en 
+ aanverwante muziek in Paradiso.\nLooptijd: 20 nov 2026 t/m 22 nov 2026.\nh
+ ttps://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2026/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2
+ 026/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b463b09d29ef20-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:▶ Start: Amsterdam Light Festival 2026-2027
+DESCRIPTION:Vijftiende editie van het lichtkunstfestival langs de Amsterda
+ mse grachten.\nLooptijd: 26 nov 2026 t/m 17 jan 2027.\nhttps://blog.wego.c
+ om/amsterdam-light-festival/
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://blog.wego.com/amsterdam-light-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b463b09d29ef20-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:■ Laatste dag: Amsterdam Light Festival 2026-2027
+DESCRIPTION:Vijftiende editie van het lichtkunstfestival langs de Amsterda
+ mse grachten.\nLooptijd: 26 nov 2026 t/m 17 jan 2027.\nhttps://blog.wego.c
+ om/amsterdam-light-festival/
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://blog.wego.com/amsterdam-light-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:122a76a2bde73bef@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261217
+SUMMARY:Charles Burnett-programma Eye 2026
+DESCRIPTION:Filmprogramma rond de Amerikaanse regisseur Charles Burnett me
+ t de heruitbreng van Killer of Sheep en diverse restauraties.\nLooptijd: 2
+ 6 nov 2026 t/m 16 dec 2026.\nhttps://assets.eyefilm.nl/downloads/blocks/PB
+ R2026-Jaarpersbericht-2026-NL.pdf
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Film
+TRANSP:TRANSPARENT
+URL:https://assets.eyefilm.nl/downloads/blocks/PBR2026-Jaarpersbericht-202
+ 6-NL.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:469bba1fd114d145@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Popronde Eindfeest 2026
+DESCRIPTION:Afsluitend feest van de reizende Popronde met een reeks opkome
+ nde Nederlandse acts in de Melkweg.\nhttps://www.festivalinfo.nl/festival/
+ 36244/Popronde-Eindfeest/2026/
+LOCATION:Melkweg\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36244/Popronde-Eindfeest/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bef1850fde917b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:Concertgebouworkest: Der Silbersee & Vuurvogel (Iván Fischer)
+DESCRIPTION:Iván Fischer combineert Stravinsky's Vuurvogel met Weills ope
+ ra Der Silbersee.\nLooptijd: 2 dec 2026 t/m 4 dec 2026.\nhttps://www.conce
+ rtgebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek,Opera
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c0ac0354c624ae-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:▶ Start: Der fliegende Holländer – De Nationale Opera
+DESCRIPTION:Wagners Der fliegende Holländer in regie van Lotte de Beer\, 
+ gedirigeerd door Susanna Mälkki met het Nederlands Philharmonisch Orkest.
+ \nLooptijd: 3 dec 2026 t/m 27 dec 2026.\nhttps://www.operaballet.nl/en/pro
+ gram/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c0ac0354c624ae-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:■ Laatste dag: Der fliegende Holländer – De Nationale Opera
+DESCRIPTION:Wagners Der fliegende Holländer in regie van Lotte de Beer\, 
+ gedirigeerd door Susanna Mälkki met het Nederlands Philharmonisch Orkest.
+ \nLooptijd: 3 dec 2026 t/m 27 dec 2026.\nhttps://www.operaballet.nl/en/pro
+ gram/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3949fd1ccf7cb5-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:▶ Start: Wuthering Heights – ITA
+DESCRIPTION:Nieuwe ITA-productie van Kjersti Horn naar Emily Brontë\; pre
+ mière 6 december 2026.\nLooptijd: 3 dec 2026 t/m 7 mrt 2027.\nhttps://ita
+ .nl/nl/voorstellingen/wuthering-heights
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal (daarna tournee)\, A
+ msterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3949fd1ccf7cb5-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:■ Laatste dag: Wuthering Heights – ITA
+DESCRIPTION:Nieuwe ITA-productie van Kjersti Horn naar Emily Brontë\; pre
+ mière 6 december 2026.\nLooptijd: 3 dec 2026 t/m 7 mrt 2027.\nhttps://ita
+ .nl/nl/voorstellingen/wuthering-heights
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal (daarna tournee)\, A
+ msterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+UID:a83b58bac25adb1f@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Claudia de Breij – Oudejaarsconference 2026 – Carré
+DESCRIPTION:Claudia de Breij verzorgt voor de vierde keer de oudejaarsconf
+ erence\, live op NPO 1 op 31 december.\nLooptijd: 5 dec 2026 t/m 6 dec 202
+ 6.\nhttps://www.cabaretinfo.nl/news/58477/Oudejaarsconference-dit-jaar-voo
+ r-de-vierde-keer-verzorgd-door-Claudia-de-Breij/
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.cabaretinfo.nl/news/58477/Oudejaarsconference-dit-jaar-voo
+ r-de-vierde-keer-verzorgd-door-Claudia-de-Breij/
+END:VEVENT
+BEGIN:VEVENT
+UID:c23f835c836f5c2b-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:▶ Start: Cinderella – Het Nationale Ballet
+DESCRIPTION:Kerstreprise van Christopher Wheeldons Cinderella.\nLooptijd: 
+ 9 dec 2026 t/m 2 jan 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:c23f835c836f5c2b-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:■ Laatste dag: Cinderella – Het Nationale Ballet
+DESCRIPTION:Kerstreprise van Christopher Wheeldons Cinderella.\nLooptijd: 
+ 9 dec 2026 t/m 2 jan 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:7848ec7305413269@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261214
+SUMMARY:Next to Normal – DeLaMar
+DESCRIPTION:Pulitzerprijs-winnende musical Next to Normal speelt een korte
+  reeks in DeLaMar.\nLooptijd: 9 dec 2026 t/m 13 dec 2026.\nhttps://delamar
+ .nl/voorstellingen/next-to-normal/
+LOCATION:DeLaMar Theater\, Mary Dresselhuys zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/next-to-normal/
+END:VEVENT
+BEGIN:VEVENT
+UID:b921aa4a3de1f161@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20270104
+SUMMARY:40e Wereldkerstcircus – Koninklijk Theater Carré
+DESCRIPTION:Jubileumeditie van het traditionele Wereldkerstcircus met inte
+ rnationale circusacts.\nLooptijd: 16 dec 2026 t/m 3 jan 2027.\nhttps://www
+ .dagjeweg.nl/activiteit/37893384/40e-Wereldkerstcircus
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.dagjeweg.nl/activiteit/37893384/40e-Wereldkerstcircus
+END:VEVENT
+BEGIN:VEVENT
+UID:83aaf86aae4d894d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261222
+SUMMARY:Feestconcert Nederlands Philharmonisch Orkest
+DESCRIPTION:Het jaarlijkse Feestconcert van het Nederlands Philharmonisch 
+ Orkest op 19 en 21 december met een verrassingsprogramma.\nLooptijd: 19 de
+ c 2026 t/m 21 dec 2026.\nhttps://cms.orkest.nl/media/documents/ONLINE_4920
+ _NPO_brochure_26-27_compleet_spreads_2.pdf
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
+ ompleet_spreads_2.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:5f6f5346d17f5c8a@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Kerstmatinee Concertgebouworkest
+DESCRIPTION:Traditionele Kerstmatinee met Klaus Mäkelä en Sol Gabetta (T
+ sjaikovski's Rococo-variaties)\, live op radio en tv.\nhttps://www.concert
+ gebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:74761f6a10bcb2ff@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261231
+SUMMARY:Dolf Jansen – Schaamteloos (Oudejaarsconference 2026) – De Kle
+ ine Komedie
+DESCRIPTION:Dolf Jansens jaarlijkse oudejaarsvoorstelling speelt eind dece
+ mber in De Kleine Komedie.\nLooptijd: 26 dec 2026 t/m 30 dec 2026.\nhttps:
+ //dolfjansen.com/schaamteloos/
+LOCATION:De Kleine Komedie\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://dolfjansen.com/schaamteloos/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d34f36e2d94d8df@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Voorheen Nacht van het Absurdisme 2026
+DESCRIPTION:Opvolger van de Nacht van het Absurdisme met ruim dertig voors
+ tellingen\, muziek\, literatuur en performance in alle zalen van Paradiso.
+ \nhttps://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absurd
+ isme/2026/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absu
+ rdisme/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:e143f90227bf0efc@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Vrouwejaars – De Kleine Komedie
+DESCRIPTION:Feministisch alternatief voor de oudejaarsconference met o.a. 
+ Katinka Polderman en Kiki Schippers.\nhttps://www.cabaretinfo.nl/cabaret/v
+ oorstelling/469262/Vrouwejaars/De-Kleine-Komedie/
+LOCATION:De Kleine Komedie\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.cabaretinfo.nl/cabaret/voorstelling/469262/Vrouwejaars/De-
+ Kleine-Komedie/
+END:VEVENT
+BEGIN:VEVENT
+UID:138a3aab3fa5be0c@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:PAN 2027 – Calefax
+DESCRIPTION:De 21ste editie van 'het kortste festival van Nederland' van r
+ ietkwintet Calefax.\nhttps://calefax.nl/en/agenda/
+LOCATION:Muziekgebouw aan 't IJ\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://calefax.nl/en/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:6cd7e81f8f875469@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270117
+SUMMARY:Micha Wertheim – voor iedereen – De Kleine Komedie
+DESCRIPTION:Micha Wertheim speelt vijf avonden achter elkaar in De Kleine 
+ Komedie.\nLooptijd: 12 jan 2027 t/m 16 jan 2027.\nhttps://www.theater.nl/a
+ msterdam/de-kleine-komedie-amsterdam?date=1
+LOCATION:De Kleine Komedie\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.theater.nl/amsterdam/de-kleine-komedie-amsterdam?date=1
+END:VEVENT
+BEGIN:VEVENT
+UID:594e3ef3682ebdfb@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+SUMMARY:Paradiso Korendagen 2027
+DESCRIPTION:Tweedaags korenfestival waarop zo'n 140 amateurkoren van pop e
+ n jazz tot renaissance en rock optreden in Paradiso.\nLooptijd: 16 jan 202
+ 7 t/m 17 jan 2027.\nhttps://www.paradiso.nl/programma/paradiso-korendagen-
+ 2027---zaterdag/2807453
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/programma/paradiso-korendagen-2027---zaterdag/
+ 2807453
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8d6880dbb80c82@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270207
+SUMMARY:Salome (reprise) – De Nationale Opera
+DESCRIPTION:Herneming van Strauss' Salome op het hoofdtoneel.\nLooptijd: 1
+ 8 jan 2027 t/m 6 feb 2027.\nhttps://www.operaballet.nl/en/program/season-2
+ 6-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:fcbe686c5f0c2741@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270208
+SUMMARY:Vlieg Met Me Mee – DeLaMar
+DESCRIPTION:Musical Vlieg Met Me Mee (première 6 dec 2026 in Rotterdam) s
+ peelt drie weken in DeLaMar.\nLooptijd: 20 jan 2027 t/m 7 feb 2027.\nhttps
+ ://delamar.nl/voorstellingen/vlieg-met-me-mee/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/vlieg-met-me-mee/
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc129cbf10c6c26@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Concertgebouworkest Annual Gala
+DESCRIPTION:Jaarlijks galaconcert met Klaus Mäkelä.\nhttps://www.concert
+ gebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:10d35c473bb1e4aa@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270224
+SUMMARY:Orfeo ed Euridice – De Nationale Opera
+DESCRIPTION:Glucks Orfeo ed Euridice in regie van Ted Huffman.\nLooptijd: 
+ 3 feb 2027 t/m 23 feb 2027.\nhttps://www.operaballet.nl/en/program/season-
+ 26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:d579e09b2364baa3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+SUMMARY:Der Ring ohne Worte – Nederlands Philharmonisch Orkest & Lorenzo
+  Viotti
+DESCRIPTION:Viotti dirigeert Wagners orkestrale Ring-samenvatting in Tivol
+ iVredenburg (4 feb) en Het Concertgebouw (5 en 7 feb).\nLooptijd: 4 feb 20
+ 27 t/m 7 feb 2027.\nhttps://cms.orkest.nl/media/documents/ONLINE_4920_NPO_
+ brochure_26-27_compleet_spreads_2.pdf
+LOCATION:TivoliVredenburg en Het Concertgebouw\, Utrecht / Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
+ ompleet_spreads_2.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:3880b2e1030af8c4-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:▶ Start: Foam: Yorgos Lanthimos – Photographs
+DESCRIPTION:Foam toont de analoge zwart-witfotografie van filmregisseur Yo
+ rgos Lanthimos.\nLooptijd: 12 feb 2027 t/m 6 jun 2027.\nhttps://www.foam.o
+ rg/nl/events/yorgos-lanthimos-photographs
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/nl/events/yorgos-lanthimos-photographs
+END:VEVENT
+BEGIN:VEVENT
+UID:3880b2e1030af8c4-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:■ Laatste dag: Foam: Yorgos Lanthimos – Photographs
+DESCRIPTION:Foam toont de analoge zwart-witfotografie van filmregisseur Yo
+ rgos Lanthimos.\nLooptijd: 12 feb 2027 t/m 6 jun 2027.\nhttps://www.foam.o
+ rg/nl/events/yorgos-lanthimos-photographs
+LOCATION:Foam\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.foam.org/nl/events/yorgos-lanthimos-photographs
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f3bdb8fbb2f316-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:▶ Start: Rijksmuseum: Drawing!
+DESCRIPTION:Grote tentoonstelling over de kunst van het tekenen\, in samen
+ werking met The Morgan Library & Museum in New York.\nLooptijd: 12 feb 202
+ 7 t/m 23 mei 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f3bdb8fbb2f316-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:■ Laatste dag: Rijksmuseum: Drawing!
+DESCRIPTION:Grote tentoonstelling over de kunst van het tekenen\, in samen
+ werking met The Morgan Library & Museum in New York.\nLooptijd: 12 feb 202
+ 7 t/m 23 mei 2027.\nhttps://www.rijksmuseum.nl/en/press/press-releases/pro
+ gramme/story/programme-2026
+LOCATION:Rijksmuseum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
+ gramme-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:f90a1201f1ba69ee-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:▶ Start: Van Gogh Museum: Eva Gonzalès
+DESCRIPTION:Retrospectief van de impressionistische schilder Eva Gonzalès
+ \, in samenwerking met het Petit Palais in Parijs.\nLooptijd: 12 feb 2027 
+ t/m 20 jun 2027.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:f90a1201f1ba69ee-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:■ Laatste dag: Van Gogh Museum: Eva Gonzalès
+DESCRIPTION:Retrospectief van de impressionistische schilder Eva Gonzalès
+ \, in samenwerking met het Petit Palais in Parijs.\nLooptijd: 12 feb 2027 
+ t/m 20 jun 2027.\nhttps://www.webwire.com/ViewPressRel.asp?aId=359552
+LOCATION:Van Gogh Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
+END:VEVENT
+BEGIN:VEVENT
+UID:b18410146335fea9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270303
+SUMMARY:Prey – Het Nationale Ballet (nieuwe productie)
+DESCRIPTION:Nieuwe avondvullende balletproductie van Jessica Wright en Mor
+ gann Runacre-Temple.\nLooptijd: 13 feb 2027 t/m 2 mrt 2027.\nhttps://www.o
+ peraballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:915e103cea009dfe-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:▶ Start: Singer Laren: De Modernen. Van Matisse tot Bacon
+DESCRIPTION:Topstukken van de moderne kunst\, van Matisse tot Francis Baco
+ n\, in de grote zalen van Singer Laren.\nLooptijd: 24 feb 2027 t/m 6 jun 2
+ 027.\nhttps://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bac
+ on-5tv8
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bacon
+ -5tv8
+END:VEVENT
+BEGIN:VEVENT
+UID:915e103cea009dfe-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:■ Laatste dag: Singer Laren: De Modernen. Van Matisse tot Bacon
+DESCRIPTION:Topstukken van de moderne kunst\, van Matisse tot Francis Baco
+ n\, in de grote zalen van Singer Laren.\nLooptijd: 24 feb 2027 t/m 6 jun 2
+ 027.\nhttps://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bac
+ on-5tv8
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bacon
+ -5tv8
+END:VEVENT
+BEGIN:VEVENT
+UID:2df672ed8281a956@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270315
+SUMMARY:Titanique – DeLaMar
+DESCRIPTION:De parodiemusical Titanique met de hits van Céline Dion strij
+ kt neer in DeLaMar.\nLooptijd: 24 feb 2027 t/m 14 mrt 2027.\nhttps://delam
+ ar.nl/voorstellingen/titanique/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/titanique/
+END:VEVENT
+BEGIN:VEVENT
+UID:24c6ad7dd7ed8c02@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270314
+SUMMARY:Richard – ITA
+DESCRIPTION:Alize Zandwijk regisseert een nieuwe bewerking van Shakespeare
+ s Richard III\; première 28 februari 2027.\nLooptijd: 25 feb 2027 t/m 13 
+ mrt 2027.\nhttps://ita.nl/nl/voorstellingen/richard
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/richard
+END:VEVENT
+BEGIN:VEVENT
+UID:15c9bfa6ce0c1451@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Scarlatti Festival – Muziekgebouw aan 't IJ
+DESCRIPTION:Festivaldag (met Festival Oude Muziek) rond vader Alessandro e
+ n zoon Domenico Scarlatti\, met cantates en klavecimbelsonates onder het m
+ otto 'expressie\, emotie en experiment'.\nhttps://www.muziekgebouw.nl/en/t
+ heme/scarlattifestival-xd7w
+LOCATION:Muziekgebouw aan 't IJ\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.muziekgebouw.nl/en/theme/scarlattifestival-xd7w
+END:VEVENT
+BEGIN:VEVENT
+UID:66d2582cc35548cf@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270314
+SUMMARY:Belcea Quartet: alle strijkkwartetten van Beethoven
+DESCRIPTION:Het Belcea Quartet speelt in zes concerten (6\, 7\, 9\, 10\, 1
+ 2 en 13 maart) de complete Beethoven-strijkkwartetten inclusief de Grosse 
+ Fuge.\nLooptijd: 6 mrt 2027 t/m 13 mrt 2027.\nhttps://www.concertgebouw.nl
+ /beethoven
+LOCATION:Het Concertgebouw\, Kleine Zaal\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/beethoven
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf01be58a5110dd-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:▶ Start: Stedelijk Museum: Luc Tuymans – Silent Music
+DESCRIPTION:Tentoonstelling van de Belgische schilder Luc Tuymans.\nLoopti
+ jd: 6 mrt 2027 t/m 11 jul 2027.\nhttps://www.davidzwirner.com/news/2026/lu
+ c-tuymans-silent-music
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf01be58a5110dd-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:■ Laatste dag: Stedelijk Museum: Luc Tuymans – Silent Music
+DESCRIPTION:Tentoonstelling van de Belgische schilder Luc Tuymans.\nLoopti
+ jd: 6 mrt 2027 t/m 11 jul 2027.\nhttps://www.davidzwirner.com/news/2026/lu
+ c-tuymans-silent-music
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
+END:VEVENT
+BEGIN:VEVENT
+UID:53097cd7ebe77721@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270328
+SUMMARY:Matthäus-Passion in Het Concertgebouw (Leusink en Koopman)
+DESCRIPTION:Passiereeks in de Grote Zaal met The Bach Choir & Orchestra of
+  the Netherlands o.l.v. Pieter Jan Leusink (7\, 18\, 26\, 27 maart) en Ton
+  Koopman met het Amsterdam Baroque Orchestra & Choir (24 maart).\nLooptijd
+ : 7 mrt 2027 t/m 27 mrt 2027.\nhttps://www.music-opera.com/nl/concertgebou
+ w-pays-bas-amsterdam/matth-us-passion-bwv-244-bach-2487957.html
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.music-opera.com/nl/concertgebouw-pays-bas-amsterdam/matth-
+ us-passion-bwv-244-bach-2487957.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba6c455caf192db@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270322
+SUMMARY:Roze Filmdagen 2027
+DESCRIPTION:Dertigste editie van het LHBTIQ+-filmfestival van Amsterdam\; 
+ data onder voorbehoud.\nLooptijd: 9 mrt 2027 t/m 21 mrt 2027.\nhttps://roz
+ efilmdagen.nl/en
+LOCATION:Het Ketelhuis / Westergas\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://rozefilmdagen.nl/en
+END:VEVENT
+BEGIN:VEVENT
+UID:acccbdaf3113518b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270315
+SUMMARY:Beethovens Missa solemnis – Mäkelä
+DESCRIPTION:Klaus Mäkelä dirigeert Beethovens Missa solemnis met het Gro
+ ot Omroepkoor.\nLooptijd: 10 mrt 2027 t/m 14 mrt 2027.\nhttps://www.concer
+ tgebouworkest.nl/nl/agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:fcae22dd84cce3e4@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270322
+SUMMARY:Kaboom Animation Festival 2027
+DESCRIPTION:Internationaal animatiefilmfestival met korte en lange animati
+ efilms\, verdeeld over Utrecht en Amsterdam.\nLooptijd: 12 mrt 2027 t/m 21
+  mrt 2027.\nhttps://www.zippyframes.com/festivals/next-festivals/kaboom-an
+ imation-festival
+LOCATION:Diverse locaties (o.a. Slachtstraat Filmtheater\, Eye\, Melkweg)\
+ , Utrecht en Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.zippyframes.com/festivals/next-festivals/kaboom-animation-
+ festival
+END:VEVENT
+BEGIN:VEVENT
+UID:df0a6dfc04eab759-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:▶ Start: H'ART Museum: Feminine Power (met British Museum) (datu
+ m o.v.)
+DESCRIPTION:Tentoonstelling met het British Museum over vrouwelijke kracht
+  in religie: godinnen\, heksen\, heiligen en geesten.\nLet op: datum is ee
+ n inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptij
+ d: 13 mrt 2027 t/m 29 aug 2027.\nhttps://www.hermitage.nl/documents/305/NL
+ _Persbericht___Programma_HART_Museum_2024__2028_bekend_def.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:df0a6dfc04eab759-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:■ Laatste dag: H'ART Museum: Feminine Power (met British Museum)
+  (datum o.v.)
+DESCRIPTION:Tentoonstelling met het British Museum over vrouwelijke kracht
+  in religie: godinnen\, heksen\, heiligen en geesten.\nLet op: datum is ee
+ n inschatting op basis van eerdere edities en nog niet bevestigd.\nLooptij
+ d: 13 mrt 2027 t/m 29 aug 2027.\nhttps://www.hermitage.nl/documents/305/NL
+ _Persbericht___Programma_HART_Museum_2024__2028_bekend_def.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:089f1c19f547b42b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270324
+SUMMARY:Matthäus-Passion Nederlandse Bachvereniging – tournee
+DESCRIPTION:Voorafgaand aan Naarden toert de Nederlandse Bachvereniging me
+ t de Matthäus-Passion langs onder meer Amsterdam (13 maart)\, Rotterdam\,
+  Utrecht en Eindhoven.\nLooptijd: 13 mrt 2027 t/m 23 mrt 2027.\nhttps://ww
+ w.bachvereniging.nl/nl/matthaus-passion-2027
+LOCATION:Muziekgebouw aan 't IJ\, SPOT Groningen\, De Doelen\, TivoliVrede
+ nburg\, Tilburg\, Aardenburg\, Muziekgebouw Eindhoven\, Amsterdam e.a.
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.bachvereniging.nl/nl/matthaus-passion-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea6e39ede7baa36@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270329
+SUMMARY:Opera Forward Festival 2027
+DESCRIPTION:Festival voor nieuwe opera met o.a. de wereldpremière van Du 
+ Yuns Red Fox (regie Barrie Kosky)\, Hedda Gabler van Vasco Mendonça en Th
+ e Monster Trilogy.\nLooptijd: 13 mrt 2027 t/m 28 mrt 2027.\nhttps://www.op
+ eraballet.nl/en/opera/dutch-national-opera/off
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/opera/dutch-national-opera/off
+END:VEVENT
+BEGIN:VEVENT
+UID:5150ce0413e4ef47@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270329
+SUMMARY:Red Fox (Du Yun / Barrie Kosky) – wereldpremière
+DESCRIPTION:Nieuwe opera van Du Yun in regie van Barrie Kosky\, gemaakt vo
+ or het Opera Forward Festival.\nLooptijd: 13 mrt 2027 t/m 28 mrt 2027.\nht
+ tps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:5b62ae39a81d65ff@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270405
+SUMMARY:Prophet Song – ITA
+DESCRIPTION:Mina Salehpour regisseert de eerste toneelbewerking van Paul L
+ ynch' Booker-winnende roman.\nLooptijd: 18 mrt 2027 t/m 4 apr 2027.\nhttps
+ ://ita.nl/nl/voorstellingen/prophet-song
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/prophet-song
+END:VEVENT
+BEGIN:VEVENT
+UID:190524a0e42816f4@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270326
+SUMMARY:Hedda Gabler (Vasco Mendonça) – De Nationale Opera / Opera Forw
+ ard Festival
+DESCRIPTION:Nieuwe opera van Vasco Mendonça naar Ibsens Hedda Gabler\, al
+ s onderdeel van het Opera Forward Festival 2027.\nLooptijd: 19 mrt 2027 t/
+ m 25 mrt 2027.\nhttps://operawire.com/corinne-winters-ryan-speedo-green-fe
+ derica-lombardi-sara-jakubiak-aryeh-nussbaum-cohen-lead-dutch-national-ope
+ ras-2026-27-season
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://operawire.com/corinne-winters-ryan-speedo-green-federica-lomba
+ rdi-sara-jakubiak-aryeh-nussbaum-cohen-lead-dutch-national-operas-2026-27-
+ season
+END:VEVENT
+BEGIN:VEVENT
+UID:6b82fca57a30320e@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Matthäus-Passion Concertgebouworkest
+DESCRIPTION:Bachs Matthäus-Passion o.l.v. Leonardo García-Alarcón.\nLoo
+ ptijd: 19 mrt 2027 t/m 21 mrt 2027.\nhttps://www.concertgebouworkest.nl/nl
+ /agenda/
+LOCATION:Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:cffc0ab0e5255fe6@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Protestfest 2027
+DESCRIPTION:Vijfde editie van Sophie Straats maatschappelijk geengageerde 
+ festival met muziek en sprekers in alle zalen van Paradiso\, opbrengst naa
+ r een goed doel.\nhttps://www.festivalinfo.nl/festival/36502/Protestfest/2
+ 027/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36502/Protestfest/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:5169beb3b021a87d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270328
+SUMMARY:Matthäus-Passion Nederlandse Bachvereniging in Naarden
+DESCRIPTION:De traditionele Naardense Matthäus-Passion van de Nederlandse
+  Bachvereniging onder Lars Ulrik Mortensen\, met vijf uitvoeringen in de G
+ rote Kerk (21\, 24\, 25\, 26 en 27 maart).\nLooptijd: 21 mrt 2027 t/m 27 m
+ rt 2027.\nhttps://www.bachvereniging.nl/nl/matthaus-passion-2027
+LOCATION:Grote Kerk Naarden\, Naarden
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.bachvereniging.nl/nl/matthaus-passion-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb3a1defdb40ddf@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270329
+SUMMARY:Cinedans FEST 2027 (datum o.v.)
+DESCRIPTION:Festival voor dansfilm en screendance\; datum geschat naar het
+  patroon van eind maart (2026: 25-29 maart).\nLet op: datum is een inschat
+ ting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 24 mrt
+  2027 t/m 28 mrt 2027.\nhttps://www.festivalfinder.eu/festivals/cinedans-f
+ est-2026
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Festivals,Film,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:38864ad4827a8e04-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:▶ Start: The Bodyguard – DeLaMar
+DESCRIPTION:Nieuwe Nederlandse productie van musical The Bodyguard\; premi
+ ère 29 maart 2027\, zomerreeks 11-22 augustus.\nLooptijd: 24 mrt 2027 t/m
+  22 aug 2027.\nhttps://delamar.nl/voorstellingen/the-bodyguard/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/the-bodyguard/
+END:VEVENT
+BEGIN:VEVENT
+UID:38864ad4827a8e04-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:■ Laatste dag: The Bodyguard – DeLaMar
+DESCRIPTION:Nieuwe Nederlandse productie van musical The Bodyguard\; premi
+ ère 29 maart 2027\, zomerreeks 11-22 augustus.\nLooptijd: 24 mrt 2027 t/m
+  22 aug 2027.\nhttps://delamar.nl/voorstellingen/the-bodyguard/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/the-bodyguard/
+END:VEVENT
+BEGIN:VEVENT
+UID:eee0157f26d4c430-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:▶ Start: Frans Hals Museum: Oesters & citroenen
+DESCRIPTION:Culinaire rondgang door de collectie met foodkenner Janny van 
+ der Heijden\, vertrekkend vanuit het monumentale keukenstuk van Cornelis v
+ an Haarlem.\nLooptijd: 25 mrt 2027 t/m 29 aug 2027.\nhttps://franshalsmuse
+ um.nl/nl/zien-en-doen/oesters-en-citroenen
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/oesters-en-citroenen
+END:VEVENT
+BEGIN:VEVENT
+UID:eee0157f26d4c430-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:■ Laatste dag: Frans Hals Museum: Oesters & citroenen
+DESCRIPTION:Culinaire rondgang door de collectie met foodkenner Janny van 
+ der Heijden\, vertrekkend vanuit het monumentale keukenstuk van Cornelis v
+ an Haarlem.\nLooptijd: 25 mrt 2027 t/m 29 aug 2027.\nhttps://franshalsmuse
+ um.nl/nl/zien-en-doen/oesters-en-citroenen
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/oesters-en-citroenen
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f974476b336d8a@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Seizoenspresentatie Het Concertgebouw 2027-2028 (datum o.v.)
+DESCRIPTION:Het Concertgebouw maakt het nieuwe seizoen bekend (vorig jaar 
+ op 27 maart)\, waarna de serieverkoop start.\nLet op: datum is een inschat
+ ting op basis van eerdere edities en nog niet bevestigd.\nhttps://www.conc
+ ertgebouw.nl/en/press
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/press
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9628aa68f468e0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270405
+SUMMARY:Metamorphosis – Het Nationale Ballet
+DESCRIPTION:David Dawsons Metamorphosis op het hoofdtoneel.\nLooptijd: 27 
+ mrt 2027 t/m 4 apr 2027.\nhttps://www.operaballet.nl/en/program/season-26-
+ 27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:9d77eef93a3f8982-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:▶ Start: Stedelijk Museum: Ibrahim Mahama – Zilijifa
+DESCRIPTION:Solotentoonstelling van de Ghanese kunstenaar Ibrahim Mahama\,
+  bekend van zijn grootschalige installaties met jutezakken.\nLooptijd: 27 
+ mrt 2027 t/m 1 aug 2027.\nhttps://artotel.com/en/newsfeed/amsterdam-2026-a
+ -curated-art-calendar/
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d77eef93a3f8982-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:■ Laatste dag: Stedelijk Museum: Ibrahim Mahama – Zilijifa
+DESCRIPTION:Solotentoonstelling van de Ghanese kunstenaar Ibrahim Mahama\,
+  bekend van zijn grootschalige installaties met jutezakken.\nLooptijd: 27 
+ mrt 2027 t/m 1 aug 2027.\nhttps://artotel.com/en/newsfeed/amsterdam-2026-a
+ -curated-art-calendar/
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4e3f6211db3989-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:▶ Start: CATS – DeLaMar
+DESCRIPTION:De musical CATS keert na lovende recensies in het voorjaar van
+  2027 vier weken terug naar Amsterdam in DeLaMar.\nLooptijd: 31 mrt 2027 t
+ /m 25 apr 2027.\nhttps://www.musicalweb.nl/cats-keert-in-voorjaar-2027-ter
+ ug-naar-amsterdam-voor-vier-weken-in-delamar-36326
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicalweb.nl/cats-keert-in-voorjaar-2027-terug-naar-amste
+ rdam-voor-vier-weken-in-delamar-36326
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4e3f6211db3989-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:■ Laatste dag: CATS – DeLaMar
+DESCRIPTION:De musical CATS keert na lovende recensies in het voorjaar van
+  2027 vier weken terug naar Amsterdam in DeLaMar.\nLooptijd: 31 mrt 2027 t
+ /m 25 apr 2027.\nhttps://www.musicalweb.nl/cats-keert-in-voorjaar-2027-ter
+ ug-naar-amsterdam-voor-vier-weken-in-delamar-36326
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicalweb.nl/cats-keert-in-voorjaar-2027-terug-naar-amste
+ rdam-voor-vier-weken-in-delamar-36326
+END:VEVENT
+BEGIN:VEVENT
+UID:b630fac43515ad07@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270412
+SUMMARY:CinemAsia Film Festival 2027 (datum o.v.)
+DESCRIPTION:Festival voor Aziatische en Aziatisch-diasporische cinema\; da
+ tum geschat naar het patroon van begin april (2026: 8-12 april).\nLet op: 
+ datum is een inschatting op basis van eerdere edities en nog niet bevestig
+ d.\nLooptijd: 7 apr 2027 t/m 11 apr 2027.\nhttps://www.eyefilm.nl/en/progr
+ amme/cinemasia-2026/1594110
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.eyefilm.nl/en/programme/cinemasia-2026/1594110
+END:VEVENT
+BEGIN:VEVENT
+UID:225f9db61db9986b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270426
+SUMMARY:De Architect – ITA
+DESCRIPTION:Rebecca Frecknall maakt een hedendaagse versie van Ibsens Bouw
+ meester Solness.\nLooptijd: 8 apr 2027 t/m 25 apr 2027.\nhttps://ita.nl/nl
+ /voorstellingen/de-architect
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-architect
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd07576b1e9f5b2@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270410
+SUMMARY:Feldman Special – Muziekgebouw aan 't IJ
+DESCRIPTION:Tweedaagse special rond de stille\, intense muziek van Morton 
+ Feldman.\nLooptijd: 8 apr 2027 t/m 9 apr 2027.\nhttps://www.muziekgebouw.n
+ l/en/themes/festivals-en-specials-5q6n
+LOCATION:Muziekgebouw aan 't IJ\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.muziekgebouw.nl/en/themes/festivals-en-specials-5q6n
+END:VEVENT
+BEGIN:VEVENT
+UID:95468e50c5c74572@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270419
+SUMMARY:Amsterdam Spanish Film Festival 2027 (datum o.v.)
+DESCRIPTION:Festival met nieuwe Spaanstalige films uit Spanje en Latijns-A
+ merika in Amsterdamse bioscopen.\nLet op: datum is een inschatting op basi
+ s van eerdere edities en nog niet bevestigd.\nLooptijd: 9 apr 2027 t/m 18 
+ apr 2027.\nhttps://amsterdamspanishfilmfestival.com/
+LOCATION:Eye Filmmuseum en diverse bioscopen\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://amsterdamspanishfilmfestival.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:64bccfdb69c78756@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:High Tea Indoor Festeaval 2027
+DESCRIPTION:Derde editie van het drum-and-bass-indoorfestival van High Tea
+ \, verspreid over zeven zalen van de Melkweg.\nhttps://www.melkweg.nl/nl/a
+ genda/high-tea-indoor-festeaval-2027-10-04-2027/
+LOCATION:Melkweg\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.melkweg.nl/nl/agenda/high-tea-indoor-festeaval-2027-10-04-
+ 2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1db4d50e030c45-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:▶ Start: Impressions de Pelléas – DNO / Reisopera
+DESCRIPTION:Kameropera-versie van Debussy's Pelléas et Mélisande\, in Am
+ sterdam en op tournee met de Nederlandse Reisopera.\nLooptijd: 10 apr 2027
+  t/m 1 mei 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Studio Boekman & tournee\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1db4d50e030c45-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:■ Laatste dag: Impressions de Pelléas – DNO / Reisopera
+DESCRIPTION:Kameropera-versie van Debussy's Pelléas et Mélisande\, in Am
+ sterdam en op tournee met de Nederlandse Reisopera.\nLooptijd: 10 apr 2027
+  t/m 1 mei 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Studio Boekman & tournee\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:12cd42c514a535d0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270414
+SUMMARY:Janine's Beethoven: alle vioolsonates met Denis Kozhukhin
+DESCRIPTION:Janine Jansen en Denis Kozhukhin spelen in drie concerten (10\
+ , 12 en 13 april) alle tien vioolsonates van Beethoven.\nLooptijd: 10 apr 
+ 2027 t/m 13 apr 2027.\nhttps://www.concertgebouw.nl/beethoven
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/beethoven
+END:VEVENT
+BEGIN:VEVENT
+UID:10082ca09050c50d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270503
+SUMMARY:Iolanta – De Nationale Opera
+DESCRIPTION:Tsjaikovski's Iolanta in regie van Evgeny Titov met het Rotter
+ dams Philharmonisch Orkest o.l.v. Kwamé Ryan.\nLooptijd: 16 apr 2027 t/m 
+ 2 mei 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:ea76287d0c0c5e61@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Stravinsky's Sacre in de Gashouder
+DESCRIPTION:Concertgebouworkest speelt Le Sacre du printemps in de Gashoud
+ er met Gemma New en Abel Selaocoe.\nhttps://www.concertgebouworkest.nl/nl/
+ agenda/
+LOCATION:Gashouder (Westergas)\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:94c5dea9c5be1636-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2027 (datu
+ m o.v.)
+DESCRIPTION:Jaarlijkse tentoonstelling met de winnende persfoto's van Worl
+ d Press Photo (datum geschat op basis van eerdere jaren).\nLet op: datum i
+ s een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoo
+ ptijd: 23 apr 2027 t/m 24 okt 2027.\nhttps://www.nieuwekerk.nl/tentoonstel
+ lingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:94c5dea9c5be1636-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2027
+  (datum o.v.)
+DESCRIPTION:Jaarlijkse tentoonstelling met de winnende persfoto's van Worl
+ d Press Photo (datum geschat op basis van eerdere jaren).\nLet op: datum i
+ s een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoo
+ ptijd: 23 apr 2027 t/m 24 okt 2027.\nhttps://www.nieuwekerk.nl/tentoonstel
+ lingen/
+LOCATION:De Nieuwe Kerk\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.nieuwekerk.nl/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:2628c006af950f16@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Koningsdag 2027
+DESCRIPTION:Nationale feestdag met vrijmarkten\, feesten en concerten door
+  de hele stad.\nhttps://www.iamsterdam.com
+LOCATION:Hele stad\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com
+END:VEVENT
+BEGIN:VEVENT
+UID:aa656c61c804eda3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270502
+SUMMARY:Beethoven Special: alle pianotrio's (Queyras\, Faust\, Melnikov) 
+ – Muziekgebouw aan 't IJ
+DESCRIPTION:Jean-Guihen Queyras\, Isabelle Faust en Alexander Melnikov spe
+ len op darmsnaren en fortepiano alle pianotrio's van Beethoven\, 200 jaar 
+ na zijn dood.\nLooptijd: 30 apr 2027 t/m 1 mei 2027.\nhttps://www.muziekge
+ bouw.nl/en/theme/beethoven-special-183t
+LOCATION:Muziekgebouw aan 't IJ\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.muziekgebouw.nl/en/theme/beethoven-special-183t
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed83bc36b1454d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Bevrijdingsfestivals 2027
+DESCRIPTION:Gratis Bevrijdingsfestivals met muziek in alle provincies op B
+ evrijdingsdag\; programma volgt.\nhttps://www.4en5mei.nl
+LOCATION:Diverse steden (o.a. Haarlem\, Utrecht\, Den Haag\, Amsterdam)
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.4en5mei.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:ab26c529b0c2af19@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270518
+SUMMARY:101 Dalmatiërs\, de Musical – DeLaMar
+DESCRIPTION:Familiemusical 101 Dalmatiërs (première 1 nov 2026 in Rotter
+ dam) speelt in DeLaMar.\nLooptijd: 6 mei 2027 t/m 17 mei 2027.\nhttps://de
+ lamar.nl/voorstellingen/101-dalmatiers-de-musical/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/101-dalmatiers-de-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:8916c1b18534dd8c-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:▶ Start: Norma – De Nationale Opera
+DESCRIPTION:Bellini's Norma in regie van Jetske Mijnssen\, gedirigeerd doo
+ r Enrique Mazzola met het Nederlands Kamerorkest.\nLooptijd: 12 mei 2027 t
+ /m 6 jun 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:8916c1b18534dd8c-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:■ Laatste dag: Norma – De Nationale Opera
+DESCRIPTION:Bellini's Norma in regie van Jetske Mijnssen\, gedirigeerd doo
+ r Enrique Mazzola met het Nederlands Kamerorkest.\nLooptijd: 12 mei 2027 t
+ /m 6 jun 2027.\nhttps://www.operaballet.nl/en/program/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6dd8a0a00f99cb-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:▶ Start: Stedelijk Museum: Becoming Marc Chagall
+DESCRIPTION:Grote tentoonstelling over Marc Chagall en zijn ontwikkeling a
+ ls kunstenaar\, met de Chagall-collectie van het Stedelijk als basis.\nLoo
+ ptijd: 15 mei 2027 t/m 22 aug 2027.\nhttps://www.stedelijk.nl/en/news/Annu
+ al%20Program%202026-2027
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6dd8a0a00f99cb-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:■ Laatste dag: Stedelijk Museum: Becoming Marc Chagall
+DESCRIPTION:Grote tentoonstelling over Marc Chagall en zijn ontwikkeling a
+ ls kunstenaar\, met de Chagall-collectie van het Stedelijk als basis.\nLoo
+ ptijd: 15 mei 2027 t/m 22 aug 2027.\nhttps://www.stedelijk.nl/en/news/Annu
+ al%20Program%202026-2027
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:b2806c1d167817ae@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270531
+SUMMARY:Prima Facie – ITA
+DESCRIPTION:Reprise van Eline Arbo's succesvolle monoloog Prima Facie van 
+ Suzie Miller.\nLooptijd: 20 mei 2027 t/m 30 mei 2027.\nhttps://ita.nl/nl/v
+ oorstellingen/prima-facie
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/prima-facie
+END:VEVENT
+BEGIN:VEVENT
+UID:a77c4c5203c365ad@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+SUMMARY:Champion (Terence Blanchard) – Holland Festival 2027 (datum o.v.
+ )
+DESCRIPTION:De 80e editie van het Holland Festival opent met de Europese p
+ remière van Terence Blanchards boksopera Champion\, met Groot Omroepkoor 
+ en Radio Filharmonisch Orkest en een boksring midden in de Grote Zaal.\nLe
+ t op: datum is een inschatting op basis van eerdere edities en nog niet be
+ vestigd.\nLooptijd: 3 jun 2027 t/m 5 jun 2027.\nhttps://www.eventbranche.n
+ l/nieuws/holland-festival-opent-80e-editie-met-grootse-jazzopera
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Opera,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.eventbranche.nl/nieuws/holland-festival-opent-80e-editie-m
+ et-grootse-jazzopera
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:aca34a731e75a5e3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Amsterdam Open Air 2027
+DESCRIPTION:Tweedaags dancefestival in het Gaasperpark.\nLooptijd: 5 jun 2
+ 027 t/m 6 jun 2027.\nhttps://www.amsterdamopenair.nl/en
+LOCATION:Gaasperpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdamopenair.nl/en
+END:VEVENT
+BEGIN:VEVENT
+UID:404c881b6b0612fc@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Grigory Sokolov – recital (Pianistenserie)
+DESCRIPTION:Solorecital van Grigory Sokolov in de Pianistenserie van het C
+ oncertgebouw (20:15)\; programma wordt later bekendgemaakt.\nhttps://bacht
+ rack.com/22/291/view/439499
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://bachtrack.com/22/291/view/439499
+END:VEVENT
+BEGIN:VEVENT
+UID:5cdd431facfa5b88@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Yuja Wang – Brahms pianoconcerten 1 & 2 met Mahler Chamber Orche
+ stra
+DESCRIPTION:Yuja Wang speelt en leidt vanaf de vleugel beide pianoconcerte
+ n van Brahms met het Mahler Chamber Orchestra (20:15).\nhttps://www.concer
+ tgebouw.nl/en/concerts/39937297-yuja-wang-performs-brahms-piano-concertos-
+ nos.-1-and-2
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/concerts/39937297-yuja-wang-performs-b
+ rahms-piano-concertos-nos.-1-and-2
+END:VEVENT
+BEGIN:VEVENT
+UID:37a5520d32c791bd@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270628
+SUMMARY:La damnation de Faust – De Nationale Opera & Concertgebouworkest
+DESCRIPTION:Nieuwe productie van Berlioz' La damnation de Faust met het Co
+ ncertgebouworkest o.l.v. Stéphane Denève\, seizoensafsluiter van DNO.\nL
+ ooptijd: 9 jun 2027 t/m 27 jun 2027.\nhttps://www.operaballet.nl/en/progra
+ m/season-26-27/opera
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/opera
+END:VEVENT
+BEGIN:VEVENT
+UID:0368b7d827460202@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270624
+SUMMARY:PLAY – Alexander Ekman / Het Nationale Ballet
+DESCRIPTION:Alexander Ekmans uitbundige voorstelling PLAY keert terug.\nLo
+ optijd: 12 jun 2027 t/m 23 jun 2027.\nhttps://www.operaballet.nl/en/progra
+ m/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:a2317dceacbd0ddb-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:▶ Start: Singer Laren: Jan Hendrik Weissenbruch – Hollands lic
+ ht
+DESCRIPTION:Tentoonstelling over de Haagse School-schilder Jan Hendrik Wei
+ ssenbruch en zijn weergave van het Hollandse licht.\nLooptijd: 16 jun 2027
+  t/m 26 sep 2027.\nhttps://museumtijdschrift.nl/artspot/singer-laren-2/
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://museumtijdschrift.nl/artspot/singer-laren-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2317dceacbd0ddb-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:■ Laatste dag: Singer Laren: Jan Hendrik Weissenbruch – Hollan
+ ds licht
+DESCRIPTION:Tentoonstelling over de Haagse School-schilder Jan Hendrik Wei
+ ssenbruch en zijn weergave van het Hollandse licht.\nLooptijd: 16 jun 2027
+  t/m 26 sep 2027.\nhttps://museumtijdschrift.nl/artspot/singer-laren-2/
+LOCATION:Singer Laren\, Laren
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://museumtijdschrift.nl/artspot/singer-laren-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:92834948240ef137-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:▶ Start: Hadestown – Koninklijk Theater Carré
+DESCRIPTION:De Tony-winnende musical Hadestown keert de hele zomer van 202
+ 7 terug in Carré.\nLooptijd: 25 jun 2027 t/m 8 aug 2027.\nhttps://www.mus
+ icaljournaal.nl/kaartverkoop-hadestown-start-27-augustus-om-12-00u/
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicaljournaal.nl/kaartverkoop-hadestown-start-27-augustu
+ s-om-12-00u/
+END:VEVENT
+BEGIN:VEVENT
+UID:92834948240ef137-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:■ Laatste dag: Hadestown – Koninklijk Theater Carré
+DESCRIPTION:De Tony-winnende musical Hadestown keert de hele zomer van 202
+ 7 terug in Carré.\nLooptijd: 25 jun 2027 t/m 8 aug 2027.\nhttps://www.mus
+ icaljournaal.nl/kaartverkoop-hadestown-start-27-augustus-om-12-00u/
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicaljournaal.nl/kaartverkoop-hadestown-start-27-augustu
+ s-om-12-00u/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6552232b567f61@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Gala Het Nationale Ballet 2027
+DESCRIPTION:Jaarlijks balletgala als afsluiting van het seizoen.\nhttps://
+ www.operaballet.nl/en/program/season-26-27/ballet
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Dans
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl/en/program/season-26-27/ballet
+END:VEVENT
+BEGIN:VEVENT
+UID:f133e688cf3e7f3a@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Amsterdam Roots Festival 2027 (datum o.v.)
+DESCRIPTION:Gratis wereldmuziekfestival in het Oosterpark\; datum geschat 
+ naar het patroon van eind juni.\nLet op: datum is een inschatting op basis
+  van eerdere edities en nog niet bevestigd.\nhttps://www.festivalinfo.nl/f
+ estival/36269/Amsterdam-Roots-Festival/2026/
+LOCATION:Oosterpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36269/Amsterdam-Roots-Festival/20
+ 26/
+END:VEVENT
+BEGIN:VEVENT
+UID:e63a59518538ef30-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:▶ Start: VriendenLoterij ZomerConcerten 2027 (datum o.v.)
+DESCRIPTION:De zomerserie (voorheen Robeco SummerNights) met zo'n 80-90 be
+ taalbare concerten in juli en augustus\; programma en kaartverkoop vanaf b
+ egin maart 2027.\nLet op: datum is een inschatting op basis van eerdere ed
+ ities en nog niet bevestigd.\nLooptijd: 28 jun 2027 t/m 31 aug 2027.\nhttp
+ s://www.concertgebouw.nl/en/summerconcerts
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/summerconcerts
+END:VEVENT
+BEGIN:VEVENT
+UID:e63a59518538ef30-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:■ Laatste dag: VriendenLoterij ZomerConcerten 2027 (datum o.v.)
+DESCRIPTION:De zomerserie (voorheen Robeco SummerNights) met zo'n 80-90 be
+ taalbare concerten in juli en augustus\; programma en kaartverkoop vanaf b
+ egin maart 2027.\nLet op: datum is een inschatting op basis van eerdere ed
+ ities en nog niet bevestigd.\nLooptijd: 28 jun 2027 t/m 31 aug 2027.\nhttp
+ s://www.concertgebouw.nl/en/summerconcerts
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/summerconcerts
+END:VEVENT
+BEGIN:VEVENT
+UID:651c508263e5e568@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270714
+SUMMARY:Julidans 2027 (datum o.v.)
+DESCRIPTION:Internationaal festival voor hedendaagse dans\; data onder voo
+ rbehoud.\nLet op: datum is een inschatting op basis van eerdere edities en
+  nog niet bevestigd.\nLooptijd: 1 jul 2027 t/m 13 jul 2027.\nhttps://www.i
+ amsterdam.com/uit/agenda/festivals/events/julidans
+LOCATION:ITA\, Frascati e.a.\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/julidans
+END:VEVENT
+BEGIN:VEVENT
+UID:10c100acf53dd509@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Keti Koti Festival 2027
+DESCRIPTION:Gratis festival op Museumplein ter herdenking en viering van d
+ e afschaffing van de slavernij.\nhttps://www.iamsterdam.com/uit/agenda/fes
+ tivals/events/keti-koti-festival
+LOCATION:Museumplein\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/keti-koti-festi
+ val
+END:VEVENT
+BEGIN:VEVENT
+UID:916d6e5acb4bfa55@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270726
+SUMMARY:Dolly Dots de Musical – DeLaMar
+DESCRIPTION:Musical over de Dolly Dots speelt een zomerreeks in DeLaMar.\n
+ Looptijd: 14 jul 2027 t/m 25 jul 2027.\nhttps://delamar.nl/voorstellingen/
+ dolly-dots-de-musical/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/dolly-dots-de-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f45bbc0815ebf26@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270809
+SUMMARY:De Parade 2027 (datum o.v.)
+DESCRIPTION:Reizend theaterfestival met voorstellingen in tenten\; data on
+ der voorbehoud.\nLet op: datum is een inschatting op basis van eerdere edi
+ ties en nog niet bevestigd.\nLooptijd: 23 jul 2027 t/m 8 aug 2027.\nhttps:
+ //www.iamsterdam.com/en/whats-on/calendar/festivals/events/theaterfestival
+ -de-parade
+LOCATION:Martin Luther Kingpark\, Amsterdam
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/theat
+ erfestival-de-parade
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b49339b6846e89@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270803
+SUMMARY:Dekmantel Festival 2027
+DESCRIPTION:Elektronisch muziekfestival in het Amsterdamse Bos.\nLooptijd:
+  29 jul 2027 t/m 2 aug 2027.\nhttps://dekmantel.com/events/dekmantel-festi
+ val-2027
+LOCATION:Amsterdamse Bos\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://dekmantel.com/events/dekmantel-festival-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:b963027dcce3485b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270809
+SUMMARY:Pride Amsterdam 2027
+DESCRIPTION:Pride-festival met de Canal Parade op zaterdag 7 augustus.\nLo
+ optijd: 31 jul 2027 t/m 8 aug 2027.\nhttps://pride.amsterdam/en/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://pride.amsterdam/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab1e425a8faba2a@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270823
+SUMMARY:Grachtenfestival 2027
+DESCRIPTION:Tiendaags klassiek muziekfestival op en aan de Amsterdamse gra
+ chten.\nLooptijd: 13 aug 2027 t/m 22 aug 2027.\nhttps://www.grachtenfestiv
+ al.nl
+LOCATION:Grachten en diverse locaties\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.grachtenfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:fa30020255f72025@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Prinsengrachtconcert 2027
+DESCRIPTION:Gratis openluchtconcert op een ponton in de Prinsengracht\, ti
+ jdens het Grachtenfestival.\nhttps://prinsengrachtconcert.nl/
+LOCATION:Prinsengracht (bij Hotel Pulitzer)\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://prinsengrachtconcert.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:537bb506715a2e8d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Amsterdam Fringe Festival 2027
+DESCRIPTION:Festival voor experimenteel en ongecensureerd theater op tient
+ allen locaties.\nLooptijd: 2 sep 2027 t/m 12 sep 2027.\nhttps://amsterdamf
+ ringefestival.nl/en/home-eng/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://amsterdamfringefestival.nl/en/home-eng/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b10779a2f19c0f0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Nederlands Theaterfestival 2027
+DESCRIPTION:Elf dagen met de beste theatervoorstellingen van het afgelopen
+  seizoen.\nLooptijd: 2 sep 2027 t/m 12 sep 2027.\nhttps://tf.nl/
+LOCATION:ITA en andere theaters\, Amsterdam
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://tf.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab5ab22d3d30a828@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Concertgebouw OPEN 2027 (datum o.v.)
+DESCRIPTION:Gratis open dag met tientallen miniconcerten in alle zalen als
+  aftrap van het nieuwe concertseizoen.\nLet op: datum is een inschatting o
+ p basis van eerdere edities en nog niet bevestigd.\nhttps://www.concertgeb
+ ouw.nl/en/press
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/press
+END:VEVENT
+BEGIN:VEVENT
+UID:45f39ada012daec8@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Seizoensopening De Nationale Opera 2027-2028 (datum o.v.)
+DESCRIPTION:Eerste voorstelling van het nieuwe operaseizoen 2027-2028 (nog
+  niet aangekondigd).\nLet op: datum is een inschatting op basis van eerder
+ e edities en nog niet bevestigd.\nhttps://www.operaballet.nl
+LOCATION:Nationale Opera & Ballet\, Amsterdam
+CATEGORIES:Opera
+TRANSP:TRANSPARENT
+URL:https://www.operaballet.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:36ec975a526bbd06@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Seizoensopening Het Concertgebouw 2027-2028 (datum o.v.)
+DESCRIPTION:Openingsconcert van het nieuwe Concertgebouwseizoen\, traditio
+ neel in de eerste septemberweek met een internationaal gastorkest.\nLet op
+ : datum is een inschatting op basis van eerdere edities en nog niet bevest
+ igd.\nhttps://www.concertgebouw.nl/en/press
+LOCATION:Het Concertgebouw\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/press
+END:VEVENT
+BEGIN:VEVENT
+UID:f769046c9e876e9b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Opening Night Concertgebouworkest 2027 (Oosterpark) (datum o.v.)
+DESCRIPTION:Gratis openluchtconcert als opening van het seizoen 2027-2028.
+ \nLet op: datum is een inschatting op basis van eerdere edities en nog nie
+ t bevestigd.\nhttps://www.concertgebouworkest.nl/nl/agenda/
+LOCATION:Oosterpark\, Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouworkest.nl/nl/agenda/
+END:VEVENT
+BEGIN:VEVENT
+UID:af93c351bfd4689c-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:▶ Start: Stedelijk Museum: Cao Fei (datum o.v.)
+DESCRIPTION:Overzichtstentoonstelling van de Chinese multimediakunstenaar 
+ Cao Fei (aangekondigd voor september 2027 t/m januari 2028\; exacte data n
+ og niet bekend).\nLet op: datum is een inschatting op basis van eerdere ed
+ ities en nog niet bevestigd.\nLooptijd: 18 sep 2027 t/m 16 jan 2028.\nhttp
+ s://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:af93c351bfd4689c-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20280116
+DTEND;VALUE=DATE:20280117
+SUMMARY:■ Laatste dag: Stedelijk Museum: Cao Fei (datum o.v.)
+DESCRIPTION:Overzichtstentoonstelling van de Chinese multimediakunstenaar 
+ Cao Fei (aangekondigd voor september 2027 t/m januari 2028\; exacte data n
+ og niet bekend).\nLet op: datum is een inschatting op basis van eerdere ed
+ ities en nog niet bevestigd.\nLooptijd: 18 sep 2027 t/m 16 jan 2028.\nhttp
+ s://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
+LOCATION:Stedelijk Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:f9afc5378fc8f064-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:▶ Start: Frans Hals Museum: Een gevoel van ongeveer
+DESCRIPTION:Hedendaagse kunst van Nederlandse kunstenaars met Aziatische w
+ ortels over herinnering\, familie\, eten en identiteit.\nLooptijd: 24 sep 
+ 2027 t/m 6 feb 2028.\nhttps://franshalsmuseum.nl/nl/zien-en-doen/een-gevoe
+ l-van-ongeveer
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/een-gevoel-van-ongeveer
+END:VEVENT
+BEGIN:VEVENT
+UID:f9afc5378fc8f064-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20280206
+DTEND;VALUE=DATE:20280207
+SUMMARY:■ Laatste dag: Frans Hals Museum: Een gevoel van ongeveer
+DESCRIPTION:Hedendaagse kunst van Nederlandse kunstenaars met Aziatische w
+ ortels over herinnering\, familie\, eten en identiteit.\nLooptijd: 24 sep 
+ 2027 t/m 6 feb 2028.\nhttps://franshalsmuseum.nl/nl/zien-en-doen/een-gevoe
+ l-van-ongeveer
+LOCATION:Frans Hals Museum\, Haarlem
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://franshalsmuseum.nl/nl/zien-en-doen/een-gevoel-van-ongeveer
+END:VEVENT
+BEGIN:VEVENT
+UID:060c55a6de4dffbf-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:▶ Start: H'ART Museum: Surrealisme (met Centre Pompidou) (datum 
+ o.v.)
+DESCRIPTION:Tentoonstelling over het surrealisme met werk van onder meer D
+ e Chirico\, Dalí\, Ernst\, Magritte en Toyen uit het Centre Pompidou.\nLe
+ t op: datum is een inschatting op basis van eerdere edities en nog niet be
+ vestigd.\nLooptijd: 25 sep 2027 t/m 27 feb 2028.\nhttps://www.hermitage.nl
+ /documents/305/NL_Persbericht___Programma_HART_Museum_2024__2028_bekend_de
+ f.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:060c55a6de4dffbf-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:■ Laatste dag: H'ART Museum: Surrealisme (met Centre Pompidou) (
+ datum o.v.)
+DESCRIPTION:Tentoonstelling over het surrealisme met werk van onder meer D
+ e Chirico\, Dalí\, Ernst\, Magritte en Toyen uit het Centre Pompidou.\nLe
+ t op: datum is een inschatting op basis van eerdere edities en nog niet be
+ vestigd.\nLooptijd: 25 sep 2027 t/m 27 feb 2028.\nhttps://www.hermitage.nl
+ /documents/305/NL_Persbericht___Programma_HART_Museum_2024__2028_bekend_de
+ f.pdf
+LOCATION:H'ART Museum\, Amsterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
+ _Museum_2024__2028_bekend_def.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:3d27091700b27c10@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271004
+SUMMARY:Camera Japan Amsterdam 2027
+DESCRIPTION:Amsterdamse editie van het festival voor Japanse film en cultu
+ ur in LAB111.\nLooptijd: 30 sep 2027 t/m 3 okt 2027.\nhttps://camerajapan.
+ nl/
+LOCATION:LAB111\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://camerajapan.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:17ea6323a5cac905@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271025
+SUMMARY:Cinekid Festival 2027 (datum o.v.)
+DESCRIPTION:Jeugdfilm- en mediafestival in de herfstvakantie\; datum gesch
+ at.\nLet op: datum is een inschatting op basis van eerdere edities en nog 
+ niet bevestigd.\nLooptijd: 9 okt 2027 t/m 24 okt 2027.\nhttps://www.kidspr
+ oof.nl/amsterdam/uitje/cinekid-festival-herfstvakantie/
+LOCATION:Pathé Amsterdam Noord\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
+ ie/
+END:VEVENT
+BEGIN:VEVENT
+UID:e25b17f38f9be6e0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271025
+SUMMARY:Amsterdam Dance Event 2027
+DESCRIPTION:Clubfestival en conferentie voor elektronische muziek.\nLoopti
+ jd: 20 okt 2027 t/m 24 okt 2027.\nhttps://www.amsterdam-dance-event.nl/en/
+ news/amsterdam-dance-event-concludes-monumental-30-year-anniversary-and-se
+ ts-dates-for-ade-2027/2967954/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl/en/news/amsterdam-dance-event-con
+ cludes-monumental-30-year-anniversary-and-sets-dates-for-ade-2027/2967954/
+END:VEVENT
+BEGIN:VEVENT
+UID:850dbfb08bdb330b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271101
+SUMMARY:Tapis Rouge Frans Filmfestival 2027 (datum o.v.)
+DESCRIPTION:Frans filmfestival\; datum geschat naar het patroon van eind o
+ ktober.\nLet op: datum is een inschatting op basis van eerdere edities en 
+ nog niet bevestigd.\nLooptijd: 27 okt 2027 t/m 31 okt 2027.\nhttps://www.i
+ amsterdam.com/uit/agenda/festivals/events/tapis-rouge-frans-filmfestval-8e
+ -editie-2026
+LOCATION:Het Ketelhuis\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
+ ns-filmfestval-8e-editie-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:58caad50778e7beb@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271108
+SUMMARY:Imagine Film Festival 2027 (datum o.v.)
+DESCRIPTION:Fantastisch filmfestival\; datum geschat naar het patroon eind
+  oktober/begin november.\nLet op: datum is een inschatting op basis van ee
+ rdere edities en nog niet bevestigd.\nLooptijd: 28 okt 2027 t/m 7 nov 2027
+ .\nhttps://www.imaginefilmfestival.nl/en/category/articles/
+LOCATION:LAB111 e.a.\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.imaginefilmfestival.nl/en/category/articles/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f716d63b61bd912@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271031
+SUMMARY:London Calling 2027 (datum o.v.)
+DESCRIPTION:Indiefestival in Paradiso\; datum geschat naar het patroon van
+  eind oktober.\nLet op: datum is een inschatting op basis van eerdere edit
+ ies en nog niet bevestigd.\nLooptijd: 29 okt 2027 t/m 30 okt 2027.\nhttps:
+ //www.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+BEGIN:VEVENT
+UID:e878a2d30518a4da@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+SUMMARY:Museumnacht Amsterdam (N8) 2027 (datum o.v.)
+DESCRIPTION:Jaarlijkse Amsterdamse museumnacht op de eerste zaterdag van n
+ ovember\, met tientallen musea 's avonds open.\nLet op: datum is een insch
+ atting op basis van eerdere edities en nog niet bevestigd.\nhttps://www.n8
+ .nl
+LOCATION:Diverse musea\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.n8.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:b17e8075d92c5247@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271115
+SUMMARY:PAN Amsterdam 2027 (datum o.v.)
+DESCRIPTION:Kunst-\, antiek- en designbeurs in de RAI\; datum geschat naar
+  het patroon van 2026 (eerste week van november)\, nog niet bevestigd.\nLe
+ t op: datum is een inschatting op basis van eerdere edities en nog niet be
+ vestigd.\nLooptijd: 7 nov 2027 t/m 14 nov 2027.\nhttps://www.pan.nl
+LOCATION:RAI Amsterdam\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.pan.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:2866c0c3f82a4388@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271122
+SUMMARY:IDFA 2027 (datum o.v.)
+DESCRIPTION:Het grootste documentairefestival ter wereld\, in Amsterdamse 
+ filmzalen en theaters\; data geschat naar patroon (donderdag t/m zondag ha
+ lf november).\nLet op: datum is een inschatting op basis van eerdere editi
+ es en nog niet bevestigd.\nLooptijd: 11 nov 2027 t/m 21 nov 2027.\nhttps:/
+ /festival.idfa.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://festival.idfa.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:04e7a9e2de91f5e6@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271122
+SUMMARY:Amsterdam Art Week 2027 (datum o.v.)
+DESCRIPTION:Week vol openingen\, tours en evenementen bij Amsterdamse gale
+ ries en kunstinstellingen\; data geschat naar patroon.\nLet op: datum is e
+ en inschatting op basis van eerdere edities en nog niet bevestigd.\nLoopti
+ jd: 17 nov 2027 t/m 21 nov 2027.\nhttps://amsterdamart.com
+LOCATION:Diverse galeries en instellingen\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://amsterdamart.com
+END:VEVENT
+BEGIN:VEVENT
+UID:05a3577dfdf904d4-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:▶ Start: Amsterdam Light Festival 2027-2028 (datum o.v.)
+DESCRIPTION:Lichtkunstwerken van internationale kunstenaars langs de Amste
+ rdamse grachten\; data geschat naar patroon (16e editie).\nLet op: datum i
+ s een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoo
+ ptijd: 25 nov 2027 t/m 16 jan 2028.\nhttps://amsterdamlightfestival.com
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://amsterdamlightfestival.com
+END:VEVENT
+BEGIN:VEVENT
+UID:05a3577dfdf904d4-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20280116
+DTEND;VALUE=DATE:20280117
+SUMMARY:■ Laatste dag: Amsterdam Light Festival 2027-2028 (datum o.v.)
+DESCRIPTION:Lichtkunstwerken van internationale kunstenaars langs de Amste
+ rdamse grachten\; data geschat naar patroon (16e editie).\nLet op: datum i
+ s een inschatting op basis van eerdere edities en nog niet bevestigd.\nLoo
+ ptijd: 25 nov 2027 t/m 16 jan 2028.\nhttps://amsterdamlightfestival.com
+LOCATION:Grachten centrum\, Amsterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://amsterdamlightfestival.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Theater & musical – Den Haag
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ee87c15bf6cf0187-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:▶ Start: Meeuw – Het Nationale Theater
+DESCRIPTION:Nina Spijkers regisseert Tsjechovs De Meeuw\; première 17 okt
+ ober in Den Haag\, daarna tournee.\nLooptijd: 17 okt 2026 t/m 29 dec 2026.
+ \nhttps://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/
+ het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-s
+ eizoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+BEGIN:VEVENT
+UID:ee87c15bf6cf0187-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:■ Laatste dag: Meeuw – Het Nationale Theater
+DESCRIPTION:Nina Spijkers regisseert Tsjechovs De Meeuw\; première 17 okt
+ ober in Den Haag\, daarna tournee.\nLooptijd: 17 okt 2026 t/m 29 dec 2026.
+ \nhttps://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/
+ het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-s
+ eizoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+BEGIN:VEVENT
+UID:4831cb52bc341ff2-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:▶ Start: Mefisto – Het Nationale Theater
+DESCRIPTION:Belle van Heerikhuizen regisseert Mefisto\; première 21 novem
+ ber in Den Haag\, daarna tournee.\nLooptijd: 21 nov 2026 t/m 8 jan 2027.\n
+ https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/he
+ t-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-sei
+ zoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+BEGIN:VEVENT
+UID:4831cb52bc341ff2-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:■ Laatste dag: Mefisto – Het Nationale Theater
+DESCRIPTION:Belle van Heerikhuizen regisseert Mefisto\; première 21 novem
+ ber in Den Haag\, daarna tournee.\nLooptijd: 21 nov 2026 t/m 8 jan 2027.\n
+ https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/he
+ t-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-sei
+ zoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+BEGIN:VEVENT
+UID:f57003269815f112-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:▶ Start: Richard III – Het Nationale Theater
+DESCRIPTION:Noël Fischer regisseert Shakespeares Richard III\; première 
+ 20 maart 2027 in Den Haag\, daarna tournee.\nLooptijd: 20 mrt 2027 t/m 6 j
+ un 2027.\nhttps://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3
+ f0572d4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteks
+ ten-in-seizoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+BEGIN:VEVENT
+UID:f57003269815f112-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:■ Laatste dag: Richard III – Het Nationale Theater
+DESCRIPTION:Noël Fischer regisseert Shakespeares Richard III\; première 
+ 20 maart 2027 in Den Haag\, daarna tournee.\nLooptijd: 20 mrt 2027 t/m 6 j
+ un 2027.\nhttps://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3
+ f0572d4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteks
+ ten-in-seizoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+BEGIN:VEVENT
+UID:c5956890faf31fed-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:▶ Start: Big Pharma – Het Nationale Theater
+DESCRIPTION:Nieuwe voorstelling van Eric de Vroedt over de farmaceutische 
+ industrie\; première 3 april 2027.\nLooptijd: 3 apr 2027 t/m 3 jun 2027.\
+ nhttps://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/h
+ et-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-se
+ izoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+BEGIN:VEVENT
+UID:c5956890faf31fed-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:■ Laatste dag: Big Pharma – Het Nationale Theater
+DESCRIPTION:Nieuwe voorstelling van Eric de Vroedt over de farmaceutische 
+ industrie\; première 3 april 2027.\nLooptijd: 3 apr 2027 t/m 3 jun 2027.\
+ nhttps://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d4/h
+ et-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in-se
+ izoen-20262027
+LOCATION:Het Nationale Theater (Koninklijke Schouwburg e.o.) + tournee\, D
+ en Haag
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
+ 4/het-nationale-theater-viert-successen-en-brengt-nieuwe-theaterteksten-in
+ -seizoen-20262027
+END:VEVENT
+END:VCALENDAR

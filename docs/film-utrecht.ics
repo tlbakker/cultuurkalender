@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Film – Utrecht
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fcae22dd84cce3e4@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270322
+SUMMARY:Kaboom Animation Festival 2027
+DESCRIPTION:Internationaal animatiefilmfestival met korte en lange animati
+ efilms\, verdeeld over Utrecht en Amsterdam.\nLooptijd: 12 mrt 2027 t/m 21
+  mrt 2027.\nhttps://www.zippyframes.com/festivals/next-festivals/kaboom-an
+ imation-festival
+LOCATION:Diverse locaties (o.a. Slachtstraat Filmtheater\, Eye\, Melkweg)\
+ , Utrecht en Amsterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.zippyframes.com/festivals/next-festivals/kaboom-animation-
+ festival
+END:VEVENT
+BEGIN:VEVENT
+UID:7b65754572e62879@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20271002
+SUMMARY:Nederlands Film Festival 2027
+DESCRIPTION:Het festival van de Nederlandse film met de uitreiking van de 
+ Gouden Kalveren.\nLooptijd: 24 sep 2027 t/m 1 okt 2027.\nhttps://www.filmf
+ estival.nl/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.filmfestival.nl/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,562 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Theater & musical – Amsterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:97fa362def582f3c-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:▶ Start: Cabaret – DeLaMar
+DESCRIPTION:Musical Cabaret met Chantal Janzen als Sally Bowles en Milan S
+ ekeris als Emcee\; première 17 oktober 2026.\nLooptijd: 7 okt 2026 t/m 3 
+ jan 2027.\nhttps://delamar.nl/voorstellingen/cabaret/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/cabaret/
+END:VEVENT
+BEGIN:VEVENT
+UID:97fa362def582f3c-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:■ Laatste dag: Cabaret – DeLaMar
+DESCRIPTION:Musical Cabaret met Chantal Janzen als Sally Bowles en Milan S
+ ekeris als Emcee\; première 17 oktober 2026.\nLooptijd: 7 okt 2026 t/m 3 
+ jan 2027.\nhttps://delamar.nl/voorstellingen/cabaret/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/cabaret/
+END:VEVENT
+BEGIN:VEVENT
+UID:33af7d6b97c42ebf-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:▶ Start: Voor haar\, de Frans Halsema musical – DeLaMar
+DESCRIPTION:Nieuwe musical over het leven en de liedjes van Frans Halsema\
+ ; première 11 oktober 2026.\nLooptijd: 10 okt 2026 t/m 14 mrt 2027.\nhttp
+ s://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+LOCATION:DeLaMar Theater\, Mary Dresselhuys zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:33af7d6b97c42ebf-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:■ Laatste dag: Voor haar\, de Frans Halsema musical – DeLaMar
+DESCRIPTION:Nieuwe musical over het leven en de liedjes van Frans Halsema\
+ ; première 11 oktober 2026.\nLooptijd: 10 okt 2026 t/m 14 mrt 2027.\nhttp
+ s://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+LOCATION:DeLaMar Theater\, Mary Dresselhuys zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef257dd07d8a67c@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261026
+SUMMARY:Cats – Koninklijk Theater Carré
+DESCRIPTION:Nieuwe Nederlandse productie van Lloyd Webbers Cats\, in samen
+ werking met het Rijksmuseum\; première 19 oktober\, daarna tournee langs 
+ 18 steden.\nLooptijd: 16 okt 2026 t/m 25 okt 2026.\nhttps://www.iamsterdam
+ .com/uit/agenda/voorstellingen/theater-en-podiumkunsten/cats-2026
+LOCATION:Koninklijk Theater Carré (daarna tournee t/m juni 2027)\, Amster
+ dam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/voorstellingen/theater-en-podium
+ kunsten/cats-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8c71247d2003ecf7-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:▶ Start: De Kopenhagen Trilogie – ITA
+DESCRIPTION:Eline Arbo bewerkt Tove Ditlevsens Kopenhagen-trilogie\; premi
+ ère 20 oktober 2026.\nLooptijd: 18 okt 2026 t/m 21 dec 2026.\nhttps://ita
+ .nl/nl/voorstellingen/de-kopenhagen-trilogie
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie
+END:VEVENT
+BEGIN:VEVENT
+UID:8c71247d2003ecf7-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:■ Laatste dag: De Kopenhagen Trilogie – ITA
+DESCRIPTION:Eline Arbo bewerkt Tove Ditlevsens Kopenhagen-trilogie\; premi
+ ère 20 oktober 2026.\nLooptijd: 18 okt 2026 t/m 21 dec 2026.\nhttps://ita
+ .nl/nl/voorstellingen/de-kopenhagen-trilogie
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie
+END:VEVENT
+BEGIN:VEVENT
+UID:c08e38abfcc37c1f@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261123
+SUMMARY:De uren – ITA
+DESCRIPTION:Eline Arbo's toneelbewerking van Michael Cunninghams roman The
+  Hours.\nLooptijd: 6 nov 2026 t/m 22 nov 2026.\nhttps://ita.nl/nl/voorstel
+ lingen/de-uren
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-uren
+END:VEVENT
+BEGIN:VEVENT
+UID:cce3d129166121a4@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261205
+SUMMARY:The Incident – ITA
+DESCRIPTION:Nieuwe ITA-productie van June Yanez\, Leila Sahir en Zephyr Br
+ üggen.\nLooptijd: 16 nov 2026 t/m 4 dec 2026.\nhttps://ita.nl/en/ita-prod
+ uctions
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/en/ita-productions
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3949fd1ccf7cb5-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:▶ Start: Wuthering Heights – ITA
+DESCRIPTION:Nieuwe ITA-productie van Kjersti Horn naar Emily Brontë\; pre
+ mière 6 december 2026.\nLooptijd: 3 dec 2026 t/m 7 mrt 2027.\nhttps://ita
+ .nl/nl/voorstellingen/wuthering-heights
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal (daarna tournee)\, A
+ msterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3949fd1ccf7cb5-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:■ Laatste dag: Wuthering Heights – ITA
+DESCRIPTION:Nieuwe ITA-productie van Kjersti Horn naar Emily Brontë\; pre
+ mière 6 december 2026.\nLooptijd: 3 dec 2026 t/m 7 mrt 2027.\nhttps://ita
+ .nl/nl/voorstellingen/wuthering-heights
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal (daarna tournee)\, A
+ msterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+UID:a83b58bac25adb1f@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Claudia de Breij – Oudejaarsconference 2026 – Carré
+DESCRIPTION:Claudia de Breij verzorgt voor de vierde keer de oudejaarsconf
+ erence\, live op NPO 1 op 31 december.\nLooptijd: 5 dec 2026 t/m 6 dec 202
+ 6.\nhttps://www.cabaretinfo.nl/news/58477/Oudejaarsconference-dit-jaar-voo
+ r-de-vierde-keer-verzorgd-door-Claudia-de-Breij/
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.cabaretinfo.nl/news/58477/Oudejaarsconference-dit-jaar-voo
+ r-de-vierde-keer-verzorgd-door-Claudia-de-Breij/
+END:VEVENT
+BEGIN:VEVENT
+UID:7848ec7305413269@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261214
+SUMMARY:Next to Normal – DeLaMar
+DESCRIPTION:Pulitzerprijs-winnende musical Next to Normal speelt een korte
+  reeks in DeLaMar.\nLooptijd: 9 dec 2026 t/m 13 dec 2026.\nhttps://delamar
+ .nl/voorstellingen/next-to-normal/
+LOCATION:DeLaMar Theater\, Mary Dresselhuys zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/next-to-normal/
+END:VEVENT
+BEGIN:VEVENT
+UID:b921aa4a3de1f161@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20270104
+SUMMARY:40e Wereldkerstcircus – Koninklijk Theater Carré
+DESCRIPTION:Jubileumeditie van het traditionele Wereldkerstcircus met inte
+ rnationale circusacts.\nLooptijd: 16 dec 2026 t/m 3 jan 2027.\nhttps://www
+ .dagjeweg.nl/activiteit/37893384/40e-Wereldkerstcircus
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.dagjeweg.nl/activiteit/37893384/40e-Wereldkerstcircus
+END:VEVENT
+BEGIN:VEVENT
+UID:74761f6a10bcb2ff@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261231
+SUMMARY:Dolf Jansen – Schaamteloos (Oudejaarsconference 2026) – De Kle
+ ine Komedie
+DESCRIPTION:Dolf Jansens jaarlijkse oudejaarsvoorstelling speelt eind dece
+ mber in De Kleine Komedie.\nLooptijd: 26 dec 2026 t/m 30 dec 2026.\nhttps:
+ //dolfjansen.com/schaamteloos/
+LOCATION:De Kleine Komedie\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://dolfjansen.com/schaamteloos/
+END:VEVENT
+BEGIN:VEVENT
+UID:e143f90227bf0efc@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Vrouwejaars – De Kleine Komedie
+DESCRIPTION:Feministisch alternatief voor de oudejaarsconference met o.a. 
+ Katinka Polderman en Kiki Schippers.\nhttps://www.cabaretinfo.nl/cabaret/v
+ oorstelling/469262/Vrouwejaars/De-Kleine-Komedie/
+LOCATION:De Kleine Komedie\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.cabaretinfo.nl/cabaret/voorstelling/469262/Vrouwejaars/De-
+ Kleine-Komedie/
+END:VEVENT
+BEGIN:VEVENT
+UID:6cd7e81f8f875469@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270117
+SUMMARY:Micha Wertheim – voor iedereen – De Kleine Komedie
+DESCRIPTION:Micha Wertheim speelt vijf avonden achter elkaar in De Kleine 
+ Komedie.\nLooptijd: 12 jan 2027 t/m 16 jan 2027.\nhttps://www.theater.nl/a
+ msterdam/de-kleine-komedie-amsterdam?date=1
+LOCATION:De Kleine Komedie\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.theater.nl/amsterdam/de-kleine-komedie-amsterdam?date=1
+END:VEVENT
+BEGIN:VEVENT
+UID:fcbe686c5f0c2741@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270208
+SUMMARY:Vlieg Met Me Mee – DeLaMar
+DESCRIPTION:Musical Vlieg Met Me Mee (première 6 dec 2026 in Rotterdam) s
+ peelt drie weken in DeLaMar.\nLooptijd: 20 jan 2027 t/m 7 feb 2027.\nhttps
+ ://delamar.nl/voorstellingen/vlieg-met-me-mee/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/vlieg-met-me-mee/
+END:VEVENT
+BEGIN:VEVENT
+UID:2df672ed8281a956@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270315
+SUMMARY:Titanique – DeLaMar
+DESCRIPTION:De parodiemusical Titanique met de hits van Céline Dion strij
+ kt neer in DeLaMar.\nLooptijd: 24 feb 2027 t/m 14 mrt 2027.\nhttps://delam
+ ar.nl/voorstellingen/titanique/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/titanique/
+END:VEVENT
+BEGIN:VEVENT
+UID:24c6ad7dd7ed8c02@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270314
+SUMMARY:Richard – ITA
+DESCRIPTION:Alize Zandwijk regisseert een nieuwe bewerking van Shakespeare
+ s Richard III\; première 28 februari 2027.\nLooptijd: 25 feb 2027 t/m 13 
+ mrt 2027.\nhttps://ita.nl/nl/voorstellingen/richard
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/richard
+END:VEVENT
+BEGIN:VEVENT
+UID:5b62ae39a81d65ff@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270405
+SUMMARY:Prophet Song – ITA
+DESCRIPTION:Mina Salehpour regisseert de eerste toneelbewerking van Paul L
+ ynch' Booker-winnende roman.\nLooptijd: 18 mrt 2027 t/m 4 apr 2027.\nhttps
+ ://ita.nl/nl/voorstellingen/prophet-song
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Grote Zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/prophet-song
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb3a1defdb40ddf@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270329
+SUMMARY:Cinedans FEST 2027 (datum o.v.)
+DESCRIPTION:Festival voor dansfilm en screendance\; datum geschat naar het
+  patroon van eind maart (2026: 25-29 maart).\nLet op: datum is een inschat
+ ting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 24 mrt
+  2027 t/m 28 mrt 2027.\nhttps://www.festivalfinder.eu/festivals/cinedans-f
+ est-2026
+LOCATION:Eye Filmmuseum\, Amsterdam
+CATEGORIES:Festivals,Film,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:38864ad4827a8e04-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:▶ Start: The Bodyguard – DeLaMar
+DESCRIPTION:Nieuwe Nederlandse productie van musical The Bodyguard\; premi
+ ère 29 maart 2027\, zomerreeks 11-22 augustus.\nLooptijd: 24 mrt 2027 t/m
+  22 aug 2027.\nhttps://delamar.nl/voorstellingen/the-bodyguard/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/the-bodyguard/
+END:VEVENT
+BEGIN:VEVENT
+UID:38864ad4827a8e04-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:■ Laatste dag: The Bodyguard – DeLaMar
+DESCRIPTION:Nieuwe Nederlandse productie van musical The Bodyguard\; premi
+ ère 29 maart 2027\, zomerreeks 11-22 augustus.\nLooptijd: 24 mrt 2027 t/m
+  22 aug 2027.\nhttps://delamar.nl/voorstellingen/the-bodyguard/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/the-bodyguard/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4e3f6211db3989-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:▶ Start: CATS – DeLaMar
+DESCRIPTION:De musical CATS keert na lovende recensies in het voorjaar van
+  2027 vier weken terug naar Amsterdam in DeLaMar.\nLooptijd: 31 mrt 2027 t
+ /m 25 apr 2027.\nhttps://www.musicalweb.nl/cats-keert-in-voorjaar-2027-ter
+ ug-naar-amsterdam-voor-vier-weken-in-delamar-36326
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicalweb.nl/cats-keert-in-voorjaar-2027-terug-naar-amste
+ rdam-voor-vier-weken-in-delamar-36326
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4e3f6211db3989-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:■ Laatste dag: CATS – DeLaMar
+DESCRIPTION:De musical CATS keert na lovende recensies in het voorjaar van
+  2027 vier weken terug naar Amsterdam in DeLaMar.\nLooptijd: 31 mrt 2027 t
+ /m 25 apr 2027.\nhttps://www.musicalweb.nl/cats-keert-in-voorjaar-2027-ter
+ ug-naar-amsterdam-voor-vier-weken-in-delamar-36326
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicalweb.nl/cats-keert-in-voorjaar-2027-terug-naar-amste
+ rdam-voor-vier-weken-in-delamar-36326
+END:VEVENT
+BEGIN:VEVENT
+UID:225f9db61db9986b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270426
+SUMMARY:De Architect – ITA
+DESCRIPTION:Rebecca Frecknall maakt een hedendaagse versie van Ibsens Bouw
+ meester Solness.\nLooptijd: 8 apr 2027 t/m 25 apr 2027.\nhttps://ita.nl/nl
+ /voorstellingen/de-architect
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/de-architect
+END:VEVENT
+BEGIN:VEVENT
+UID:ab26c529b0c2af19@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270518
+SUMMARY:101 Dalmatiërs\, de Musical – DeLaMar
+DESCRIPTION:Familiemusical 101 Dalmatiërs (première 1 nov 2026 in Rotter
+ dam) speelt in DeLaMar.\nLooptijd: 6 mei 2027 t/m 17 mei 2027.\nhttps://de
+ lamar.nl/voorstellingen/101-dalmatiers-de-musical/
+LOCATION:DeLaMar Theater\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/101-dalmatiers-de-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2806c1d167817ae@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270531
+SUMMARY:Prima Facie – ITA
+DESCRIPTION:Reprise van Eline Arbo's succesvolle monoloog Prima Facie van 
+ Suzie Miller.\nLooptijd: 20 mei 2027 t/m 30 mei 2027.\nhttps://ita.nl/nl/v
+ oorstellingen/prima-facie
+LOCATION:Stadsschouwburg Amsterdam (ITA)\, Rabozaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://ita.nl/nl/voorstellingen/prima-facie
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:091fc8b0c5bff276-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
+DESCRIPTION:Jubileumeditie van het Holland Festival met muziektheater\, op
+ era en podiumkunsten\; associate artist Ho Tzu Nyen.\nLooptijd: 3 jun 2027
+  t/m 27 jun 2027.\nhttps://www.hollandfestival.nl
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Opera,Klassieke muziek,Dans
+TRANSP:TRANSPARENT
+URL:https://www.hollandfestival.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:92834948240ef137-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:▶ Start: Hadestown – Koninklijk Theater Carré
+DESCRIPTION:De Tony-winnende musical Hadestown keert de hele zomer van 202
+ 7 terug in Carré.\nLooptijd: 25 jun 2027 t/m 8 aug 2027.\nhttps://www.mus
+ icaljournaal.nl/kaartverkoop-hadestown-start-27-augustus-om-12-00u/
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicaljournaal.nl/kaartverkoop-hadestown-start-27-augustu
+ s-om-12-00u/
+END:VEVENT
+BEGIN:VEVENT
+UID:92834948240ef137-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:■ Laatste dag: Hadestown – Koninklijk Theater Carré
+DESCRIPTION:De Tony-winnende musical Hadestown keert de hele zomer van 202
+ 7 terug in Carré.\nLooptijd: 25 jun 2027 t/m 8 aug 2027.\nhttps://www.mus
+ icaljournaal.nl/kaartverkoop-hadestown-start-27-augustus-om-12-00u/
+LOCATION:Koninklijk Theater Carré\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.musicaljournaal.nl/kaartverkoop-hadestown-start-27-augustu
+ s-om-12-00u/
+END:VEVENT
+BEGIN:VEVENT
+UID:651c508263e5e568@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270714
+SUMMARY:Julidans 2027 (datum o.v.)
+DESCRIPTION:Internationaal festival voor hedendaagse dans\; data onder voo
+ rbehoud.\nLet op: datum is een inschatting op basis van eerdere edities en
+  nog niet bevestigd.\nLooptijd: 1 jul 2027 t/m 13 jul 2027.\nhttps://www.i
+ amsterdam.com/uit/agenda/festivals/events/julidans
+LOCATION:ITA\, Frascati e.a.\, Amsterdam
+CATEGORIES:Festivals,Theater & musical,Dans
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/julidans
+END:VEVENT
+BEGIN:VEVENT
+UID:916d6e5acb4bfa55@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270726
+SUMMARY:Dolly Dots de Musical – DeLaMar
+DESCRIPTION:Musical over de Dolly Dots speelt een zomerreeks in DeLaMar.\n
+ Looptijd: 14 jul 2027 t/m 25 jul 2027.\nhttps://delamar.nl/voorstellingen/
+ dolly-dots-de-musical/
+LOCATION:DeLaMar Theater\, Wim Sonneveld zaal\, Amsterdam
+CATEGORIES:Theater & musical
+TRANSP:TRANSPARENT
+URL:https://delamar.nl/voorstellingen/dolly-dots-de-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f45bbc0815ebf26@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270809
+SUMMARY:De Parade 2027 (datum o.v.)
+DESCRIPTION:Reizend theaterfestival met voorstellingen in tenten\; data on
+ der voorbehoud.\nLet op: datum is een inschatting op basis van eerdere edi
+ ties en nog niet bevestigd.\nLooptijd: 23 jul 2027 t/m 8 aug 2027.\nhttps:
+ //www.iamsterdam.com/en/whats-on/calendar/festivals/events/theaterfestival
+ -de-parade
+LOCATION:Martin Luther Kingpark\, Amsterdam
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/theat
+ erfestival-de-parade
+END:VEVENT
+BEGIN:VEVENT
+UID:537bb506715a2e8d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Amsterdam Fringe Festival 2027
+DESCRIPTION:Festival voor experimenteel en ongecensureerd theater op tient
+ allen locaties.\nLooptijd: 2 sep 2027 t/m 12 sep 2027.\nhttps://amsterdamf
+ ringefestival.nl/en/home-eng/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://amsterdamfringefestival.nl/en/home-eng/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b10779a2f19c0f0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270913
+SUMMARY:Nederlands Theaterfestival 2027
+DESCRIPTION:Elf dagen met de beste theatervoorstellingen van het afgelopen
+  seizoen.\nLooptijd: 2 sep 2027 t/m 12 sep 2027.\nhttps://tf.nl/
+LOCATION:ITA en andere theaters\, Amsterdam
+CATEGORIES:Festivals,Theater & musical
+TRANSP:TRANSPARENT
+URL:https://tf.nl/
+END:VEVENT
+END:VCALENDAR

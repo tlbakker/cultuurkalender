@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Klassieke muziek – Rotterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:88aa98a1482ec80e@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261212
+SUMMARY:Martha Argerich – Beethoven 1 met Rotterdams Philharmonisch
+DESCRIPTION:Martha Argerich speelt Beethovens Eerste pianoconcert met het 
+ Rotterdams Philharmonisch Orkest o.l.v. Lahav Shani\, na de pauze Bruckner
+ s Zesde symfonie (beide avonden 20:15).\nLooptijd: 10 dec 2026 t/m 11 dec 
+ 2026.\nhttps://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-mar
+ tha-argerich
+LOCATION:De Doelen\, Grote Zaal\, Rotterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-martha
+ -argerich
+END:VEVENT
+BEGIN:VEVENT
+UID:732b8e63eae8a04b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270308
+SUMMARY:VOICES Rotterdam – De Doelen
+DESCRIPTION:Eerste editie van het nieuwe stadsfestival van De Doelen rond 
+ de vraag 'wat verbindt ons?'\, met ruim 80 activiteiten en zo'n 400 arties
+ ten en sprekers over twee weekenden (26-28 feb en 5-7 mrt).\nLooptijd: 26 
+ feb 2027 t/m 7 mrt 2027.\nhttps://rotterdam.headliner.nl/item/het-nieuw-st
+ adsfestival-voices-rotterdam-laat-van-je-horen-dagblad010-6874
+LOCATION:De Doelen en zeven andere locaties in Rotterdam\, Rotterdam
+CATEGORIES:Festivals,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://rotterdam.headliner.nl/item/het-nieuw-stadsfestival-voices-rot
+ terdam-laat-van-je-horen-dagblad010-6874
+END:VEVENT
+BEGIN:VEVENT
+UID:23fae5aa330e2158@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Grigory Sokolov – recital (datum o.v.)
+DESCRIPTION:Pianorecital van Grigory Sokolov in De Doelen\; datum alleen o
+ p een aggregator-site gevonden\, programma nog niet bekend.\nLet op: datum
+  is een inschatting op basis van eerdere edities en nog niet bevestigd.\nh
+ ttps://events.musicofourdesire.com/event/quci-grigori-sokolov-concert-rott
+ erdam-netherlands
+LOCATION:De Doelen\, Rotterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://events.musicofourdesire.com/event/quci-grigori-sokolov-concert
+ -rotterdam-netherlands
+END:VEVENT
+BEGIN:VEVENT
+UID:50359017e91f160f@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:International Conducting Competition Rotterdam 2027 – live selec
+ tierondes
+DESCRIPTION:24 jonge dirigenten strijden in de live voorrondes van het int
+ ernationale dirigentenconcours\; de finales volgen in 2028.\nLooptijd: 2 j
+ ul 2027 t/m 4 jul 2027.\nhttps://theviolinchannel.com/applications-open-to
+ -international-conducting-competition-rotterdam-2027/
+LOCATION:Rotterdam (met Sinfonia Rotterdam)\, Rotterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://theviolinchannel.com/applications-open-to-international-conduc
+ ting-competition-rotterdam-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:e571d97d8cf98745@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Seizoensopening Rotterdams Philharmonisch Orkest 2027-2028 (datum 
+ o.v.)
+DESCRIPTION:Het Rotterdams Philharmonisch opent traditioneel medio septemb
+ er zijn nieuwe seizoen in de Grote Zaal van De Doelen.\nLet op: datum is e
+ en inschatting op basis van eerdere edities en nog niet bevestigd.\nhttps:
+ //www.rotterdamsphilharmonisch.nl/en/agenda
+LOCATION:De Doelen\, Rotterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.rotterdamsphilharmonisch.nl/en/agenda
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Klassieke muziek – Utrecht
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:88ff336ae46cdcef@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Nacht van de Viool 2027
+DESCRIPTION:Avondfestival rond de viool in jazz\, pop\, folk\, gypsy en el
+ ektronica\, afgesloten met een grote mash-up onder leiding van Tim Kliphui
+ s.\nhttps://www.festivalinfo.nl/festival/36499/Nacht-van-de-Viool/2027/
+LOCATION:TivoliVredenburg\, Utrecht
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36499/Nacht-van-de-Viool/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:d579e09b2364baa3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+SUMMARY:Der Ring ohne Worte – Nederlands Philharmonisch Orkest & Lorenzo
+  Viotti
+DESCRIPTION:Viotti dirigeert Wagners orkestrale Ring-samenvatting in Tivol
+ iVredenburg (4 feb) en Het Concertgebouw (5 en 7 feb).\nLooptijd: 4 feb 20
+ 27 t/m 7 feb 2027.\nhttps://cms.orkest.nl/media/documents/ONLINE_4920_NPO_
+ brochure_26-27_compleet_spreads_2.pdf
+LOCATION:TivoliVredenburg en Het Concertgebouw\, Utrecht / Amsterdam
+CATEGORIES:Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
+ ompleet_spreads_2.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:f5957adc1157c097@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270906
+SUMMARY:Festival Oude Muziek Utrecht 2027 – Humanisten
+DESCRIPTION:Festival Oude Muziek met als thema Humanisten\, van Erasmus to
+ t Rameau.\nLooptijd: 27 aug 2027 t/m 5 sep 2027.\nhttps://oudemuziek.nl/en
+ /festival/future/
+LOCATION:Diverse locaties\, Utrecht
+CATEGORIES:Klassieke muziek,Festivals
+TRANSP:TRANSPARENT
+URL:https://oudemuziek.nl/en/festival/future/
+END:VEVENT
+END:VCALENDAR

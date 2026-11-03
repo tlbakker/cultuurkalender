@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Museumexposities – Rotterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:26b9fd394bff1302-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Marisol
+DESCRIPTION:Eerste grote Europese overzichtstentoonstelling van popart-ico
+ on Marisol\, met ruim zeventig bruiklenen.\nLooptijd: 9 okt 2026 t/m 29 mr
+ t 2027.\nhttps://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beunin
+ gen/tentoonstelling/marisol
+LOCATION:Depot Boijmans Van Beuningen\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
+ entoonstelling/marisol
+END:VEVENT
+BEGIN:VEVENT
+UID:26b9fd394bff1302-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Marisol
+DESCRIPTION:Eerste grote Europese overzichtstentoonstelling van popart-ico
+ on Marisol\, met ruim zeventig bruiklenen.\nLooptijd: 9 okt 2026 t/m 29 mr
+ t 2027.\nhttps://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beunin
+ gen/tentoonstelling/marisol
+LOCATION:Depot Boijmans Van Beuningen\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
+ entoonstelling/marisol
+END:VEVENT
+BEGIN:VEVENT
+UID:75d84604bd7e8c53-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:▶ Start: Kunsthal Rotterdam: Signac\, Symphony of Colours
+DESCRIPTION:Overzicht van het kleurrijke pointillistische werk van Paul Si
+ gnac.\nLooptijd: 24 okt 2026 t/m 28 feb 2027.\nhttps://www.kunsthal.nl/nl/
+ plan-je-bezoek/tentoonstellingen/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:75d84604bd7e8c53-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Signac\, Symphony of Colours
+DESCRIPTION:Overzicht van het kleurrijke pointillistische werk van Paul Si
+ gnac.\nLooptijd: 24 okt 2026 t/m 28 feb 2027.\nhttps://www.kunsthal.nl/nl/
+ plan-je-bezoek/tentoonstellingen/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac920b5fc72c5d65-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:▶ Start: Kunsthal Rotterdam: Monira Al Qadiri
+DESCRIPTION:Solotentoonstelling van de Koeweitse kunstenaar Monira Al Qadi
+ ri over olie\, petrocultuur en de Golfregio.\nLooptijd: 26 feb 2027 t/m 20
+  jun 2027.\nhttps://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te
+ -kijken/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac920b5fc72c5d65-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Monira Al Qadiri
+DESCRIPTION:Solotentoonstelling van de Koeweitse kunstenaar Monira Al Qadi
+ ri over olie\, petrocultuur en de Golfregio.\nLooptijd: 26 feb 2027 t/m 20
+  jun 2027.\nhttps://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te
+ -kijken/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4dcd81b723c7627@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:Unseen 2027 (datum o.v.)
+DESCRIPTION:Fotografiebeurs Unseen\, sinds 2026 in maart naast Art Rotterd
+ am in Ahoy\; data nog niet officieel bevestigd.\nLet op: datum is een insc
+ hatting op basis van eerdere edities en nog niet bevestigd.\nLooptijd: 18 
+ mrt 2027 t/m 21 mrt 2027.\nhttps://www.cantonfair.net/updated-information/
+ unseen-amsterdam-2027-march-amsterdam-will-be-from-2027-03-18
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
+ arch-amsterdam-will-be-from-2027-03-18
+END:VEVENT
+BEGIN:VEVENT
+UID:98360cc12cabc9b9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Art Rotterdam 2027
+DESCRIPTION:Kunstbeurs voor hedendaagse kunst\; data uit een beurskalender
+ \, nog niet officieel bevestigd.\nLooptijd: 19 mrt 2027 t/m 21 mrt 2027.\n
+ https://artrotterdam.com/en/practical-information
+LOCATION:Rotterdam Ahoy\, Rotterdam
+CATEGORIES:Festivals,Museumexposities
+TRANSP:TRANSPARENT
+URL:https://artrotterdam.com/en/practical-information
+END:VEVENT
+BEGIN:VEVENT
+UID:8e850956cbb71669-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:▶ Start: Kunsthal Rotterdam: Kinderen van hun tijd
+DESCRIPTION:Grote tentoonstelling in Hal 1 van de Kunsthal\; titel is nog 
+ een werktitel.\nLooptijd: 20 mrt 2027 t/m 5 sep 2027.\nhttps://kunsthal.nl
+ /nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+END:VEVENT
+BEGIN:VEVENT
+UID:8e850956cbb71669-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Kinderen van hun tijd
+DESCRIPTION:Grote tentoonstelling in Hal 1 van de Kunsthal\; titel is nog 
+ een werktitel.\nLooptijd: 20 mrt 2027 t/m 5 sep 2027.\nhttps://kunsthal.nl
+ /nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e901b3ac391668a-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Ernesto Neto
+DESCRIPTION:De Braziliaanse kunstenaar Ernesto Neto vult het Depot met zij
+ n monumentale\, beloopbare textielinstallaties.\nLooptijd: 17 apr 2027 t/m
+  19 sep 2027.\nhttps://www.boijmans.nl/en/exhibitions/ernestoneto
+LOCATION:Depot Boijmans Van Beuningen\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
+END:VEVENT
+BEGIN:VEVENT
+UID:7e901b3ac391668a-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Ernesto Neto
+DESCRIPTION:De Braziliaanse kunstenaar Ernesto Neto vult het Depot met zij
+ n monumentale\, beloopbare textielinstallaties.\nLooptijd: 17 apr 2027 t/m
+  19 sep 2027.\nhttps://www.boijmans.nl/en/exhibitions/ernestoneto
+LOCATION:Depot Boijmans Van Beuningen\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
+END:VEVENT
+BEGIN:VEVENT
+UID:59d4e6f58cb428b1-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:▶ Start: Kunsthal Rotterdam: Luigi & Iango
+DESCRIPTION:Overzicht van het modefotografenduo Luigi & Iango\, bekend van
+  hun portretten van supermodellen en sterren.\nLooptijd: 25 sep 2027 t/m 6
+  feb 2028.\nhttps://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te
+ -kijken/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+END:VEVENT
+BEGIN:VEVENT
+UID:59d4e6f58cb428b1-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20280206
+DTEND;VALUE=DATE:20280207
+SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Luigi & Iango
+DESCRIPTION:Overzicht van het modefotografenduo Luigi & Iango\, bekend van
+  hun portretten van supermodellen en sterren.\nLooptijd: 25 sep 2027 t/m 6
+  feb 2028.\nhttps://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te
+ -kijken/
+LOCATION:Kunsthal Rotterdam\, Rotterdam
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Museumexposities – Groningen
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:beeadb5b6bef2d65-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:▶ Start: Groninger Museum: The Architect & the Housewife
+DESCRIPTION:Internationale groepstentoonstelling over huishoudelijk werk\,
+  zorg en kunstenaarschap.\nLooptijd: 19 sep 2026 t/m 9 mei 2027.\nhttps://
+ www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+LOCATION:Groninger Museum\, Groningen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+END:VEVENT
+BEGIN:VEVENT
+UID:beeadb5b6bef2d65-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:■ Laatste dag: Groninger Museum: The Architect & the Housewife
+DESCRIPTION:Internationale groepstentoonstelling over huishoudelijk werk\,
+  zorg en kunstenaarschap.\nLooptijd: 19 sep 2026 t/m 9 mei 2027.\nhttps://
+ www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+LOCATION:Groninger Museum\, Groningen
+CATEGORIES:Museumexposities
+TRANSP:TRANSPARENT
+URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
+END:VEVENT
+END:VCALENDAR

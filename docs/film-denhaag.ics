@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Film – Den Haag
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e15e5d4b0c19fdd0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270328
+SUMMARY:Movies that Matter Festival 2027
+DESCRIPTION:Filmfestival over mensenrechten met films en debatten.\nLoopti
+ jd: 19 mrt 2027 t/m 27 mrt 2027.\nhttps://moviesthatmatter.nl/en/agenda/mo
+ vies-that-matter-festival-2027/
+LOCATION:Diverse locaties\, Den Haag
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://moviesthatmatter.nl/en/agenda/movies-that-matter-festival-2027
+ /
+END:VEVENT
+END:VCALENDAR

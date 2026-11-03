@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Popmuziek – Amsterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:94b6d569e3d1f41e@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261026
+SUMMARY:Amsterdam Dance Event 2026
+DESCRIPTION:De 30e jubileumeditie van 's werelds grootste clubfestival en 
+ conferentie voor elektronische muziek.\nLooptijd: 21 okt 2026 t/m 25 okt 2
+ 026.\nhttps://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/27
+ 50267/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750
+ 267/
+END:VEVENT
+BEGIN:VEVENT
+UID:7cbdf67ed020bdd7@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:London Calling 2026
+DESCRIPTION:Tweedaags indiefestival met nieuwe Britse en internationale gi
+ taarbands in Paradiso.\nLooptijd: 30 okt 2026 t/m 31 okt 2026.\nhttps://ww
+ w.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+BEGIN:VEVENT
+UID:df51ed356dfc6656-start@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:▶ Start: John Coltrane 100 – Het Concertgebouw
+DESCRIPTION:Jazzreeks bij 100 jaar Coltrane met o.a. Branford Marsalis & D
+ ianne Reeves (4 nov)\, Ravi Coltrane (9 mrt) en Joshua Redman met het Jazz
+  Orchestra of the Concertgebouw (30 mrt).\nLooptijd: 4 nov 2026 t/m 30 mrt
+  2027.\nhttps://www.concertgebouw.nl/en/coltrane
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/coltrane
+END:VEVENT
+BEGIN:VEVENT
+UID:df51ed356dfc6656-eind@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:■ Laatste dag: John Coltrane 100 – Het Concertgebouw
+DESCRIPTION:Jazzreeks bij 100 jaar Coltrane met o.a. Branford Marsalis & D
+ ianne Reeves (4 nov)\, Ravi Coltrane (9 mrt) en Joshua Redman met het Jazz
+  Orchestra of the Concertgebouw (30 mrt).\nLooptijd: 4 nov 2026 t/m 30 mrt
+  2027.\nhttps://www.concertgebouw.nl/en/coltrane
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/coltrane
+END:VEVENT
+BEGIN:VEVENT
+UID:1323882eabbe5280@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Super-Sonic Jazz Festival 2026
+DESCRIPTION:Tiende editie van het driedaagse festival voor nieuwe jazz en 
+ aanverwante muziek in Paradiso.\nLooptijd: 20 nov 2026 t/m 22 nov 2026.\nh
+ ttps://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2026/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2
+ 026/
+END:VEVENT
+BEGIN:VEVENT
+UID:469bba1fd114d145@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Popronde Eindfeest 2026
+DESCRIPTION:Afsluitend feest van de reizende Popronde met een reeks opkome
+ nde Nederlandse acts in de Melkweg.\nhttps://www.festivalinfo.nl/festival/
+ 36244/Popronde-Eindfeest/2026/
+LOCATION:Melkweg\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36244/Popronde-Eindfeest/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d34f36e2d94d8df@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Voorheen Nacht van het Absurdisme 2026
+DESCRIPTION:Opvolger van de Nacht van het Absurdisme met ruim dertig voors
+ tellingen\, muziek\, literatuur en performance in alle zalen van Paradiso.
+ \nhttps://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absurd
+ isme/2026/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absu
+ rdisme/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:594e3ef3682ebdfb@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+SUMMARY:Paradiso Korendagen 2027
+DESCRIPTION:Tweedaags korenfestival waarop zo'n 140 amateurkoren van pop e
+ n jazz tot renaissance en rock optreden in Paradiso.\nLooptijd: 16 jan 202
+ 7 t/m 17 jan 2027.\nhttps://www.paradiso.nl/programma/paradiso-korendagen-
+ 2027---zaterdag/2807453
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/programma/paradiso-korendagen-2027---zaterdag/
+ 2807453
+END:VEVENT
+BEGIN:VEVENT
+UID:cffc0ab0e5255fe6@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Protestfest 2027
+DESCRIPTION:Vijfde editie van Sophie Straats maatschappelijk geengageerde 
+ festival met muziek en sprekers in alle zalen van Paradiso\, opbrengst naa
+ r een goed doel.\nhttps://www.festivalinfo.nl/festival/36502/Protestfest/2
+ 027/
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36502/Protestfest/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:64bccfdb69c78756@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:High Tea Indoor Festeaval 2027
+DESCRIPTION:Derde editie van het drum-and-bass-indoorfestival van High Tea
+ \, verspreid over zeven zalen van de Melkweg.\nhttps://www.melkweg.nl/nl/a
+ genda/high-tea-indoor-festeaval-2027-10-04-2027/
+LOCATION:Melkweg\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.melkweg.nl/nl/agenda/high-tea-indoor-festeaval-2027-10-04-
+ 2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2628c006af950f16@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Koningsdag 2027
+DESCRIPTION:Nationale feestdag met vrijmarkten\, feesten en concerten door
+  de hele stad.\nhttps://www.iamsterdam.com
+LOCATION:Hele stad\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed83bc36b1454d@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Bevrijdingsfestivals 2027
+DESCRIPTION:Gratis Bevrijdingsfestivals met muziek in alle provincies op B
+ evrijdingsdag\; programma volgt.\nhttps://www.4en5mei.nl
+LOCATION:Diverse steden (o.a. Haarlem\, Utrecht\, Den Haag\, Amsterdam)
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.4en5mei.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:aca34a731e75a5e3@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Amsterdam Open Air 2027
+DESCRIPTION:Tweedaags dancefestival in het Gaasperpark.\nLooptijd: 5 jun 2
+ 027 t/m 6 jun 2027.\nhttps://www.amsterdamopenair.nl/en
+LOCATION:Gaasperpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdamopenair.nl/en
+END:VEVENT
+BEGIN:VEVENT
+UID:f133e688cf3e7f3a@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Amsterdam Roots Festival 2027 (datum o.v.)
+DESCRIPTION:Gratis wereldmuziekfestival in het Oosterpark\; datum geschat 
+ naar het patroon van eind juni.\nLet op: datum is een inschatting op basis
+  van eerdere edities en nog niet bevestigd.\nhttps://www.festivalinfo.nl/f
+ estival/36269/Amsterdam-Roots-Festival/2026/
+LOCATION:Oosterpark\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.festivalinfo.nl/festival/36269/Amsterdam-Roots-Festival/20
+ 26/
+END:VEVENT
+BEGIN:VEVENT
+UID:10c100acf53dd509@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Keti Koti Festival 2027
+DESCRIPTION:Gratis festival op Museumplein ter herdenking en viering van d
+ e afschaffing van de slavernij.\nhttps://www.iamsterdam.com/uit/agenda/fes
+ tivals/events/keti-koti-festival
+LOCATION:Museumplein\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.iamsterdam.com/uit/agenda/festivals/events/keti-koti-festi
+ val
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b49339b6846e89@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270803
+SUMMARY:Dekmantel Festival 2027
+DESCRIPTION:Elektronisch muziekfestival in het Amsterdamse Bos.\nLooptijd:
+  29 jul 2027 t/m 2 aug 2027.\nhttps://dekmantel.com/events/dekmantel-festi
+ val-2027
+LOCATION:Amsterdamse Bos\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://dekmantel.com/events/dekmantel-festival-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:b963027dcce3485b@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270809
+SUMMARY:Pride Amsterdam 2027
+DESCRIPTION:Pride-festival met de Canal Parade op zaterdag 7 augustus.\nLo
+ optijd: 31 jul 2027 t/m 8 aug 2027.\nhttps://pride.amsterdam/en/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://pride.amsterdam/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:e25b17f38f9be6e0@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271025
+SUMMARY:Amsterdam Dance Event 2027
+DESCRIPTION:Clubfestival en conferentie voor elektronische muziek.\nLoopti
+ jd: 20 okt 2027 t/m 24 okt 2027.\nhttps://www.amsterdam-dance-event.nl/en/
+ news/amsterdam-dance-event-concludes-monumental-30-year-anniversary-and-se
+ ts-dates-for-ade-2027/2967954/
+LOCATION:Diverse locaties\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.amsterdam-dance-event.nl/en/news/amsterdam-dance-event-con
+ cludes-monumental-30-year-anniversary-and-sets-dates-for-ade-2027/2967954/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f716d63b61bd912@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271031
+SUMMARY:London Calling 2027 (datum o.v.)
+DESCRIPTION:Indiefestival in Paradiso\; datum geschat naar het patroon van
+  eind oktober.\nLet op: datum is een inschatting op basis van eerdere edit
+ ies en nog niet bevestigd.\nLooptijd: 29 okt 2027 t/m 30 okt 2027.\nhttps:
+ //www.paradiso.nl/en/program/london-calling/2851999
+LOCATION:Paradiso\, Amsterdam
+CATEGORIES:Festivals,Popmuziek
+TRANSP:TRANSPARENT
+URL:https://www.paradiso.nl/en/program/london-calling/2851999
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Film – Rotterdam
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:af357a15e1b75ac9@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+SUMMARY:Wildlife Film Festival Rotterdam 2026
+DESCRIPTION:Internationaal festival voor natuur- en wildlifefilms met prem
+ ieres\, industry days en de Flamingo Awards.\nLooptijd: 2 nov 2026 t/m 8 n
+ ov 2026.\nhttps://rotterdamstyle.com/events-calendar/wildlife-film-festiva
+ l-rotterdam-wffr-location-dates
+LOCATION:Cinerama en LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://rotterdamstyle.com/events-calendar/wildlife-film-festival-rott
+ erdam-wffr-location-dates
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc29bf0992f96c7@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270208
+SUMMARY:IFFR 2027
+DESCRIPTION:Internationaal Film Festival Rotterdam met avontuurlijke artho
+ use- en wereldcinema.\nLooptijd: 28 jan 2027 t/m 7 feb 2027.\nhttps://iffr
+ .com/en/wp-content/uploads/sites/2/2026/05/Terms-Conditions-submissions-IF
+ FR-2027.pdf
+LOCATION:Diverse locaties\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Condition
+ s-submissions-IFFR-2027.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0bd31586292219@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+SUMMARY:Rotterdam Arab Film Festival 2027
+DESCRIPTION:Jaarlijks festival met films uit de Arabische wereld en de dia
+ spora\, met competitie en randprogramma.\nLooptijd: 9 jun 2027 t/m 13 jun 
+ 2027.\nhttps://www.arabfilmfestival.nl/
+LOCATION:LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://www.arabfilmfestival.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:7b29c4f06fd52e68@cultuurkalender
+DTSTAMP:20261103T094530Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270927
+SUMMARY:Camera Japan Rotterdam 2027
+DESCRIPTION:Festival voor Japanse film en cultuur met nieuwe films\, anime
+  en randprogramma.\nLooptijd: 22 sep 2027 t/m 26 sep 2027.\nhttps://camera
+ japan.nl/
+LOCATION:LantarenVenster\, Rotterdam
+CATEGORIES:Festivals,Film
+TRANSP:TRANSPARENT
+URL:https://camerajapan.nl/
+END:VEVENT
+END:VCALENDAR
