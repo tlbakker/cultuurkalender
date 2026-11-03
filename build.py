@@ -8,11 +8,11 @@ GENRES = {
     "klassiek": "Klassieke muziek", "pop": "Popmuziek", "theater": "Theater & musical", "dans": "Dans",
     "opera": "Opera", "expositie": "Museumexposities", "festival": "Festivals", "film": "Film", "pianisten": "Pianisten",
 }
-# Stadsfilter: stad -> plaatsnamen die eronder vallen (stad zelf + directe omgeving)
+# Stadsfilter: alleen de stad zelf, geen omgeving
 STEDEN = {
-    "amsterdam": ("Amsterdam", ["Amsterdam", "Haarlem", "Laren", "Naarden", "Amstelveen", "Zaandam"]),
-    "rotterdam": ("Rotterdam", ["Rotterdam", "Schiedam"]),
-    "denhaag": ("Den Haag", ["Den Haag", "Wassenaar", "Delft", "Scheveningen"]),
+    "amsterdam": ("Amsterdam", ["Amsterdam"]),
+    "rotterdam": ("Rotterdam", ["Rotterdam"]),
+    "denhaag": ("Den Haag", ["Den Haag"]),
     "utrecht": ("Utrecht", ["Utrecht"]),
     "assen": ("Assen", ["Assen"]),
     "groningen": ("Groningen", ["Groningen"]),

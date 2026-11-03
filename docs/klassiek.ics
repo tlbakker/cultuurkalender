@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:17920016c65b9ac3-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:▶ Start: Minimal Series 2026-27 – Muziekgebouw aan 't IJ
@@ -26,7 +26,7 @@ URL:https://bachtrack.com/feature-minimalism-radicals-rhythms-dissent-muzi
 END:VEVENT
 BEGIN:VEVENT
 UID:17920016c65b9ac3-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:■ Laatste dag: Minimal Series 2026-27 – Muziekgebouw aan 't IJ
@@ -43,7 +43,7 @@ URL:https://bachtrack.com/feature-minimalism-radicals-rhythms-dissent-muzi
 END:VEVENT
 BEGIN:VEVENT
 UID:50a5b57eeed4ec29-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:▶ Start: Beethoven! – Beethovenjaar in Het Concertgebouw
@@ -58,7 +58,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:50a5b57eeed4ec29-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:■ Laatste dag: Beethoven! – Beethovenjaar in Het Concertgebouw
@@ -73,7 +73,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:37945f1f8baf5c55@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261108
 SUMMARY:Cello Biënnale Amsterdam 2026
@@ -87,7 +87,7 @@ URL:https://www.bimhuis.nl/en/cello-biennale-amsterdam-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:26a9cdcce105df33@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261127
 SUMMARY:Johannes-Passion – Sasha Waltz / García-Alarcón
@@ -102,7 +102,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:5446f52688fb93eb@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Amare 5 jaar – jubileumweekend met Residentie Orkest
@@ -118,7 +118,7 @@ URL:https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-j
 END:VEVENT
 BEGIN:VEVENT
 UID:c64157915fa6ae3e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261130
 SUMMARY:November Music 2026
@@ -131,7 +131,7 @@ URL:https://www.novembermusic.net
 END:VEVENT
 BEGIN:VEVENT
 UID:e5bef1850fde917b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261205
 SUMMARY:Concertgebouworkest: Der Silbersee & Vuurvogel (Iván Fischer)
@@ -145,7 +145,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:88aa98a1482ec80e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261212
 SUMMARY:Martha Argerich – Beethoven 1 met Rotterdams Philharmonisch
@@ -162,7 +162,7 @@ URL:https://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-martha
 END:VEVENT
 BEGIN:VEVENT
 UID:83aaf86aae4d894d@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261222
 SUMMARY:Feestconcert Nederlands Philharmonisch Orkest
@@ -178,7 +178,7 @@ URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
 END:VEVENT
 BEGIN:VEVENT
 UID:5f6f5346d17f5c8a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Kerstmatinee Concertgebouworkest
@@ -192,7 +192,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:138a3aab3fa5be0c@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:PAN 2027 – Calefax
@@ -205,7 +205,7 @@ URL:https://calefax.nl/en/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:5bc129cbf10c6c26@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Concertgebouworkest Annual Gala
@@ -218,7 +218,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:88ff336ae46cdcef@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Nacht van de Viool 2027
@@ -232,7 +232,7 @@ URL:https://www.festivalinfo.nl/festival/36499/Nacht-van-de-Viool/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:d579e09b2364baa3@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270208
 SUMMARY:Der Ring ohne Worte – Nederlands Philharmonisch Orkest & Lorenzo
@@ -249,7 +249,7 @@ URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
 END:VEVENT
 BEGIN:VEVENT
 UID:732b8e63eae8a04b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270308
 SUMMARY:VOICES Rotterdam – De Doelen
@@ -266,7 +266,7 @@ URL:https://rotterdam.headliner.nl/item/het-nieuw-stadsfestival-voices-rot
 END:VEVENT
 BEGIN:VEVENT
 UID:15c9bfa6ce0c1451@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Scarlatti Festival – Muziekgebouw aan 't IJ
@@ -281,7 +281,7 @@ URL:https://www.muziekgebouw.nl/en/theme/scarlattifestival-xd7w
 END:VEVENT
 BEGIN:VEVENT
 UID:66d2582cc35548cf@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270314
 SUMMARY:Belcea Quartet: alle strijkkwartetten van Beethoven
@@ -296,7 +296,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:53097cd7ebe77721@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270328
 SUMMARY:Matthäus-Passion in Het Concertgebouw (Leusink en Koopman)
@@ -313,7 +313,7 @@ URL:https://www.music-opera.com/nl/concertgebouw-pays-bas-amsterdam/matth-
 END:VEVENT
 BEGIN:VEVENT
 UID:acccbdaf3113518b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270315
 SUMMARY:Beethovens Missa solemnis – Mäkelä
@@ -327,7 +327,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:089f1c19f547b42b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270324
 SUMMARY:Matthäus-Passion Nederlandse Bachvereniging – tournee
@@ -343,7 +343,7 @@ URL:https://www.bachvereniging.nl/nl/matthaus-passion-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:6b82fca57a30320e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 SUMMARY:Matthäus-Passion Concertgebouworkest
@@ -357,7 +357,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:5169beb3b021a87d@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270328
 SUMMARY:Matthäus-Passion Nederlandse Bachvereniging in Naarden
@@ -372,7 +372,7 @@ URL:https://www.bachvereniging.nl/nl/matthaus-passion-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:b1f974476b336d8a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Seizoenspresentatie Het Concertgebouw 2027-2028 (datum o.v.)
@@ -387,7 +387,7 @@ URL:https://www.concertgebouw.nl/en/press
 END:VEVENT
 BEGIN:VEVENT
 UID:3dd07576b1e9f5b2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
 SUMMARY:Feldman Special – Muziekgebouw aan 't IJ
@@ -401,7 +401,7 @@ URL:https://www.muziekgebouw.nl/en/themes/festivals-en-specials-5q6n
 END:VEVENT
 BEGIN:VEVENT
 UID:12cd42c514a535d0@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270414
 SUMMARY:Janine's Beethoven: alle vioolsonates met Denis Kozhukhin
@@ -415,7 +415,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:ea76287d0c0c5e61@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:Stravinsky's Sacre in de Gashouder
@@ -429,7 +429,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:aa656c61c804eda3@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270502
 SUMMARY:Beethoven Special: alle pianotrio's (Queyras\, Faust\, Melnikov) 
@@ -445,7 +445,7 @@ URL:https://www.muziekgebouw.nl/en/theme/beethoven-special-183t
 END:VEVENT
 BEGIN:VEVENT
 UID:d4fb5f99f4f48d5e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270531
 SUMMARY:Oranjewoud Festival 2027
@@ -459,7 +459,7 @@ URL:https://www.oranjewoudfestival.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:23fae5aa330e2158@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:Grigory Sokolov – recital (datum o.v.)
@@ -476,7 +476,7 @@ URL:https://events.musicofourdesire.com/event/quci-grigori-sokolov-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:091fc8b0c5bff276-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
 SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
@@ -490,7 +490,7 @@ URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:091fc8b0c5bff276-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
@@ -504,7 +504,7 @@ URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:404c881b6b0612fc@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:Grigory Sokolov – recital (Pianistenserie)
@@ -518,7 +518,7 @@ URL:https://bachtrack.com/22/291/view/439499
 END:VEVENT
 BEGIN:VEVENT
 UID:5cdd431facfa5b88@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
 SUMMARY:Yuja Wang – Brahms pianoconcerten 1 & 2 met Mahler Chamber Orche
@@ -535,7 +535,7 @@ URL:https://www.concertgebouw.nl/en/concerts/39937297-yuja-wang-performs-b
 END:VEVENT
 BEGIN:VEVENT
 UID:37a5520d32c791bd@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270628
 SUMMARY:La damnation de Faust – De Nationale Opera & Concertgebouworkest
@@ -550,7 +550,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:e63a59518538ef30-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:▶ Start: VriendenLoterij ZomerConcerten 2027 (datum o.v.)
@@ -566,7 +566,7 @@ URL:https://www.concertgebouw.nl/en/summerconcerts
 END:VEVENT
 BEGIN:VEVENT
 UID:e63a59518538ef30-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
 SUMMARY:■ Laatste dag: VriendenLoterij ZomerConcerten 2027 (datum o.v.)
@@ -582,7 +582,7 @@ URL:https://www.concertgebouw.nl/en/summerconcerts
 END:VEVENT
 BEGIN:VEVENT
 UID:50359017e91f160f@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:International Conducting Competition Rotterdam 2027 – live selec
@@ -599,7 +599,7 @@ URL:https://theviolinchannel.com/applications-open-to-international-conduc
 END:VEVENT
 BEGIN:VEVENT
 UID:612afd25db8d4ca6@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270712
 SUMMARY:Wonderfeel 2027
@@ -612,7 +612,7 @@ URL:https://www.wonderfeel.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:8ab1e425a8faba2a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270823
 SUMMARY:Grachtenfestival 2027
@@ -626,7 +626,7 @@ URL:https://www.grachtenfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:fa30020255f72025@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:Prinsengrachtconcert 2027
@@ -639,7 +639,7 @@ URL:https://prinsengrachtconcert.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:f3ec0e13f75b1df2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270830
 SUMMARY:De Opening 2027 (opvolger Uitmarkt) (datum o.v.)
@@ -657,7 +657,7 @@ URL:https://www.festivalinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-
 END:VEVENT
 BEGIN:VEVENT
 UID:f5957adc1157c097@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270906
 SUMMARY:Festival Oude Muziek Utrecht 2027 – Humanisten
@@ -671,7 +671,7 @@ URL:https://oudemuziek.nl/en/festival/future/
 END:VEVENT
 BEGIN:VEVENT
 UID:ab5ab22d3d30a828@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:Concertgebouw OPEN 2027 (datum o.v.)
@@ -686,7 +686,7 @@ URL:https://www.concertgebouw.nl/en/press
 END:VEVENT
 BEGIN:VEVENT
 UID:36ec975a526bbd06@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
 SUMMARY:Seizoensopening Het Concertgebouw 2027-2028 (datum o.v.)
@@ -701,7 +701,7 @@ URL:https://www.concertgebouw.nl/en/press
 END:VEVENT
 BEGIN:VEVENT
 UID:b5522be3e9f4ddc7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270913
 SUMMARY:Delft Chamber Music Festival 2027 (datum o.v.)
@@ -717,7 +717,7 @@ URL:https://www.delft.com/en/uitagenda/uitagenda/4170890544/delft-chamber-
 END:VEVENT
 BEGIN:VEVENT
 UID:f769046c9e876e9b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Opening Night Concertgebouworkest 2027 (Oosterpark) (datum o.v.)
@@ -731,7 +731,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:e571d97d8cf98745@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Seizoensopening Rotterdams Philharmonisch Orkest 2027-2028 (datum 
@@ -747,7 +747,7 @@ URL:https://www.rotterdamsphilharmonisch.nl/en/agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:289edfc20db74d77@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
 SUMMARY:Musica Sacra Maastricht 2027 (datum o.v.)
@@ -764,7 +764,7 @@ URL:https://www.theateraanhetvrijthof.nl/en/our-house/musica-sacra-maastri
 END:VEVENT
 BEGIN:VEVENT
 UID:ee299416da3a8b86@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271119
 DTEND;VALUE=DATE:20271129
 SUMMARY:November Music 2027 (datum o.v.)

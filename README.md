@@ -4,7 +4,7 @@ Grote culturele evenementen in en rond Amsterdam (festivals, premières, seizoen
 
 - Overzicht met filter per genre: https://tlbakker.github.io/cultuurkalender/
 - Alles: https://tlbakker.github.io/cultuurkalender/cultuur.ics
-- Per stad (Amsterdam, Rotterdam, Den Haag, Utrecht, Assen, Groningen): `cultuur-<stad>.ics` en `<genre>-<stad>.ics`, bv. `expositie-denhaag.ics`. Omgeving telt mee: Haarlem, Laren, Naarden bij Amsterdam; Wassenaar, Delft bij Den Haag.
+- Per stad (Amsterdam, Rotterdam, Den Haag, Utrecht, Assen, Groningen): `cultuur-<stad>.ics` en `<genre>-<stad>.ics`, bv. `expositie-denhaag.ics`. Alleen de stad zelf, geen omgeving.
 - Per genre: `klassiek.ics`, `pop.ics`, `theater.ics`, `dans.ics`, `opera.ics`, `expositie.ics`, `festival.ics`, `film.ics`, `pianisten.ics` (concerten van Argerich, Wang, Zimerman, Sokolov, Matsuev)
 
 ## Bijwerken

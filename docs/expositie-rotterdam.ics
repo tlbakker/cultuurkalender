@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:26b9fd394bff1302-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Marisol
@@ -25,7 +25,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:26b9fd394bff1302-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Marisol
@@ -41,7 +41,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:▶ Start: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -55,7 +55,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -69,7 +69,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:▶ Start: Kunsthal Rotterdam: Monira Al Qadiri
@@ -84,7 +84,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Monira Al Qadiri
@@ -99,7 +99,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:e4dcd81b723c7627@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 SUMMARY:Unseen 2027 (datum o.v.)
@@ -116,7 +116,7 @@ URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
 END:VEVENT
 BEGIN:VEVENT
 UID:98360cc12cabc9b9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 SUMMARY:Art Rotterdam 2027
@@ -130,7 +130,7 @@ URL:https://artrotterdam.com/en/practical-information
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:▶ Start: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -144,7 +144,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -158,7 +158,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -172,7 +172,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -186,7 +186,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:▶ Start: Kunsthal Rotterdam: Luigi & Iango
@@ -201,7 +201,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280207
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Luigi & Iango

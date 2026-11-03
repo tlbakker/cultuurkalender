@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:88aa98a1482ec80e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261212
 SUMMARY:Martha Argerich – Beethoven 1 met Rotterdams Philharmonisch
@@ -26,7 +26,7 @@ URL:https://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-martha
 END:VEVENT
 BEGIN:VEVENT
 UID:732b8e63eae8a04b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270308
 SUMMARY:VOICES Rotterdam – De Doelen
@@ -43,7 +43,7 @@ URL:https://rotterdam.headliner.nl/item/het-nieuw-stadsfestival-voices-rot
 END:VEVENT
 BEGIN:VEVENT
 UID:23fae5aa330e2158@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:Grigory Sokolov – recital (datum o.v.)
@@ -60,7 +60,7 @@ URL:https://events.musicofourdesire.com/event/quci-grigori-sokolov-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:50359017e91f160f@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:International Conducting Competition Rotterdam 2027 – live selec
@@ -77,7 +77,7 @@ URL:https://theviolinchannel.com/applications-open-to-international-conduc
 END:VEVENT
 BEGIN:VEVENT
 UID:e571d97d8cf98745@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Seizoensopening Rotterdams Philharmonisch Orkest 2027-2028 (datum 

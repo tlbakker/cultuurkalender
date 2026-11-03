@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:12dc2e3c4cb7e75b-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:▶ Start: Rijksmuseum: WORN – gekoesterde kleding
@@ -25,7 +25,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
 END:VEVENT
 BEGIN:VEVENT
 UID:12dc2e3c4cb7e75b-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:■ Laatste dag: Rijksmuseum: WORN – gekoesterde kleding
@@ -41,7 +41,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-present
 END:VEVENT
 BEGIN:VEVENT
 UID:87245f18f37e7f5f-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2026
@@ -55,7 +55,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:87245f18f37e7f5f-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2026
@@ -69,7 +69,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:3329b41099e32729-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:▶ Start: Kröller-Müller Museum: Gilbert & George. Drifters
@@ -84,7 +84,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/gilbert-a
 END:VEVENT
 BEGIN:VEVENT
 UID:3329b41099e32729-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Kröller-Müller Museum: Gilbert & George. Drifte
@@ -100,7 +100,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/gilbert-a
 END:VEVENT
 BEGIN:VEVENT
 UID:092e9e8de858a6cc-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:▶ Start: Kunstmuseum Den Haag: Reflections on Fashion
@@ -113,7 +113,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:092e9e8de858a6cc-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Reflections on Fashion
@@ -126,7 +126,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:816d83ff212afb48-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:▶ Start: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
@@ -140,7 +140,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:816d83ff212afb48-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:■ Laatste dag: De Nieuwe Kerk: Queer Amsterdam\, de roze stad
@@ -154,7 +154,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:c012b2759b05d043-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:▶ Start: Stedelijk Museum: Yayoi Kusama
@@ -168,7 +168,7 @@ URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
 END:VEVENT
 BEGIN:VEVENT
 UID:c012b2759b05d043-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Stedelijk Museum: Yayoi Kusama
@@ -182,7 +182,7 @@ URL:https://stedelijk.nl/en/exhibitions/yayoi-kusama-en
 END:VEVENT
 BEGIN:VEVENT
 UID:8ec8b0e480d2a53a-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:▶ Start: Museum Voorlinden: Celebrating the Icons of Art
@@ -196,7 +196,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:8ec8b0e480d2a53a-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Museum Voorlinden: Celebrating the Icons of Art
@@ -210,7 +210,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:afeaf81926c4268c-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:▶ Start: Kröller-Müller Museum: Van Gogh\, al onze schilderije
@@ -226,7 +226,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/van-gogh-
 END:VEVENT
 BEGIN:VEVENT
 UID:afeaf81926c4268c-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:■ Laatste dag: Kröller-Müller Museum: Van Gogh\, al onze schil
@@ -242,7 +242,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/van-gogh-
 END:VEVENT
 BEGIN:VEVENT
 UID:cb150dbbccf23386-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:▶ Start: Foam: Nadav Kander – The Edge of Things
@@ -256,7 +256,7 @@ URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
 END:VEVENT
 BEGIN:VEVENT
 UID:cb150dbbccf23386-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:■ Laatste dag: Foam: Nadav Kander – The Edge of Things
@@ -270,7 +270,7 @@ URL:https://www.foam.org/press/nadav-kander-the-edge-of-things
 END:VEVENT
 BEGIN:VEVENT
 UID:cf68ae053974c34c-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▶ Start: Eye Filmmuseum: Ulrich Seidl – Über das Leben\, die 
@@ -285,7 +285,7 @@ URL:https://www.eyefilm.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:cf68ae053974c34c-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:■ Laatste dag: Eye Filmmuseum: Ulrich Seidl – Über das Leben\
@@ -300,7 +300,7 @@ URL:https://www.eyefilm.nl/nl/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:beeadb5b6bef2d65-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▶ Start: Groninger Museum: The Architect & the Housewife
@@ -314,7 +314,7 @@ URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
 END:VEVENT
 BEGIN:VEVENT
 UID:beeadb5b6bef2d65-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:■ Laatste dag: Groninger Museum: The Architect & the Housewife
@@ -328,7 +328,7 @@ URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2436199d2e2386-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:▶ Start: Singer Laren: Herman Kruyder. Expressionist van de ziel
@@ -343,7 +343,7 @@ URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2436199d2e2386-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:■ Laatste dag: Singer Laren: Herman Kruyder. Expressionist van d
@@ -359,7 +359,7 @@ URL:https://www.museum.nl/nl/singer-laren/tentoonstelling/herman-kruyder-e
 END:VEVENT
 BEGIN:VEVENT
 UID:f680b3175392f8ef-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:▶ Start: Out of the stillness – NDT 1
@@ -374,7 +374,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
 END:VEVENT
 BEGIN:VEVENT
 UID:f680b3175392f8ef-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:■ Laatste dag: Out of the stillness – NDT 1
@@ -389,7 +389,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/out-of-the-stillness/
 END:VEVENT
 BEGIN:VEVENT
 UID:ce05933d953d21a3-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:▶ Start: Kröller-Müller Museum: Bart van der Leck / Charley To
@@ -405,7 +405,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bart-van-
 END:VEVENT
 BEGIN:VEVENT
 UID:ce05933d953d21a3-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:■ Laatste dag: Kröller-Müller Museum: Bart van der Leck / Char
@@ -421,7 +421,7 @@ URL:https://www.krollermuller.nl/nl/nu-te-doen/tentoonstellingen/bart-van-
 END:VEVENT
 BEGIN:VEVENT
 UID:0295e0a78f4ad179-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:▶ Start: Waiting for the Barbarians – Nederlandse Reisopera
@@ -435,7 +435,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:0295e0a78f4ad179-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:■ Laatste dag: Waiting for the Barbarians – Nederlandse Reisop
@@ -450,7 +450,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5b9acb1ab0333a-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:▶ Start: Van Gogh Museum: Yoshitoshi. Meester van de maan
@@ -466,7 +466,7 @@ URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5b9acb1ab0333a-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:■ Laatste dag: Van Gogh Museum: Yoshitoshi. Meester van de maan
@@ -482,7 +482,7 @@ URL:https://www.vangoghmuseum.nl/en/about/news-and-press/news/20260827-yos
 END:VEVENT
 BEGIN:VEVENT
 UID:11bc14b206f91c1d-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:▶ Start: H'ART Museum: Chez Matisse – meesterwerken uit het Ce
@@ -497,7 +497,7 @@ URL:https://www.hartmuseum.nl/en/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:11bc14b206f91c1d-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:■ Laatste dag: H'ART Museum: Chez Matisse – meesterwerken uit 
@@ -512,7 +512,7 @@ URL:https://www.hartmuseum.nl/en/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:97fa362def582f3c-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:▶ Start: Cabaret – DeLaMar
@@ -526,7 +526,7 @@ URL:https://delamar.nl/voorstellingen/cabaret/
 END:VEVENT
 BEGIN:VEVENT
 UID:97fa362def582f3c-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:■ Laatste dag: Cabaret – DeLaMar
@@ -540,7 +540,7 @@ URL:https://delamar.nl/voorstellingen/cabaret/
 END:VEVENT
 BEGIN:VEVENT
 UID:15d662a0f0c7ae94-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:▶ Start: The Drama – Theater Oostpool
@@ -555,7 +555,7 @@ URL:https://www.oostpool.nl/voorstellingen/the-drama/
 END:VEVENT
 BEGIN:VEVENT
 UID:15d662a0f0c7ae94-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:■ Laatste dag: The Drama – Theater Oostpool
@@ -570,7 +570,7 @@ URL:https://www.oostpool.nl/voorstellingen/the-drama/
 END:VEVENT
 BEGIN:VEVENT
 UID:62b8baeee5ebaa53@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261021
 SUMMARY:Cherry Town (Sjostakovitsj) – De Nationale Opera
@@ -584,7 +584,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:cf53a683335ff922@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261019
 SUMMARY:Leiden International Film Festival 2026
@@ -598,7 +598,7 @@ URL:https://www.liff.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:26b9fd394bff1302-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Marisol
@@ -614,7 +614,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:26b9fd394bff1302-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Marisol
@@ -630,7 +630,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb611a19d3e1804-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:▶ Start: Rijksmuseum: Willem de Kooning at Work
@@ -646,7 +646,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb611a19d3e1804-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Rijksmuseum: Willem de Kooning at Work
@@ -662,7 +662,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:3bdf498c0fd293a3@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261026
 SUMMARY:Cinekid Festival 2026
@@ -678,7 +678,7 @@ URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b680dd1a58901d-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:▶ Start: Stedelijk Museum: Adam Pendleton – Some Wild Kind of 
@@ -695,7 +695,7 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b680dd1a58901d-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Stedelijk Museum: Adam Pendleton – Some Wild Ki
@@ -712,7 +712,7 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-intervi
 END:VEVENT
 BEGIN:VEVENT
 UID:33af7d6b97c42ebf-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:▶ Start: Voor haar\, de Frans Halsema musical – DeLaMar
@@ -726,7 +726,7 @@ URL:https://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
 END:VEVENT
 BEGIN:VEVENT
 UID:33af7d6b97c42ebf-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:■ Laatste dag: Voor haar\, de Frans Halsema musical – DeLaMar
@@ -740,7 +740,7 @@ URL:https://delamar.nl/voorstellingen/voor-haar-de-frans-halsema-musical/
 END:VEVENT
 BEGIN:VEVENT
 UID:472defd20b94fc26-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:▶ Start: Het Zwanenmeer – Het Nationale Ballet
@@ -754,7 +754,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:472defd20b94fc26-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:■ Laatste dag: Het Zwanenmeer – Het Nationale Ballet
@@ -768,7 +768,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:e4027eb7a722851a-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:▶ Start: Mauritshuis: Thyssen-Bornemisza ❤️ Mauritshuis – 
@@ -784,7 +784,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornem
 END:VEVENT
 BEGIN:VEVENT
 UID:e4027eb7a722851a-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Mauritshuis: Thyssen-Bornemisza ❤️ Mauritshui
@@ -800,7 +800,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen/thyssen-bornem
 END:VEVENT
 BEGIN:VEVENT
 UID:6ef257dd07d8a67c@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261026
 SUMMARY:Cats – Koninklijk Theater Carré
@@ -817,7 +817,7 @@ URL:https://www.iamsterdam.com/uit/agenda/voorstellingen/theater-en-podium
 END:VEVENT
 BEGIN:VEVENT
 UID:cfa530c5b22a0c37-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:▶ Start: Hans en Grietje op de vlucht! – Opera2Day
@@ -831,7 +831,7 @@ URL:https://www.opera2day.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:cfa530c5b22a0c37-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:■ Laatste dag: Hans en Grietje op de vlucht! – Opera2Day
@@ -845,7 +845,7 @@ URL:https://www.opera2day.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:05bb86258ef23add-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:▶ Start: Van Gogh Museum: Whistler. Dandy en dwarsdenker
@@ -859,7 +859,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:05bb86258ef23add-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:■ Laatste dag: Van Gogh Museum: Whistler. Dandy en dwarsdenker
@@ -873,7 +873,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:72d9316627350b17-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:▶ Start: Drents Museum: Angkor: het mysterie van Cambodja
@@ -888,7 +888,7 @@ URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
 END:VEVENT
 BEGIN:VEVENT
 UID:72d9316627350b17-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:■ Laatste dag: Drents Museum: Angkor: het mysterie van Cambodja
@@ -903,7 +903,7 @@ URL:https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-camb
 END:VEVENT
 BEGIN:VEVENT
 UID:ee87c15bf6cf0187-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:▶ Start: Meeuw – Het Nationale Theater
@@ -922,7 +922,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:ee87c15bf6cf0187-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:■ Laatste dag: Meeuw – Het Nationale Theater
@@ -941,7 +941,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:210b47e38312ff06@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Ramblin' Roots 2026
@@ -955,7 +955,7 @@ URL:https://www.festivalinfo.nl/festival/35620/Ramblin-Roots/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:8c71247d2003ecf7-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:▶ Start: De Kopenhagen Trilogie – ITA
@@ -969,7 +969,7 @@ URL:https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie
 END:VEVENT
 BEGIN:VEVENT
 UID:8c71247d2003ecf7-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:■ Laatste dag: De Kopenhagen Trilogie – ITA
@@ -983,7 +983,7 @@ URL:https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie
 END:VEVENT
 BEGIN:VEVENT
 UID:94b6d569e3d1f41e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261026
 SUMMARY:Amsterdam Dance Event 2026
@@ -999,7 +999,7 @@ URL:https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750
 END:VEVENT
 BEGIN:VEVENT
 UID:5fad581168bf9e93-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:▶ Start: Blast a universe – NDT 2
@@ -1014,7 +1014,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
 END:VEVENT
 BEGIN:VEVENT
 UID:5fad581168bf9e93-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:■ Laatste dag: Blast a universe – NDT 2
@@ -1029,7 +1029,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/blast-a-universe/
 END:VEVENT
 BEGIN:VEVENT
 UID:2709f51345e82875@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
 SUMMARY:Left of the Dial 2026 – De Doelen e.a.
@@ -1043,7 +1043,7 @@ URL:https://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
 END:VEVENT
 BEGIN:VEVENT
 UID:17920016c65b9ac3-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:▶ Start: Minimal Series 2026-27 – Muziekgebouw aan 't IJ
@@ -1060,7 +1060,7 @@ URL:https://bachtrack.com/feature-minimalism-radicals-rhythms-dissent-muzi
 END:VEVENT
 BEGIN:VEVENT
 UID:17920016c65b9ac3-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:■ Laatste dag: Minimal Series 2026-27 – Muziekgebouw aan 't IJ
@@ -1077,7 +1077,7 @@ URL:https://bachtrack.com/feature-minimalism-radicals-rhythms-dissent-muzi
 END:VEVENT
 BEGIN:VEVENT
 UID:880f3ea30d70ea9f-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:▶ Start: Romeo en Julia – Theater Oostpool
@@ -1092,7 +1092,7 @@ URL:https://www.oostpool.nl/voorstellingen/romeo-en-julia/
 END:VEVENT
 BEGIN:VEVENT
 UID:880f3ea30d70ea9f-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:■ Laatste dag: Romeo en Julia – Theater Oostpool
@@ -1107,7 +1107,7 @@ URL:https://www.oostpool.nl/voorstellingen/romeo-en-julia/
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:▶ Start: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -1121,7 +1121,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -1135,7 +1135,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:50a5b57eeed4ec29-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:▶ Start: Beethoven! – Beethovenjaar in Het Concertgebouw
@@ -1150,7 +1150,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:50a5b57eeed4ec29-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:■ Laatste dag: Beethoven! – Beethovenjaar in Het Concertgebouw
@@ -1165,7 +1165,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:844e028ba02cbdf0@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261102
 SUMMARY:Tapis Rouge Frans Filmfestival 2026
@@ -1181,7 +1181,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
 END:VEVENT
 BEGIN:VEVENT
 UID:37945f1f8baf5c55@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261108
 SUMMARY:Cello Biënnale Amsterdam 2026
@@ -1195,7 +1195,7 @@ URL:https://www.bimhuis.nl/en/cello-biennale-amsterdam-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:eed13468a8b874b5@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261109
 SUMMARY:Imagine Film Festival 2026
@@ -1209,7 +1209,7 @@ URL:https://www.imaginefilmfestival.nl/en/category/articles/
 END:VEVENT
 BEGIN:VEVENT
 UID:7cbdf67ed020bdd7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
 SUMMARY:London Calling 2026
@@ -1223,7 +1223,7 @@ URL:https://www.paradiso.nl/en/program/london-calling/2851999
 END:VEVENT
 BEGIN:VEVENT
 UID:3647c548e7c8d839@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
 SUMMARY:PAN Amsterdam 2026
@@ -1238,7 +1238,7 @@ URL:https://www.pan.nl/media/panmedia/pressrelease/SavetheDatevoorPANAmste
 END:VEVENT
 BEGIN:VEVENT
 UID:af357a15e1b75ac9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261109
 SUMMARY:Wildlife Film Festival Rotterdam 2026
@@ -1254,7 +1254,7 @@ URL:https://rotterdamstyle.com/events-calendar/wildlife-film-festival-rott
 END:VEVENT
 BEGIN:VEVENT
 UID:df51ed356dfc6656-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:▶ Start: John Coltrane 100 – Het Concertgebouw
@@ -1269,7 +1269,7 @@ URL:https://www.concertgebouw.nl/en/coltrane
 END:VEVENT
 BEGIN:VEVENT
 UID:df51ed356dfc6656-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:■ Laatste dag: John Coltrane 100 – Het Concertgebouw
@@ -1284,7 +1284,7 @@ URL:https://www.concertgebouw.nl/en/coltrane
 END:VEVENT
 BEGIN:VEVENT
 UID:16702e84896bff76@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 SUMMARY:Le Guess Who? 2026
@@ -1298,7 +1298,7 @@ URL:https://www.festivalinfo.nl/festival/35545/Le-Guess-Who-/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:c08e38abfcc37c1f@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261123
 SUMMARY:De uren – ITA
@@ -1312,7 +1312,7 @@ URL:https://ita.nl/nl/voorstellingen/de-uren
 END:VEVENT
 BEGIN:VEVENT
 UID:7a55488586257bec-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:▶ Start: Frans Hals Museum: Hals-Rembrandt
@@ -1326,7 +1326,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
 END:VEVENT
 BEGIN:VEVENT
 UID:7a55488586257bec-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Frans Hals Museum: Hals-Rembrandt
@@ -1340,7 +1340,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/hals-rembrandt
 END:VEVENT
 BEGIN:VEVENT
 UID:7cf4b1144117d000@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Museumnacht Amsterdam (N8) 2026
@@ -1353,7 +1353,7 @@ URL:https://museumnacht.amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:26a9cdcce105df33@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261127
 SUMMARY:Johannes-Passion – Sasha Waltz / García-Alarcón
@@ -1368,7 +1368,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:0c582be104e3736a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261123
 SUMMARY:IDFA 2026
@@ -1381,7 +1381,7 @@ URL:https://festival.idfa.nl/en/idfa-2026-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:1d46f997e6eedf01-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:▶ Start: Uprising – community-opera
@@ -1395,7 +1395,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:1d46f997e6eedf01-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:■ Laatste dag: Uprising – community-opera
@@ -1409,7 +1409,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:cce3d129166121a4@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261205
 SUMMARY:The Incident – ITA
@@ -1423,7 +1423,7 @@ URL:https://ita.nl/en/ita-productions
 END:VEVENT
 BEGIN:VEVENT
 UID:ede21e3df956d7f2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261123
 SUMMARY:Amsterdam Art Week 2026
@@ -1439,7 +1439,7 @@ URL:https://www.dagjeweg.nl/activiteit/37942075/Amsterdam-Art-Week-keert-t
 END:VEVENT
 BEGIN:VEVENT
 UID:5446f52688fb93eb@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Amare 5 jaar – jubileumweekend met Residentie Orkest
@@ -1455,7 +1455,7 @@ URL:https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-j
 END:VEVENT
 BEGIN:VEVENT
 UID:c64157915fa6ae3e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261130
 SUMMARY:November Music 2026
@@ -1468,7 +1468,7 @@ URL:https://www.novembermusic.net
 END:VEVENT
 BEGIN:VEVENT
 UID:1323882eabbe5280@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Super-Sonic Jazz Festival 2026
@@ -1483,7 +1483,7 @@ URL:https://www.festivalinfo.nl/festival/36840/Super-Sonic-Jazz-Festival/2
 END:VEVENT
 BEGIN:VEVENT
 UID:4831cb52bc341ff2-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:▶ Start: Mefisto – Het Nationale Theater
@@ -1502,7 +1502,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:4831cb52bc341ff2-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:■ Laatste dag: Mefisto – Het Nationale Theater
@@ -1521,7 +1521,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b463b09d29ef20-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:▶ Start: Amsterdam Light Festival 2026-2027
@@ -1535,7 +1535,7 @@ URL:https://blog.wego.com/amsterdam-light-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b463b09d29ef20-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:■ Laatste dag: Amsterdam Light Festival 2026-2027
@@ -1549,7 +1549,7 @@ URL:https://blog.wego.com/amsterdam-light-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:122a76a2bde73bef@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261217
 SUMMARY:Charles Burnett-programma Eye 2026
@@ -1565,7 +1565,7 @@ URL:https://assets.eyefilm.nl/downloads/blocks/PBR2026-Jaarpersbericht-202
 END:VEVENT
 BEGIN:VEVENT
 UID:469bba1fd114d145@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Popronde Eindfeest 2026
@@ -1579,7 +1579,7 @@ URL:https://www.festivalinfo.nl/festival/36244/Popronde-Eindfeest/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5bef1850fde917b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261205
 SUMMARY:Concertgebouworkest: Der Silbersee & Vuurvogel (Iván Fischer)
@@ -1593,7 +1593,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:b4c0ac0354c624ae-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:▶ Start: Der fliegende Holländer – De Nationale Opera
@@ -1608,7 +1608,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:b4c0ac0354c624ae-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:■ Laatste dag: Der fliegende Holländer – De Nationale Opera
@@ -1623,7 +1623,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:1b3949fd1ccf7cb5-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:▶ Start: Wuthering Heights – ITA
@@ -1638,7 +1638,7 @@ URL:https://ita.nl/nl/voorstellingen/wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
 UID:1b3949fd1ccf7cb5-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:■ Laatste dag: Wuthering Heights – ITA
@@ -1653,7 +1653,7 @@ URL:https://ita.nl/nl/voorstellingen/wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
 UID:a83b58bac25adb1f@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Claudia de Breij – Oudejaarsconference 2026 – Carré
@@ -1669,7 +1669,7 @@ URL:https://www.cabaretinfo.nl/news/58477/Oudejaarsconference-dit-jaar-voo
 END:VEVENT
 BEGIN:VEVENT
 UID:c23f835c836f5c2b-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:▶ Start: Cinderella – Het Nationale Ballet
@@ -1683,7 +1683,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:c23f835c836f5c2b-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:■ Laatste dag: Cinderella – Het Nationale Ballet
@@ -1697,7 +1697,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:7848ec7305413269@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261214
 SUMMARY:Next to Normal – DeLaMar
@@ -1711,7 +1711,7 @@ URL:https://delamar.nl/voorstellingen/next-to-normal/
 END:VEVENT
 BEGIN:VEVENT
 UID:88aa98a1482ec80e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261212
 SUMMARY:Martha Argerich – Beethoven 1 met Rotterdams Philharmonisch
@@ -1728,7 +1728,7 @@ URL:https://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-martha
 END:VEVENT
 BEGIN:VEVENT
 UID:b921aa4a3de1f161@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20270104
 SUMMARY:40e Wereldkerstcircus – Koninklijk Theater Carré
@@ -1742,7 +1742,7 @@ URL:https://www.dagjeweg.nl/activiteit/37893384/40e-Wereldkerstcircus
 END:VEVENT
 BEGIN:VEVENT
 UID:83aaf86aae4d894d@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261222
 SUMMARY:Feestconcert Nederlands Philharmonisch Orkest
@@ -1758,7 +1758,7 @@ URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
 END:VEVENT
 BEGIN:VEVENT
 UID:5f6f5346d17f5c8a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Kerstmatinee Concertgebouworkest
@@ -1772,7 +1772,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:74761f6a10bcb2ff@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261231
 SUMMARY:Dolf Jansen – Schaamteloos (Oudejaarsconference 2026) – De Kle
@@ -1787,7 +1787,7 @@ URL:https://dolfjansen.com/schaamteloos/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d34f36e2d94d8df@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Voorheen Nacht van het Absurdisme 2026
@@ -1803,7 +1803,7 @@ URL:https://www.festivalinfo.nl/festival/37113/Voorheen-Nacht-van-het-Absu
 END:VEVENT
 BEGIN:VEVENT
 UID:e143f90227bf0efc@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Vrouwejaars – De Kleine Komedie
@@ -1818,7 +1818,7 @@ URL:https://www.cabaretinfo.nl/cabaret/voorstelling/469262/Vrouwejaars/De-
 END:VEVENT
 BEGIN:VEVENT
 UID:138a3aab3fa5be0c@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:PAN 2027 – Calefax
@@ -1831,7 +1831,7 @@ URL:https://calefax.nl/en/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:6cd7e81f8f875469@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270117
 SUMMARY:Micha Wertheim – voor iedereen – De Kleine Komedie
@@ -1845,7 +1845,7 @@ URL:https://www.theater.nl/amsterdam/de-kleine-komedie-amsterdam?date=1
 END:VEVENT
 BEGIN:VEVENT
 UID:26e1520c21ea3708@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270117
 SUMMARY:Eurosonic Noorderslag 2027
@@ -1861,7 +1861,7 @@ URL:https://www.festivalinfo.nl/news/58168/2027-datum-voor-ESNS-Eurosonic-
 END:VEVENT
 BEGIN:VEVENT
 UID:594e3ef3682ebdfb@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270118
 SUMMARY:Paradiso Korendagen 2027
@@ -1877,7 +1877,7 @@ URL:https://www.paradiso.nl/programma/paradiso-korendagen-2027---zaterdag/
 END:VEVENT
 BEGIN:VEVENT
 UID:3c8d6880dbb80c82@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270207
 SUMMARY:Salome (reprise) – De Nationale Opera
@@ -1891,7 +1891,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:fcbe686c5f0c2741@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270208
 SUMMARY:Vlieg Met Me Mee – DeLaMar
@@ -1905,7 +1905,7 @@ URL:https://delamar.nl/voorstellingen/vlieg-met-me-mee/
 END:VEVENT
 BEGIN:VEVENT
 UID:a28816e815f0604d-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:▶ Start: Assepoester – Nederlandse Reisopera
@@ -1918,7 +1918,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:a28816e815f0604d-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:■ Laatste dag: Assepoester – Nederlandse Reisopera
@@ -1931,7 +1931,7 @@ URL:https://www.reisopera.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:62a2009d45cbc6af@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Switch '27 – NDT 1 & NDT 2
@@ -1944,7 +1944,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/switch27/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9a3403755000a3b-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:▶ Start: Millennial II: BROWSER HISTORY X – Theater Oostpool
@@ -1958,7 +1958,7 @@ URL:https://www.oostpool.nl/voorstellingen/browser-history-x/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9a3403755000a3b-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:■ Laatste dag: Millennial II: BROWSER HISTORY X – Theater Oost
@@ -1973,7 +1973,7 @@ URL:https://www.oostpool.nl/voorstellingen/browser-history-x/
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc29bf0992f96c7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270208
 SUMMARY:IFFR 2027
@@ -1989,7 +1989,7 @@ URL:https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Condition
 END:VEVENT
 BEGIN:VEVENT
 UID:af8456f73c8f3986@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270130
 SUMMARY:Ihsane (Sidi Larbi Cherkaoui) – Holland Dance Festival in Amare
@@ -2003,7 +2003,7 @@ URL:https://www.holland-dance.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:5bc129cbf10c6c26@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Concertgebouworkest Annual Gala
@@ -2016,7 +2016,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:88ff336ae46cdcef@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Nacht van de Viool 2027
@@ -2030,7 +2030,7 @@ URL:https://www.festivalinfo.nl/festival/36499/Nacht-van-de-Viool/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:d99d86c9dbdf44b5@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:D.U.R.F. 2027
@@ -2044,7 +2044,7 @@ URL:https://www.tivolivredenburg.nl/agenda/22065781/d-u-r-f-30-01-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:02e12df30c6cb352-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:▶ Start: Kunstmuseum Den Haag: Future Fashion
@@ -2059,7 +2059,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/future-fashion
 END:VEVENT
 BEGIN:VEVENT
 UID:02e12df30c6cb352-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Future Fashion
@@ -2074,7 +2074,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/future-fashion
 END:VEVENT
 BEGIN:VEVENT
 UID:5b50fdbd2f2ddb9f@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:MidWinter Prog Festival 2027
@@ -2089,7 +2089,7 @@ URL:https://www.tivolivredenburg.nl/agenda/24238612/midwinter-prog-festiva
 END:VEVENT
 BEGIN:VEVENT
 UID:10d35c473bb1e4aa@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270224
 SUMMARY:Orfeo ed Euridice – De Nationale Opera
@@ -2103,7 +2103,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:d579e09b2364baa3@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270208
 SUMMARY:Der Ring ohne Worte – Nederlands Philharmonisch Orkest & Lorenzo
@@ -2120,7 +2120,7 @@ URL:https://cms.orkest.nl/media/documents/ONLINE_4920_NPO_brochure_26-27_c
 END:VEVENT
 BEGIN:VEVENT
 UID:57a05e2eabbce28c-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:▶ Start: Ballet Vibes – Junior Company Het Nationale Ballet
@@ -2136,7 +2136,7 @@ URL:https://www.operaballet.nl/en/dutch-national-ballet/2026-2027/ballet-v
 END:VEVENT
 BEGIN:VEVENT
 UID:57a05e2eabbce28c-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:■ Laatste dag: Ballet Vibes – Junior Company Het Nationale Bal
@@ -2153,7 +2153,7 @@ URL:https://www.operaballet.nl/en/dutch-national-ballet/2026-2027/ballet-v
 END:VEVENT
 BEGIN:VEVENT
 UID:823f6f3234ef176f-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:▶ Start: GONE – NDT 1
@@ -2167,7 +2167,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
 END:VEVENT
 BEGIN:VEVENT
 UID:823f6f3234ef176f-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:■ Laatste dag: GONE – NDT 1
@@ -2181,7 +2181,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/gone/
 END:VEVENT
 BEGIN:VEVENT
 UID:3880b2e1030af8c4-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:▶ Start: Foam: Yorgos Lanthimos – Photographs
@@ -2195,7 +2195,7 @@ URL:https://www.foam.org/nl/events/yorgos-lanthimos-photographs
 END:VEVENT
 BEGIN:VEVENT
 UID:3880b2e1030af8c4-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:■ Laatste dag: Foam: Yorgos Lanthimos – Photographs
@@ -2209,7 +2209,7 @@ URL:https://www.foam.org/nl/events/yorgos-lanthimos-photographs
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f3bdb8fbb2f316-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:▶ Start: Rijksmuseum: Drawing!
@@ -2225,7 +2225,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f3bdb8fbb2f316-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:■ Laatste dag: Rijksmuseum: Drawing!
@@ -2241,7 +2241,7 @@ URL:https://www.rijksmuseum.nl/en/press/press-releases/programme/story/pro
 END:VEVENT
 BEGIN:VEVENT
 UID:f90a1201f1ba69ee-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:▶ Start: Van Gogh Museum: Eva Gonzalès
@@ -2255,7 +2255,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:f90a1201f1ba69ee-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:■ Laatste dag: Van Gogh Museum: Eva Gonzalès
@@ -2269,7 +2269,7 @@ URL:https://www.webwire.com/ViewPressRel.asp?aId=359552
 END:VEVENT
 BEGIN:VEVENT
 UID:b18410146335fea9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270303
 SUMMARY:Prey – Het Nationale Ballet (nieuwe productie)
@@ -2283,7 +2283,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:915e103cea009dfe-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:▶ Start: Singer Laren: De Modernen. Van Matisse tot Bacon
@@ -2299,7 +2299,7 @@ URL:https://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bacon
 END:VEVENT
 BEGIN:VEVENT
 UID:915e103cea009dfe-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:■ Laatste dag: Singer Laren: De Modernen. Van Matisse tot Bacon
@@ -2315,7 +2315,7 @@ URL:https://www.singerlaren.nl/nl/agenda/de-modernen-van-matisse-tot-bacon
 END:VEVENT
 BEGIN:VEVENT
 UID:2df672ed8281a956@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270315
 SUMMARY:Titanique – DeLaMar
@@ -2329,7 +2329,7 @@ URL:https://delamar.nl/voorstellingen/titanique/
 END:VEVENT
 BEGIN:VEVENT
 UID:24c6ad7dd7ed8c02@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270314
 SUMMARY:Richard – ITA
@@ -2343,7 +2343,7 @@ URL:https://ita.nl/nl/voorstellingen/richard
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:▶ Start: Kunsthal Rotterdam: Monira Al Qadiri
@@ -2358,7 +2358,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Monira Al Qadiri
@@ -2373,7 +2373,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:732b8e63eae8a04b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270308
 SUMMARY:VOICES Rotterdam – De Doelen
@@ -2390,7 +2390,7 @@ URL:https://rotterdam.headliner.nl/item/het-nieuw-stadsfestival-voices-rot
 END:VEVENT
 BEGIN:VEVENT
 UID:15c9bfa6ce0c1451@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Scarlatti Festival – Muziekgebouw aan 't IJ
@@ -2405,7 +2405,7 @@ URL:https://www.muziekgebouw.nl/en/theme/scarlattifestival-xd7w
 END:VEVENT
 BEGIN:VEVENT
 UID:f58b0a33f0023d67-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:▶ Start: Mauritshuis: De Stier
@@ -2419,7 +2419,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:f58b0a33f0023d67-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:■ Laatste dag: Mauritshuis: De Stier
@@ -2433,7 +2433,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:710a58d821706472@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
 SUMMARY:New Tide Festival – Amare
@@ -2447,7 +2447,7 @@ URL:https://070online.nl/2026/10/14/amare-van-punkoperette-tot-jazz/
 END:VEVENT
 BEGIN:VEVENT
 UID:66d2582cc35548cf@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270314
 SUMMARY:Belcea Quartet: alle strijkkwartetten van Beethoven
@@ -2462,7 +2462,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf01be58a5110dd-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:▶ Start: Stedelijk Museum: Luc Tuymans – Silent Music
@@ -2476,7 +2476,7 @@ URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf01be58a5110dd-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:■ Laatste dag: Stedelijk Museum: Luc Tuymans – Silent Music
@@ -2490,7 +2490,7 @@ URL:https://www.davidzwirner.com/news/2026/luc-tuymans-silent-music
 END:VEVENT
 BEGIN:VEVENT
 UID:53097cd7ebe77721@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270328
 SUMMARY:Matthäus-Passion in Het Concertgebouw (Leusink en Koopman)
@@ -2507,7 +2507,7 @@ URL:https://www.music-opera.com/nl/concertgebouw-pays-bas-amsterdam/matth-
 END:VEVENT
 BEGIN:VEVENT
 UID:9ba6c455caf192db@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270322
 SUMMARY:Roze Filmdagen 2027
@@ -2521,7 +2521,7 @@ URL:https://rozefilmdagen.nl/en
 END:VEVENT
 BEGIN:VEVENT
 UID:acccbdaf3113518b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270315
 SUMMARY:Beethovens Missa solemnis – Mäkelä
@@ -2535,7 +2535,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:fcae22dd84cce3e4@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270322
 SUMMARY:Kaboom Animation Festival 2027
@@ -2552,7 +2552,7 @@ URL:https://www.zippyframes.com/festivals/next-festivals/kaboom-animation-
 END:VEVENT
 BEGIN:VEVENT
 UID:df0a6dfc04eab759-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:▶ Start: H'ART Museum: Feminine Power (met British Museum) (datu
@@ -2570,7 +2570,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:df0a6dfc04eab759-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:■ Laatste dag: H'ART Museum: Feminine Power (met British Museum)
@@ -2588,7 +2588,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:089f1c19f547b42b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270324
 SUMMARY:Matthäus-Passion Nederlandse Bachvereniging – tournee
@@ -2604,7 +2604,7 @@ URL:https://www.bachvereniging.nl/nl/matthaus-passion-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:3ea6e39ede7baa36@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270329
 SUMMARY:Opera Forward Festival 2027
@@ -2619,7 +2619,7 @@ URL:https://www.operaballet.nl/en/opera/dutch-national-opera/off
 END:VEVENT
 BEGIN:VEVENT
 UID:5150ce0413e4ef47@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270329
 SUMMARY:Red Fox (Du Yun / Barrie Kosky) – wereldpremière
@@ -2633,7 +2633,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:bb56cf6f7cdb04b7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270319
 SUMMARY:TEFAF Maastricht 2027
@@ -2647,7 +2647,7 @@ URL:https://www.expolista.com/tradeshows/tefaf-maastricht/2027
 END:VEVENT
 BEGIN:VEVENT
 UID:72c7fed0c7803ff0-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:▶ Start: The Nether – Theater Oostpool
@@ -2661,7 +2661,7 @@ URL:https://www.oostpool.nl/voorstellingen/the-nether/
 END:VEVENT
 BEGIN:VEVENT
 UID:72c7fed0c7803ff0-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:■ Laatste dag: The Nether – Theater Oostpool
@@ -2675,7 +2675,7 @@ URL:https://www.oostpool.nl/voorstellingen/the-nether/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d6b303c92ecc43c@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Transition Festival 2027
@@ -2690,7 +2690,7 @@ URL:https://www.tivolivredenburg.nl/agenda/72591723/transition-festival-20
 END:VEVENT
 BEGIN:VEVENT
 UID:6d00093a7f89be9a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Utrecht Blues Festival 2027
@@ -2705,7 +2705,7 @@ URL:https://www.tivolivredenburg.nl/agenda/16670607/utrecht-blues-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:b695beadc5883aa7-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:▶ Start: A poem for the world – NDT 2
@@ -2719,7 +2719,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:b695beadc5883aa7-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:■ Laatste dag: A poem for the world – NDT 2
@@ -2733,7 +2733,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/a-poem-for-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:2738d3c2b92d0652@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270327
 SUMMARY:Cement 2027
@@ -2747,7 +2747,7 @@ URL:https://www.festivalcement.nl/festivalinfo
 END:VEVENT
 BEGIN:VEVENT
 UID:5b62ae39a81d65ff@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270405
 SUMMARY:Prophet Song – ITA
@@ -2761,7 +2761,7 @@ URL:https://ita.nl/nl/voorstellingen/prophet-song
 END:VEVENT
 BEGIN:VEVENT
 UID:e4dcd81b723c7627@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 SUMMARY:Unseen 2027 (datum o.v.)
@@ -2778,7 +2778,7 @@ URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
 END:VEVENT
 BEGIN:VEVENT
 UID:98360cc12cabc9b9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 SUMMARY:Art Rotterdam 2027
@@ -2792,7 +2792,7 @@ URL:https://artrotterdam.com/en/practical-information
 END:VEVENT
 BEGIN:VEVENT
 UID:190524a0e42816f4@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270326
 SUMMARY:Hedda Gabler (Vasco Mendonça) – De Nationale Opera / Opera Forw
@@ -2811,7 +2811,7 @@ URL:https://operawire.com/corinne-winters-ryan-speedo-green-federica-lomba
 END:VEVENT
 BEGIN:VEVENT
 UID:6b82fca57a30320e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 SUMMARY:Matthäus-Passion Concertgebouworkest
@@ -2825,7 +2825,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:e15e5d4b0c19fdd0@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270328
 SUMMARY:Movies that Matter Festival 2027
@@ -2840,7 +2840,7 @@ URL:https://moviesthatmatter.nl/en/agenda/movies-that-matter-festival-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:▶ Start: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -2854,7 +2854,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -2868,7 +2868,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:2676e1e071c2edbd-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:▶ Start: Museum Voorlinden: Olafur Eliasson
@@ -2882,7 +2882,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:2676e1e071c2edbd-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:■ Laatste dag: Museum Voorlinden: Olafur Eliasson
@@ -2896,7 +2896,7 @@ URL:https://www.voorlinden.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:cffc0ab0e5255fe6@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Protestfest 2027
@@ -2911,7 +2911,7 @@ URL:https://www.festivalinfo.nl/festival/36502/Protestfest/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:f57003269815f112-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:▶ Start: Richard III – Het Nationale Theater
@@ -2930,7 +2930,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:f57003269815f112-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:■ Laatste dag: Richard III – Het Nationale Theater
@@ -2949,7 +2949,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:5169beb3b021a87d@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270328
 SUMMARY:Matthäus-Passion Nederlandse Bachvereniging in Naarden
@@ -2964,7 +2964,7 @@ URL:https://www.bachvereniging.nl/nl/matthaus-passion-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:3eb3a1defdb40ddf@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270329
 SUMMARY:Cinedans FEST 2027 (datum o.v.)
@@ -2980,7 +2980,7 @@ URL:https://www.festivalfinder.eu/festivals/cinedans-fest-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:38864ad4827a8e04-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:▶ Start: The Bodyguard – DeLaMar
@@ -2994,7 +2994,7 @@ URL:https://delamar.nl/voorstellingen/the-bodyguard/
 END:VEVENT
 BEGIN:VEVENT
 UID:38864ad4827a8e04-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:■ Laatste dag: The Bodyguard – DeLaMar
@@ -3008,7 +3008,7 @@ URL:https://delamar.nl/voorstellingen/the-bodyguard/
 END:VEVENT
 BEGIN:VEVENT
 UID:eee0157f26d4c430-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:▶ Start: Frans Hals Museum: Oesters & citroenen
@@ -3023,7 +3023,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/oesters-en-citroenen
 END:VEVENT
 BEGIN:VEVENT
 UID:eee0157f26d4c430-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:■ Laatste dag: Frans Hals Museum: Oesters & citroenen
@@ -3038,7 +3038,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/oesters-en-citroenen
 END:VEVENT
 BEGIN:VEVENT
 UID:89bee694ce31dddb@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270329
 SUMMARY:Paaspop 2027
@@ -3052,7 +3052,7 @@ URL:https://www.festivalinfo.nl/festival/36262/Paaspop-Schijndel/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:b1f974476b336d8a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Seizoenspresentatie Het Concertgebouw 2027-2028 (datum o.v.)
@@ -3067,7 +3067,7 @@ URL:https://www.concertgebouw.nl/en/press
 END:VEVENT
 BEGIN:VEVENT
 UID:2f9628aa68f468e0@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270405
 SUMMARY:Metamorphosis – Het Nationale Ballet
@@ -3081,7 +3081,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:9d77eef93a3f8982-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:▶ Start: Stedelijk Museum: Ibrahim Mahama – Zilijifa
@@ -3096,7 +3096,7 @@ URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d77eef93a3f8982-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:■ Laatste dag: Stedelijk Museum: Ibrahim Mahama – Zilijifa
@@ -3111,7 +3111,7 @@ URL:https://artotel.com/en/newsfeed/amsterdam-2026-a-curated-art-calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:7f4e3f6211db3989-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:▶ Start: CATS – DeLaMar
@@ -3127,7 +3127,7 @@ URL:https://www.musicalweb.nl/cats-keert-in-voorjaar-2027-terug-naar-amste
 END:VEVENT
 BEGIN:VEVENT
 UID:7f4e3f6211db3989-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:■ Laatste dag: CATS – DeLaMar
@@ -3143,7 +3143,7 @@ URL:https://www.musicalweb.nl/cats-keert-in-voorjaar-2027-terug-naar-amste
 END:VEVENT
 BEGIN:VEVENT
 UID:c5956890faf31fed-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:▶ Start: Big Pharma – Het Nationale Theater
@@ -3162,7 +3162,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:c5956890faf31fed-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
 SUMMARY:■ Laatste dag: Big Pharma – Het Nationale Theater
@@ -3181,7 +3181,7 @@ URL:https://persportaal.anp.nl/artikel/ca0aee14-0e54-49f9-87f4-ed6b3f0572d
 END:VEVENT
 BEGIN:VEVENT
 UID:6edc221aa9c1f010@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270412
 SUMMARY:Go Short 2027
@@ -3194,7 +3194,7 @@ URL:https://www.goshort.nl/en/calendar-of-the-year
 END:VEVENT
 BEGIN:VEVENT
 UID:b630fac43515ad07@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270412
 SUMMARY:CinemAsia Film Festival 2027 (datum o.v.)
@@ -3210,7 +3210,7 @@ URL:https://www.eyefilm.nl/en/programme/cinemasia-2026/1594110
 END:VEVENT
 BEGIN:VEVENT
 UID:225f9db61db9986b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270426
 SUMMARY:De Architect – ITA
@@ -3224,7 +3224,7 @@ URL:https://ita.nl/nl/voorstellingen/de-architect
 END:VEVENT
 BEGIN:VEVENT
 UID:3dd07576b1e9f5b2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
 SUMMARY:Feldman Special – Muziekgebouw aan 't IJ
@@ -3238,7 +3238,7 @@ URL:https://www.muziekgebouw.nl/en/themes/festivals-en-specials-5q6n
 END:VEVENT
 BEGIN:VEVENT
 UID:95468e50c5c74572@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270419
 SUMMARY:Amsterdam Spanish Film Festival 2027 (datum o.v.)
@@ -3253,7 +3253,7 @@ URL:https://amsterdamspanishfilmfestival.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:64bccfdb69c78756@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:High Tea Indoor Festeaval 2027
@@ -3268,7 +3268,7 @@ URL:https://www.melkweg.nl/nl/agenda/high-tea-indoor-festeaval-2027-10-04-
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1db4d50e030c45-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:▶ Start: Impressions de Pelléas – DNO / Reisopera
@@ -3282,7 +3282,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1db4d50e030c45-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:■ Laatste dag: Impressions de Pelléas – DNO / Reisopera
@@ -3296,7 +3296,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:12cd42c514a535d0@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270414
 SUMMARY:Janine's Beethoven: alle vioolsonates met Denis Kozhukhin
@@ -3310,7 +3310,7 @@ URL:https://www.concertgebouw.nl/beethoven
 END:VEVENT
 BEGIN:VEVENT
 UID:fed4710657faeeb2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Sencity Festival 2027 (datum o.v.)
@@ -3325,7 +3325,7 @@ URL:https://www.festivalinfo.nl/festival/36448/Sencity-Festival/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:10082ca09050c50d@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270503
 SUMMARY:Iolanta – De Nationale Opera
@@ -3339,7 +3339,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:ea76287d0c0c5e61@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:Stravinsky's Sacre in de Gashouder
@@ -3353,7 +3353,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -3367,7 +3367,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -3381,7 +3381,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:94c5dea9c5be1636-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:▶ Start: De Nieuwe Kerk: World Press Photo Exhibition 2027 (datu
@@ -3398,7 +3398,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:94c5dea9c5be1636-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271024
 DTEND;VALUE=DATE:20271025
 SUMMARY:■ Laatste dag: De Nieuwe Kerk: World Press Photo Exhibition 2027
@@ -3415,7 +3415,7 @@ URL:https://www.nieuwekerk.nl/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:2628c006af950f16@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:Koningsdag 2027
@@ -3428,7 +3428,7 @@ URL:https://www.iamsterdam.com
 END:VEVENT
 BEGIN:VEVENT
 UID:aa656c61c804eda3@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270502
 SUMMARY:Beethoven Special: alle pianotrio's (Queyras\, Faust\, Melnikov) 
@@ -3444,7 +3444,7 @@ URL:https://www.muziekgebouw.nl/en/theme/beethoven-special-183t
 END:VEVENT
 BEGIN:VEVENT
 UID:80ed83bc36b1454d@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:Bevrijdingsfestivals 2027
@@ -3457,7 +3457,7 @@ URL:https://www.4en5mei.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:ab26c529b0c2af19@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270518
 SUMMARY:101 Dalmatiërs\, de Musical – DeLaMar
@@ -3471,7 +3471,7 @@ URL:https://delamar.nl/voorstellingen/101-dalmatiers-de-musical/
 END:VEVENT
 BEGIN:VEVENT
 UID:8916c1b18534dd8c-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:▶ Start: Norma – De Nationale Opera
@@ -3485,7 +3485,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:8916c1b18534dd8c-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:■ Laatste dag: Norma – De Nationale Opera
@@ -3499,7 +3499,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:ca1649b3754b3a08-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:▶ Start: Everywhere is here – NDT 1
@@ -3513,7 +3513,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
 END:VEVENT
 BEGIN:VEVENT
 UID:ca1649b3754b3a08-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:■ Laatste dag: Everywhere is here – NDT 1
@@ -3527,7 +3527,7 @@ URL:https://www.ndt.nl/nl/bezoek/26-27/everywhere-is-here/
 END:VEVENT
 BEGIN:VEVENT
 UID:2b2bb7ff9945cc79@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270523
 SUMMARY:SPRING Performing Arts Festival 2027
@@ -3543,7 +3543,7 @@ URL:https://springutrecht.nl/en/press-release-spring-performing-arts-festi
 END:VEVENT
 BEGIN:VEVENT
 UID:f325d866f90c31f9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270524
 SUMMARY:O. Festival (voorheen Operadagen Rotterdam) 2027
@@ -3557,7 +3557,7 @@ URL:https://o-festival.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:6a6dd8a0a00f99cb-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:▶ Start: Stedelijk Museum: Becoming Marc Chagall
@@ -3572,7 +3572,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:6a6dd8a0a00f99cb-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:■ Laatste dag: Stedelijk Museum: Becoming Marc Chagall
@@ -3587,7 +3587,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:b2806c1d167817ae@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270531
 SUMMARY:Prima Facie – ITA
@@ -3601,7 +3601,7 @@ URL:https://ita.nl/nl/voorstellingen/prima-facie
 END:VEVENT
 BEGIN:VEVENT
 UID:d4fb5f99f4f48d5e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270531
 SUMMARY:Oranjewoud Festival 2027
@@ -3615,7 +3615,7 @@ URL:https://www.oranjewoudfestival.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:23fae5aa330e2158@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:Grigory Sokolov – recital (datum o.v.)
@@ -3632,7 +3632,7 @@ URL:https://events.musicofourdesire.com/event/quci-grigori-sokolov-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:a77c4c5203c365ad@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270606
 SUMMARY:Champion (Terence Blanchard) – Holland Festival 2027 (datum o.v.
@@ -3651,7 +3651,7 @@ URL:https://www.eventbranche.nl/nieuws/holland-festival-opent-80e-editie-m
 END:VEVENT
 BEGIN:VEVENT
 UID:091fc8b0c5bff276-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
 SUMMARY:▶ Start: Holland Festival 2027 (80e editie)
@@ -3665,7 +3665,7 @@ URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:091fc8b0c5bff276-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:■ Laatste dag: Holland Festival 2027 (80e editie)
@@ -3679,7 +3679,7 @@ URL:https://www.hollandfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:ed1ccaddf4215cd2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270609
 SUMMARY:Leiden Shorts 2027
@@ -3693,7 +3693,7 @@ URL:https://filmfreeway.com/festivals/22584
 END:VEVENT
 BEGIN:VEVENT
 UID:aca34a731e75a5e3@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270607
 SUMMARY:Amsterdam Open Air 2027
@@ -3706,7 +3706,7 @@ URL:https://www.amsterdamopenair.nl/en
 END:VEVENT
 BEGIN:VEVENT
 UID:404c881b6b0612fc@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:Grigory Sokolov – recital (Pianistenserie)
@@ -3720,7 +3720,7 @@ URL:https://bachtrack.com/22/291/view/439499
 END:VEVENT
 BEGIN:VEVENT
 UID:5cdd431facfa5b88@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
 SUMMARY:Yuja Wang – Brahms pianoconcerten 1 & 2 met Mahler Chamber Orche
@@ -3737,7 +3737,7 @@ URL:https://www.concertgebouw.nl/en/concerts/39937297-yuja-wang-performs-b
 END:VEVENT
 BEGIN:VEVENT
 UID:37a5520d32c791bd@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270628
 SUMMARY:La damnation de Faust – De Nationale Opera & Concertgebouworkest
@@ -3752,7 +3752,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/opera
 END:VEVENT
 BEGIN:VEVENT
 UID:9b0bd31586292219@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270614
 SUMMARY:Rotterdam Arab Film Festival 2027
@@ -3766,7 +3766,7 @@ URL:https://www.arabfilmfestival.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:c327fe838e8688ea@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270614
 SUMMARY:Best Kept Secret 2027
@@ -3780,7 +3780,7 @@ URL:https://www.bestkeptsecret.nl/news/best-kept-secret-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:a02cb1877755097e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270621
 SUMMARY:Oerol 2027
@@ -3793,7 +3793,7 @@ URL:https://oerol.nl/en/faq/
 END:VEVENT
 BEGIN:VEVENT
 UID:0368b7d827460202@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270624
 SUMMARY:PLAY – Alexander Ekman / Het Nationale Ballet
@@ -3807,7 +3807,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:a2317dceacbd0ddb-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:▶ Start: Singer Laren: Jan Hendrik Weissenbruch – Hollands lic
@@ -3822,7 +3822,7 @@ URL:https://museumtijdschrift.nl/artspot/singer-laren-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:a2317dceacbd0ddb-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 SUMMARY:■ Laatste dag: Singer Laren: Jan Hendrik Weissenbruch – Hollan
@@ -3837,7 +3837,7 @@ URL:https://museumtijdschrift.nl/artspot/singer-laren-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:53720bdd1a32540b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Pinkpop 2027
@@ -3851,7 +3851,7 @@ URL:https://www.festivalinfo.nl/festival/37229/Pinkpop/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:92834948240ef137-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
 SUMMARY:▶ Start: Hadestown – Koninklijk Theater Carré
@@ -3866,7 +3866,7 @@ URL:https://www.musicaljournaal.nl/kaartverkoop-hadestown-start-27-augustu
 END:VEVENT
 BEGIN:VEVENT
 UID:92834948240ef137-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:■ Laatste dag: Hadestown – Koninklijk Theater Carré
@@ -3881,7 +3881,7 @@ URL:https://www.musicaljournaal.nl/kaartverkoop-hadestown-start-27-augustu
 END:VEVENT
 BEGIN:VEVENT
 UID:fa6552232b567f61@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 SUMMARY:Gala Het Nationale Ballet 2027
@@ -3894,7 +3894,7 @@ URL:https://www.operaballet.nl/en/program/season-26-27/ballet
 END:VEVENT
 BEGIN:VEVENT
 UID:f133e688cf3e7f3a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:Amsterdam Roots Festival 2027 (datum o.v.)
@@ -3910,7 +3910,7 @@ URL:https://www.festivalinfo.nl/festival/36269/Amsterdam-Roots-Festival/20
 END:VEVENT
 BEGIN:VEVENT
 UID:e63a59518538ef30-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:▶ Start: VriendenLoterij ZomerConcerten 2027 (datum o.v.)
@@ -3926,7 +3926,7 @@ URL:https://www.concertgebouw.nl/en/summerconcerts
 END:VEVENT
 BEGIN:VEVENT
 UID:e63a59518538ef30-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
 SUMMARY:■ Laatste dag: VriendenLoterij ZomerConcerten 2027 (datum o.v.)
@@ -3942,7 +3942,7 @@ URL:https://www.concertgebouw.nl/en/summerconcerts
 END:VEVENT
 BEGIN:VEVENT
 UID:651c508263e5e568@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270714
 SUMMARY:Julidans 2027 (datum o.v.)
@@ -3957,7 +3957,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/julidans
 END:VEVENT
 BEGIN:VEVENT
 UID:10c100acf53dd509@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 SUMMARY:Keti Koti Festival 2027
@@ -3972,7 +3972,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/keti-koti-festi
 END:VEVENT
 BEGIN:VEVENT
 UID:898ee4adcc2c2cd2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:Down the Rabbit Hole 2027
@@ -3988,7 +3988,7 @@ URL:https://www.festivalinfo.nl/news/59123/Down-The-Rabbit-Hole-maakt-datu
 END:VEVENT
 BEGIN:VEVENT
 UID:50359017e91f160f@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:International Conducting Competition Rotterdam 2027 – live selec
@@ -4005,7 +4005,7 @@ URL:https://theviolinchannel.com/applications-open-to-international-conduc
 END:VEVENT
 BEGIN:VEVENT
 UID:7fd3f51b32c77af9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270712
 SUMMARY:North Sea Jazz Festival 2027
@@ -4020,7 +4020,7 @@ URL:https://www.northseajazz.com/en/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:612afd25db8d4ca6@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270712
 SUMMARY:Wonderfeel 2027
@@ -4033,7 +4033,7 @@ URL:https://www.wonderfeel.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:916d6e5acb4bfa55@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270726
 SUMMARY:Dolly Dots de Musical – DeLaMar
@@ -4047,7 +4047,7 @@ URL:https://delamar.nl/voorstellingen/dolly-dots-de-musical/
 END:VEVENT
 BEGIN:VEVENT
 UID:2f45bbc0815ebf26@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270809
 SUMMARY:De Parade 2027 (datum o.v.)
@@ -4064,7 +4064,7 @@ URL:https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/theat
 END:VEVENT
 BEGIN:VEVENT
 UID:b1b49339b6846e89@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270803
 SUMMARY:Dekmantel Festival 2027
@@ -4078,7 +4078,7 @@ URL:https://dekmantel.com/events/dekmantel-festival-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:b98651c704fe30f7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270801
 SUMMARY:Rotterdam Unlimited 2027
@@ -4091,7 +4091,7 @@ URL:https://rotterdamunlimited.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:b963027dcce3485b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270809
 SUMMARY:Pride Amsterdam 2027
@@ -4104,7 +4104,7 @@ URL:https://pride.amsterdam/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:e27707f1e88fe02b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270816
 SUMMARY:Theaterfestival Boulevard 2027
@@ -4119,7 +4119,7 @@ URL:https://www.festivalboulevard.nl/en/news/boulevard-returns-with-120-pe
 END:VEVENT
 BEGIN:VEVENT
 UID:8ab1e425a8faba2a@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270823
 SUMMARY:Grachtenfestival 2027
@@ -4133,7 +4133,7 @@ URL:https://www.grachtenfestival.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:d0b88f327b8714e3@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270830
 SUMMARY:Noorderzon 2027
@@ -4148,7 +4148,7 @@ URL:https://www.noorderzon.nl/en/news/reimagined-noorderzon-2026-attracts-
 END:VEVENT
 BEGIN:VEVENT
 UID:95f347b4bd756fb6@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270823
 SUMMARY:Lowlands 2027
@@ -4163,7 +4163,7 @@ URL:https://www.festivalinfo.nl/news/59232/Organisatie-onthult-datums-voor
 END:VEVENT
 BEGIN:VEVENT
 UID:fa30020255f72025@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:Prinsengrachtconcert 2027
@@ -4176,7 +4176,7 @@ URL:https://prinsengrachtconcert.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:f3ec0e13f75b1df2@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270830
 SUMMARY:De Opening 2027 (opvolger Uitmarkt) (datum o.v.)
@@ -4194,7 +4194,7 @@ URL:https://www.festivalinfo.nl/news/53328/Uitmarkt-in-Amsterdam-wordt-De-
 END:VEVENT
 BEGIN:VEVENT
 UID:f5957adc1157c097@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270906
 SUMMARY:Festival Oude Muziek Utrecht 2027 – Humanisten
@@ -4208,7 +4208,7 @@ URL:https://oudemuziek.nl/en/festival/future/
 END:VEVENT
 BEGIN:VEVENT
 UID:537bb506715a2e8d@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270913
 SUMMARY:Amsterdam Fringe Festival 2027
@@ -4222,7 +4222,7 @@ URL:https://amsterdamfringefestival.nl/en/home-eng/
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e403a44e4e4922@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270906
 SUMMARY:Into the Great Wide Open 2027
@@ -4236,7 +4236,7 @@ URL:https://intothegreatwideopen.nl/en/nieuws/terugblik-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:8b10779a2f19c0f0@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270913
 SUMMARY:Nederlands Theaterfestival 2027
@@ -4249,7 +4249,7 @@ URL:https://tf.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:ab5ab22d3d30a828@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:Concertgebouw OPEN 2027 (datum o.v.)
@@ -4264,7 +4264,7 @@ URL:https://www.concertgebouw.nl/en/press
 END:VEVENT
 BEGIN:VEVENT
 UID:45f39ada012daec8@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:Seizoensopening De Nationale Opera 2027-2028 (datum o.v.)
@@ -4278,7 +4278,7 @@ URL:https://www.operaballet.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:36ec975a526bbd06@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
 SUMMARY:Seizoensopening Het Concertgebouw 2027-2028 (datum o.v.)
@@ -4293,7 +4293,7 @@ URL:https://www.concertgebouw.nl/en/press
 END:VEVENT
 BEGIN:VEVENT
 UID:b5522be3e9f4ddc7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270913
 SUMMARY:Delft Chamber Music Festival 2027 (datum o.v.)
@@ -4309,7 +4309,7 @@ URL:https://www.delft.com/en/uitagenda/uitagenda/4170890544/delft-chamber-
 END:VEVENT
 BEGIN:VEVENT
 UID:5c11d028dcb64236@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270920
 SUMMARY:Film by the Sea 2027
@@ -4322,7 +4322,7 @@ URL:https://www.filmbythesea.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:0424862fbf3b1b9e-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:▶ Start: Kunstmuseum Den Haag: Mondriaans laatste meesterwerken 
@@ -4339,7 +4339,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/mondriaans-laatste-mee
 END:VEVENT
 BEGIN:VEVENT
 UID:0424862fbf3b1b9e-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280130
 DTEND;VALUE=DATE:20280131
 SUMMARY:■ Laatste dag: Kunstmuseum Den Haag: Mondriaans laatste meesterw
@@ -4356,7 +4356,7 @@ URL:https://www.kunstmuseum.nl/nl/tentoonstellingen/mondriaans-laatste-mee
 END:VEVENT
 BEGIN:VEVENT
 UID:f769046c9e876e9b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Opening Night Concertgebouworkest 2027 (Oosterpark) (datum o.v.)
@@ -4370,7 +4370,7 @@ URL:https://www.concertgebouworkest.nl/nl/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:e571d97d8cf98745@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Seizoensopening Rotterdams Philharmonisch Orkest 2027-2028 (datum 
@@ -4386,7 +4386,7 @@ URL:https://www.rotterdamsphilharmonisch.nl/en/agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:96d166c4b54dcc05-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:▶ Start: Mauritshuis: Samuel van Hoogstraten
@@ -4400,7 +4400,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:96d166c4b54dcc05-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280109
 DTEND;VALUE=DATE:20280110
 SUMMARY:■ Laatste dag: Mauritshuis: Samuel van Hoogstraten
@@ -4414,7 +4414,7 @@ URL:https://www.mauritshuis.nl/nu-te-doen/tentoonstellingen
 END:VEVENT
 BEGIN:VEVENT
 UID:289edfc20db74d77@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
 SUMMARY:Musica Sacra Maastricht 2027 (datum o.v.)
@@ -4431,7 +4431,7 @@ URL:https://www.theateraanhetvrijthof.nl/en/our-house/musica-sacra-maastri
 END:VEVENT
 BEGIN:VEVENT
 UID:af93c351bfd4689c-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:▶ Start: Stedelijk Museum: Cao Fei (datum o.v.)
@@ -4447,7 +4447,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:af93c351bfd4689c-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280116
 DTEND;VALUE=DATE:20280117
 SUMMARY:■ Laatste dag: Stedelijk Museum: Cao Fei (datum o.v.)
@@ -4463,7 +4463,7 @@ URL:https://www.stedelijk.nl/en/news/Annual%20Program%202026-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:7b29c4f06fd52e68@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270927
 SUMMARY:Camera Japan Rotterdam 2027
@@ -4477,7 +4477,7 @@ URL:https://camerajapan.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:f9afc5378fc8f064-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
 SUMMARY:▶ Start: Frans Hals Museum: Een gevoel van ongeveer
@@ -4492,7 +4492,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/een-gevoel-van-ongeveer
 END:VEVENT
 BEGIN:VEVENT
 UID:f9afc5378fc8f064-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280207
 SUMMARY:■ Laatste dag: Frans Hals Museum: Een gevoel van ongeveer
@@ -4507,7 +4507,7 @@ URL:https://franshalsmuseum.nl/nl/zien-en-doen/een-gevoel-van-ongeveer
 END:VEVENT
 BEGIN:VEVENT
 UID:7b65754572e62879@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20271002
 SUMMARY:Nederlands Film Festival 2027
@@ -4521,7 +4521,7 @@ URL:https://www.filmfestival.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:060c55a6de4dffbf-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:▶ Start: H'ART Museum: Surrealisme (met Centre Pompidou) (datum 
@@ -4540,7 +4540,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:060c55a6de4dffbf-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280228
 SUMMARY:■ Laatste dag: H'ART Museum: Surrealisme (met Centre Pompidou) (
@@ -4559,7 +4559,7 @@ URL:https://www.hermitage.nl/documents/305/NL_Persbericht___Programma_HART
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:▶ Start: Kunsthal Rotterdam: Luigi & Iango
@@ -4574,7 +4574,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280207
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Luigi & Iango
@@ -4589,7 +4589,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d27091700b27c10@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271004
 SUMMARY:Camera Japan Amsterdam 2027
@@ -4603,7 +4603,7 @@ URL:https://camerajapan.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9292d9c2f52e518@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271018
 SUMMARY:Leiden International Film Festival 2027 (datum o.v.)
@@ -4618,7 +4618,7 @@ URL:https://www.liff.nl/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:17ea6323a5cac905@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271025
 SUMMARY:Cinekid Festival 2027 (datum o.v.)
@@ -4634,7 +4634,7 @@ URL:https://www.kidsproof.nl/amsterdam/uitje/cinekid-festival-herfstvakant
 END:VEVENT
 BEGIN:VEVENT
 UID:e25b17f38f9be6e0@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271025
 SUMMARY:Amsterdam Dance Event 2027
@@ -4650,7 +4650,7 @@ URL:https://www.amsterdam-dance-event.nl/en/news/amsterdam-dance-event-con
 END:VEVENT
 BEGIN:VEVENT
 UID:850dbfb08bdb330b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271101
 SUMMARY:Tapis Rouge Frans Filmfestival 2027 (datum o.v.)
@@ -4667,7 +4667,7 @@ URL:https://www.iamsterdam.com/uit/agenda/festivals/events/tapis-rouge-fra
 END:VEVENT
 BEGIN:VEVENT
 UID:58caad50778e7beb@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271108
 SUMMARY:Imagine Film Festival 2027 (datum o.v.)
@@ -4682,7 +4682,7 @@ URL:https://www.imaginefilmfestival.nl/en/category/articles/
 END:VEVENT
 BEGIN:VEVENT
 UID:5f716d63b61bd912@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271031
 SUMMARY:London Calling 2027 (datum o.v.)
@@ -4697,7 +4697,7 @@ URL:https://www.paradiso.nl/en/program/london-calling/2851999
 END:VEVENT
 BEGIN:VEVENT
 UID:e878a2d30518a4da@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271106
 DTEND;VALUE=DATE:20271107
 SUMMARY:Museumnacht Amsterdam (N8) 2027 (datum o.v.)
@@ -4712,7 +4712,7 @@ URL:https://www.n8.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:b17e8075d92c5247@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271115
 SUMMARY:PAN Amsterdam 2027 (datum o.v.)
@@ -4727,7 +4727,7 @@ URL:https://www.pan.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:2866c0c3f82a4388@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271122
 SUMMARY:IDFA 2027 (datum o.v.)
@@ -4743,7 +4743,7 @@ URL:https://festival.idfa.nl
 END:VEVENT
 BEGIN:VEVENT
 UID:3b2010dc7a5aa225@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271115
 SUMMARY:Le Guess Who? 2027 (datum o.v.)
@@ -4758,7 +4758,7 @@ URL:https://leguesswho.com
 END:VEVENT
 BEGIN:VEVENT
 UID:04e7a9e2de91f5e6@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271122
 SUMMARY:Amsterdam Art Week 2027 (datum o.v.)
@@ -4773,7 +4773,7 @@ URL:https://amsterdamart.com
 END:VEVENT
 BEGIN:VEVENT
 UID:ee299416da3a8b86@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271119
 DTEND;VALUE=DATE:20271129
 SUMMARY:November Music 2027 (datum o.v.)
@@ -4788,7 +4788,7 @@ URL:https://novembermusic.net
 END:VEVENT
 BEGIN:VEVENT
 UID:05a3577dfdf904d4-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271126
 SUMMARY:▶ Start: Amsterdam Light Festival 2027-2028 (datum o.v.)
@@ -4803,7 +4803,7 @@ URL:https://amsterdamlightfestival.com
 END:VEVENT
 BEGIN:VEVENT
 UID:05a3577dfdf904d4-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280116
 DTEND;VALUE=DATE:20280117
 SUMMARY:■ Laatste dag: Amsterdam Light Festival 2027-2028 (datum o.v.)

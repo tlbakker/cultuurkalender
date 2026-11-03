@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:26b9fd394bff1302-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Marisol
@@ -25,7 +25,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:26b9fd394bff1302-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Marisol
@@ -41,7 +41,7 @@ URL:https://www.museum.nl/nl/het-depot-van-museum-boijmans-van-beuningen/t
 END:VEVENT
 BEGIN:VEVENT
 UID:2709f51345e82875@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
 SUMMARY:Left of the Dial 2026 – De Doelen e.a.
@@ -55,7 +55,7 @@ URL:https://www.dedoelen.nl/en/agenda/left-of-the-dial-2026-mv3f
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:▶ Start: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -69,7 +69,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:75d84604bd7e8c53-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Signac\, Symphony of Colours
@@ -83,7 +83,7 @@ URL:https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/
 END:VEVENT
 BEGIN:VEVENT
 UID:af357a15e1b75ac9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261109
 SUMMARY:Wildlife Film Festival Rotterdam 2026
@@ -99,7 +99,7 @@ URL:https://rotterdamstyle.com/events-calendar/wildlife-film-festival-rott
 END:VEVENT
 BEGIN:VEVENT
 UID:88aa98a1482ec80e@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261212
 SUMMARY:Martha Argerich – Beethoven 1 met Rotterdams Philharmonisch
@@ -116,7 +116,7 @@ URL:https://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-martha
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc29bf0992f96c7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270208
 SUMMARY:IFFR 2027
@@ -132,7 +132,7 @@ URL:https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Condition
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:▶ Start: Kunsthal Rotterdam: Monira Al Qadiri
@@ -147,7 +147,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac920b5fc72c5d65-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Monira Al Qadiri
@@ -162,7 +162,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:732b8e63eae8a04b@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270308
 SUMMARY:VOICES Rotterdam – De Doelen
@@ -179,7 +179,7 @@ URL:https://rotterdam.headliner.nl/item/het-nieuw-stadsfestival-voices-rot
 END:VEVENT
 BEGIN:VEVENT
 UID:e4dcd81b723c7627@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 SUMMARY:Unseen 2027 (datum o.v.)
@@ -196,7 +196,7 @@ URL:https://www.cantonfair.net/updated-information/unseen-amsterdam-2027-m
 END:VEVENT
 BEGIN:VEVENT
 UID:98360cc12cabc9b9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 SUMMARY:Art Rotterdam 2027
@@ -210,7 +210,7 @@ URL:https://artrotterdam.com/en/practical-information
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:▶ Start: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -224,7 +224,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e850956cbb71669-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Kinderen van hun tijd
@@ -238,7 +238,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:▶ Start: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -252,7 +252,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:7e901b3ac391668a-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:■ Laatste dag: Depot Boijmans Van Beuningen: Ernesto Neto
@@ -266,7 +266,7 @@ URL:https://www.boijmans.nl/en/exhibitions/ernestoneto
 END:VEVENT
 BEGIN:VEVENT
 UID:f325d866f90c31f9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270524
 SUMMARY:O. Festival (voorheen Operadagen Rotterdam) 2027
@@ -280,7 +280,7 @@ URL:https://o-festival.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:23fae5aa330e2158@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:Grigory Sokolov – recital (datum o.v.)
@@ -297,7 +297,7 @@ URL:https://events.musicofourdesire.com/event/quci-grigori-sokolov-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:9b0bd31586292219@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270614
 SUMMARY:Rotterdam Arab Film Festival 2027
@@ -311,7 +311,7 @@ URL:https://www.arabfilmfestival.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:50359017e91f160f@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:International Conducting Competition Rotterdam 2027 – live selec
@@ -328,7 +328,7 @@ URL:https://theviolinchannel.com/applications-open-to-international-conduc
 END:VEVENT
 BEGIN:VEVENT
 UID:7fd3f51b32c77af9@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270712
 SUMMARY:North Sea Jazz Festival 2027
@@ -343,7 +343,7 @@ URL:https://www.northseajazz.com/en/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:b98651c704fe30f7@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270801
 SUMMARY:Rotterdam Unlimited 2027
@@ -356,7 +356,7 @@ URL:https://rotterdamunlimited.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:e571d97d8cf98745@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Seizoensopening Rotterdams Philharmonisch Orkest 2027-2028 (datum 
@@ -372,7 +372,7 @@ URL:https://www.rotterdamsphilharmonisch.nl/en/agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:7b29c4f06fd52e68@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270927
 SUMMARY:Camera Japan Rotterdam 2027
@@ -386,7 +386,7 @@ URL:https://camerajapan.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:▶ Start: Kunsthal Rotterdam: Luigi & Iango
@@ -401,7 +401,7 @@ URL:https://kunsthal.nl/nl/nieuws/tentoonstellingen-om-naar-uit-te-kijken/
 END:VEVENT
 BEGIN:VEVENT
 UID:59d4e6f58cb428b1-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280207
 SUMMARY:■ Laatste dag: Kunsthal Rotterdam: Luigi & Iango

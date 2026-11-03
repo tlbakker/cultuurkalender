@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:5446f52688fb93eb@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Amare 5 jaar – jubileumweekend met Residentie Orkest
@@ -22,21 +22,5 @@ CATEGORIES:Dans,Festivals,Klassieke muziek
 TRANSP:TRANSPARENT
 URL:https://denhaag.com/nl/nieuws/amare-viert-5-jarig-jubileum-programma-j
  ubileumweekend-bekend
-END:VEVENT
-BEGIN:VEVENT
-UID:b5522be3e9f4ddc7@cultuurkalender
-DTSTAMP:20261103T094530Z
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270913
-SUMMARY:Delft Chamber Music Festival 2027 (datum o.v.)
-DESCRIPTION:Internationaal kamermuziekfestival in Delft eind juli.\nLet op
- : datum is een inschatting op basis van eerdere edities en nog niet bevest
- igd.\nLooptijd: 8 sep 2027 t/m 12 sep 2027.\nhttps://www.delft.com/en/uita
- genda/uitagenda/4170890544/delft-chamber-music-festival
-LOCATION:Museum Prinsenhof e.a.\, Delft
-CATEGORIES:Klassieke muziek,Festivals
-TRANSP:TRANSPARENT
-URL:https://www.delft.com/en/uitagenda/uitagenda/4170890544/delft-chamber-
- music-festival
 END:VEVENT
 END:VCALENDAR

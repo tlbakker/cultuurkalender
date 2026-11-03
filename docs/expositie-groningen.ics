@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:beeadb5b6bef2d65-start@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:▶ Start: Groninger Museum: The Architect & the Housewife
@@ -23,7 +23,7 @@ URL:https://www.groningermuseum.nl/nl-NL/the-architect-and-the-housewife
 END:VEVENT
 BEGIN:VEVENT
 UID:beeadb5b6bef2d65-eind@cultuurkalender
-DTSTAMP:20261103T094530Z
+DTSTAMP:20261103T095005Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:■ Laatste dag: Groninger Museum: The Architect & the Housewife
