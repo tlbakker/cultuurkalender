@@ -946,6 +946,20 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Martha Argerich – Beethoven 1 met Rotterdams Philharmonisch",
+  "start": "2026-12-10",
+  "end": "2026-12-11",
+  "genres": [
+   "pianisten",
+   "klassiek"
+  ],
+  "city": "Rotterdam",
+  "venue": "De Doelen, Grote Zaal",
+  "url": "https://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-martha-argerich",
+  "description": "Martha Argerich speelt Beethovens Eerste pianoconcert met het Rotterdams Philharmonisch Orkest o.l.v. Lahav Shani, na de pauze Bruckners Zesde symfonie (beide avonden 20:15).",
+  "confidence": "confirmed"
+ },
+ {
   "title": "40e Wereldkerstcircus – Koninklijk Theater Carré",
   "start": "2026-12-16",
   "end": "2027-01-03",
@@ -2258,6 +2272,20 @@
   "confidence": "confirmed"
  },
  {
+  "title": "Grigory Sokolov – recital",
+  "start": "2027-06-02",
+  "end": "2027-06-02",
+  "genres": [
+   "pianisten",
+   "klassiek"
+  ],
+  "city": "Rotterdam",
+  "venue": "De Doelen",
+  "url": "https://events.musicofourdesire.com/event/quci-grigori-sokolov-concert-rotterdam-netherlands",
+  "description": "Pianorecital van Grigory Sokolov in De Doelen; datum alleen op een aggregator-site gevonden, programma nog niet bekend.",
+  "confidence": "estimated"
+ },
+ {
   "title": "Champion (Terence Blanchard) – Holland Festival 2027",
   "start": "2027-06-03",
   "end": "2027-06-05",
@@ -2314,6 +2342,34 @@
   "venue": "Gaasperpark",
   "url": "https://www.amsterdamopenair.nl/en",
   "description": "Tweedaags dancefestival in het Gaasperpark.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Grigory Sokolov – recital (Pianistenserie)",
+  "start": "2027-06-06",
+  "end": "2027-06-06",
+  "genres": [
+   "pianisten",
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw, Grote Zaal",
+  "url": "https://bachtrack.com/22/291/view/439499",
+  "description": "Solorecital van Grigory Sokolov in de Pianistenserie van het Concertgebouw (20:15); programma wordt later bekendgemaakt.",
+  "confidence": "confirmed"
+ },
+ {
+  "title": "Yuja Wang – Brahms pianoconcerten 1 & 2 met Mahler Chamber Orchestra",
+  "start": "2027-06-08",
+  "end": "2027-06-08",
+  "genres": [
+   "pianisten",
+   "klassiek"
+  ],
+  "city": "Amsterdam",
+  "venue": "Het Concertgebouw, Grote Zaal",
+  "url": "https://www.concertgebouw.nl/en/concerts/39937297-yuja-wang-performs-brahms-piano-concertos-nos.-1-and-2",
+  "description": "Yuja Wang speelt en leidt vanaf de vleugel beide pianoconcerten van Brahms met het Mahler Chamber Orchestra (20:15).",
   "confidence": "confirmed"
  },
  {

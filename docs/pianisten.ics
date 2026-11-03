@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cultuurkalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cultuurkalender – Pianisten
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:88aa98a1482ec80e@cultuurkalender
+DTSTAMP:20261103T074913Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261212
+SUMMARY:Martha Argerich – Beethoven 1 met Rotterdams Philharmonisch
+DESCRIPTION:Martha Argerich speelt Beethovens Eerste pianoconcert met het 
+ Rotterdams Philharmonisch Orkest o.l.v. Lahav Shani\, na de pauze Bruckner
+ s Zesde symfonie (beide avonden 20:15).\nLooptijd: 10 dec 2026 t/m 11 dec 
+ 2026.\nhttps://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-mar
+ tha-argerich
+LOCATION:De Doelen\, Grote Zaal\, Rotterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.rotterdamsphilharmonisch.nl/en/agenda/beethoven-met-martha
+ -argerich
+END:VEVENT
+BEGIN:VEVENT
+UID:23fae5aa330e2158@cultuurkalender
+DTSTAMP:20261103T074913Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Grigory Sokolov – recital (datum o.v.)
+DESCRIPTION:Pianorecital van Grigory Sokolov in De Doelen\; datum alleen o
+ p een aggregator-site gevonden\, programma nog niet bekend.\nLet op: datum
+  is een inschatting op basis van eerdere edities en nog niet bevestigd.\nh
+ ttps://events.musicofourdesire.com/event/quci-grigori-sokolov-concert-rott
+ erdam-netherlands
+LOCATION:De Doelen\, Rotterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://events.musicofourdesire.com/event/quci-grigori-sokolov-concert
+ -rotterdam-netherlands
+END:VEVENT
+BEGIN:VEVENT
+UID:404c881b6b0612fc@cultuurkalender
+DTSTAMP:20261103T074913Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Grigory Sokolov – recital (Pianistenserie)
+DESCRIPTION:Solorecital van Grigory Sokolov in de Pianistenserie van het C
+ oncertgebouw (20:15)\; programma wordt later bekendgemaakt.\nhttps://bacht
+ rack.com/22/291/view/439499
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://bachtrack.com/22/291/view/439499
+END:VEVENT
+BEGIN:VEVENT
+UID:5cdd431facfa5b88@cultuurkalender
+DTSTAMP:20261103T074913Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Yuja Wang – Brahms pianoconcerten 1 & 2 met Mahler Chamber Orche
+ stra
+DESCRIPTION:Yuja Wang speelt en leidt vanaf de vleugel beide pianoconcerte
+ n van Brahms met het Mahler Chamber Orchestra (20:15).\nhttps://www.concer
+ tgebouw.nl/en/concerts/39937297-yuja-wang-performs-brahms-piano-concertos-
+ nos.-1-and-2
+LOCATION:Het Concertgebouw\, Grote Zaal\, Amsterdam
+CATEGORIES:Pianisten,Klassieke muziek
+TRANSP:TRANSPARENT
+URL:https://www.concertgebouw.nl/en/concerts/39937297-yuja-wang-performs-b
+ rahms-piano-concertos-nos.-1-and-2
+END:VEVENT
+END:VCALENDAR

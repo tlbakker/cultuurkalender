@@ -6,7 +6,7 @@ from pathlib import Path
 
 GENRES = {
     "klassiek": "Klassieke muziek", "pop": "Popmuziek", "theater": "Theater & musical", "dans": "Dans",
-    "opera": "Opera", "expositie": "Museumexposities", "festival": "Festivals", "film": "Film",
+    "opera": "Opera", "expositie": "Museumexposities", "festival": "Festivals", "film": "Film", "pianisten": "Pianisten",
 }
 LONG = 21  # langer dan dit: aparte start- en eindmarkering
 

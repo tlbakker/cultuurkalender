@@ -4,7 +4,7 @@ Grote culturele evenementen in en rond Amsterdam (festivals, premières, seizoen
 
 - Overzicht met filter per genre: https://tlbakker.github.io/cultuurkalender/
 - Alles: https://tlbakker.github.io/cultuurkalender/cultuur.ics
-- Per genre: `klassiek.ics`, `pop.ics`, `theater.ics`, `dans.ics`, `opera.ics`, `expositie.ics`, `festival.ics`, `film.ics`
+- Per genre: `klassiek.ics`, `pop.ics`, `theater.ics`, `dans.ics`, `opera.ics`, `expositie.ics`, `festival.ics`, `film.ics`, `pianisten.ics` (concerten van Argerich, Wang, Zimerman, Sokolov, Matsuev)
 
 ## Bijwerken
 
